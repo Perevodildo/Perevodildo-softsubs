@@ -1,0 +1,182 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: No
+PlayResX: 1440
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Verdana,50,&H00FFFFFF,&H0000FFFF,&H00331C00,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,10,10,120,1
+Style: Sign,Arial,45,&H00FFFFFF,&H0000FFFF,&H00000039,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,0,0,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.55,0:00:07.37,Default,,0,0,0,,The most precious moment in life is the time of decision.
+Dialogue: 0,0:00:07.37,0:00:19.93,Default,,0,0,0,,The Pacific War taught us the preciousness of peace, but it also leaves us with many lessons to live.
+Dialogue: 0,0:00:24.27,0:00:32.65,Default,,0,0,0,,Ketsudan (decision)
+Dialogue: 0,0:00:34.27,0:00:49.13,Default,,0,0,0,,Use your wisdom Use your head Keep thinking it you're a man
+Dialogue: 0,0:00:49.13,0:00:58.20,Default,,0,0,0,,Whether you cry or laugh, it depends on your decision
+Dialogue: 0,0:00:58.20,0:01:06.06,Default,,0,0,0,,Don't be arrogant even if you win Don't cry even if you lose
+Dialogue: 0,0:01:06.06,0:01:13.58,Default,,0,0,0,,Man does not show tears
+Dialogue: 0,0:01:28.58,0:01:35.24,Default,,0,0,0,,Tatsunoko Production
+Dialogue: 0,0:01:39.67,0:01:43.60,Default,,0,0,0,,> Air raid!
+Dialogue: 0,0:01:45.12,0:01:48.22,Default,,0,0,0,,> Start up.
+Dialogue: 0,0:02:07.02,0:02:13.19,Default,,0,0,0,,Rabaul Air Corps (Episode 15)
+Dialogue: 0,0:02:13.30,0:02:19.29,Default,,0,0,0,,> 50 aircraft passed over the First Observatory. New formations of 30 planes, then the goal.
+Dialogue: 0,0:02:20.67,0:02:24.80,Default,,0,0,0,,> There will be over 100 aircraft. > Damn, the number is increasing every day.
+Dialogue: 0,0:02:25.50,0:02:29.15,Default,,0,0,0,,> What about our planes? > Already less than half.
+Dialogue: 0,0:02:31.81,0:02:33.32,Default,,0,0,0,,> They are here.
+Dialogue: 0,0:02:41.32,0:02:49.67,Default,,0,0,0,,> Since the withdrawal from Guadalcanal Island, Rabaul Base on New Britain Island has been on the frontlines, protecting the southern resources.
+Dialogue: 0,0:02:49.67,0:03:02.08,Default,,0,0,0,,However, in the summer of 1943, the sea and air superiority around Rabaul had already been transferred from the Japanese army to the US army.
+Dialogue: 0,0:03:46.74,0:03:55.43,Default,,0,0,0,,The main target of the US military is to block the Japanese supply line. That is, to destroy supply ships.
+Dialogue: 0,0:03:56.87,0:04:00.56,Default,,0,0,0,,Due to their overwhelming quantity, the US military, conducting counter-offensive operations,
+Dialogue: 0,0:04:00.56,0:04:06.94,Default,,0,0,0,,launched air raids on Rabaul, the main point of the Japanese military's southern base, every day.
+Dialogue: 0,0:04:33.25,0:04:37.08,Default,,0,0,0,,<The 26th Air Squadron Command>
+Dialogue: 0,0:04:38.19,0:04:43.70,Default,,0,0,0,,> Commander. Is the Combined Fleet Command still stuck?
+Dialogue: 0,0:04:45.63,0:04:53.63,Default,,0,0,0,,> At the moment, it seems that they are not thinking about reinforcements for Rabaul. The Rabaul Air Corps should do its best as it is.
+Dialogue: 0,0:04:53.63,0:04:57.18,Default,,0,0,0,,>, It's over optimistic. > Hey, it's a terrible word.
+Dialogue: 0,0:04:57.91,0:05:03.77,Default,,0,0,0,,> However, the flight captain's reconnaissance aircraft report hundreds of planes
+Dialogue: 0,0:05:03.77,0:05:10.67,Default,,0,0,0,,have gathered at the airfield centered on Guadalcanal Island in New Guinea, and their attack power has been strengthened.
+Dialogue: 0,0:05:10.67,0:05:13.46,Default,,0,0,0,,Is it okay to leave them as is?
+Dialogue: 0,0:05:15.77,0:05:17.80,Default,,0,0,0,,> Aviation staff?
+Dialogue: 0,0:05:17.81,0:05:22.01,Default,,0,0,0,,> I will return to headquarters on Truck Island now. I would like to meet with the
+Dialogue: 0,0:05:22.01,0:05:26.60,Default,,0,0,0,,Commander-in-Chief of the Allied Fleet Koga in person and express my sense of urgency at the situation at Rabaul base.
+Dialogue: 0,0:05:26.60,0:05:32.43,Default,,0,0,0,,> It's late. It may be too late after the staff returns to Truck Island.
+Dialogue: 0,0:05:32.43,0:05:38.01,Default,,0,0,0,,Enemy MTFs and convoys frequently haunt the coast of Bougainville and the Coral Sea.
+Dialogue: 0,0:05:42.32,0:05:44.39,Default,,0,0,0,,> Look
+Dialogue: 0,0:05:51.01,0:05:56.43,Default,,0,0,0,,> Headquarters. This is the 305th Squadron. I discovered the enemy task force.
+Dialogue: 0,0:05:56.43,0:06:01.70,Default,,0,0,0,,Two aircraft carriers, two cruisers, and six destroyers are moving east-northeast in a circle.
+Dialogue: 0,0:06:02.87,0:06:09.08,Default,,0,0,0,,> Squad, looking at recent air raids and movement of enemy ships, the enemy is now planning to land on Bougainville or New Britain.
+Dialogue: 0,0:06:09.08,0:06:14.94,Default,,0,0,0,,> Let's strike them. If we don't hit them now, it will be a big deal. > Did you find the enemy?
+Dialogue: 0,0:06:14.94,0:06:17.91,Default,,0,0,0,,> It is a task force including the southern two aircraft carriers.
+Dialogue: 0,0:06:17.91,0:06:19.05,Default,,0,0,0,,> I see.
+Dialogue: 0,0:06:19.05,0:06:26.36,Default,,0,0,0,,> Headquarters. I've just discovered another target. I'll check the pattern of the convoy closely.
+Dialogue: 0,0:06:26.36,0:06:28.84,Default,,0,0,0,,> Yabe. come back. Don't overdo it.
+Dialogue: 0,0:06:28.84,0:06:32.32,Default,,0,0,0,,> After all, the enemy intends to land.
+Dialogue: 0,0:06:32.32,0:06:37.60,Default,,0,0,0,,> Bougainville or New Britain has been decided. If this fleet is left as it is, we will be killed.
+Dialogue: 0,0:06:37.60,0:06:43.43,Default,,0,0,0,,> Damn. I need an airplane. Do the people in the mainland know this?
+Dialogue: 0,0:06:43.43,0:06:47.15,Default,,0,0,0,,Do they think there are hundreds or thousands of planes left in Rabaul?
+Dialogue: 0,0:06:47.87,0:06:51.49,Default,,0,0,0,,> Captain, what does the Combined Fleet Say to our plan?
+Dialogue: 0,0:06:51.50,0:06:55.46,Default,,0,0,0,,> Strategy discussions are underway. Engage in the given operation.
+Dialogue: 0,0:06:55.46,0:06:59.60,Default,,0,0,0,,> What is it? If it was blurred, then Rabaul would also be a repeat of Guadalcanal.
+Dialogue: 0,0:06:59.60,0:07:04.70,Default,,0,0,0,,> Headquarters. Another convoys of about 20 enemies.
+Dialogue: 0,0:07:16.50,0:07:18.84,Default,,0,0,0,,> Several Grummans are attacking from behind.
+Dialogue: 0,0:07:21.15,0:07:25.56,Default,,0,0,0,,> Yabe, are you okay? Don't die.
+Dialogue: 0,0:08:15.01,0:08:16.70,Default,,0,0,0,,> Communication has been lost.
+Dialogue: 0,0:08:18.91,0:08:22.12,Default,,0,0,0,,> Damn. I cannot stand it any longer.
+Dialogue: 0,0:08:22.12,0:08:23.94,Default,,0,0,0,,Wait, Sasagawa!
+Dialogue: 0,0:08:26.60,0:08:27.94,Default,,0,0,0,,> Sasagawa!
+Dialogue: 0,0:08:30.63,0:08:35.91,Default,,0,0,0,,> Wait! > Captain. Please let me fly. I save Yabe alone.
+Dialogue: 0,0:08:35.91,0:08:42.91,Default,,0,0,0,,> No. Do not get ahead of yourself. > Captain, I am not afraid to die. I am ready to die at any time.
+Dialogue: 0,0:08:46.60,0:08:51.60,Default,,0,0,0,,> Sasagawa. I understand your feelings well. We are friends who vowed to be together when we die, but the military has must have discipline.
+Dialogue: 0,0:08:51.60,0:08:57.43,Default,,0,0,0,,No reckless action is allowed until there is a sortie order.
+Dialogue: 0,0:08:57.43,0:09:05.15,Default,,0,0,0,,Hey, Sasagawa, it's easy to die, but don't die in vain.
+Dialogue: 0,0:09:05.53,0:09:09.91,Default,,0,0,0,,> Yabe knew he would never return, but he dived into the enemy anyways.
+Dialogue: 0,0:09:09.91,0:09:18.56,Default,,0,0,0,,We wall cherish a little more life to reward his death. Someday, we can die together. Alright, Sasagawa?
+Dialogue: 0,0:09:19.74,0:09:21.12,Default,,0,0,0,,> Yes.
+Dialogue: 0,0:09:23.08,0:09:28.94,Default,,0,0,0,,> Yabe. We will go later.
+Dialogue: 0,0:09:38.01,0:09:40.01,Default,,0,0,0,,> I'm Yonezawa, a member of the press team. > Please come in.
+Dialogue: 0,0:09:42.12,0:09:47.94,Default,,0,0,0,,> The Combined Fleet on Truck Island is unlikely to move to Rabaul’s request.
+Dialogue: 0,0:09:48.70,0:09:50.29,Default,,0,0,0,,> Here have one.
+Dialogue: 0,0:09:57.43,0:10:02.01,Default,,0,0,0,,> It is certain that the enemy's target is Guadalcanal and then Bougainville or New Britain.
+Dialogue: 0,0:10:02.60,0:10:05.94,Default,,0,0,0,,Are the great men willing to abandon the base at Rabaul?
+Dialogue: 0,0:10:06.60,0:10:12.12,Default,,0,0,0,,> I am a fighter. The strategy is decided beyond our reach.
+Dialogue: 0,0:10:12.12,0:10:16.53,Default,,0,0,0,,> No, but a strategy that ignores the intention of this front line.
+Dialogue: 0,0:10:16.53,0:10:19.91,Default,,0,0,0,,After the Battle of Midway, the Combined Fleet has become stubborn.
+Dialogue: 0,0:10:19.91,0:10:23.63,Default,,0,0,0,,> Midway was supposed to be a secret.
+Dialogue: 0,0:10:25.60,0:10:29.80,Default,,0,0,0,,> Only the reality of Rabaul is faithfully conveyed. That is the duty of the press.
+Dialogue: 0,0:10:31.87,0:10:36.25,Default,,0,0,0,,> Incidentally, please tell the people on the mainland to send as many planes as possible.
+Dialogue: 0,0:10:36.25,0:10:41.46,Default,,0,0,0,,It used to be that the Rabaul Air Corps was sung in songs and boasted of its invincibility.
+Dialogue: 0,0:10:43.46,0:10:46.43,Default,,0,0,0,,> Pilots longed for this Rabaul.
+Dialogue: 0,0:10:49.91,0:10:51.67,Default,,0,0,0,,> Who is it.
+Dialogue: 0,0:10:51.67,0:10:56.29,Default,,0,0,0,,> Yes. I am the maintenance manager Yamaguchi. > What happened?
+Dialogue: 0,0:10:56.29,0:11:04.53,Default,,0,0,0,,> This was shot in a daytime air raid, but if I replace the engine, it could be fixed. Even one aircraft is precious at this base now.
+Dialogue: 0,0:11:04.53,0:11:09.18,Default,,0,0,0,,By tomorrow morning, we will have a great air battle and we need the crew.
+Dialogue: 0,0:11:20.36,0:11:23.74,Default,,0,0,0,,> At this time, at the Combined Fleet Command on Truck Island,
+Dialogue: 0,0:11:25.29,0:11:30.43,Default,,0,0,0,,> A fleet of two aircraft carriers, three cruisers, four destroyers, and 10 cargo ships are moving north.
+Dialogue: 0,0:11:31.25,0:11:35.53,Default,,0,0,0,,> Chief, Rabaul’s patrol aircraft found another fleet off the island.
+Dialogue: 0,0:11:35.53,0:11:38.12,Default,,0,0,0,,> Is that so? So how many fleets are there?
+Dialogue: 0,0:11:38.12,0:11:44.84,Default,,0,0,0,,> They discovered an enemy fleet of one aircraft carrier, two cruisers, and five cargo ships.
+Dialogue: 0,0:11:44.84,0:11:49.18,Default,,0,0,0,,> Well then, next is Bougainville or New Britain.
+Dialogue: 0,0:11:49.19,0:11:56.70,Default,,0,0,0,,>Chief. Return the planes and ships on Truck Island to Rabaul. We'll be in time if we act now. Chief!
+Dialogue: 0,0:11:57.46,0:12:01.70,Default,,0,0,0,,Rabaul’s soldiers are waiting for the Chief's decision. Morale is also strong.
+Dialogue: 0,0:12:01.70,0:12:05.91,Default,,0,0,0,,Now is the time to bring together all the strength of the navy and hit the enemy.
+Dialogue: 0,0:12:05.91,0:12:12.56,Default,,0,0,0,,> I also agree with the opinion of the aviation staff. Hit enemies from the sea in the sea. This is the ironclad rule of battle.
+Dialogue: 0,0:12:12.56,0:12:19.25,Default,,0,0,0,,What's more, Rabaul makes increasing requests every day. Turn your aviation planes and fleets over to Rabaul.
+Dialogue: 0,0:12:19.25,0:12:26.49,Default,,0,0,0,,> The enemy's aim is Bougainville or New Britain, there is no doubt now. After they land, we will regret it.
+Dialogue: 0,0:12:26.50,0:12:32.56,Default,,0,0,0,,> Sir. It may be a chance to relieve the black mark of Midway and Solomon. > Sir, let's do it.
+Dialogue: 0,0:12:32.56,0:12:38.22,Default,,0,0,0,,Now that the morale of the soldiers is high. Let's beat the arrogant and rude enemies.
+Dialogue: 0,0:12:48.29,0:12:51.29,Default,,0,0,0,,> Someone, call Lieutenant General Ozawa.
+Dialogue: 0,0:12:55.32,0:13:02.15,Default,,0,0,0,,> The Commander-in-Chief of the Allied Fleet Koga made a decision in response to the the request of the front-line base: Rabaul.
+Dialogue: 0,0:13:02.15,0:13:09.39,Default,,0,0,0,,The Third Fleet under the command of Vice Admiral Ozawa and all of his planes were dispatched to Rabaul.
+Dialogue: 0,0:13:09.39,0:13:19.53,Default,,0,0,0,,Operational decisions require agility and courage. In that sense, this decision slows the American side slightly.
+Dialogue: 0,0:13:21.67,0:13:27.49,Default,,0,0,0,,Early in the morning of the day when the Ozawa fleet arrived in Rabaul, the U.S. military fleet of
+Dialogue: 0,0:13:27.50,0:13:40.46,Default,,0,0,0,,18 transport ships and nine escort ships, which had been hidden due to bad weather on the previous day, suddenly landed on Cape Torokina on the west coast of Bougainville Island.
+Dialogue: 0,0:13:41.19,0:13:45.56,Default,,0,0,0,,It was November 1st, 1943.
+Dialogue: 0,0:14:07.19,0:14:10.29,Default,,0,0,0,,> As promised, I brought in reinforcements.
+Dialogue: 0,0:14:11.56,0:14:18.77,Default,,0,0,0,,> 70 Zuikaku attack aircraft of the Ozawa fleet, 70 Chokaku Zero aircraft, and 30 Zuiho carrier-capable aircraft.
+Dialogue: 0,0:14:18.77,0:14:23.74,Default,,0,0,0,,In addition, a total of 180 aircraft should be here by the 3rd.
+Dialogue: 0,0:14:24.94,0:14:28.63,Default,,0,0,0,,What's wrong? Aren't you happy to see this much reinforcement?
+Dialogue: 0,0:14:28.63,0:14:34.87,Default,,0,0,0,,> Ah. It's a pity that we didn't allow the enemy to land in Torokina one day earlier.
+Dialogue: 0,0:14:42.25,0:14:50.36,Default,,0,0,0,,> Is that so? Have you been transferred to Rabaul? It seems to be fine and above all. Now, pray for continued luck in the fortunes of war and make a toast.
+Dialogue: 0,0:14:51.12,0:14:52.49,Default,,0,0,0,,> I have something to ask.
+Dialogue: 0,0:14:56.05,0:15:01.94,Default,,0,0,0,,> I know. You wonder why I didn't order the Ozawa fleet to be dispatched before the enemy invaded Torokina.
+Dialogue: 0,0:15:01.94,0:15:03.18,Default,,0,0,0,,> Yes.
+Dialogue: 0,0:15:03.63,0:15:09.98,Default,,0,0,0,,> I heard rumors that you are a good pilot, but I'm glad to have such a nephew. > Please tell me.
+Dialogue: 0,0:15:10.74,0:15:12.67,Default,,0,0,0,,> These times are terrifying.
+Dialogue: 0,0:15:12.67,0:15:16.01,Default,,0,0,0,,even if you aspire to be a lawyer, you look like a soldier now.
+Dialogue: 0,0:15:17.63,0:15:21.67,Default,,0,0,0,,How many years will it take to become a full-fledged airplane pilot?
+Dialogue: 0,0:15:24.01,0:15:26.39,Default,,0,0,0,,> Yes. It will take at least five years.
+Dialogue: 0,0:15:26.39,0:15:32.63,Default,,0,0,0,,> I don't want to waste the excellent pilots who take five years to grow.
+Dialogue: 0,0:15:34.77,0:15:40.60,Default,,0,0,0,,From now on, air power will be the most important thing. Do you think this war will end only in Rabaul?
+Dialogue: 0,0:15:41.74,0:15:46.49,Default,,0,0,0,,The enemy, who is proud of their numerical quantity are now trying to make a big counterattack.
+Dialogue: 0,0:15:47.29,0:15:52.74,Default,,0,0,0,,In such a case, it may be necessary to retreat and rebuild the formation rather than fighting the enemy with all one's might.
+Dialogue: 0,0:15:52.74,0:16:00.91,Default,,0,0,0,,> Uncle > Because you are a relative, I just complained. Let's have a toast.
+Dialogue: 0,0:16:00.91,0:16:03.08,Default,,0,0,0,,> Chief, please.
+Dialogue: 0,0:16:03.08,0:16:08.94,Default,,0,0,0,,> Idiot. even though you used to call me uncle. I may not be able to meet you anymore.
+Dialogue: 0,0:16:26.25,0:16:30.08,Default,,0,0,0,,> Ensign Koga. You volunteered for such an assignment, what are you thinking?
+Dialogue: 0,0:16:30.08,0:16:34.29,Default,,0,0,0,,Rabaul isn't as easy as the mainland. Like the song now.
+Dialogue: 0,0:16:34.77,0:16:38.25,Default,,0,0,0,,> It is encouraging to know that the captain of the 305th is Senior Kamijo.
+Dialogue: 0,0:16:40.29,0:16:43.43,Default,,0,0,0,,> Captain. 30 degrees forward to the right, enemy plane.
+Dialogue: 0,0:16:48.63,0:16:52.70,Default,,0,0,0,,Enter the clouds in front of you and make a reverse drop. Let's go.
+Dialogue: 0,0:16:55.63,0:17:23.70,Default,,0,0,0,,♪ Rabaul air corps
+Dialogue: 0,0:17:56.15,0:18:01.29,Default,,0,0,0,,> The Rabaul Air Corps made a fearless attack.
+Dialogue: 0,0:18:01.94,0:18:07.08,Default,,0,0,0,,The result of the battle was announced spectacularly by the Imperial Headquarters at that time.
+Dialogue: 0,0:18:07.74,0:18:16.84,Default,,0,0,0,,However, Rabaul’s air power was gradually exhausted in the face of the unending amount of American troops.
+Dialogue: 0,0:18:23.32,0:18:29.12,Default,,0,0,0,,> Air combat was still going on on Bougainville Island.
+Dialogue: 0,0:18:29.12,0:18:36.39,Default,,0,0,0,,On November 13th, 1943, an unbelievable situation occurred in the Rabaul Air Corps.
+Dialogue: 0,0:18:36.39,0:18:43.53,Default,,0,0,0,,The headquarters of the Ozawa Third Fleet, who came with reinforcements from Truck Island, suddenly started pulling back toward Truck Island.
+Dialogue: 0,0:18:44.22,0:18:47.29,Default,,0,0,0,,> It will be just us in the end.
+Dialogue: 0,0:18:52.22,0:18:56.84,Default,,0,0,0,,> Now, with all the aircraft that can sortie at Rabaul Base, an order has been issued to attack and
+Dialogue: 0,0:18:56.84,0:19:01.74,Default,,0,0,0,,destroy enemy task forces moving north on the sea west of Bougainville Island.
+Dialogue: 0,0:19:01.74,0:19:08.67,Default,,0,0,0,,I have nothing new to do in the sortie. I just pray for your a good fight and your success.
+Dialogue: 0,0:19:11.08,0:19:19.63,Default,,0,0,0,,> Captain, Captain, please take me too. I beg you. > Fool! You are injured.
+Dialogue: 0,0:19:19.63,0:19:28.22,Default,,0,0,0,,> But, you said we would die together. > I'll wait at the Sanzu River. Come after healing that arm as soon as possible.
+Dialogue: 0,0:19:31.12,0:19:36.18,Default,,0,0,0,,> Captain
+Dialogue: 0,0:20:04.05,0:20:06.94,Default,,0,0,0,,> Everyone, this may be your last chance to see Rabaul.
+Dialogue: 0,0:20:06.94,0:20:12.91,Default,,0,0,0,,> Captain Kamijo. My uncle asked me if I thought Rabaul alone would end the next war.
+Dialogue: 0,0:20:13.63,0:20:18.08,Default,,0,0,0,,> Koga. You care about the Ozawa fleet pulling out of Rabaul.
+Dialogue: 0,0:20:18.87,0:20:24.70,Default,,0,0,0,,I was expecting it. In the heart of your uncle, Commander-in-Chief of the Allied Fleet.
+Dialogue: 0,0:20:24.70,0:20:28.74,Default,,0,0,0,,It is more important for a master to fall back than to attack.
+Dialogue: 0,0:20:30.22,0:20:39.94,Default,,0,0,0,,I'm sorry for those of us who pulled the Ozawa fleet out of Truck Island and made your uncle's cool mind go crazy.
+Dialogue: 0,0:20:39.94,0:20:41.43,Default,,0,0,0,,> Senior
+Dialogue: 0,0:20:41.43,0:20:49.63,Default,,0,0,0,,> Are you all listening? Let's end the battle only for us. But never hurry to death. Live as much as you can and go home.
+Dialogue: 0,0:20:49.63,0:20:52.08,Default,,0,0,0,,> Captain, the enemy's mobile unit.
+Dialogue: 0,0:20:57.46,0:20:59.05,Default,,0,0,0,,> Upper right sky, enemy planes.
+Dialogue: 0,0:21:04.56,0:21:06.32,Default,,0,0,0,,> Let's go, follow me.
+Dialogue: 0,0:21:11.19,0:21:13.01,Default,,0,0,0,,> I am engaged with the enemy.
+Dialogue: 0,0:21:13.01,0:21:14.94,Default,,0,0,0,,> What about subsequent communication? > Not yet.
+Dialogue: 0,0:21:22.70,0:21:24.74,Default,,0,0,0,,> We are going home alive
+Dialogue: 0,0:21:51.32,0:21:54.08,Default,,0,0,0,,> Captain Kamijo
+Dialogue: 0,0:22:01.70,0:22:07.53,Default,,0,0,0,,> Come back alive. That is the soul of Rabaul.
+Dialogue: 0,0:22:55.08,0:23:07.36,Default,,0,0,0,,> On February 1st, 1944, the US military jumped and landed on the Marshall Islands.
+Dialogue: 0,0:23:07.36,0:23:16.80,Default,,0,0,0,,On February 17th, the MTF attacked Drag Island. Then, after air raids on Tinian and Saipan, Rabaul was completely isolated behind the front line.
+Dialogue: 0,0:23:35.22,0:23:51.29,Default,,0,0,0,,In the midst of this hill-rolling momentum, is any decision useless or helpless? It may just be known only to heaven.
+Dialogue: 0,0:23:58.20,0:24:08.05,Default,,0,0,0,,The Pacific War taught us the preciousness of peace, but it also leaves us with many lessons to live.
+Dialogue: 0,0:24:43.92,0:24:52.44,Default,,0,0,0,,If you are a man, test your strength It you are a man, burn your hope
+Dialogue: 0,0:24:52.44,0:24:57.19,Default,,0,0,0,,If you area man, don't let yourself down
+Dialogue: 0,0:24:57.20,0:25:13.50,Default,,0,0,0,,I and you are men and men bleed the same bright red blood.
+Dialogue: 0,0:25:13.51,0:25:19.13,Default,,0,0,0,,Tatsunoko Production

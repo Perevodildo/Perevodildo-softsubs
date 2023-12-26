@@ -1,0 +1,146 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: No
+PlayResX: 1440
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Verdana,50,&H00FFFFFF,&H0000FFFF,&H00331C00,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,10,10,120,1
+Style: Sign,Arial,45,&H00FFFFFF,&H0000FFFF,&H00000039,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,0,0,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.55,0:00:07.37,Default,,0,0,0,,The most precious moment in life is the time of decision.
+Dialogue: 0,0:00:07.37,0:00:19.93,Default,,0,0,0,,The Pacific War taught us the preciousness of peace, but it also leaves us with many lessons to live.
+Dialogue: 0,0:00:24.27,0:00:32.65,Default,,0,0,0,,Ketsudan (decision)
+Dialogue: 0,0:00:34.27,0:00:49.13,Default,,0,0,0,,Use your wisdom Use your head Keep thinking it you're a man
+Dialogue: 0,0:00:49.13,0:00:58.20,Default,,0,0,0,,Whether you cry or laugh, it depends on your decision
+Dialogue: 0,0:00:58.20,0:01:06.06,Default,,0,0,0,,Don't be arrogant even if you win Don't cry even if you lose
+Dialogue: 0,0:01:06.06,0:01:13.58,Default,,0,0,0,,Man does not show tears
+Dialogue: 0,0:01:28.58,0:01:35.24,Default,,0,0,0,,Tatsunoko Production
+Dialogue: 0,0:01:40.03,0:02:11.82,Default,,0,0,0,,♪ Aiba Shingun Ka (The Beloved Horse)
+Dialogue: 0,0:02:12.03,0:02:20.82,Default,,0,0,0,,> During the war, the creator of this song, which was widely sung by people for who loved its light melody, was Lieutenant General...
+Dialogue: 0,0:02:20.82,0:02:30.37,Default,,0,0,0,,Tadamichi Kuribayashi, the commander of the Japanese army who shook the world during the Battle of Iwo Jima.
+Dialogue: 0,0:02:31.86,0:02:42.86,Default,,0,0,0,,Only 690 nautical miles from Tokyo, at the southern tip of the Ogasawara Islands. As the name implies, it was used only as a sulfur mine.
+Dialogue: 0,0:02:43.65,0:02:54.93,Default,,0,0,0,,On June 8th, 1944, General Kuribayashi was appointed as the 109th Corps Commander to protect the island.
+Dialogue: 0,0:02:55.40,0:03:01.39,Default,,0,0,0,,Operation Iwo Jima (Episode 23)
+Dialogue: 0,0:03:10.41,0:03:13.68,Default,,0,0,0,,> Thank you for your hard work > Thank you.
+Dialogue: 0,0:03:15.34,0:03:19.48,Default,,0,0,0,,> There were no soldiers in Japan yet to shake hands with his subordinates.
+Dialogue: 0,0:03:20.10,0:03:31.55,Default,,0,0,0,,As a military attaché in the United States and Canada, Kuribayashi was unique as he was the most familiar with America in the formidable Japanese army.
+Dialogue: 0,0:03:32.00,0:03:35.72,Default,,0,0,0,,> Could I see the island immediately? > I understand.
+Dialogue: 0,0:03:44.20,0:03:50.58,Default,,0,0,0,,> The airfield in front of you is the Chidori Airfield. Motoyama Airfield can be seen in the center.
+Dialogue: 0,0:03:51.17,0:03:58.44,Default,,0,0,0,,From the west, Mt. Osaka, Mt. Motoyama, and Mt. Tamana. Motoyama is located in the northernmost part.
+Dialogue: 0,0:03:58.86,0:04:09.62,Default,,0,0,0,,The longest point from the edge of Mt. Motoyama to Mt. Suribachi in the south is 8.3km. The narrow part of Chidori-gahara is only 800m.
+Dialogue: 0,0:04:09.62,0:04:15.44,Default,,0,0,0,,> I see. This is a formidable place. Yet, the enemy wants it.
+Dialogue: 0,0:04:15.44,0:04:21.27,Default,,0,0,0,,This island gives them an aircraft carrier that won't sink. It's also a great place to launch an air raid on Tokyo.
+Dialogue: 0,0:04:21.27,0:04:24.99,Default,,0,0,0,,> Tokyo air raids? > The enemy will start doing it soon.
+Dialogue: 0,0:04:26.75,0:04:33.65,Default,,0,0,0,,> By that time, the US military had crushed Marshall and Carolyn islands and was now aiming for Saipan.
+Dialogue: 0,0:04:34.79,0:04:41.58,Default,,0,0,0,,Since the enemy came to Saipan, General Kuribayashi knew that it was inevitable for the US military to attack the airfield on Iwo Jima,
+Dialogue: 0,0:04:41.58,0:04:48.58,Default,,0,0,0,,which is located in the middle of a path to Tokyo. It was only a matter of time.
+Dialogue: 0,0:04:51.13,0:04:54.20,Default,,0,0,0,,> Then, Could I see the following? > Yes.
+Dialogue: 0,0:04:58.44,0:05:00.44,Default,,0,0,0,,> Salute!
+Dialogue: 0,0:05:04.13,0:05:05.79,Default,,0,0,0,,> Thanks.
+Dialogue: 0,0:05:13.79,0:05:18.13,Default,,0,0,0,,> There is no river at all > There is no water at all.
+Dialogue: 0,0:05:18.13,0:05:21.51,Default,,0,0,0,,> There is no water? > Only rainwater.
+Dialogue: 0,0:05:21.51,0:05:24.44,Default,,0,0,0,,> We save it when it squalls to use later.
+Dialogue: 0,0:05:24.82,0:05:34.24,Default,,0,0,0,,> As a corps commander, Kuribayashi should have been on Chichijima, the most accessible of the Ogasawara archipelago, where his headquarters is located.
+Dialogue: 0,0:05:34.24,0:05:43.93,Default,,0,0,0,,However, with the forthcoming American operation to occupy Iwo Jima, he decided to move himself to Iwo Jima.
+Dialogue: 0,0:05:50.82,0:05:59.68,Default,,0,0,0,,for the next week, General Kuribayashi toured the entire island.
+Dialogue: 0,0:06:08.10,0:06:13.93,Default,,0,0,0,,Flat land. A cave made of sulfur.
+Dialogue: 0,0:06:23.44,0:06:26.79,Default,,0,0,0,,And a damp forest.
+Dialogue: 0,0:06:27.24,0:06:34.65,Default,,0,0,0,,Meanwhile, American bombers attacking Saipan were raining bombs.
+Dialogue: 0,0:07:13.00,0:07:26.65,Default,,0,0,0,,The island is almost flat, except for the 169m Mt. Suribachi. This makes a good airfield but it will be difficult to protect.
+Dialogue: 0,0:07:27.62,0:07:33.44,Default,,0,0,0,,General Kuribayashi used a tactic to destroy the enemy by creating an underground base.
+Dialogue: 0,0:07:34.03,0:07:39.10,Default,,0,0,0,,The underground base is going to be built 30m underground.
+Dialogue: 0,0:07:39.79,0:07:43.82,Default,,0,0,0,,> The large area on the third basement floor here is a hospital. > Hospital?
+Dialogue: 0,0:07:44.79,0:07:51.93,Default,,0,0,0,,> And these will be used to communicate between each pillbox. > The total length is planned to be about 25km.
+Dialogue: 0,0:07:52.00,0:07:56.37,Default,,0,0,0,,> The plan is good, but you don't have to make anything 30m underground.
+Dialogue: 0,0:07:56.37,0:07:59.55,Default,,0,0,0,,> If it can't withstand a 250kg bomb, there's no point in making it.
+Dialogue: 0,0:07:59.55,0:08:04.48,Default,,0,0,0,,> However, this island has high geothermal heat and sulfur gas spouts.
+Dialogue: 0,0:08:04.48,0:08:12.93,Default,,0,0,0,,The other day, when I dug 10 meters to dig a well, it reached 45 degrees Celsius, and the rubber on the shoes of the soldiers melted.
+Dialogue: 0,0:08:13.89,0:08:19.72,Default,,0,0,0,,> At that time, we couldn't work for more than five minutes because of the poisonous was.
+Dialogue: 0,0:08:20.20,0:08:27.62,Default,,0,0,0,,> That's right. Iwo Jima is probably the most unsuitable place for an underground tunnel to work on the planet.
+Dialogue: 0,0:08:30.75,0:08:39.10,Default,,0,0,0,,But we must do it. If the enemy captures Saipan, they will rush here and Okinawa with all speed.
+Dialogue: 0,0:08:39.58,0:08:45.41,Default,,0,0,0,,Especially because here is right between Saipan and Tokyo. They will definitely plan to launch air raids on the mainland.
+Dialogue: 0,0:08:45.93,0:08:52.48,Default,,0,0,0,,To protect the mainland, we have to do whatever it takes. Please, I want you to do it.
+Dialogue: 0,0:08:56.06,0:08:59.62,Default,,0,0,0,,> The construction had to be done manually.
+Dialogue: 0,0:09:19.89,0:09:23.48,Default,,0,0,0,,> Hey, be strong. Next!
+Dialogue: 0,0:09:36.03,0:09:47.65,Default,,0,0,0,,> You could only work for three to five minutes. A person couldn't continue much beyond that. Nevertheless, the construction steadily progressed.
+Dialogue: 0,0:09:58.79,0:10:04.62,Default,,0,0,0,,> This exposes the pillbox too much. You had better sprinkle more sand, > Yes. understood.
+Dialogue: 0,0:10:04.62,0:10:09.48,Default,,0,0,0,,> Enemy planes aren't just coming to scout, they're taking pictures.
+Dialogue: 0,0:10:10.10,0:10:15.48,Default,,0,0,0,,In particular, if there is a pillbox here and there is a moat there, they will mark this as a target in advance.
+Dialogue: 0,0:10:15.48,0:10:18.79,Default,,0,0,0,,Therefore, try to disguise yourself as much as possible. > Yes.
+Dialogue: 0,0:10:19.48,0:10:25.30,Default,,0,0,0,,> Air raid! Enemy plane attack! > Man your stations!
+Dialogue: 0,0:11:09.48,0:11:12.30,Default,,0,0,0,,> Hey be strong.
+Dialogue: 0,0:11:34.69,0:11:40.51,Default,,0,0,0,,> That night, General Kuribayashi wrote a letter to his wife.
+Dialogue: 0,0:11:40.51,0:11:49.44,Default,,0,0,0,,> To be brief, I don't think anyone has changed. I'm strong, but I'm living a hellish life.
+Dialogue: 0,0:11:50.51,0:11:57.62,Default,,0,0,0,,Enemy air raids are happening every day. They will land on this island soon.
+Dialogue: 0,0:11:57.62,0:12:08.37,Default,,0,0,0,,The soldiers on the island are all prepared. Of course I am, but I am still a weak person.
+Dialogue: 0,0:12:09.06,0:12:14.20,Default,,0,0,0,,When it comes to the game of death, I'm still most concerned about the family.
+Dialogue: 0,0:12:14.82,0:12:26.79,Default,,0,0,0,,Then, please take good care of yourself and live as long as possible. Thank you for serving me for a long time.
+Dialogue: 0,0:12:26.79,0:12:31.58,Default,,0,0,0,,I leave the children to you.
+Dialogue: 0,0:12:33.48,0:12:39.30,Default,,0,0,0,,> He knew it was an imminent situation, but Iwo Jima was too terrible.
+Dialogue: 0,0:12:40.20,0:12:46.06,Default,,0,0,0,,He has clearly told his family that his bones will be buried on this island.
+Dialogue: 0,0:12:52.89,0:13:00.34,Default,,0,0,0,,The US military had clarified its intention to occupy Saipan, Guam, Tinian, and the Mariana Islands
+Dialogue: 0,0:13:00.34,0:13:07.44,Default,,0,0,0,,as a foothold for air raids on Japan, in order to use Iwo Jima as its midway station.
+Dialogue: 0,0:13:08.44,0:13:15.62,Default,,0,0,0,,In order to strengthen the manpower of Iwo Jima, the military dispatched a tank corps led by Lieutenant Colonel Seibu,
+Dialogue: 0,0:13:15.62,0:13:23.51,Default,,0,0,0,,the winner of the Olympic equestrian, along with Major General Rinosuke Ichimaru, a well-known pilot,
+Dialogue: 0,0:13:23.51,0:13:29.37,Default,,0,0,0,,to lead the Marine Corps and the engineering corp of the 27th Air Corps.
+Dialogue: 0,0:13:30.51,0:13:47.58,Default,,0,0,0,,In this way, 20 square kilometers of Iwo Jima were protected by 15,500 Army personnel and 7,000 Navy personnel, centered on Kuribayashi's 109th unit.
+Dialogue: 0,0:13:50.06,0:13:56.13,Default,,0,0,0,,At the end after the reinforcements had been gathered, a supreme operations conference was held.
+Dialogue: 0,0:13:59.03,0:14:04.13,Default,,0,0,0,,> Your support is not such a pleasure as a true corps commander.
+Dialogue: 0,0:14:04.13,0:14:09.96,Default,,0,0,0,,Therefore, I would like to obtain the support of various officials in defending to the death this island.
+Dialogue: 0,0:14:09.96,0:14:18.82,Default,,0,0,0,,As the officials have already seen, there are no natural fortresses to really protect, just flat lands.
+Dialogue: 0,0:14:18.82,0:14:27.96,Default,,0,0,0,,So I built an underground fortress, and my goal was to protect it for as long as I can until the last man.
+Dialogue: 0,0:14:27.96,0:14:35.13,Default,,0,0,0,,> I am surprised at the wonderful positions you have constructed. So, what kind of strategy would you employ if the enemy attacked you.
+Dialogue: 0,0:14:35.13,0:14:40.96,Default,,0,0,0,,> According to our Army's standard doctrine, in the case of island defense
+Dialogue: 0,0:14:40.96,0:14:49.51,Default,,0,0,0,,we would have our guns lined up toward the coast and bombard the approaching fleet, but I abandoned this idea.
+Dialogue: 0,0:14:49.51,0:14:51.48,Default,,0,0,0,,> Why is that?
+Dialogue: 0,0:14:51.48,0:15:06.10,Default,,0,0,0,,> We have 12 320mm cannons, 22 150mm cannons, and others less than 15cms. These will only damage ships, not sink them.
+Dialogue: 0,0:15:06.10,0:15:11.93,Default,,0,0,0,,Therefore, our plan is to let them land, lure them to the center of the island, and destroy them.
+Dialogue: 0,0:15:11.93,0:15:18.75,Default,,0,0,0,,> I see. I agree. > Thank you. So I have another request.
+Dialogue: 0,0:15:18.75,0:15:23.96,Default,,0,0,0,,No Banzai charges. > What does that mean?
+Dialogue: 0,0:15:23.96,0:15:29.41,Default,,0,0,0,,>No matter how few soldiers you have, we will not leave our positions and attack.
+Dialogue: 0,0:15:29.96,0:15:38.75,Default,,0,0,0,,We have been taught to do a Banzai charge at the end. But this only hastens defeat.
+Dialogue: 0,0:15:38.75,0:15:44.62,Default,,0,0,0,,Our mission is to protect the island for as long as we can, be that a day or half a day.
+Dialogue: 0,0:15:44.62,0:15:57.48,Default,,0,0,0,,Don't forget this point. I will make the final decision. Until then, I want you to protect your position and fight with the intention of each soldier killing 10 people.
+Dialogue: 0,0:15:57.48,0:16:00.06,Default,,0,0,0,,> Let's do it according to your words.
+Dialogue: 0,0:16:00.06,0:16:08.62,Default,,0,0,0,,> Now, instead of defeating the enemy on the beach, after careful consideration on how to extend the length of defense, it was decided to have a decisive mainland battle.
+Dialogue: 0,0:16:08.62,0:16:20.99,Default,,0,0,0,,Kuribayashi may have wanted to make up his mind in and go out with a Banzai charge, like the analogy of cherry blossoms,
+Dialogue: 0,0:16:21.00,0:16:32.58,Default,,0,0,0,,But he made the decision to abandon his innocence. On February 19th, 1945, the morning came to Iwo Jima.
+Dialogue: 0,0:16:32.58,0:16:45.72,Default,,0,0,0,,The sea shining offshore was flooded with 75,144 Marines from the third, fourth, and fifth American Divisions.
+Dialogue: 0,0:16:46.69,0:17:01.34,Default,,0,0,0,,The support fleet consisted of 495 ships with 17 large aircraft carriers under the command of Vice Admiral Mitscher, and 111,300 support personnel.
+Dialogue: 0,0:17:06.13,0:17:14.13,Default,,0,0,0,,Chief of the Navy Forestal was wary of expending too much effort in the bombardment, especially by the participating ships.
+Dialogue: 0,0:17:15.13,0:17:20.96,Default,,0,0,0,,> We fired so much these last three days. I would have expected, the Japanese army to have fled.
+Dialogue: 0,0:17:20.96,0:17:24.72,Default,,0,0,0,,> No, they have not disappeared. They are lurking in a cave somewhere.
+Dialogue: 0,0:17:28.58,0:17:36.34,Default,,0,0,0,,> Over the three days leading up to this day, 20 square kilometers of Iwo Jima have already been bombarded.
+Dialogue: 0,0:17:37.06,0:17:54.17,Default,,0,0,0,,120 tons of bombs, 2,254 rockets, and 100 napalm strikes from the sky. 38,550 shots from 16-inch to 35-inch guns were fired from all manner of ships.
+Dialogue: 0,0:17:54.86,0:18:01.96,Default,,0,0,0,,With this as a signal, 500 landing craft and 15,000 Marines were sent in with the first wave.
+Dialogue: 0,0:18:46.82,0:18:48.99,Default,,0,0,0,,> Start the attack!
+Dialogue: 0,0:19:34.79,0:19:45.75,Default,,0,0,0,,> Under the command of General Kuribayashi, the operation was successful, and the death toll of the US. Army had already
+Dialogue: 0,0:19:45.75,0:19:55.99,Default,,0,0,0,,climbed to include 2,420 casualties, 35 tanks and armored vehicles, and 100 landing craft. In addition, more than 30,000 US troops had landed.
+Dialogue: 0,0:20:09.65,0:20:19.51,Default,,0,0,0,,The US Army advanced to Mt. Suribachi, Chidori Airfield, and Motoyama.
+Dialogue: 0,0:20:44.89,0:20:54.79,Default,,0,0,0,,Even the U.S. Army couldn't make an advance against the caves of General Kuribayashi.
+Dialogue: 0,0:21:09.48,0:21:20.17,Default,,0,0,0,,Yet, on the 23rd, after 20 nights of fierce fighting, Mt. Suribachi, the highest mountain on Iwo Jima, was finally taken.
+Dialogue: 0,0:21:20.17,0:21:25.99,Default,,0,0,0,,All the Japanese troops who tried to prevent this had died in Banzai charges.
+Dialogue: 0,0:21:26.00,0:21:39.03,Default,,0,0,0,,> Mt. Suribachi has fallen. The entire island can be occupied with just a few more kilometers. > However, it took 23 days to advance that few kilometers.
+Dialogue: 0,0:21:53.72,0:22:01.17,Default,,0,0,0,,The Japanese army, which had run out of water, food and ammunition, is finally exhausted.
+Dialogue: 0,0:22:02.34,0:22:08.17,Default,,0,0,0,,It was around this time that a song of encouragement arrived on the radio from the mainland.
+Dialogue: 0,0:22:14.75,0:22:31.75,Default,,0,0,0,,But how many people were left to respond to this encouragement? Only the northern point remained, and Kuribayashi sent a word of farewell to Tokyo.
+Dialogue: 0,0:22:38.03,0:22:46.82,Default,,0,0,0,,> The battle is entering its final chapter. We have run out of bullets, water, and food.
+Dialogue: 0,0:22:46.82,0:22:55.99,Default,,0,0,0,,I would like to say goodbye to those who can still fight now as they are about to make their final move.
+Dialogue: 0,0:23:01.03,0:23:06.55,Default,,0,0,0,,> On the night of the 17th, we will make our stand.
+Dialogue: 0,0:23:07.10,0:23:15.10,Default,,0,0,0,,Without care for his own personal safety, he issued an attack order that he would spearhead and continued to fight.
+Dialogue: 0,0:23:15.10,0:23:23.06,Default,,0,0,0,,On the morning of the 27th, he killed himself with a pistol along with his Chief of Staff Takaishi and Chief of Staff Nakane.
+Dialogue: 0,0:23:24.69,0:23:34.99,Default,,0,0,0,,Even though he fell, the decision of General Kuribayashi, who though his command was decreased both physically and mentally,
+Dialogue: 0,0:23:35.00,0:23:45.55,Default,,0,0,0,,did not allow the Banzai charge. He took the lead himself, and continued to fight until the end. The result was more damage to the US military than the Japanese army.
+Dialogue: 0,0:23:47.06,0:23:54.17,Default,,0,0,0,,And his decision and the attitude of his commanders are still highly regarded.
+Dialogue: 0,0:23:57.72,0:24:05.37,Default,,0,0,0,,The Pacific War taught us the preciousness of peace, but it also leaves us with many lessons to live.
+Dialogue: 0,0:24:43.92,0:24:52.44,Default,,0,0,0,,If you are a man, test your strength It you are a man, burn your hope
+Dialogue: 0,0:24:52.44,0:24:57.19,Default,,0,0,0,,If you area man, don't let yourself down
+Dialogue: 0,0:24:57.20,0:25:13.50,Default,,0,0,0,,I and you are men and men bleed the same bright red blood.
+Dialogue: 0,0:25:13.51,0:25:19.13,Default,,0,0,0,,Tatsunoko Production

@@ -1,0 +1,134 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: No
+PlayResX: 1440
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Verdana,50,&H00FFFFFF,&H0000FFFF,&H00331C00,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,10,10,120,1
+Style: Sign,Arial,45,&H00FFFFFF,&H0000FFFF,&H00000039,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,0,0,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.55,0:00:07.37,Default,,0,0,0,,The most precious moment in life is the time of decision.
+Dialogue: 0,0:00:07.37,0:00:19.93,Default,,0,0,0,,The Pacific War taught us the preciousness of peace, but it also leaves us with many lessons to live.
+Dialogue: 0,0:00:24.27,0:00:32.65,Default,,0,0,0,,Ketsudan (decision)
+Dialogue: 0,0:00:34.27,0:00:49.13,Default,,0,0,0,,Use your wisdom Use your head Keep thinking it you're a man
+Dialogue: 0,0:00:49.13,0:00:58.20,Default,,0,0,0,,Whether you cry or laugh, it depends on your decision
+Dialogue: 0,0:00:58.20,0:01:06.06,Default,,0,0,0,,Don't be arrogant even if you win Don't cry even if you lose
+Dialogue: 0,0:01:06.06,0:01:13.58,Default,,0,0,0,,Man does not show tears
+Dialogue: 0,0:01:28.58,0:01:35.24,Default,,0,0,0,,Tatsunoko Production
+Dialogue: 0,0:01:40.14,0:01:51.31,Default,,0,0,0,,Nakajima Ki-27 fighter. This fighter boasted agile maneuverability, but its short range was its biggest drawback.
+Dialogue: 0,0:01:53.14,0:01:58.96,Default,,0,0,0,,Therefore, since 1939, air operations personnel of the Imperial Headquarters Army have been
+Dialogue: 0,0:01:58.96,0:02:03.48,Default,,0,0,0,,desperate for improvements to aircraft in preparation for modern warfare.
+Dialogue: 0,0:02:06.03,0:02:16.41,Default,,0,0,0,,After many improvements and experiments, a new naval aircraft with the same engine as the Zero-tvpe fighter was born.
+Dialogue: 0,0:02:40.62,0:02:46.45,Default,,0,0,0,,Two 12.7mm machine guns. A maximum speed of 515km/h and its biggest defect, its cruising range, was
+Dialogue: 0,0:02:46.45,0:02:52.89,Default,,0,0,0,,solved by installing a falling auxiliary fuel tank under its wing.
+Dialogue: 0,0:02:52.90,0:02:58.20,Default,,0,0,0,,This is the falcon fighter that the Japanese Army is proud to show the world.
+Dialogue: 0,0:02:59.76,0:03:05.58,Default,,0,0,0,,Major Takeo Kato, the captain of the 64th Squadron, took the initiative in launching an intense training flight
+Dialogue: 0,0:03:05.59,0:03:09.55,Default,,0,0,0,,in order to demonstrate the high performance of this falcon.
+Dialogue: 0,0:03:22.51,0:03:28.51,Default,,0,0,0,,Kato's Falcon Squadron (Kato Hayabusa Sentotai) Episode 14
+Dialogue: 0,0:03:32.27,0:03:38.10,Default,,0,0,0,,In December 1941, the 64th Squadron under the command of Major Kato first supported
+Dialogue: 0,0:03:38.10,0:03:43.96,Default,,0,0,0,,a large fleet of landing parties on the Malay Peninsula under the command of Lieutenant General Tomoyuki Yamashita,
+Dialogue: 0,0:03:43.96,0:03:48.96,Default,,0,0,0,,and flew from Phu Quoc Island In Indochina to Nakhon, Thailand.
+Dialogue: 0,0:03:50.65,0:04:02.48,Default,,0,0,0,,After completing the mission, Kato Squadron proceeded further to Kota Bharau, Malaysia. The advance was a divine work.
+Dialogue: 0,0:04:11.65,0:04:17.20,Default,,0,0,0,,> Our landing party continued its blitz operation and advanced to the Peran River on the Malay Peninsula.
+Dialogue: 0,0:04:17.27,0:04:21.55,Default,,0,0,0,,However, if the bridge is destroyed by the enemy, the blitz to Singapore, which is the purpose of
+Dialogue: 0,0:04:21.55,0:04:25.31,Default,,0,0,0,,the Malay Peninsula operation, will be delayed by three months.
+Dialogue: 0,0:04:26.14,0:04:32.65,Default,,0,0,0,,Our Hayabusa Squadron will be on standby at the Allorster Base to prevent its sabotage.
+Dialogue: 0,0:04:33.65,0:04:37.79,Default,,0,0,0,,If the enemy destroys the bridge, it will be by enemy planes from Kuala Lumpur.
+Dialogue: 0,0:04:39.62,0:04:47.07,Default,,0,0,0,,However, my falcon squadron can't wait for the enemy to come out.
+Dialogue: 0,0:04:48.65,0:04:56.45,Default,,0,0,0,,Go out first and crush the enemies in Kuala Lumpur. This voluntary assignment. Do you understand?
+Dialogue: 0,0:04:56.45,0:04:57.79,Default,,0,0,0,,> Yes
+Dialogue: 0,0:05:11.03,0:05:14.24,Default,,0,0,0,,> Hey, I'll take a picture
+Dialogue: 0,0:05:27.69,0:05:50.93,Default,,0,0,0,,♪ Kato Hayabusa Fighter Wing
+Dialogue: 0,0:06:05.93,0:06:08.00,Default,,0,0,0,,> Kuala Lumpur
+Dialogue: 0,0:06:17.65,0:06:19.89,Default,,0,0,0,,> Damn. Alright.
+Dialogue: 0,0:07:18.03,0:07:20.17,Default,,0,0,0,,> Damn. Alright.
+Dialogue: 0,0:07:41.31,0:07:47.17,Default,,0,0,0,,> I'll take you to hell with me.
+Dialogue: 0,0:07:47.86,0:07:50.89,Default,,0,0,0,,Goodbye, Captain.
+Dialogue: 0,0:08:08.03,0:08:15.14,Default,,0,0,0,,> The Kuala Lumpur attack was a voluntary order by Major Kato, but the action received
+Dialogue: 0,0:08:15.14,0:08:22.17,Default,,0,0,0,,a congratulatory telegram from the Southern Expeditionary Army's General Commander as a flexible measure based on a calm judgment of the situation.
+Dialogue: 0,0:08:48.69,0:08:55.00,Default,,0,0,0,,> Hey, Tadayama, this photo I took became your last one.
+Dialogue: 0,0:08:56.93,0:09:00.55,Default,,0,0,0,,Please wait. I can't let you die alone.
+Dialogue: 0,0:09:04.14,0:09:12.34,Default,,0,0,0,,> On January 9th, the 64th Hayabusa Squadron, commanded by Major Kato, went further south and was based in Ipoh.
+Dialogue: 0,0:09:13.65,0:09:16.34,Default,,0,0,0,,Sorties are made from this base to Singapore every day.
+Dialogue: 0,0:09:16.34,0:09:24.10,Default,,0,0,0,,He succeeded in bombing Singapore Airlines with his allies and heavy bombers,
+Dialogue: 0,0:09:24.10,0:09:32.00,Default,,0,0,0,,but he could not find a fight with a Hawker Hurricanes. There was no decisive battle for Hayabusa.
+Dialogue: 0,0:09:44.62,0:09:54.83,Default,,0,0,0,,On January 29th, Major Kato was about to take off to support the Singapore bombers with several planes from Kota Bharu.
+Dialogue: 0,0:10:02.38,0:10:05.31,Default,,0,0,0,,> Is it still not fixed? > No. It needs a little more time.
+Dialogue: 0,0:10:06.41,0:10:11.17,Default,,0,0,0,,> I can't wait. I'll go ahead > Omori. You will catch up with us later.
+Dialogue: 0,0:10:12.07,0:10:14.10,Default,,0,0,0,,> Yes. I'm sure.
+Dialogue: 0,0:10:24.14,0:10:31.41,Default,,0,0,0,,> However, they couldn't find any friendly bombers to support, so they had to go home.
+Dialogue: 0,0:10:35.31,0:10:38.93,Default,,0,0,0,,> I'm late. I have to catch up with the captain soon.
+Dialogue: 0,0:10:42.62,0:10:48.48,Default,,0,0,0,,> Ah. It's the bombing corps. Where are the captains who should be supporting them?
+Dialogue: 0,0:11:04.69,0:11:07.96,Default,,0,0,0,,> Damn. If this happens, I'll deal with you all at once.
+Dialogue: 0,0:11:52.62,0:11:57.89,Default,,0,0,0,,> The captain is in a bad mood and does not speak. > Then, after all. He couldn't support them.
+Dialogue: 0,0:11:59.10,0:12:01.00,Default,,0,0,0,,> He doesn't even eat dinner.
+Dialogue: 0,0:12:04.24,0:12:06.10,Default,,0,0,0,,> It's Omori!
+Dialogue: 0,0:12:22.00,0:12:26.45,Default,,0,0,0,,> I engaged with one fighter. > So, how about the bombers on our side?
+Dialogue: 0,0:12:27.34,0:12:29.86,Default,,0,0,0,,> Two planes. > They were killed.
+Dialogue: 0,0:12:40.86,0:12:42.52,Default,,0,0,0,,> Please forgive me.
+Dialogue: 0,0:12:47.45,0:12:50.10,Default,,0,0,0,,It's a lifelong mistake.
+Dialogue: 0,0:13:46.38,0:13:52.24,Default,,0,0,0,,> Captain. An emergency telegram came from the bombing squad that went to Singapore today. > Read it.
+Dialogue: 0,0:13:52.24,0:13:59.20,Default,,0,0,0,,> In the telegram, Captain Omori shot down two Hurricanes with one aircraft.
+Dialogue: 0,0:13:59.21,0:14:06.48,Default,,0,0,0,,They thanked him for his brave support, and it was noted that two of his friendly bombers were crash landed and all were safe.
+Dialogue: 0,0:14:07.03,0:14:11.55,Default,,0,0,0,,> Is that so? Are they all safe? It was good.
+Dialogue: 0,0:14:20.86,0:14:30.83,Default,,0,0,0,,> Because of the success of the Japanese aviation unit, including the Kato Hayabusa combat corps, the systematic challenges presented by the British army have almost disappeared.
+Dialogue: 0,0:14:32.21,0:14:40.72,Default,,0,0,0,,And the Malay Peninsula capture unit under the command of Lieutenant General Tomoyuki Yamashita approached Singapore one step further.
+Dialogue: 0,0:14:44.10,0:14:51.72,Default,,0,0,0,,However, in the daily battles, the Kato Hayabusa fighting corps also suffered considerable casualties.
+Dialogue: 0,0:14:53.31,0:15:02.83,Default,,0,0,0,,Around that time, the first parachute unit of the Japanese Army planned to occupy the oil fields of Palembang intact.
+Dialogue: 0,0:15:07.17,0:15:14.24,Default,,0,0,0,,On February 10th, Major Kato rushed to the Cruz base alone. He visited the 3rd Squadron Commander.
+Dialogue: 0,0:15:15.72,0:15:22.03,Default,,0,0,0,,> Enemy troops are concentrated in Singapore. Palembang should be captured before the fall of Singapore.
+Dialogue: 0,0:15:23.93,0:15:31.93,Default,,0,0,0,,According to aerial photography, the enemy air base in Palembang is hidden in the jungle, and has about 100 large and small aircraft gathered together.
+Dialogue: 0,0:15:31.93,0:15:37.89,Default,,0,0,0,,In order to safely lower the parachute unit, you should first secure air superiority.
+Dialogue: 0,0:15:37.90,0:15:40.41,Default,,0,0,0,,Please give that mission to my squad.
+Dialogue: 0,0:15:41.59,0:15:48.10,Default,,0,0,0,,> Your corps has lost a lot of strength in battle so far. Support is almost impossible with its current strength.
+Dialogue: 0,0:15:48.10,0:15:53.31,Default,,0,0,0,,> Certainly some of the strength has been lost. But its fighting spirit is enough.
+Dialogue: 0,0:15:56.41,0:16:02.24,Default,,0,0,0,,> I'm sure we will succeed. Please let me do it. > Even if I say no, you won't listen.
+Dialogue: 0,0:16:03.34,0:16:04.65,Default,,0,0,0,,> Yes
+Dialogue: 0,0:16:05.76,0:16:14.62,Default,,0,0,0,,> Thus, the Kato Hayabusa Combat Team went further south in preparation for the Palembang Air Battle, and made Kahan its forward base.
+Dialogue: 0,0:16:16.31,0:16:22.14,Default,,0,0,0,,> Our unit cooperates with the light bombing unit of the 3rd Flight Unit. Destroy the enemy planes in Palembang.
+Dialogue: 0,0:16:22.79,0:16:28.65,Default,,0,0,0,,No matter what happens, you have to succeed. For that purpose, I would like each person to do their best,
+Dialogue: 0,0:16:28.65,0:16:32.93,Default,,0,0,0,,not to take credit for themselves, but to exert the power of the entire unit.
+Dialogue: 0,0:16:35.90,0:16:45.79,Default,,0,0,0,,> First, a raid on the British base in Palembang, and on February 4th, the Hayabusa combat corps sortie to support the paratrooper units.
+Dialogue: 0,0:16:45.79,0:16:51.10,Default,,0,0,0,,Their deadly success supported the successful occupation of Palembang.
+Dialogue: 0,0:16:53.24,0:17:04.93,Default,,0,0,0,,The Hayabusa fighting corps had no time to breathe. After Palembang, they moved to Chiang Mai, Thailand, Launching daily attacks on the Burmese Achab base.
+Dialogue: 0,0:17:11.76,0:17:13.41,Default,,0,0,0,,They are tired
+Dialogue: 0,0:17:15.90,0:17:23.86,Default,,0,0,0,,> Let's all go. I am ordering this unit to immediately hit and destroy the remaining enemies.
+Dialogue: 0,0:17:23.86,0:17:27.55,Default,,0,0,0,,> What? Are we still doing more?
+Dialogue: 0,0:17:27.55,0:17:33.03,Default,,0,0,0,,> The greatest purpose of combatants is to always be prepared to sortie, day or night.
+Dialogue: 0,0:17:58.03,0:18:01.45,Default,,0,0,0,,> Damn, even if I hit it, it will come out soon.
+Dialogue: 0,0:18:11.93,0:18:20.55,Default,,0,0,0,,> Around that time, Major Kato was given many letters of appreciation for his remarkable achievements and was promoted to Lieutenant Colonel.
+Dialogue: 0,0:18:22.79,0:18:30.83,Default,,0,0,0,,On May 21st, he pursued a British bomber over Chittagong, but lost sight of it.
+Dialogue: 0,0:18:37.93,0:18:39.62,Default,,0,0,0,,> Ah. Shimizu
+Dialogue: 0,0:18:43.48,0:18:46.79,Default,,0,0,0,,> Shimizu, I'll definitely look for you. Wait for me.
+Dialogue: 0,0:18:56.21,0:19:02.76,Default,,0,0,0,,> Tomorrow afternoon, we will move to Tonggu base. By then, be sure to find Lieutenant Shimizu.
+Dialogue: 0,0:19:03.27,0:19:09.62,Default,,0,0,0,,> Yes. Let the locals do their best to find him. > I'll leave it to you then.
+Dialogue: 0,0:19:10.41,0:19:19.79,Default,,0,0,0,,> Near noon on the 22nd, the Hayabusa Combat Team is ready to move to Longgu Base to destroy the Allied Air Forces.
+Dialogue: 0,0:19:19.79,0:19:23.00,Default,,0,0,0,,They were waiting for Captain Kato's sortie order.
+Dialogue: 0,0:19:31.17,0:19:33.14,Default,,0,0,0,,> Captain. It's time to leave.
+Dialogue: 0,0:19:35.34,0:19:36.93,Default,,0,0,0,,> Let's wait a little longer.
+Dialogue: 0,0:19:41.52,0:19:46.24,Default,,0,0,0,,> The captain is late. > It's been two hours since the scheduled time.
+Dialogue: 0,0:19:53.65,0:19:56.48,Default,,0,0,0,,> Shimizu, please come back safely.
+Dialogue: 0,0:19:58.76,0:20:02.76,Default,,0,0,0,,> Captain. It's already time. > Yeah.
+Dialogue: 0,0:20:09.93,0:20:11.38,Default,,0,0,0,,> Captain
+Dialogue: 0,0:20:18.48,0:20:21.45,Default,,0,0,0,,> It's Shimizu! Shimizu is back!
+Dialogue: 0,0:20:37.65,0:20:39.45,Default,,0,0,0,,> It's an enemy plane
+Dialogue: 0,0:21:01.72,0:21:02.62,Default,,0,0,0,,> Damn
+Dialogue: 0,0:21:09.83,0:21:11.24,Default,,0,0,0,,> Start me up!
+Dialogue: 0,0:21:38.52,0:21:41.27,Default,,0,0,0,,> Damn, Shimizu's revenge.
+Dialogue: 0,0:22:52.38,0:22:55.55,Default,,0,0,0,,> Captain!
+Dialogue: 0,0:23:16.83,0:23:23.24,Default,,0,0,0,,> Finally, the 64th Commander of the Hayabusa Combat Team, Lieutenant Colonel Takeo Kato,
+Dialogue: 0,0:23:23.24,0:23:29.14,Default,,0,0,0,,has become a person who will never return, and went to the deep under the seabed of the Bay of Bengal.
+Dialogue: 0,0:23:31.62,0:23:36.38,Default,,0,0,0,,May 22, 2:30 pm.
+Dialogue: 0,0:23:44.21,0:23:54.34,Default,,0,0,0,,However, Lieutenant Colonel Kato was alive. His indomitable Fighting spirit lived on in the hearts of his men.
+Dialogue: 0,0:23:57.87,0:24:07.63,Default,,0,0,0,,The Pacific War taught us the preciousness of peace, but it also leaves us with many lessons to live.
+Dialogue: 0,0:24:43.92,0:24:52.44,Default,,0,0,0,,If you are a man, test your strength It you are a man, burn your hope
+Dialogue: 0,0:24:52.44,0:24:57.19,Default,,0,0,0,,If you area man, don't let yourself down
+Dialogue: 0,0:24:57.20,0:25:13.50,Default,,0,0,0,,I and you are men and men bleed the same bright red blood.
+Dialogue: 0,0:25:13.51,0:25:19.13,Default,,0,0,0,,Tatsunoko Production

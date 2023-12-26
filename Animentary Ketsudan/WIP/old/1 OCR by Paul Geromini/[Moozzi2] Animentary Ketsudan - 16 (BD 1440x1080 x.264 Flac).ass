@@ -1,0 +1,178 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: No
+PlayResX: 1440
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Verdana,50,&H00FFFFFF,&H0000FFFF,&H00331C00,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,10,10,120,1
+Style: Sign,Arial,45,&H00FFFFFF,&H0000FFFF,&H00000039,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,0,0,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.55,0:00:07.37,Default,,0,0,0,,The most precious moment in life is the time of decision.
+Dialogue: 0,0:00:07.37,0:00:19.93,Default,,0,0,0,,The Pacific War taught us the preciousness of peace, but it also leaves us with many lessons to live.
+Dialogue: 0,0:00:24.27,0:00:32.65,Default,,0,0,0,,Ketsudan (decision)
+Dialogue: 0,0:00:34.27,0:00:49.13,Default,,0,0,0,,Use your wisdom Use your head Keep thinking it you're a man
+Dialogue: 0,0:00:49.13,0:00:58.20,Default,,0,0,0,,Whether you cry or laugh, it depends on your decision
+Dialogue: 0,0:00:58.20,0:01:06.06,Default,,0,0,0,,Don't be arrogant even if you win Don't cry even if you lose
+Dialogue: 0,0:01:06.06,0:01:13.58,Default,,0,0,0,,Man does not show tears
+Dialogue: 0,0:01:28.58,0:01:35.24,Default,,0,0,0,,Tatsunoko Production
+Dialogue: 0,0:01:37.38,0:01:45.73,Default,,0,0,0,,Operations Midway and Aleutian were carried out in June 1942 with the main force of the Japanese Navy.
+Dialogue: 0,0:01:46.76,0:01:51.07,Default,,0,0,0,,Operation Midway has been a major defeat for the Japanese since the beginning of the war,
+Dialogue: 0,0:01:51.07,0:01:56.19,Default,,0,0,0,,but the Aleutian Operation was able to occupy Attu and Kiska without any resistance from the US.
+Dialogue: 0,0:01:56.19,0:01:59.93,Default,,0,0,0,,Kiska Withdrawal (Episode 16) but the Aleutian Operation was able to occupy Attu and Kiska without any resistance from the US.
+Dialogue: 0,0:01:59.93,0:02:02.78,Default,,0,0,0,,Kiska Withdrawal (Episode 16)
+Dialogue: 0,0:02:04.86,0:02:13.10,Default,,0,0,0,,Kiska Island is about 40km long and about 10km wide and is closed to ice and snow all year round.
+Dialogue: 0,0:02:13.11,0:02:19.76,Default,,0,0,0,,Even in the summer, it is often covered with thick fog and the temperature is below freezing.
+Dialogue: 0,0:02:20.35,0:02:28.52,Default,,0,0,0,,In the first place, the purpose of the Japanese Army's Operation Aleutian was to stop the advance of the American MTF from the north.
+Dialogue: 0,0:02:28.52,0:02:38.76,Default,,0,0,0,,On Kiska Island, there were about 5,600 Army and Navy soldiers under the command of the North Sea garrison commander and Major General Mineki.
+Dialogue: 0,0:02:41.31,0:02:51.14,Default,,0,0,0,,> Sir. According to reports from Northern Command reconnaissance planes, the enemy unknowingly built an air base on the neighboring island of Amchitka.
+Dialogue: 0,0:02:51.14,0:02:52.45,Default,,0,0,0,,> What?
+Dialogue: 0,0:02:54.66,0:03:01.07,Default,,0,0,0,,> It seems that the United States is on the offensive from the battle on Guadalcanal Island in the south, but has it finally reached the north?
+Dialogue: 0,0:03:01.07,0:03:08.00,Default,,0,0,0,,> Approximately 90 nautical miles from Amchitka Island to Kiska Island. Naturally, Attu Island will also be hit harder than it is now.
+Dialogue: 0,0:03:10.04,0:03:15.90,Default,,0,0,0,,Kiska Island and Attu Island are important bases in the north for us. We absolutely have to protect them.
+Dialogue: 0,0:03:15.90,0:03:17.55,Default,,0,0,0,,> It's an air raid
+Dialogue: 0,0:03:41.31,0:03:47.14,Default,,0,0,0,,> The Imperial Headquarters immediately began transporting reinforcements to Attu Island and Kiska Island.
+Dialogue: 0,0:03:49.42,0:04:02.62,Default,,0,0,0,,On May 11th, Approximately 11,000 US troops escorted by the US North Pacific fleet under Major General Thomas Kinkade began landing on Attu Island.
+Dialogue: 0,0:04:03.62,0:04:10.83,Default,,0,0,0,,The garrison captain, Colonel Yamazaki, and less than 2,500 Japanese soldiers fought back fiercely,
+Dialogue: 0,0:04:10.83,0:04:20.24,Default,,0,0,0,,but on May 30th, they were finally wiped out. This was the first Japanese army to die via banzai charge.
+Dialogue: 0,0:04:21.73,0:04:31.59,Default,,0,0,0,,The US military, which regained Attu Island from the Japanese army, set up a fleet blockade in the North Pacific to block the isolated island of Kiska.
+Dialogue: 0,0:04:34.14,0:04:42.38,Default,,0,0,0,,The Imperial Headquarters finally ordered a submarine withdrawal from the isolated island of Kiska,
+Dialogue: 0,0:04:42.38,0:04:49.04,Default,,0,0,0,,but the US Pacific Fleet's scrutiny made the withdrawal operation difficult.
+Dialogue: 0,0:04:54.62,0:05:00.45,Default,,0,0,0,,> Enemy attacks are becoming more intense day by day. The landing on Kiska Island will begin shortly.
+Dialogue: 0,0:05:01.52,0:05:06.07,Default,,0,0,0,,Before that, we have to complete the withdrawal without leaving any soldiers.
+Dialogue: 0,0:05:06.07,0:05:10.76,Default,,0,0,0,,> The enemy's vigilance is strict. Several submarines have already been sunk.
+Dialogue: 0,0:05:10.76,0:05:20.07,Default,,0,0,0,,> How many have successfully withdrawn via submarine? > 820 out of 5,639.
+Dialogue: 0,0:05:20.07,0:05:27.59,Default,,0,0,0,,> Hmm. It is 15%? > Only about 80 people can be loaded on a submarine at a time.
+Dialogue: 0,0:05:27.59,0:05:29.42,Default,,0,0,0,,> Staff officer Fuji. > Yes
+Dialogue: 0,0:05:30.35,0:05:36.21,Default,,0,0,0,,> Please go to Paramushir. I would like the you to advise the Northern Command to withdraw everyone at once by surface ships.
+Dialogue: 0,0:05:36.83,0:05:42.04,Default,,0,0,0,,And as soon as possible. This will be the final meeting on the withdrawal.
+Dialogue: 0,0:05:45.07,0:05:55.48,Default,,0,0,0,,> On June 16th, the submarine carrying Staff officer Fujii escaped Kiska Island safely. On the 20th, he arrived at the Chishima Islands, Paramushir.
+Dialogue: 0,0:05:56.55,0:06:04.24,Default,,0,0,0,,The Northern Command of the Navy was anchored at the port of Paramushir Island under the command of Vice Admiral Kawase's 5th Fleet.
+Dialogue: 0,0:06:07.97,0:06:12.52,Default,,0,0,0,,> The local commander strongly desires to withdrawal by surface ships.
+Dialogue: 0,0:06:14.76,0:06:24.14,Default,,0,0,0,,Currently there has been a lot of damage to our submarines. Withdrawal by submarines must be stopped.
+Dialogue: 0,0:06:25.07,0:06:32.35,Default,,0,0,0,,> Can a large number of ships escape the eyes of the enemy's strict surveillance and go to Kiska Island? That is the problem.
+Dialogue: 0,0:06:32.76,0:06:35.48,Default,,0,0,0,,> Besides, we cannot expect the support of the aviation unit,
+Dialogue: 0,0:06:38.80,0:06:41.62,Default,,0,0,0,,> This is clearly reckless.
+Dialogue: 0,0:06:41.62,0:06:49.24,Default,,0,0,0,,> On Kiska Island, 5,000 comrades are holding out under the fierce attack of the enemy. Do you want to make the same mistake we made on Attu Island?
+Dialogue: 0,0:06:49.24,0:06:59.79,Default,,0,0,0,,> It takes at least 10 days to go to Kiska Island and come back. It is almost impossible for a large fleet to act without replenishing by tanker.
+Dialogue: 0,0:06:59.80,0:07:02.17,Default,,0,0,0,,> I am not confident in the Navy.
+Dialogue: 0,0:07:09.49,0:07:14.07,Default,,0,0,0,,> If there is something that can protect the ships of our large fleet, it will be solved.
+Dialogue: 0,0:07:14.07,0:07:17.66,Default,,0,0,0,,> Unfortunately, our fleet.
+Dialogue: 0,0:07:24.90,0:07:26.55,Default,,0,0,0,,> There is one way.
+Dialogue: 0,0:07:30.38,0:07:32.69,Default,,0,0,0,,> Call Beard of Kimura.
+Dialogue: 0,0:07:33.11,0:07:37.17,Default,,0,0,0,,> Beard of Kimura is the captain who assumed command of the flagship Abukuma 10 days ago.
+Dialogue: 0,0:07:37.17,0:07:41.79,Default,,0,0,0,,A sailor who just assumed command of the First Destroyer Squadron: Major General Kimura.
+Dialogue: 0,0:07:41.80,0:07:43.73,Default,,0,0,0,,> Let's accept it.
+Dialogue: 0,0:07:45.17,0:07:46.17,Default,,0,0,0,,> Thank you.
+Dialogue: 0,0:07:46.17,0:07:52.69,Default,,0,0,0,,> It's a big role. The enemy has an excellent radio detector. > There is also a strategy here.
+Dialogue: 0,0:07:52.69,0:07:58.00,Default,,0,0,0,,> I see. > One of the ancient Japanese ninjutsu techniques, the technique of fog.
+Dialogue: 0,0:07:58.00,0:07:59.76,Default,,0,0,0,,> What?
+Dialogue: 0,0:08:00.38,0:08:06.66,Default,,0,0,0,,> Kiska Island is a foggy place. It is advantageous to act using the fog. > I see.
+Dialogue: 0,0:08:12.93,0:08:20.31,Default,,0,0,0,,> Thus, the Kiska Island withdrawal operation, which relies on the fog of the North Sea, proceeded steadily.
+Dialogue: 0,0:08:21.17,0:08:30.28,Default,,0,0,0,,> The greatest weapon of the withdrawal operation is fog. In August, the fog will fade. If we do this, we should complete it by mid-July.
+Dialogue: 0,0:08:30.28,0:08:34.31,Default,,0,0,0,,> How many Daithatsu-class landing craft are there? > About 10 ships can be used.
+Dialogue: 0,0:08:34.31,0:08:37.83,Default,,0,0,0,,> It takes time to transport by itself, Alright, let's load 12 ships.
+Dialogue: 0,0:08:37.83,0:08:42.10,Default,,0,0,0,,> The biggest problem is the meeting point and meeting time of the local army.
+Dialogue: 0,0:08:42.11,0:08:45.52,Default,,0,0,0,,> Even if we can approach Kiska Island but make a mistake in our meeting time...
+Dialogue: 0,0:08:45.52,0:08:54.76,Default,,0,0,0,,> The meeting point is Kiska Bay. The meeting time is five days after the day from when our rescue fleet sails. It's about 3 hours after sunset.
+Dialogue: 0,0:08:54.76,0:08:57.31,Default,,0,0,0,,> What if the fog clears and we can't get close that day?
+Dialogue: 0,0:08:57.31,0:09:03.45,Default,,0,0,0,,> Have them try again every day. At that time. The withdrawal operation is a covert action.
+Dialogue: 0,0:09:03.45,0:09:05.76,Default,,0,0,0,,> Be careful when contacting the local army.
+Dialogue: 0,0:09:16.93,0:09:26.69,Default,,0,0,0,,> The rescue fleet decided to set sail on July 7th. Our garrison will meet at Kiska Port at sunset on the 11th. Do not leave a single soldier.
+Dialogue: 0,0:09:40.55,0:09:48.52,Default,,0,0,0,,> When will the rescue fleet arrive? > They can't come so easily. Will we suffer the same fate as Attu Island?
+Dialogue: 0,0:09:50.14,0:09:59.04,Default,,0,0,0,,> July 7th, 1943, the rescue fleet under the command of Major General Kimura is two light cruisers, ten destroyers, one tanker,
+Dialogue: 0,0:09:59.04,0:10:07.86,Default,,0,0,0,,and one landing ship. With a total of 14 ships, they left via Kuril Islands, rather than the port.
+Dialogue: 0,0:10:11.17,0:10:15.62,Default,,0,0,0,,> The fog condition looks good. > No, optimism is not allowed.
+Dialogue: 0,0:10:15.62,0:10:22.66,Default,,0,0,0,,> Even in the fog, if the enemy finds us, everything is over. > Stay outside 500 nautical miles from the enemy air base.
+Dialogue: 0,0:10:23.66,0:10:28.62,Default,,0,0,0,,> The rescue fleet reached 500 nautical miles southwest of Kiska Island on July 12th,
+Dialogue: 0,0:10:28.62,0:10:34.21,Default,,0,0,0,,as scheduled. It finished refueling, and turned its course to Kiska Island.
+Dialogue: 0,0:10:35.28,0:10:42.79,Default,,0,0,0,,However, at the time of the decision, the fog cleared up. It's an ironic prank of nature.
+Dialogue: 0,0:10:51.93,0:10:56.69,Default,,0,0,0,,> Sir. We've come this far with a preparedness for death. Let's do it.
+Dialogue: 0,0:11:04.42,0:11:07.69,Default,,0,0,0,,> Sir, they are urging you to come all at once.
+Dialogue: 0,0:11:07.69,0:11:13.52,Default,,0,0,0,,> If we approach Kiska Island, the fog may come out.
+Dialogue: 0,0:11:14.28,0:11:16.83,Default,,0,0,0,,> Why don't you go back to the waiting point and wait for that time?
+Dialogue: 0,0:11:17.76,0:11:22.17,Default,,0,0,0,,> We can't. There is not enough fuel. > Then, why don't you turn back and try again?
+Dialogue: 0,0:11:22.17,0:11:27.48,Default,,0,0,0,,> We won't be able to do that either. The current issues is fuel shortage. Even trying twice is too much for this big family.
+Dialogue: 0,0:11:27.49,0:11:30.21,Default,,0,0,0,,> Then, are you condemning the Kiska Island garrison?
+Dialogue: 0,0:11:34.00,0:11:35.14,Default,,0,0,0,,> Sir
+Dialogue: 0,0:12:01.11,0:12:03.31,Default,,0,0,0,,> Sir, please make a decision.
+Dialogue: 0,0:12:14.21,0:12:21.73,Default,,0,0,0,,> Lets go home. We can come back again if we can.
+Dialogue: 0,0:12:26.93,0:12:34.28,Default,,0,0,0,,> That day, the Kiska Island garrison, which was waiting for the rescue fleet, soon received
+Dialogue: 0,0:12:34.28,0:12:41.17,Default,,0,0,0,,a brief description of the cancellation of their withdrawal operation. Kiska Island was once again in despair.
+Dialogue: 0,0:12:42.17,0:12:49.42,Default,,0,0,0,,What came to their mind was the appearance of their comrades smashed on Attu Island.
+Dialogue: 0,0:13:03.93,0:13:11.55,Default,,0,0,0,,> Good. How is it? > How about taking advantage of this Opportunity?
+Dialogue: 0,0:13:11.55,0:13:17.38,Default,,0,0,0,,> Then, do you want to attack this one? > At that time, it was already too late.
+Dialogue: 0,0:13:25.17,0:13:34.83,Default,,0,0,0,,> No, I'm here. I was just a little careless. > The key to winning or losing is to be a little careless.
+Dialogue: 0,0:13:37.14,0:13:39.42,Default,,0,0,0,,> Sir. > What?
+Dialogue: 0,0:13:40.00,0:13:44.35,Default,,0,0,0,,> Fog is occurring from Paramushir to Aleutian. > How many days will it last?
+Dialogue: 0,0:13:45.35,0:13:48.59,Default,,0,0,0,,> 5 days probably. > Good.
+Dialogue: 0,0:13:49.21,0:13:51.79,Default,,0,0,0,,> Is that so? What day is it today?
+Dialogue: 0,0:13:52.76,0:13:56.55,Default,,0,0,0,,> It is July 19th. > Hmm.
+Dialogue: 0,0:14:00.28,0:14:08.48,Default,,0,0,0,,> Here, let's skip the story to July 30th, about 10 days after July 19th, and explain the situation on the US military's side.
+Dialogue: 0,0:14:09.80,0:14:16.86,Default,,0,0,0,,From this day, the American North Pacific Fleet began a naval bombardment on Kiska Island every day.
+Dialogue: 0,0:14:18.93,0:14:25.93,Default,,0,0,0,,The landing of the US military on Kiska Island is finally approaching. The area around Kiska Island was
+Dialogue: 0,0:14:25.93,0:14:33.38,Default,,0,0,0,,completely blocked by the American North Pacific Fleet, making it completely impossible for the Japanese fleet to approach.
+Dialogue: 0,0:14:34.76,0:14:40.59,Default,,0,0,0,,On August 14th, US troops finally launched a landing operation on Kiska Island.
+Dialogue: 0,0:14:40.59,0:14:46.66,Default,,0,0,0,,The number of participating ships was 91, and the number of troops exceeded 34,000.
+Dialogue: 0,0:15:46.86,0:15:50.69,Default,,0,0,0,,> Where did the Japanese army go? > I think they escaped into the mountains.
+Dialogue: 0,0:16:06.59,0:16:13.35,Default,,0,0,0,,> On Kiska Island, there were only three stray dogs and no Japanese garrison.
+Dialogue: 0,0:16:14.93,0:16:24.24,Default,,0,0,0,,At that time, 25 American soldiers were killed by friendly fire and 31 were injured due to anxiety and fear.
+Dialogue: 0,0:16:24.90,0:16:37.97,Default,,0,0,0,,How about 5,000 Japanese garrison soldiers escaped under US military surveillance and withdrew into the North Sea fog was a mystery.
+Dialogue: 0,0:16:37.97,0:16:42.76,Default,,0,0,0,,Lets return to the Japanese military side on July 19th.
+Dialogue: 0,0:16:43.52,0:16:45.97,Default,,0,0,0,,> Sir > What?
+Dialogue: 0,0:16:45.97,0:16:50.28,Default,,0,0,0,,> Fog is occurring from Paramushir to Aleutian. > How many days will it last?
+Dialogue: 0,0:16:50.28,0:16:54.86,Default,,0,0,0,,> In any case, I think this is the last fog > Good.
+Dialogue: 0,0:16:55.73,0:16:59.62,Default,,0,0,0,,> Is that so? What day is it today? > It is July 19th.
+Dialogue: 0,0:17:02.83,0:17:12.28,Default,,0,0,0,,> On July 22nd, the rescue fleet for the second withdrawal operation left Paramushir in the thick fog.
+Dialogue: 0,0:17:15.69,0:17:19.79,Default,,0,0,0,,> It's a great fog. > I don't want it to clear up as it is.
+Dialogue: 0,0:17:19.80,0:17:26.93,Default,,0,0,0,,> On the light tour ship, Staff officer Fujii prayed for the safety of his comrades on Kiska Island.
+Dialogue: 0,0:17:29.97,0:17:34.73,Default,,0,0,0,,> I will show you success this time. Please wait.
+Dialogue: 0,0:17:39.90,0:17:48.04,Default,,0,0,0,,> If the enemy lands, I am sorry. > Only you guys will be alive.
+Dialogue: 0,0:17:49.35,0:17:52.59,Default,,0,0,0,,> The rescue fleet has left Paramushir. > Is it true?
+Dialogue: 0,0:17:52.59,0:17:57.42,Default,,0,0,0,,> This time, I can finally go home > Is it true? Good.
+Dialogue: 0,0:17:58.73,0:18:00.69,Default,,0,0,0,,There was a telegram saving that they would leave today.
+Dialogue: 0,0:18:01.97,0:18:11.93,Default,,0,0,0,,> The Kiska Island defenders were delighted. However, two American destroyers were still watching at the entrance to Kiska bay.
+Dialogue: 0,0:18:13.66,0:18:19.48,Default,,0,0,0,,Around that time, one US military reconnaissance aircraft caught sight of seven ships that seemed
+Dialogue: 0,0:18:19.49,0:18:25.31,Default,,0,0,0,,to be the Japanese fleet on radar 200 nautical miles southwest of Attu Island,
+Dialogue: 0,0:18:25.31,0:18:32.07,Default,,0,0,0,,and the US North Pacific fleet gathered at the point indicated by the reconnaissance aircraft on July 25th, preparing to ambush the Japanese fleet.
+Dialogue: 0,0:18:33.24,0:18:44.79,Default,,0,0,0,,However, they were actually bombarding a Japanese ghost fleet. The American side was unaware of their radar error.
+Dialogue: 0,0:18:56.35,0:19:10.90,Default,,0,0,0,,What radar thought was a Japanese fleet was an echo on a nearby island. The bombardment fired more than 1,000 shells into the cold North Pacific waters.
+Dialogue: 0,0:19:12.62,0:19:24.52,Default,,0,0,0,,At that time, the Japanese rescue fleet was waiting while replenishing at a point about 500 nautical miles, far southwest of Kiska Island.
+Dialogue: 0,0:19:26.17,0:19:29.62,Default,,0,0,0,,> Damn. The fog cleared up again.
+Dialogue: 0,0:19:33.42,0:19:35.52,Default,,0,0,0,,> Same as the first time.
+Dialogue: 0,0:19:35.52,0:19:38.83,Default,,0,0,0,,> The foggy season may have passed. It was late to begin with.
+Dialogue: 0,0:19:39.42,0:19:44.90,Default,,0,0,0,,> Sir, if nothing is done, we will be immediately discovered by enemy reconnaissance aircraft. If we are attacked, everything is over.
+Dialogue: 0,0:19:47.07,0:19:55.83,Default,,0,0,0,,> Sir, the Kiska Island garrison contacted us. They have reported that the weather on the 29th is definitely foggy.
+Dialogue: 0,0:19:55.83,0:20:00.73,Default,,0,0,0,,> However, I can't believe that fog will come out in this weather.
+Dialogue: 0,0:20:00.73,0:20:05.42,Default,,0,0,0,,> No, it's a great opportunity. Start towards Kiska Island.
+Dialogue: 0,0:20:12.59,0:20:16.76,Default,,0,0,0,,> Sir, then it's like jumping into the enemy's pocket.
+Dialogue: 0,0:20:17.14,0:20:20.93,Default,,0,0,0,,> When an enemy fleet comes out, we will fire and withdraw then.
+Dialogue: 0,0:20:22.45,0:20:28.59,Default,,0,0,0,,> On July 29th, fog miraculously covered the North Pacific Ocean.
+Dialogue: 0,0:20:29.17,0:20:43.52,Default,,0,0,0,,The US North Pacific fleet, which bombarded the Japanese ghost fleet and consumed fuel, gathered at 105 nautical miles south-southeast of Kiska Island to refuel all ships.
+Dialogue: 0,0:20:44.24,0:20:50.07,Default,,0,0,0,,As a result, Kiska Island's surveillance disappeared and at this moment,
+Dialogue: 0,0:20:50.07,0:20:56.83,Default,,0,0,0,,Major General Kimura decided and the rescue fleet rushed into Kiska Bay in the fog.
+Dialogue: 0,0:21:19.35,0:21:24.45,Default,,0,0,0,,> A ship has arrived. It's a Japanese ship,
+Dialogue: 0,0:21:36.00,0:21:39.59,Default,,0,0,0,,Look. We can go home.
+Dialogue: 0,0:21:46.49,0:21:55.31,Default,,0,0,0,,> Please see, Sir. The happy faces of those soldiers. > It was good
+Dialogue: 0,0:22:21.21,0:22:23.97,Default,,0,0,0,,> The last landing craft has arrived.
+Dialogue: 0,0:22:33.11,0:22:35.24,Default,,0,0,0,,> Sir, thank you for your patience.
+Dialogue: 0,0:22:36.49,0:22:38.35,Default,,0,0,0,,> It was hard work.
+Dialogue: 0,0:22:39.42,0:22:49.69,Default,,0,0,0,,> Approximately 5,000 Kiska Island garrison members have completed their withdrawal. It took only 35 minutes.
+Dialogue: 0,0:22:54.86,0:23:00.97,Default,,0,0,0,,Is this lucky withdrawal of Kiska just a coincidence?
+Dialogue: 0,0:23:01.73,0:23:08.42,Default,,0,0,0,,At the time of the first withdrawal operation, if Kimura made a reckless decision and made the decision to go in,
+Dialogue: 0,0:23:08.42,0:23:15.21,Default,,0,0,0,,he would surely be under the scrutiny of the US military and there is no doubt that he would be wiped out.
+Dialogue: 0,0:23:17.24,0:23:23.66,Default,,0,0,0,,In the worst case, a commander must not lose his composure.
+Dialogue: 0,0:23:24.93,0:23:33.69,Default,,0,0,0,,A calm decision maker that should always look at all possibilities and lead them to success can really be of value.
+Dialogue: 0,0:23:35.21,0:23:41.69,Default,,0,0,0,,On August 1st, the rescue fleet safely arrived at Paramushir Port.
+Dialogue: 0,0:23:42.90,0:23:53.04,Default,,0,0,0,,After that, as before, US troops continued to bombard the ghost defense forces on Kiska Island, astonishing the three dogs.
+Dialogue: 0,0:23:58.08,0:24:07.80,Default,,0,0,0,,The Pacific War taught us the preciousness of peace, but it also leaves us with many lessons to live.
+Dialogue: 0,0:24:43.92,0:24:52.44,Default,,0,0,0,,If you are a man, test your strength It you are a man, burn your hope
+Dialogue: 0,0:24:52.44,0:24:57.19,Default,,0,0,0,,If you area man, don't let yourself down
+Dialogue: 0,0:24:57.20,0:25:13.50,Default,,0,0,0,,I and you are men and men bleed the same bright red blood.
+Dialogue: 0,0:25:13.51,0:25:19.13,Default,,0,0,0,,Tatsunoko Production

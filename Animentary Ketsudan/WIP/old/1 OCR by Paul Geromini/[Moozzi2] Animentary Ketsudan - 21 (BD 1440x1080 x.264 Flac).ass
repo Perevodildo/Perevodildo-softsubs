@@ -1,0 +1,176 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: No
+PlayResX: 1440
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Verdana,50,&H00FFFFFF,&H0000FFFF,&H00331C00,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,10,10,120,1
+Style: Sign,Arial,45,&H00FFFFFF,&H0000FFFF,&H00000039,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,0,0,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.55,0:00:07.37,Default,,0,0,0,,The most precious moment in life is the time of decision.
+Dialogue: 0,0:00:07.37,0:00:19.93,Default,,0,0,0,,The Pacific War taught us the preciousness of peace, but it also leaves us with many lessons to live.
+Dialogue: 0,0:00:24.27,0:00:32.65,Default,,0,0,0,,Ketsudan (decision)
+Dialogue: 0,0:00:34.27,0:00:49.13,Default,,0,0,0,,Use your wisdom Use your head Keep thinking it you're a man
+Dialogue: 0,0:00:49.13,0:00:58.20,Default,,0,0,0,,Whether you cry or laugh, it depends on your decision
+Dialogue: 0,0:00:58.20,0:01:06.06,Default,,0,0,0,,Don't be arrogant even if you win Don't cry even if you lose
+Dialogue: 0,0:01:06.06,0:01:13.58,Default,,0,0,0,,Man does not show tears
+Dialogue: 0,0:01:28.58,0:01:35.24,Default,,0,0,0,,Tatsunoko Production
+Dialogue: 0,0:01:38.74,0:01:46.19,Default,,0,0,0,,A large landing fleet led by General MacArthur was approaching Leyte Island, in the Philippines.
+Dialogue: 0,0:01:46.19,0:01:59.09,Default,,0,0,0,,On October 20th, 1944, prior to the start of landing, General MacArthur commanded on board the cruiser Nashville.
+Dialogue: 0,0:01:59.95,0:02:09.40,Default,,0,0,0,,He was impressed. It has been two years and seven months since he said goodbye to his subordinates on Bataan Peninsula
+Dialogue: 0,0:02:09.40,0:02:19.02,Default,,0,0,0,,and Filipino citizens on March 11th, 1942, in the midst of starvation and Japanese shells, leaving by saying, "I shall return".
+Dialogue: 0,0:02:20.02,0:02:37.71,Default,,0,0,0,,I am General MacArthur. Filipino citizens, I came back. With the blessing of God
+Dialogue: 0,0:02:38.50,0:02:45.71,Default,,0,0,0,,> From this point onward, the Japanese forces, which discovered the American fleet, decided to challenge them with a decisive battle.
+Dialogue: 0,0:02:45.71,0:02:53.92,Default,,0,0,0,,Operation Sho-Ichi-go, which was prepared two months ago, was launched and
+Dialogue: 0,0:02:53.92,0:02:58.19,Default,,0,0,0,,the Kurita fleet of the combined fleet was in the Leyte Gulf. It was decided to destroy the American convoy.
+Dialogue: 0,0:02:58.19,0:03:04.16,Default,,0,0,0,,Battle of Leyte Gulf (Part 1) (Episode 21)
+Dialogue: 0,0:03:05.47,0:03:12.95,Default,,0,0,0,,The 2nd Fleet of Kurita, which was based in Brunei Bay in Borneo, had a strategy meeting with each captain on the 25th regarding
+Dialogue: 0,0:03:12.95,0:03:20.64,Default,,0,0,0,,the order of Commander-in-Chief Toyeda, who had entered Leyte Gulf.
+Dialogue: 0,0:03:22.12,0:03:30.05,Default,,0,0,0,,> As you may already know, in this operation, the Third Fleet led by Vice Admiral Ozawa will be
+Dialogue: 0,0:03:30.05,0:03:37.23,Default,,0,0,0,,dispatched in this direction as a decoy for the aircraft carrier Zuikaku and other air squadrons.
+Dialogue: 0,0:03:37.23,0:03:38.98,Default,,0,0,0,,Its goal is to attract the enemy.
+Dialogue: 0,0:03:38.99,0:03:48.64,Default,,0,0,0,,Meanwhile, the Fifth Fleet, led by Vice Admiral Shima, will join our second Fleet at the entrance to Leyte Gulf via the Suriagao Strait.
+Dialogue: 0,0:03:48.64,0:04:02.12,Default,,0,0,0,,With our Kurita fleet, the first night battle unit led by Commander Kurita will rush into Leyte Gulf via the San Bernardino Strait. The Second Night Warfare unit will invade from the south.
+Dialogue: 0,0:04:04.95,0:04:11.12,Default,,0,0,0,,> I understand that. However, what are we going to use to attack these transport ships.
+Dialogue: 0,0:04:11.12,0:04:14.57,Default,,0,0,0,,For that matter, an air raid via aircraft carrier is sufficient.
+Dialogue: 0,0:04:14.57,0:04:25.43,Default,,0,0,0,,> I agree. What the hell is command thinking? We should make the first goal the destruction of the enemy's main force, but nevertheless,
+Dialogue: 0,0:04:25.43,0:04:27.78,Default,,0,0,0,,What will we use to attack this convoy?
+Dialogue: 0,0:04:27.78,0:04:34.67,Default,,0,0,0,,> Do you think we don't need the second Fleet? > That's right. A decisive fleet battle is our mission.
+Dialogue: 0,0:04:34.67,0:04:45.05,Default,,0,0,0,,> I think so too. Therefore, if the enemy's capital ships appear, it is understood that you will stop attacking the convoy and attack their capital ships.
+Dialogue: 0,0:04:45.36,0:04:49.05,Default,,0,0,0,,However, the luxury of fighting a flashy battle is no longer allowed.
+Dialogue: 0,0:04:49.05,0:04:52.23,Default,,0,0,0,,What do you think Captain Musashi? You have been silent for a while.
+Dialogue: 0,0:04:52.23,0:04:55.33,Default,,0,0,0,,> I disagree with everyone's opinion.
+Dialogue: 0,0:04:55.33,0:05:06.23,Default,,0,0,0,,I'm sorry to say this, especially given our 46cm cannons, but I think the age of decisive fleet battles ended with the Russo-Japanese War.
+Dialogue: 0,0:05:06.23,0:05:08.05,Default,,0,0,0,,> What!
+Dialogue: 0,0:05:09.99,0:05:13.67,Default,,0,0,0,,> Now is the time when everything is decided by decisive air battle.
+Dialogue: 0,0:05:13.67,0:05:20.95,Default,,0,0,0,,Rather than sticking to the honor of the decisive fleet battle, our problem is how to reduce damage we take and increase our attack power.
+Dialogue: 0,0:05:20.95,0:05:28.19,Default,,0,0,0,,I think it's more problematic to go naked into Leyte Gulf without having a single plane, even though the enemy's MTF has mastered carrier operations.
+Dialogue: 0,0:05:28.19,0:05:30.98,Default,,0,0,0,,> You said honor? > That's stupid.
+Dialogue: 0,0:05:30.99,0:05:35.23,Default,,0,0,0,,> What are you talking about? > Are you ignoring the Navy's tradition?
+Dialogue: 0,0:05:35.23,0:05:37.12,Default,,0,0,0,,> What can you do with such a weak will?
+Dialogue: 0,0:05:44.92,0:05:48.81,Default,,0,0,0,,> Everyone, we got some great news.
+Dialogue: 0,0:05:48.81,0:05:54.64,Default,,0,0,0,,It says that they have loaded a 250kg bomb into the Zero and formed a Kamikaze corps.
+Dialogue: 0,0:05:54.64,0:06:02.64,Default,,0,0,0,,> With a one-way deadly attack we do not need to be afraid of 100 aircraft carriers.
+Dialogue: 0,0:06:02.64,0:06:12.64,Default,,0,0,0,,> The discussions of the captains who object to the decisive fleet battle have been put to an end by the report of the Kamikaze corps.
+Dialogue: 0,0:06:16.61,0:06:30.40,Default,,0,0,0,,> Major General Inoguchi, the captain of the battleship Musashi, was worried about the idea of a decisive fleet battle ominously clinging to his colleague's and his boss's head.
+Dialogue: 0,0:06:32.67,0:06:35.43,Default,,0,0,0,,> Captain > hmmm
+Dialogue: 0,0:06:35.43,0:06:40.50,Default,,0,0,0,,> What happened? > No, what is it?
+Dialogue: 0,0:06:40.50,0:06:44.78,Default,,0,0,0,,> The refueling work is finished > Thank you
+Dialogue: 0,0:06:46.09,0:06:48.26,Default,,0,0,0,,> It really is something.
+Dialogue: 0,0:06:48.26,0:06:57.67,Default,,0,0,0,,> From now on, I'm going to sortie without air cover, but the enemy will definitely come to raid us by air. We will not get a decisive fleet battle. We will definitely suffer great damage.
+Dialogue: 0,0:06:57.67,0:06:59.60,Default,,0,0,0,,> But
+Dialogue: 0,0:06:59.61,0:07:07.16,Default,,0,0,0,,> Yes, but I have to go because it's an order. Moreover, I can only think of the Musashi. Don't think about it.
+Dialogue: 0,0:07:09.02,0:07:11.67,Default,,0,0,0,,What would you do as the deputy director?
+Dialogue: 0,0:07:11.67,0:07:16.67,Default,,0,0,0,,> Follow their instructions. I will do my best within my authority.
+Dialogue: 0,0:07:16.67,0:07:23.09,Default,,0,0,0,,> The best thing I can do is reduce the damage to the Second Fleet.
+Dialogue: 0,0:07:24.30,0:07:30.40,Default,,0,0,0,,> Captain > Did you hear about the Kamikaze corps?
+Dialogue: 0,0:07:31.09,0:07:34.26,Default,,0,0,0,,> Yeah > They can't return.
+Dialogue: 0,0:07:34.26,0:07:36.60,Default,,0,0,0,,> They can't return.
+Dialogue: 0,0:07:47.54,0:07:52.16,Default,,0,0,0,,> Deputy Director Kato. Immediately paint the hull and deck.
+Dialogue: 0,0:08:01.57,0:08:07.26,Default,,0,0,0,,> What does this painting order mean?
+Dialogue: 0,0:08:09.26,0:08:11.85,Default,,0,0,0,,> It's late. Do it quicker.
+Dialogue: 0,0:08:15.71,0:08:18.88,Default,,0,0,0,,> Sergeant Arakawa? > What?
+Dialogue: 0,0:08:18.88,0:08:25.54,Default,,0,0,0,,> It is only us doing this painting. > Why only us?
+Dialogue: 0,0:08:25.54,0:08:32.09,Default,,0,0,0,,> Don't dally, do it quickly. Don't you know? The captain is a fourth generation officer and the deputy captain is a second generation officer.
+Dialogue: 0,0:08:32.09,0:08:37.23,Default,,0,0,0,,> So? > 4(shi) and 2(ni) are shinishozoku (burial clothes) > What kind of face is that?
+Dialogue: 0,0:08:37.23,0:08:40.36,Default,,0,0,0,,I think military personnel are always dressed for death.
+Dialogue: 0,0:08:40.36,0:08:48.47,Default,,0,0,0,,Everyone needs to change their dress today. The captain is already prepared. I'll do it too.
+Dialogue: 0,0:08:58.64,0:09:08.67,Default,,0,0,0,,> Hey, do it fast. This Musashi is an unsinkable battleship, She is designed to run even if she receives hits from five or six torpedoes.
+Dialogue: 0,0:09:22.57,0:09:30.19,Default,,0,0,0,,> At 8:00 am on October 22nd, 1944, out of Brunei Bay a fleet of 27 ships, including the main forces of
+Dialogue: 0,0:09:30.19,0:09:37.47,Default,,0,0,0,,the Kurita fleet: Musashino, Yamato, and Nagato, sailed around the southern tip of the Mindoro Island from the west side of Palawan
+Dialogue: 0,0:09:37.47,0:09:43.29,Default,,0,0,0,,They went through the San Bernardino Strait to Leyte Gulf along the eastern coast of Samar Island.
+Dialogue: 0,0:09:43.30,0:09:49.16,Default,,0,0,0,,Their mission would take them about 1900kms.
+Dialogue: 0,0:09:50.85,0:10:01.47,Default,,0,0,0,,Commander-in-Chief of the combined Fleet, Toyeda, sent a telegram encouraging a decisive battle as the Kurita fleet passed off Palawan.
+Dialogue: 0,0:10:02.30,0:10:11.74,Default,,0,0,0,,> Renew your preparedness here, fight with purpose, and annihilate your strong enemies.
+Dialogue: 0,0:10:14.19,0:10:21.50,Default,,0,0,0,,> However, as early as it was, the American submarines Dace and Darter spotted the Japanese fleet.
+Dialogue: 0,0:10:27.43,0:10:31.98,Default,,0,0,0,,> Captain, can you see anything? What is it?
+Dialogue: 0,0:10:31.99,0:10:34.95,Default,,0,0,0,,> Is it a cruiser? > Anything else?
+Dialogue: 0,0:10:35.92,0:10:43.23,Default,,0,0,0,,> Cruisers and destroyers. They have a lot > What is it?
+Dialogue: 0,0:10:43.36,0:10:48.29,Default,,0,0,0,,> Beautiful. Really beautiful. > Do you see battleships?
+Dialogue: 0,0:10:54.33,0:10:56.74,Default,,0,0,0,,> What a waste to sink.
+Dialogue: 0,0:11:00.50,0:11:03.36,Default,,0,0,0,,> Let's start with the first cruiser. > Ok.
+Dialogue: 0,0:11:03.36,0:11:07.78,Default,,0,0,0,,> Ready to launch
+Dialogue: 0,0:11:15.09,0:11:17.40,Default,,0,0,0,,> Beautiful
+Dialogue: 0,0:11:22.81,0:11:26.19,Default,,0,0,0,,> Yes. It's a nice sunrise.
+Dialogue: 0,0:11:36.57,0:11:38.64,Default,,0,0,0,,> Full starboard
+Dialogue: 0,0:11:43.19,0:11:47.88,Default,,0,0,0,,> It's an enemy > Takao was hit.
+Dialogue: 0,0:11:49.78,0:11:53.43,Default,,0,0,0,,> It's depth charge. > It is not a depth charge. We hit them
+Dialogue: 0,0:11:53.43,0:11:56.98,Default,,0,0,0,,> 4, 5, and 6 hits.
+Dialogue: 0,0:12:00.36,0:12:02.64,Default,,0,0,0,,> I did it
+Dialogue: 0,0:12:15.85,0:12:18.50,Default,,0,0,0,,> Maya was also killed
+Dialogue: 0,0:12:30.61,0:12:33.23,Default,,0,0,0,,> Prepare to rescue the survivors.
+Dialogue: 0,0:12:34.09,0:12:43.71,Default,,0,0,0,,> Early though it was for the Kurita fleet, the heavy cruiser Atago, and Maya were lost and Takao was also wrecked as Captain Inoguchi had said would happen.
+Dialogue: 0,0:12:43.71,0:12:48.36,Default,,0,0,0,,In addition, many difficulties were expected as they went.
+Dialogue: 0,0:13:03.05,0:13:14.64,Default,,0,0,0,,> A report from an American search aircraft that discovered the Japanese fleet off the southern tip of Mindoro immediately reached Admiral Halsey, who is in direct command on the carrier Lexington.
+Dialogue: 0,0:13:14.64,0:13:22.40,Default,,0,0,0,,> It was 8:37 am. > Attack! There is only the attack.
+Dialogue: 0,0:13:22.40,0:13:28.23,Default,,0,0,0,,> At the command of General Halsey, the full-scale Battle of Leyte Gulf has begun.
+Dialogue: 0,0:13:28.95,0:13:42.16,Default,,0,0,0,,From the Bogan fleet aircraft carriers Intrepid, Cabot, and Independence, 31 fighters, 16 torpedo bombers, and 12 dive bombers were launched in search of the Kurita fleet.
+Dialogue: 0,0:13:53.19,0:14:01.95,Default,,0,0,0,,> It's the first time, but your opponent will not be a warship, but be patient.
+Dialogue: 0,0:14:01.95,0:14:12.57,Default,,0,0,0,,> It was the first time that the world's largest cannon was to be used. Every naval watcher's eyes were here.
+Dialogue: 0,0:14:40.02,0:14:44.88,Default,,0,0,0,,> I am ready. Can you work? > Yes. The burial clothing is also completed.
+Dialogue: 0,0:14:44.88,0:14:52.78,Default,,0,0,0,,> Burial clothes? > The captain is fourth generation, I am second generation, so 42(Shi-ni).
+Dialogue: 0,0:14:52.78,0:14:58.64,Default,,0,0,0,,> I see. > The soldiers all know the captain's feelings as the lead ship.
+Dialogue: 0,0:14:58.64,0:15:05.85,Default,,0,0,0,,> In case of emergency, try to save as many lives as possible. > Yes.
+Dialogue: 0,0:15:05.85,0:15:10.23,Default,,0,0,0,,> Enemy carrier-based aircraft. Right 95 degrees on the horizon.
+Dialogue: 0,0:15:14.36,0:15:19.09,Default,,0,0,0,,> In the duel of Ganryujima in the Showa era, Kojiro was the sun.
+Dialogue: 0,0:15:22.81,0:15:24.29,Default,,0,0,0,,> Fire
+Dialogue: 0,0:15:44.81,0:15:46.85,Default,,0,0,0,,> Fire
+Dialogue: 0,0:15:53.30,0:15:55.26,Default,,0,0,0,,> Fire
+Dialogue: 0,0:16:03.71,0:16:07.71,Default,,0,0,0,,> Don't shoot the main guns, Stop firing!
+Dialogue: 0,0:16:07.71,0:16:18.47,Default,,0,0,0,,> A certain amount of impact from the 46cm gun was predicted, but the actual impact was so great that other armaments could no longer be used.
+Dialogue: 0,0:16:18.47,0:16:23.40,Default,,0,0,0,,It was a miscalculation of the Navy's traditional fleet battle principle.
+Dialogue: 0,0:16:23.40,0:16:30.67,Default,,0,0,0,,However, Musashi did not lose its function at all even if though it was hit by a torpedo bomber and strafed.
+Dialogue: 0,0:16:35.74,0:16:42.81,Default,,0,0,0,,The confident appearance of the unsinkable ship Musashi, who shrugged off a single torpedo hit,
+Dialogue: 0,0:16:42.81,0:16:48.23,Default,,0,0,0,,conversely awakened the fighting spirit of the American pilots who began to clearly aim for Musashi.
+Dialogue: 0,0:16:56.47,0:17:00.47,Default,,0,0,0,,> The enemy aiming for us. > They are coming more and more.
+Dialogue: 0,0:17:00.47,0:17:08.88,Default,,0,0,0,,> 1:30 pm. A third group of 65 aircraft and then a fourth group of 25 aircraft attacked the ship.
+Dialogue: 0,0:17:11.57,0:17:23.81,Default,,0,0,0,,Musashi, who had no friendly air cover, was hit by five torpedoes and five more bombs in these concentrated attacks.
+Dialogue: 0,0:17:24.57,0:17:27.33,Default,,0,0,0,,Captain Inoguchi was also seriously injured.
+Dialogue: 0,0:17:28.23,0:17:37.92,Default,,0,0,0,,> Thus, at 2:00 pm Musashi, whose speed dropped to 6 knots, left the battle line. > If the enemy comes another time the ship will be lost.
+Dialogue: 0,0:17:37.92,0:17:42.26,Default,,0,0,0,,> Yeah. No more ammunition. > There are no people to man the guns.
+Dialogue: 0,0:17:42.26,0:17:44.02,Default,,0,0,0,,> What about food? > Do you have a meal there?
+Dialogue: 0,0:17:44.02,0:17:50.29,Default,,0,0,0,,> Yes, I had only made half of breakfast. > Well made, despite the battle.
+Dialogue: 0,0:17:50.30,0:17:57.57,Default,,0,0,0,,> I can't even make rice balls because there are no people. > Ok then for me to eat it? I can't fight if I'm hungry.
+Dialogue: 0,0:17:57.57,0:18:01.47,Default,,0,0,0,,> I'm sorry, > Hey it's rice.
+Dialogue: 0,0:18:08.09,0:18:11.98,Default,,0,0,0,,> After all it is good. I thought I couldn't eat anymore.
+Dialogue: 0,0:18:21.50,0:18:25.47,Default,,0,0,0,,> Are you okay? > Yes, I'm fine.
+Dialogue: 0,0:18:32.61,0:18:40.40,Default,,0,0,0,,> Oh, is it a midnight snack? Our lives won't last until night. Do you still want to live?
+Dialogue: 0,0:18:53.95,0:18:59.43,Default,,0,0,0,,> I couldn't do anything. Forgive me.
+Dialogue: 0,0:19:19.71,0:19:23.57,Default,,0,0,0,,> I said something bad earlier. Forgive me.
+Dialogue: 0,0:19:37.85,0:19:44.29,Default,,0,0,0,,> No more, not even for Musashi. > I wonder if the order to leave the ship has been issued yet.
+Dialogue: 0,0:19:44.30,0:19:50.67,Default,,0,0,0,,> It is a violation of military law if you leave the ship before the order is issued. > Soldier Wakamizu.
+Dialogue: 0,0:19:51.36,0:19:56.23,Default,,0,0,0,,> Captain Sugano. > Gather the surviving anti-aircraft gunners on the back deck.
+Dialogue: 0,0:19:56.23,0:20:01.23,Default,,0,0,0,,> I understand. Gunners, gather on the rear deck.
+Dialogue: 0,0:20:02.16,0:20:07.09,Default,,0,0,0,,What was it that grabbed the mind of Captain Sugano, the commander of the 7th Squad of anti-aircraft gunners.
+Dialogue: 0,0:20:07.09,0:20:17.02,Default,,0,0,0,,At the same time as he wanted to help as many living soldiers as possible on the Musashi, who had lost her function, it was only a matter of time before the order to leave the ship came from the top.
+Dialogue: 0,0:20:17.71,0:20:30.43,Default,,0,0,0,,Everyone's struggle today was brilliant. Really hard work. Without that you more would have been killed and injured.
+Dialogue: 0,0:20:30.43,0:20:40.92,Default,,0,0,0,,I can't stand for anyone to be hurt anymore. Musashi will soon sink. However, no order to leave the ship has been issued yet.
+Dialogue: 0,0:20:41.12,0:20:50.67,Default,,0,0,0,,It is a shame for military personnel to leave the ship without an order to abandon ship, which is against military law. However, no more can be done.
+Dialogue: 0,0:20:50.67,0:20:58.74,Default,,0,0,0,,I take responsibility for the anti-aircraft crews, Everyone find something suitable and abandon ship.
+Dialogue: 0,0:20:59.33,0:21:03.09,Default,,0,0,0,,> This decision saved many lives.
+Dialogue: 0,0:21:13.43,0:21:15.19,Default,,0,0,0,,> May I come in. > Come in.
+Dialogue: 0,0:21:16.16,0:21:22.92,Default,,0,0,0,,> I'm sorry. I issued an order to leave the ship at my own discretion. Please punish me.
+Dialogue: 0,0:21:24.71,0:21:35.50,Default,,0,0,0,,> No, you did well. I missed my chance while writing a suicide note. You took initiative. Thank you.
+Dialogue: 0,0:21:44.16,0:21:49.02,Default,,0,0,0,,Now I have a suicide note. Deputy Director Kato, I'll leave it to you.
+Dialogue: 0,0:22:06.05,0:22:11.88,Default,,0,0,0,,> You guys should go too. > Now, excuse me.
+Dialogue: 0,0:22:17.57,0:22:20.85,Default,,0,0,0,,> I'll leave it. > I will also accompany you.
+Dialogue: 0,0:22:22.12,0:22:27.05,Default,,0,0,0,,> What do you mean? All that remains here will be the casualties and me.
+Dialogue: 0,0:22:27.05,0:22:33.64,Default,,0,0,0,,> My lack of effort... > Leave the ship. that's an order.
+Dialogue: 0,0:22:43.64,0:22:52.23,Default,,0,0,0,,> The proper decision of Captain Sugano, a mid-level officer, saved the lives of many soldiers in a timely manner.
+Dialogue: 0,0:23:00.16,0:23:04.26,Default,,0,0,0,,Thus, Musashi, who was proud of her unsinkability, sank.
+Dialogue: 0,0:23:04.88,0:23:13.02,Default,,0,0,0,,At the expense of the decisive fleet battle principle, he could not fulfill his mission as a battleship, so to speak.
+Dialogue: 0,0:23:13.02,0:23:24.02,Default,,0,0,0,,With the decision of Major General Inoguchi, who became the admiral in charge and kept the damage to the entire fleet small,
+Dialogue: 0,0:23:24.02,0:23:32.26,Default,,0,0,0,,and with the will of the senior Captain Sugano's order to leave the ship, which saved many lives, is still being reported as a decision of the mid-level officers.
+Dialogue: 0,0:23:33.99,0:23:43.02,Default,,0,0,0,,In addition, like the late Musashi, her captain, Major General Inoguchi, made a splendid sacrifice.
+Dialogue: 0,0:23:58.04,0:24:07.84,Default,,0,0,0,,The Pacific War taught us the preciousness of peace, but it also leaves us with many lessons to live.
+Dialogue: 0,0:24:43.92,0:24:52.44,Default,,0,0,0,,If you are a man, test your strength It you are a man, burn your hope
+Dialogue: 0,0:24:52.44,0:24:57.19,Default,,0,0,0,,If you area man, don't let yourself down
+Dialogue: 0,0:24:57.20,0:25:13.50,Default,,0,0,0,,I and you are men and men bleed the same bright red blood.
+Dialogue: 0,0:25:13.51,0:25:19.13,Default,,0,0,0,,Tatsunoko Production

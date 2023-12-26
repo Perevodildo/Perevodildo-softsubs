@@ -1,0 +1,163 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: No
+PlayResX: 1440
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Verdana,50,&H00FFFFFF,&H0000FFFF,&H00331C00,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,10,10,120,1
+Style: Sign,Arial,45,&H00FFFFFF,&H0000FFFF,&H00000039,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,0,0,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.55,0:00:07.37,Default,,0,0,0,,The most precious moment in life is the time of decision.
+Dialogue: 0,0:00:07.37,0:00:19.93,Default,,0,0,0,,The Pacific War taught us the preciousness of peace, but it also leaves us with many lessons to live.
+Dialogue: 0,0:00:24.27,0:00:32.65,Default,,0,0,0,,Ketsudan (decision)
+Dialogue: 0,0:00:34.27,0:00:49.13,Default,,0,0,0,,Use your wisdom, use your head Keep thinking if you're a man
+Dialogue: 0,0:00:49.13,0:00:58.20,Default,,0,0,0,,Whether you cry or laugh, it depends on your decision
+Dialogue: 0,0:00:58.20,0:01:06.06,Default,,0,0,0,,Don't be arrogant even if you win Don't cry even if you lose
+Dialogue: 0,0:01:06.06,0:01:13.58,Default,,0,0,0,,Man does not show tears
+Dialogue: 0,0:01:27.58,0:01:34.68,Default,,0,0,0,,Tatsunoko Production
+Dialogue: 0,0:01:41.07,0:01:48.75,Default,,0,0,0,,The purpose of Japan's southern operation in the Pacific War was to acquire oil.
+Dialogue: 0,0:01:48.75,0:01:58.51,Default,,0,0,0,,This operation, which seeks to cross the sea and land on enemy territory, was unprecedented in the history of warfare in terms of its scale.
+Dialogue: 0,0:01:58.51,0:02:09.51,Default,,0,0,0,,Therefore, the 16th Army, under the command of Lieutenant General Imamura, was joined by other land, sea, and air forces in joint operations.
+Dialogue: 0,0:02:11.41,0:02:18.72,Default,,0,0,0,,January 2, 1942, Japanese troops occupied Manila in the Philippines. With that momentum,
+Dialogue: 0,0:02:18.72,0:02:25.17,Default,,0,0,0,,they launched an operation to capture Celebes Island across the Makassar Strait, east of Borneo.
+Dialogue: 0,0:02:27.48,0:02:34.96,Default,,0,0,0,,As part of this Celebes Island operation, the Navy's Southern Forces planned an attack with paratroopers.
+Dialogue: 0,0:02:35.86,0:02:42.13,Default,,0,0,0,,The commander was Vice Admiral Tsukahara, Commander-in-Chief of the 11th Air Fleet.
+Dialogue: 0,0:02:43.34,0:02:46.96,Default,,0,0,0,,> The main body of the Japanese Navy Land Force will land in the direction of Manado on the west coast
+Dialogue: 0,0:02:46.96,0:02:50.55,Default,,0,0,0,,and partly in the direction of Kema in the east. They will attack the enemy from both sides.
+Dialogue: 0,0:02:53.27,0:02:59.13,Default,,0,0,0,,At the same time, paratroopers will land in Langoan to capture Langoan's airfield and Kacas's port.
+Dialogue: 0,0:02:59.82,0:03:07.24,Default,,0,0,0,,> The paratroopers will descend into the middle of the enemy. > They will divide the enemy and weakens their power. That will be our first win.
+Dialogue: 0,0:03:08.79,0:03:17.44,Default,,0,0,0,,> This operation by the Japanese paratroopers was a challenge for the untested Japanese forces.
+Dialogue: 0,0:03:35.15,0:03:41.80,Default,,0,0,0,,Japanese Marine Paratroopers (Episode 10)
+Dialogue: 0,0:03:54.24,0:03:55.89,Default,,0,0,0,,> Winning the battle is the highest priority
+Dialogue: 0,0:03:55.89,0:04:01.75,Default,,0,0,0,,> Although it is out plan, isn't too reckless to suddenly descend into the middle of the enemy's position?
+Dialogue: 0,0:04:03.03,0:04:07.79,Default,,0,0,0,,It they become besieged by the enemy, the few paratroopers will be at great risk.
+Dialogue: 0,0:04:10.31,0:04:13.62,Default,,0,0,0,,> I am fully aware of the risk. > Please reconsider their point of descent.
+Dialogue: 0,0:04:13.62,0:04:19.20,Default,,0,0,0,,> lam not afraid of death. I just want to do my best.
+Dialogue: 0,0:04:20.31,0:04:24.75,Default,,0,0,0,,> The attack by the paratroopers was decided to be the best plan to capture Celebes.
+Dialogue: 0,0:04:24.75,0:04:27.62,Default,,0,0,0,,> It is still possible to change their descent point.
+Dialogue: 0,0:04:28.17,0:04:34.37,Default,,0,0,0,,> It is important now to carry out our plan. Now our priority is the plan. That's it.
+Dialogue: 0,0:04:37.17,0:04:45.48,Default,,0,0,0,,The tactic of using paratroopers to surprise the enemy and take the initiative has already been used by Germany and other countries.
+Dialogue: 0,0:04:46.34,0:04:55.62,Default,,0,0,0,,Following that, the Japanese Navy's paratroopers were created in secret in 1941, with life-threatening training.
+Dialogue: 0,0:05:00.82,0:05:10.44,Default,,0,0,0,,On January 11th, 1942, at 4:00 am, the landing in front of the enemy began when the Navy paratroopers descended.
+Dialogue: 0,0:06:02.62,0:06:07.00,Default,,0,0,0,,> Hurry to the airfield. Go to the airfield as soon as possible,
+Dialogue: 0,0:06:07.48,0:06:13.31,Default,,0,0,0,,Don't kill the paratroopers. Don't isolate the paratroopers.
+Dialogue: 0,0:06:25.48,0:07:03.31,Default,,0,0,0,,♪ Sora no Shinpei (The Divine Soldiers of the Sky)
+Dialogue: 0,0:07:39.27,0:07:47.27,Default,,0,0,0,,January 12th, 11:30 am. The ground troops and the Navy paratroopers finally link up.
+Dialogue: 0,0:07:48.31,0:07:51.48,Default,,0,0,0,,It was 31 hours after the start of the battle.
+Dialogue: 0,0:08:00.69,0:08:04.75,Default,,0,0,0,,> Murai, you. > Tateno, you.
+Dialogue: 0,0:08:04.75,0:08:07.10,Default,,0,0,0,,> It was a wonderful descent.
+Dialogue: 0,0:08:07.10,0:08:12.55,Default,,0,0,0,,> You guys led a wonderful attack too. I wanted to see you as soon as possible.
+Dialogue: 0,0:08:12.55,0:08:14.48,Default,,0,0,0,,> We were waiting.
+Dialogue: 0,0:08:19.89,0:08:25.75,Default,,0,0,0,,> It's been a long time. > It's been too long since the academy. We used to look at the sky like this.
+Dialogue: 0,0:08:25.75,0:08:27.96,Default,,0,0,0,,> Hmm, I miss those days.
+Dialogue: 0,0:08:34.31,0:08:37.62,Default,,0,0,0,,> Thanks to you for the success of our paratroopers.
+Dialogue: 0,0:08:37.62,0:08:42.72,Default,,0,0,0,,>What are you talking about? This is because we, the Navy and the Special Army Squadron, cooperated with each other.
+Dialogue: 0,0:08:49.69,0:09:00.48,Default,,0,0,0,,> For that reason, the paratroopers were immortalized in the song: The Divine Soldiers of The Sky
+Dialogue: 0,0:09:15.38,0:09:21.20,Default,,0,0,0,,> The paratroopers are popular wherever they go. > Because they are now the divine soldiers of the sky.
+Dialogue: 0,0:09:21.20,0:09:25.48,Default,,0,0,0,,> Because their parachutes are gorgeous. > Hey, don't be jealous.
+Dialogue: 0,0:09:26.24,0:09:28.55,Default,,0,0,0,,> I'm not jealous.
+Dialogue: 0,0:09:32.96,0:09:35.31,Default,,0,0,0,,> That makes the ground crew look pitiful.
+Dialogue: 0,0:09:35.31,0:09:40.24,Default,,0,0,0,,> Aren't we comrades who share the same blood and flesh? What do you say.
+Dialogue: 0,0:09:41.10,0:09:46.68,Default,,0,0,0,,> Are you a paratrooper? > No, I'm not. This is the paratrooper,
+Dialogue: 0,0:09:47.44,0:09:51.34,Default,,0,0,0,,> Please come talk about parachutes. > Hey, stop It.
+Dialogue: 0,0:09:51.34,0:09:52.93,Default,,0,0,0,,> Please? The children are waiting.
+Dialogue: 0,0:09:53.48,0:09:54.75,Default,,0,0,0,,I am contused.
+Dialogue: 0,0:09:56.44,0:09:59.62,Default,,0,0,0,,> It's good. Think of it as an act of goodwill.
+Dialogue: 0,0:09:59.62,0:10:02.13,Default,,0,0,0,,> Hurry up. > Murai. sorry.
+Dialogue: 0,0:10:02.13,0:10:06.96,Default,,0,0,0,,> Well, I'm getting used to it. > What?
+Dialogue: 0,0:10:12.93,0:10:14.79,Default,,0,0,0,,> Alright.
+Dialogue: 0,0:10:37.27,0:10:44.44,Default,,0,0,0,,> Not just paratroopers. The blood of our ground forces also seep into the land of Celebes.
+Dialogue: 0,0:10:52.93,0:10:55.86,Default,,0,0,0,,> Who is it? Stop!
+Dialogue: 0,0:10:57.10,0:10:59.17,Default,,0,0,0,,Which unit do you belong to? > The Paratroopers.
+Dialogue: 0,0:10:59.96,0:11:01.48,Default,,0,0,0,,>Is it a paratrooper?
+Dialogue: 0,0:11:01.48,0:11:03.51,Default,,0,0,0,,> My unit is... > I know.
+Dialogue: 0,0:11:04.00,0:11:05.96,Default,,0,0,0,,Go back to your unit. Go!
+Dialogue: 0,0:11:09.07,0:11:13.44,Default,,0,0,0,,> I am... > T fully understand your feelings.
+Dialogue: 0,0:11:13.44,0:11:21.79,Default,,0,0,0,,> The paratroopers are thinking of occupying this area on their own. I can't stand it when I think of my dead comrades.
+Dialogue: 0,0:11:24.20,0:11:26.48,Default,,0,0,0,,> I understand. So what should I do?
+Dialogue: 0,0:11:26.48,0:11:31.44,Default,,0,0,0,,> If you leave it as it is, it will only hurt both sides. Is there any other way?
+Dialogue: 0,0:11:31.44,0:11:36.27,Default,,0,0,0,,> I understand what you mean. But we just came down from the sky with a parachute.
+Dialogue: 0,0:11:36.27,0:11:39.13,Default,,0,0,0,,> I'm sure something is wrong somewhere.
+Dialogue: 0,0:11:39.13,0:11:42.31,Default,,0,0,0,,> We, who were exaggeratedly praised like “divine soldiers of the sky", are quite a nuisance.
+Dialogue: 0,0:11:43.00,0:11:46.93,Default,,0,0,0,,>I didn't say. that, but when I think of my subordinates, I can't stay still.
+Dialogue: 0,0:11:46.93,0:11:52.13,Default,,0,0,0,,> Hey, Murai. It's nothing to be angry about. Time will solve this.
+Dialogue: 0,0:11:55.48,0:11:59.48,Default,,0,0,0,,> Is that so? You can't understand my feelings.
+Dialogue: 0,0:11:59.48,0:12:09.51,Default,,0,0,0,,> Hey, this is a battlefield. Tomorrow we may be at the forefront with each other. We're are risking our lives here. Such a thing...
+Dialogue: 0,0:12:16.03,0:12:17.27,Default,,0,0,0,,> Wait. Murai.
+Dialogue: 0,0:12:20.51,0:12:22.03,Default,,0,0,0,,> "Divine soldier of the sky?"
+Dialogue: 0,0:12:30.41,0:12:33.37,Default,,0,0,0,,Is this a military hero?
+Dialogue: 0,0:12:33.38,0:12:41.20,Default,,0,0,0,,> Hey, are you great because you are a paratrooper? Do you think that only paratroopers are soldiers?
+Dialogue: 0,0:12:45.38,0:12:48.31,Default,,0,0,0,,> This hero is pathetic.
+Dialogue: 0,0:12:57.86,0:13:04.00,Default,,0,0,0,,> Chief, if you leave it as it is, the gap between the two branches will only deepen. We have to think about countermeasures as soon as possible.
+Dialogue: 0,0:13:06.75,0:13:10.51,Default,,0,0,0,,It may have a significant impact on future operational plans.
+Dialogue: 0,0:13:10.51,0:13:15.96,Default,,0,0,0,,> The parachute operation was successful. Don't worry about the little things.
+Dialogue: 0,0:13:16.44,0:13:18.10,Default,,0,0,0,,> I understand. But,
+Dialogue: 0,0:13:18.10,0:13:21.62,Default,,0,0,0,,> Captain. I don't need that story anymore, We must prioritize the plan.
+Dialogue: 0,0:13:22.07,0:13:23.58,Default,,0,0,0,,> Yes
+Dialogue: 0,0:13:24.34,0:13:26.72,Default,,0,0,0,,> Unexpectedly, the operation went smoothly.
+Dialogue: 0,0:13:26.72,0:13:31.68,Default,,0,0,0,,> With this, the capture of Java was completed one month earlier. This is the result of planning first.
+Dialogue: 0,0:13:31.69,0:13:38.20,Default,,0,0,0,,There is no need to make a decision on this issue. The paratroopers will move to other operations.
+Dialogue: 0,0:13:39.34,0:13:42.31,Default,,0,0,0,,> Will the paratroopers move?
+Dialogue: 0,0:13:49.86,0:13:52.51,Default,,0,0,0,,> The strategy is the priority. Captain.
+Dialogue: 0,0:13:54.93,0:14:05.93,Default,,0,0,0,,> The paratroopers stayed on Celebes Island for about a month and set out for a new battlefield, Timor Island, and Turban further south.
+Dialogue: 0,0:14:43.34,0:14:51.58,Default,,0,0,0,,> With the departure of the paratroopers, the conflict between the ground forces and the paratroopers seemed to disappear.
+Dialogue: 0,0:14:57.75,0:15:02.13,Default,,0,0,0,,> Hey, please tell me: Do you have any interesting stories about paratroopers?
+Dialogue: 0,0:15:04.86,0:15:10.24,Default,,0,0,0,,How about this? Please give us your impressions when you shook hands with the paratroopers at Kakas Airfield.
+Dialogue: 0,0:15:10.65,0:15:11.51,Default,,0,0,0,,> No
+Dialogue: 0,0:15:14.13,0:15:19.58,Default,,0,0,0,,> Hey, if you want to write about the paratroopers so much, why don't you ask them directly?
+Dialogue: 0,0:15:19.58,0:15:23.72,Default,,0,0,0,,> Let me go! > What if you chased them?
+Dialogue: 0,0:15:23.72,0:15:27.86,Default,,0,0,0,,> I would like to write about the friendship between the paratroopers and you, the ground forces.
+Dialogue: 0,0:15:27.86,0:15:31.79,Default,,0,0,0,,> Friendship? > With the world-class paratroopers.
+Dialogue: 0,0:15:31.79,0:15:33.82,Default,,0,0,0,,> What friendship?
+Dialogue: 0,0:15:34.65,0:15:36.00,Default,,0,0,0,,> Stop it.
+Dialogue: 0,0:15:36.44,0:15:37.79,Default,,0,0,0,,> Excuse me.
+Dialogue: 0,0:15:38.93,0:15:40.34,Default,,0,0,0,,> Apologize
+Dialogue: 0,0:15:40.34,0:15:41.55,Default,,0,0,0,,> However. Ensign.
+Dialogue: 0,0:15:43.03,0:15:48.89,Default,,0,0,0,,> Apologize > Excuse me.
+Dialogue: 0,0:16:13.65,0:16:20.37,Default,,0,0,0,,> Please take a look. The graves of the paratroopers are full of bouquets. The graves of the ground troops have no flowers.
+Dialogue: 0,0:16:20.38,0:16:24.31,Default,,0,0,0,,Do you understand the meaning of the soldier's tears?
+Dialogue: 0,0:16:35.72,0:16:41.06,Default,,0,0,0,,> I know. A soldier who landed with a parachute. He gave me 5 cigarettes.
+Dialogue: 0,0:16:41.07,0:16:48.17,Default,,0,0,0,,A very nice soldier who held my child and and was kind. Please write this story.
+Dialogue: 0,0:16:48.82,0:16:52.06,Default,,0,0,0,,They were brave. The paratroopers were strong.
+Dialogue: 0,0:16:55.55,0:17:00.55,Default,,0,0,0,,> If you ask the press, all the people on the island talk about is paratroopers.
+Dialogue: 0,0:17:00.55,0:17:03.48,Default,,0,0,0,,Because they know you guys are happy with it.
+Dialogue: 0,0:17:05.55,0:17:12.00,Default,,0,0,0,,> You may just choose a flashy story. However, we ground troops also fought.
+Dialogue: 0,0:17:13.20,0:17:21.37,Default,,0,0,0,,Can't you understand why the same people hate each other?
+Dialogue: 0,0:17:22.65,0:17:24.06,Default,,0,0,0,,> Come in.
+Dialogue: 0,0:17:26.20,0:17:29.17,Default,,0,0,0,,> Were you fighting again? > Yes
+Dialogue: 0,0:17:30.34,0:17:36.20,Default,,0,0,0,,> Why do soldiers who have fought soberly have to hit each other almost every night?
+Dialogue: 0,0:18:20.72,0:18:25.20,Default,,0,0,0,,> It is said that the guerrillas are considerably well trained. Be careful.
+Dialogue: 0,0:18:25.62,0:18:27.31,Default,,0,0,0,,> Yes. > Wait.
+Dialogue: 0,0:18:29.69,0:18:35.10,Default,,0,0,0,,> Looking at your eves, I'm very worried. I think you're well aware, but don't get drawn in too deeply.
+Dialogue: 0,0:18:37.00,0:18:43.86,Default,,0,0,0,,The purpose of this mission is not to destroy the guerrillas all at once, but to gradually weaken their power.
+Dialogue: 0,0:18:43.86,0:18:45.06,Default,,0,0,0,,Yes
+Dialogue: 0,0:18:45.07,0:18:49.68,Default,,0,0,0,,> It is also important to decide when to stop pursuing. Never chase too deep.
+Dialogue: 0,0:19:11.75,0:19:17.58,Default,,0,0,0,,> Ensign Murai was instructed by the Captain of the battalion to subdue the Dutch troops who continued guerrilla
+Dialogue: 0,0:19:17.58,0:19:23.44,Default,,0,0,0,,warfare in the interior of Central Celebes.
+Dialogue: 0,0:19:28.82,0:19:31.41,Default,,0,0,0,,Remember that soldiers are human.
+Dialogue: 0,0:19:39.17,0:19:43.20,Default,,0,0,0,,> It's a strange atmosphere. > Isn't it because it's been a long time?
+Dialogue: 0,0:19:47.62,0:19:49.89,Default,,0,0,0,,> This time we are the protagonists.
+Dialogue: 0,0:19:50.24,0:19:52.34,Default,,0,0,0,,> Now write about us.
+Dialogue: 0,0:20:57.62,0:21:09.82,Default,,0,0,0,,> The battle is like clearing up the past. What was hidden in the chests of the soldiers suddenly bursts out.
+Dialogue: 0,0:21:09.82,0:21:13.44,Default,,0,0,0,,It was a tremendous guerrilla war.
+Dialogue: 0,0:21:23.34,0:21:25.93,Default,,0,0,0,,> This time we are the protagonists.
+Dialogue: 0,0:21:25.93,0:21:30.37,Default,,0,0,0,,> The plan is the priority. Is there a way to do something other than prioritize the plan?
+Dialogue: 0,0:21:30.75,0:21:35.44,Default,,0,0,0,,> Because there are no paratroopers. > This time, they write about us.
+Dialogue: 0,0:21:49.48,0:21:56.10,Default,,0,0,0,,> They were not afraid of death and their assault was so violent that no one knew what to say.
+Dialogue: 0,0:22:08.69,0:22:11.89,Default,,0,0,0,,> Even if you chase the enemy, you cant chase deeply.
+Dialogue: 0,0:22:54.86,0:23:06.00,Default,,0,0,0,,> This subjugation operation, which killed seven people, including the platoon leader, was too severe for such a battle.
+Dialogue: 0,0:23:08.31,0:23:17.13,Default,,0,0,0,,What was it that made his subordinates forget their judgment and motivated them to rush to this brutal death?
+Dialogue: 0,0:23:20.65,0:23:29.58,Default,,0,0,0,,The brilliant success of the capture of Celebes Island gave the Japanese troops great confidence in the subsequent Southern operations.
+Dialogue: 0,0:23:31.38,0:23:43.06,Default,,0,0,0,,But in this battle, we must rethink the meaning of the commander's words: prioritize the plan.
+Dialogue: 0,0:23:57.79,0:24:07.46,Default,,0,0,0,,The Pacific War taught us the preciousness of peace, but it also leaves us with many lessons to live.
+Dialogue: 0,0:24:43.92,0:24:52.44,Default,,0,0,0,,If you are a man, test your strength If you are a man, burn your hope
+Dialogue: 0,0:24:52.44,0:24:57.19,Default,,0,0,0,,If you area man, don't let yourself down
+Dialogue: 0,0:24:57.20,0:25:13.50,Default,,0,0,0,,I and you are men and men bleed the same bright red blood.
+Dialogue: 0,0:25:13.51,0:25:19.13,Default,,0,0,0,,Tatsunoko Production

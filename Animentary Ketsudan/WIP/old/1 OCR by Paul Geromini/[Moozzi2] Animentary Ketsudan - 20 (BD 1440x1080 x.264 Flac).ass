@@ -1,0 +1,159 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: No
+PlayResX: 1440
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Verdana,50,&H00FFFFFF,&H0000FFFF,&H00331C00,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,10,10,120,1
+Style: Sign,Arial,45,&H00FFFFFF,&H0000FFFF,&H00000039,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,0,0,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.55,0:00:07.37,Default,,0,0,0,,The most precious moment in life is the time of decision.
+Dialogue: 0,0:00:07.37,0:00:19.93,Default,,0,0,0,,The Pacific War taught us the preciousness of peace, but it also leaves us with many lessons to live.
+Dialogue: 0,0:00:24.27,0:00:32.65,Default,,0,0,0,,Ketsudan (decision)
+Dialogue: 0,0:00:34.27,0:00:49.13,Default,,0,0,0,,Use your wisdom Use your head Keep thinking it you're a man
+Dialogue: 0,0:00:49.13,0:00:58.20,Default,,0,0,0,,Whether you cry or laugh, it depends on your decision
+Dialogue: 0,0:00:58.20,0:01:06.06,Default,,0,0,0,,Don't be arrogant even if you win Don't cry even if you lose
+Dialogue: 0,0:01:06.06,0:01:13.58,Default,,0,0,0,,Man does not show tears
+Dialogue: 0,0:01:28.58,0:01:35.24,Default,,0,0,0,,Tatsunoko Production
+Dialogue: 0,0:01:47.33,0:02:00.61,Default,,0,0,0,,When the Japanese troops withdrew from Guadalcanal in February 1943, air raids on Japan entered their final stage.
+Dialogue: 0,0:02:01.95,0:02:08.62,Default,,0,0,0,,The decisive factor in their execution is the B29 long-range bomber.
+Dialogue: 0,0:02:09.29,0:02:18.20,Default,,0,0,0,,Its function was to carry 55 tons of bombs and it had an unprecedented cruising range of 5600km.
+Dialogue: 0,0:02:19.00,0:02:28.14,Default,,0,0,0,,The Japanese archipelago is 2500kms from Saipan in the Mariana Islands. Considering the cruising range of the B29,
+Dialogue: 0,0:02:28.14,0:02:33.48,Default,,0,0,0,,it was necessary to establish a base on Saipan Island for continued air raids on the mainland of Japan.
+Dialogue: 0,0:02:33.48,0:02:38.17,Default,,0,0,0,,This is why the US military must capture the Mariana islands.
+Dialogue: 0,0:02:38.17,0:02:44.18,Default,,0,0,0,,Battle of the Philippine Sea (Episode 20)
+Dialogue: 0,0:02:59.31,0:03:08.82,Default,,0,0,0,,Thus, the American side made Admiral Spruance the general in charged of this operation.
+Dialogue: 0,0:03:08.82,0:03:18.49,Default,,0,0,0,,There were a total of 775 ships, including Vice Admiral Mitscher's 58th MTF and Vice Admiral Smith's 5th Amphibious Corps, whose flagships were eight large aircraft carriers.
+Dialogue: 0,0:03:19.26,0:03:27.93,Default,,0,0,0,,It was decided to mobilize twice as many troops as the Japanese Navy had once aimed at Midway, and put all their efforts into capturing Saipan.
+Dialogue: 0,0:03:29.27,0:03:42.68,Default,,0,0,0,,On the Japanese side, Vice Admiral Ozawa has a total of 73 ships, including nine aircraft carriers, seven battleships, 11 heavy cruisers, three light cruisers, and 32 destroyers.
+Dialogue: 0,0:03:42.68,0:03:52.19,Default,,0,0,0,,A combined fleet of 450 aircraft was assembled and set out to recover the Japanese Navy following their recent defeats.
+Dialogue: 0,0:03:53.13,0:04:02.74,Default,,0,0,0,,They headed for Saipan from Tawi-Tawi Island with the determination that "the future of the empire depends on this battle" much like during the Battle of Tsushima.
+Dialogue: 0,0:04:39.07,0:04:48.75,Default,,0,0,0,,> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+Dialogue: 0,0:04:52.32,0:04:58.16,Default,,0,0,0,,> After all it is no good. The shorter the reach, the stronger the punch, but he still lost.
+Dialogue: 0,0:04:58.16,0:05:00.26,Default,,0,0,0,,> Are we still talking about boxing now?
+Dialogue: 0,0:05:00.26,0:05:07.27,Default,,0,0,0,,> Japanese carrier-based aircraft can fly over 480km. However, our radius of action is less than 320km.
+Dialogue: 0,0:05:07.27,0:05:11.87,Default,,0,0,0,,If Japan, which has a long reach, could out range us, we would not have a chance.
+Dialogue: 0,0:05:11.87,0:05:18.74,Default,,0,0,0,,> However > A player with a short reach sneaks into the enemy's pocket. In other words, there is no choice but to get in close from here.
+Dialogue: 0,0:05:18.75,0:05:22.55,Default,,0,0,0,,> Admiral Spruance did not follow that reasoning.
+Dialogue: 0,0:05:22.55,0:05:29.19,Default,,0,0,0,,> Of course, the mission of our fleet is to capture Saipan. Therefore, we cannot leave the sea near Saipan.
+Dialogue: 0,0:05:29.19,0:05:35.73,Default,,0,0,0,,However, if nothing is done, we will be unilaterally attacked by Japanese aircraft. Much like a guy with a long reach would do.
+Dialogue: 0,0:05:36.26,0:05:39.60,Default,,0,0,0,,Rather, we must proactively confront the Japanese fleet.
+Dialogue: 0,0:05:42.27,0:05:49.31,Default,,0,0,0,,> I don't want to kill those cheerful people. Perhaps Lieutenant General Ozawa of Japan is thinking of a long range strategy.
+Dialogue: 0,0:05:50.21,0:05:57.42,Default,,0,0,0,,> Enemy troops are more than double our strength, according to reconnaissance photos over the Marshall islands and captured documents.
+Dialogue: 0,0:05:57.42,0:06:02.52,Default,,0,0,0,,The only way to win this battle is to attack the opponent from a place that the enemy's spear can't reach.
+Dialogue: 0,0:06:02.52,0:06:12.47,Default,,0,0,0,,Fortunately our MTF is equipped with veteran officers who attacked Pearl Harbor and the latest aircraft such as the Suisei and Tenzan.
+Dialogue: 0,0:06:12.47,0:06:18.94,Default,,0,0,0,,The crew is inexperienced, but I hope they will overcome it and take the opportunity to win.
+Dialogue: 0,0:06:18.94,0:06:23.04,Default,,0,0,0,,> By the wavy, the next time we discover an enemy, will we attack immediately?
+Dialogue: 0,0:06:23.04,0:06:26.88,Default,,0,0,0,,> That's right > Finally, we can revenge our loss at Midway.
+Dialogue: 0,0:06:26.88,0:06:34.65,Default,,0,0,0,,> It is likely the naval battle will start tomorrow. Let's have a big dinner now and let's listen to the Chief's "Flower Girl of Shanghai".
+Dialogue: 0,0:06:34.66,0:06:37.62,Default,,0,0,0,,> That's right > Good! I'll sing
+Dialogue: 0,0:06:41.66,0:06:43.56,Default,,0,0,0,,> What is it?
+Dialogue: 0,0:06:43.56,0:06:47.00,Default,,0,0,0,,> A communication has been received from Commander Omori of the Third Carrier Division.
+Dialogue: 0,0:06:47.00,0:06:48.50,Default,,0,0,0,,> Please read
+Dialogue: 0,0:06:48.50,0:06:54.34,Default,,0,0,0,,> An enemy fleet was found at 200 nautical miles west of Saipan. Immediately launch the attack corps.
+Dialogue: 0,0:06:54.34,0:06:58.68,Default,,0,0,0,,> What? > We found them! Good. We were just talking about it.
+Dialogue: 0,0:06:58.68,0:07:02.38,Default,,0,0,0,,> Good. We are ready to start. > Wait.
+Dialogue: 0,0:07:03.82,0:07:08.49,Default,,0,0,0,,> Chief > It's a great opportunity,
+Dialogue: 0,0:07:08.49,0:07:13.33,Default,,0,0,0,,> What time is it now? > It's 4:30 pm.
+Dialogue: 0,0:07:14.39,0:07:17.86,Default,,0,0,0,,> If you start now, when its evening where the enemy is.
+Dialogue: 0,0:07:18.63,0:07:23.97,Default,,0,0,0,,> Then, after flying 150 nautical miles, it will be night. Flight captain.
+Dialogue: 0,0:07:23.97,0:07:25.04,Default,,0,0,0,,> Yes
+Dialogue: 0,0:07:25.04,0:07:38.15,Default,,0,0,0,,> Can you land at night? You haven't trained for that. This attack is a good opportunity, but we can't kill ourselves. We still have other opportunities. As someone said, We'll be busy from tomorrow.
+Dialogue: 0,0:07:38.15,0:07:39.39,Default,,0,0,0,,> I understand
+Dialogue: 0,0:07:46.56,0:07:52.13,Default,,0,0,0,,> ♪ Flower Girl of Shanghai
+Dialogue: 0,0:08:01.21,0:08:11.22,Default,,0,0,0,,> No one noticed that the warmhearted decision of this subordinate would eventually cause such a big outcome.
+Dialogue: 0,0:08:41.45,0:08:51.79,Default,,0,0,0,,At 4:22 am on June 19th, the Ozawa fleet launched a recon aircraft to carry out their tracking of the US fleet, continuing from yesterday,
+Dialogue: 0,0:08:55.80,0:09:03.80,Default,,0,0,0,,At 6:30 am, they found the US fleet. It is 450kms from the advance guard unit.
+Dialogue: 0,0:09:08.81,0:09:21.69,Default,,0,0,0,,At 7:30 am, starting with 68 advance guard Kurita units, a total of 246 aircraft from each ship, a air raid so large that it surpassed the attack on Pearl Harbor, launched.
+Dialogue: 0,0:09:25.33,0:09:28.86,Default,,0,0,0,,> Chief. It's rare. > What?
+Dialogue: 0,0:09:29.53,0:09:35.37,Default,,0,0,0,,> Normally, after launching all the aircraft you would said "I have done my job", and drink reading Dostoevsky.
+Dialogue: 0,0:09:35.37,0:09:39.67,Default,,0,0,0,,> Master of the voyage. Apparently I don't feel that way today.
+Dialogue: 0,0:09:40.41,0:09:43.84,Default,,0,0,0,,> Because of the cancellation of the sortie yesterday? > Maybe so.
+Dialogue: 0,0:09:43.84,0:09:49.08,Default,,0,0,0,,> What happened? > Oh, nothing. The laces on my shoes just broke.
+Dialogue: 0,0:09:51.52,0:09:56.82,Default,,0,0,0,,This ominous premonition has already begun to play out around this time.
+Dialogue: 0,0:10:04.70,0:10:08.47,Default,,0,0,0,,> The Javanese flagship, Taiho. > Launch!
+Dialogue: 0,0:10:51.34,0:10:55.01,Default,,0,0,0,,> Chief Surgeon > It's okay. I'm sorry.
+Dialogue: 0,0:10:55.82,0:11:02.25,Default,,0,0,0,,> Taiho is 34,000 tons. How could one or two torpedoes do this? They will not even know we vow this revenge.
+Dialogue: 0,0:11:14.00,0:11:17.60,Default,,0,0,0,,> Lieutenant General Mitscher, why don't you retrain from smoking a little?
+Dialogue: 0,0:11:17.60,0:11:21.84,Default,,0,0,0,,> When did you become my wife? > Your wife left it to me.
+Dialogue: 0,0:11:21.84,0:11:26.05,Default,,0,0,0,,> Although I've escaped to the sea. > There is still danger her.
+Dialogue: 0,0:11:26.05,0:11:29.82,Default,,0,0,0,,> The Japanese Gum Island Air Corps was on the verge of attacking us.
+Dialogue: 0,0:11:29.82,0:11:34.99,Default,,0,0,0,,Our Hellcat fighters defeated them before they hit us. They have to rest a little.
+Dialogue: 0,0:11:36.26,0:11:42.33,Default,,0,0,0,,> This means that there will be no more attacks from Gum Island. All that remains is Admiral Ozawa's fleet.
+Dialogue: 0,0:11:42.33,0:11:49.10,Default,,0,0,0,,> That's right. > Where are they? If they come suddenly, it will be a knockout.
+Dialogue: 0,0:11:50.17,0:11:54.91,Default,,0,0,0,,> Finally caught. A large formation of Japanese aircraft is flying 240km west.
+Dialogue: 0,0:11:56.14,0:12:01.65,Default,,0,0,0,,> 240km? Alright. Send out all available fighters. > Yes
+Dialogue: 0,0:12:05.19,0:12:11.39,Default,,0,0,0,,> Vice Admiral Mitscher launched 450 ready to go fighters.
+Dialogue: 0,0:12:16.66,0:12:24.80,Default,,0,0,0,,Thus, the Battle of the Philippine Sea, which can be said to be the first face-to-face meeting of the US and Japanese fleet since Midway, has begun.
+Dialogue: 0,0:13:12.12,0:13:21.46,Default,,0,0,0,,The Hellcat plane, which has a radio, sought out the Japanese plane without hesitation. They flew down like a vulture and attacked the Japanese planes.
+Dialogue: 0,0:13:37.98,0:13:43.82,Default,,0,0,0,,The Japanese fighters, which barely reached the sky above the US MTF were targeted by a new weapon,
+Dialogue: 0,0:13:43.82,0:13:49.66,Default,,0,0,0,,the Magic Hughes bullet, which explodes in the immediate vicinity of the target.
+Dialogue: 0,0:13:50.42,0:13:56.56,Default,,0,0,0,,The American pilots called it the "Great Marianas Turkey Shoot".
+Dialogue: 0,0:14:02.40,0:14:13.11,Default,,0,0,0,,> Thus, on the first day of the attack, the Ozawa fleet lost 193 aircraft and the aircraft carriers Taiho and Shoho were sunk by submarine.
+Dialogue: 0,0:14:15.78,0:14:24.69,Default,,0,0,0,,As a result of the battle on the Japanese side, only 17 enemy planes were shots down, the battleship South Dakota, and five other ships were sunk.
+Dialogue: 0,0:14:25.19,0:14:30.23,Default,,0,0,0,,Vice Admiral Ozawa moved his flag to the aircraft carrier Zuikaku, joining with the remaining ships until the next phase of the battle was resumed.
+Dialogue: 0,0:14:30.23,0:14:36.14,Default,,0,0,0,,He decided to evacuate to the northwest at once.
+Dialogue: 0,0:14:47.98,0:14:53.05,Default,,0,0,0,,> We should take a rest today. > Please let me call it the "Marianas Turkey Shoot".
+Dialogue: 0,0:14:53.05,0:14:59.56,Default,,0,0,0,,> Don't say stupid things. We got a lucky punch in yesterday. We can't predict what Mr. Ozawa will do.
+Dialogue: 0,0:14:59.56,0:15:05.16,Default,,0,0,0,,> Besides, your mom is waiting for you in Arizona. > You know this much about me.
+Dialogue: 0,0:15:05.57,0:15:10.60,Default,,0,0,0,,> Admiral Mitscher knows all of you. > Yes.
+Dialogue: 0,0:15:26.35,0:15:33.29,Default,,0,0,0,,> Lieutenant General Ozawa always mourned the death of his lost subordinates in the form of a letter.
+Dialogue: 0,0:15:34.23,0:15:41.23,Default,,0,0,0,,At the same time, the commanders of both the Japanese and US forces loved their subordinates and had the same feelings of regret of their deaths.
+Dialogue: 0,0:15:50.54,0:15:52.91,Default,,0,0,0,,> May I come in. > Yeah.
+Dialogue: 0,0:15:52.91,0:15:55.68,Default,,0,0,0,,> I'm sorry about being late. > Ah, fine
+Dialogue: 0,0:15:56.38,0:16:03.32,Default,,0,0,0,,> I have 330 letters to do so excuse me. > Captain. Do you have the record with Hirosawa Torazo?
+Dialogue: 0,0:16:04.49,0:16:08.16,Default,,0,0,0,,> What? Hirosawa Torazo? > Torazo? It is even better if there is.
+Dialogue: 0,0:16:08.16,0:16:12.63,Default,,0,0,0,,> What are you doing? > This guy loved Torazo and was always singing.
+Dialogue: 0,0:16:12.63,0:16:17.84,Default,,0,0,0,,> Chief. > It's okay if we do not have it. I will sing.
+Dialogue: 0,0:16:19.74,0:16:25.58,Default,,0,0,0,,> The United States was desperately pursuing the Japanese fleet in order to catch up with
+Dialogue: 0,0:16:25.58,0:16:32.15,Default,,0,0,0,,Lieutenant General Ozawa's who was taking a rest for a day and then taking the opportunity to re-attack.
+Dialogue: 0,0:16:32.99,0:16:42.29,Default,,0,0,0,,Finally, Vice Admiral Mitscher’s 58th MTF found the injured Ozawa fleet 350km northwest.
+Dialogue: 0,0:16:43.26,0:16:46.00,Default,,0,0,0,,> 350km northwest is this point.
+Dialogue: 0,0:16:46.00,0:16:53.47,Default,,0,0,0,,> Yesterday was a lucky counter punch. Even if we're lucky, our enemies are staggering. We need to land a series of hits.
+Dialogue: 0,0:16:53.47,0:16:56.88,Default,,0,0,0,,> Alright, let's go. Chief of Staff. Start all our aircraft.
+Dialogue: 0,0:16:57.58,0:17:02.41,Default,,0,0,0,,> Chief. Do not do that. From now on, the 350km round trip will return at night.
+Dialogue: 0,0:17:04.95,0:17:10.26,Default,,0,0,0,,> I know. > Besides, we have never done nighttime landing training.
+Dialogue: 0,0:17:10.26,0:17:16.09,Default,,0,0,0,,> However, if we miss this now, we will lose our chance. Don't give Ozawa time to recover.
+Dialogue: 0,0:17:16.10,0:17:20.57,Default,,0,0,0,,> But, the attackers cannot return. It's like sending them to their death.
+Dialogue: 0,0:17:20.57,0:17:26.91,Default,,0,0,0,,> No, they will manage to get back. Launch all aircraft. This battle will be tough.
+Dialogue: 0,0:17:27.57,0:17:33.01,Default,,0,0,0,,It is not permissible to include your personal feelings. All 216 aircraft will be launched for the attack.
+Dialogue: 0,0:17:33.01,0:17:34.68,Default,,0,0,0,,> Yes
+Dialogue: 0,0:17:34.68,0:17:43.22,Default,,0,0,0,,> Wait. After you launch all the aircraft, the fleet will heads northwest at full speed, to shorten the return distance as much as possible.
+Dialogue: 0,0:18:15.69,0:18:18.86,Default,,0,0,0,,> Chief. > What's wrong with your face.
+Dialogue: 0,0:18:18.86,0:18:26.20,Default,,0,0,0,,> There was a correction from the reconnaissance aircraft, the Japanese fleet is 480kms, not 350kms.
+Dialogue: 0,0:18:26.20,0:18:31.90,Default,,0,0,0,,>What? Then they will have to fly a longer round trip > Yes.
+Dialogue: 0,0:18:31.91,0:18:38.14,Default,,0,0,0,,> Let's recall the attack aircraft. > No, let's go as planned.
+Dialogue: 0,0:18:57.96,0:19:00.90,Default,,0,0,0,,> Right 45 degrees, enemy planes.
+Dialogue: 0,0:19:54.39,0:19:56.72,Default,,0,0,0,,> The enemy is pretty good.
+Dialogue: 0,0:19:56.72,0:20:02.16,Default,,0,0,0,,But can they return safely? I'm sure they haven't done any nighttime landing training.
+Dialogue: 0,0:20:17.18,0:20:23.98,Default,,0,0,0,,> Already aware of the approach of American attack aircraft via radar, Commander Ozawa launched 75 aircraft to the sky and waited.
+Dialogue: 0,0:20:23.98,0:20:30.86,Default,,0,0,0,,His battleship leveled their main gun and blew up a torpedo bomber, and shot down 20 aircraft in the blink of an eye.
+Dialogue: 0,0:20:30.86,0:20:36.96,Default,,0,0,0,,However, the American pilot who have gained momentum did not give in and sank the aircraft carrier Hiyo.
+Dialogue: 0,0:20:36.96,0:20:43.37,Default,,0,0,0,,The aircraft carrier Zuikaku, the battlecruiser Chivoda, and others got received direct hits.
+Dialogue: 0,0:21:09.53,0:21:15.37,Default,,0,0,0,,> After the enemy planes left, there were 35 planes left in the Ozawa fleet.
+Dialogue: 0,0:21:16.14,0:21:22.61,Default,,0,0,0,,Commander-in-Chief of the Combined Fleet Toyoda admitted defeat and ordered Vice Admiral Ozawa to return.
+Dialogue: 0,0:21:30.02,0:21:33.65,Default,,0,0,0,,> Chief. The first wave of attack aircraft is approaching.
+Dialogue: 0,0:21:33.65,0:21:43.13,Default,,0,0,0,,> Is that so? Did they come back? Alright. Turn on the lights on all the ships. Welcome theme back.
+Dialogue: 0,0:21:43.13,0:21:46.06,Default,,0,0,0,,> If you do that, we will be a good target for the enemy.
+Dialogue: 0,0:21:46.07,0:21:52.50,Default,,0,0,0,,> That's fine. The pilots launched at the risk of their lives. I'll greet them by risking my life.
+Dialogue: 0,0:21:52.51,0:21:58.34,Default,,0,0,0,,> During Operation Bougainville, Lieutenant General Ozawa of Japan turned on a searchlight
+Dialogue: 0,0:21:58.34,0:22:04.18,Default,,0,0,0,,in front of the enemy in order to wait for the return of one recon aircraft. I will emulate him now.
+Dialogue: 0,0:22:46.83,0:22:50.80,Default,,0,0,0,,> Look for the planes that have landed on the water. > Yes. I will have it arranged.
+Dialogue: 0,0:22:50.80,0:22:52.50,Default,,0,0,0,,> Good
+Dialogue: 0,0:22:59.07,0:23:09.01,Default,,0,0,0,,> This battle was, in effect, the last of the traditional Japanese Combined Fleet and determined the subsequent battlefield.
+Dialogue: 0,0:23:11.45,0:23:17.96,Default,,0,0,0,,Moreover, this battle was also the last opportunity for both Japan and the United States to fight on an equal footing.
+Dialogue: 0,0:23:19.06,0:23:26.50,Default,,0,0,0,,This important battle forced both commanders into exactly the same position and forced them to make a decision.
+Dialogue: 0,0:23:28.13,0:23:38.91,Default,,0,0,0,,The momentary decisions made by each of them at that time was the major difference that influenced the fate off both forces and their two countries.
+Dialogue: 0,0:23:40.88,0:23:50.42,Default,,0,0,0,,It tells us that when we are forced to make a tough decision, humanism determines the right or wrong of the matter.
+Dialogue: 0,0:23:57.74,0:24:07.50,Default,,0,0,0,,The Pacific War taught us the preciousness of peace, but it also leaves us with many lessons to live.
+Dialogue: 0,0:24:43.92,0:24:52.44,Default,,0,0,0,,If you are a man, test your strength It you are a man, burn your hope
+Dialogue: 0,0:24:52.44,0:24:57.19,Default,,0,0,0,,If you area man, don't let yourself down
+Dialogue: 0,0:24:57.20,0:25:13.50,Default,,0,0,0,,I and you are men and men bleed the same bright red blood.
+Dialogue: 0,0:25:13.51,0:25:19.13,Default,,0,0,0,,Tatsunoko Production

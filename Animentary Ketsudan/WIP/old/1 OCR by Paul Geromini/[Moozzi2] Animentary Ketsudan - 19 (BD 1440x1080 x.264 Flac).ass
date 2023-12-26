@@ -1,0 +1,168 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: No
+PlayResX: 1440
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Verdana,50,&H00FFFFFF,&H0000FFFF,&H00331C00,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,10,10,120,1
+Style: Sign,Arial,45,&H00FFFFFF,&H0000FFFF,&H00000039,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,0,0,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.55,0:00:07.37,Default,,0,0,0,,The most precious moment in life is the time of decision.
+Dialogue: 0,0:00:07.37,0:00:19.93,Default,,0,0,0,,The Pacific War taught us the preciousness of peace, but it also leaves us with many lessons to live.
+Dialogue: 0,0:00:24.27,0:00:32.65,Default,,0,0,0,,Ketsudan (decision)
+Dialogue: 0,0:00:34.27,0:00:49.13,Default,,0,0,0,,Use your wisdom Use your head Keep thinking it you're a man
+Dialogue: 0,0:00:49.13,0:00:58.20,Default,,0,0,0,,Whether you cry or laugh, it depends on your decision
+Dialogue: 0,0:00:58.20,0:01:06.06,Default,,0,0,0,,Don't be arrogant even if you win Don't cry even if you lose
+Dialogue: 0,0:01:06.06,0:01:13.58,Default,,0,0,0,,Man does not show tears
+Dialogue: 0,0:01:28.58,0:01:35.24,Default,,0,0,0,,Tatsunoko Production
+Dialogue: 0,0:01:37.34,0:01:45.37,Default,,0,0,0,,In November 1942, Guadalcanal, which is said to be the most tragic battle in the Pacific Ocean,
+Dialogue: 0,0:01:45.37,0:01:52.61,Default,,0,0,0,,could not be approached by the Japanese rescue forces due to the complete control of the sea and air by the US military.
+Dialogue: 0,0:01:52.61,0:01:52.96,Default,,0,0,0,,The 30,000 Japanese soldiers left on Guadalcanal Island were racked of hunger, malaria, and death, and were just waiting for help.
+Dialogue: 0,0:01:52.96,0:02:02.78,Default,,0,0,0,,The 30,000 Japanese soldiers left on Guadalcanal Island became an island of hunger, malaria and death, and were
+Dialogue: 0,0:02:05.47,0:02:11.34,Default,,0,0,0,,For the Japanese side, only covert transportation by submarines was allowed.
+Dialogue: 0,0:02:12.44,0:02:18.61,Default,,0,0,0,,Therefore, as a desperate measure, the transportation of supply drums by a high-speed destroyer was devised.
+Dialogue: 0,0:02:18.61,0:02:29.71,Default,,0,0,0,,The plan was to connect drums filled with food and medicine with ropes, approach the coast, and drop them into the sea.
+Dialogue: 0,0:02:29.71,0:02:35.67,Default,,0,0,0,,Battle of Tassafarunga (Episode 19)
+Dialogue: 0,0:02:54.72,0:03:03.89,Default,,0,0,0,,On November 28th, the flagship Nagagami was moored in the hometown of Shortland, ahead of its departure.
+Dialogue: 0,0:03:03.89,0:03:14.23,Default,,0,0,0,,In the officer's office a final meeting was held for the commander, Major General Tanaka Raizo, and the captains of the eight destroyers that were organized.
+Dialogue: 0,0:03:15.13,0:03:19.72,Default,,0,0,0,,A local staff member also attended from the Imperial Headquarters.
+Dialogue: 0,0:03:20.96,0:03:26.78,Default,,0,0,0,,> The total number of drums is 1098. 250 of these will be placed on each of the five ships,
+Dialogue: 0,0:03:26.79,0:03:33.37,Default,,0,0,0,,Oyashio, Kuroshio, Kawakaze, Suzukaze, and Kagero, excluding the guard ship, Takanami, the flagship: Naganami, and Makinami.
+Dialogue: 0,0:03:34.58,0:03:39.65,Default,,0,0,0,,> That's fine, but as I've seen, torpedoes and cannons are covered by the drums, so they can't be used.
+Dialogue: 0,0:03:40.13,0:03:46.89,Default,,0,0,0,,Any fighting will be done by the guard ships. In the meantime, drop the drums safely, and then have the crews show the results of their daily training.
+Dialogue: 0,0:03:47.58,0:03:52.13,Default,,0,0,0,,> It's like a express company. The non-commissioned officer said as much this morning as well.
+Dialogue: 0,0:03:52.13,0:03:57.37,Default,,0,0,0,,After training so much under Tanaka, they were called the Devil's 2nd Destroyer Squadron, and then, was it a express company?
+Dialogue: 0,0:03:58.79,0:04:08.72,Default,,0,0,0,,> Isn't just your saying? But the Guadalcanal soldiers can't eat half of this bread. > Yes. I know it well.
+Dialogue: 0,0:04:08.72,0:04:10.40,Default,,0,0,0,,> More than that,
+Dialogue: 0,0:04:11.96,0:04:15.82,Default,,0,0,0,,> it is 300 nautical miles from Shortland to Guadalcanal.
+Dialogue: 0,0:04:15.82,0:04:23.51,Default,,0,0,0,,If we don't return make it to the halfway point, 150 nautical miles, before dawn, the enemy will chase us from their base on Guadalcanal.
+Dialogue: 0,0:04:23.51,0:04:29.37,Default,,0,0,0,,So we have to finish dropping the drums at Guadalcanal by 24:00.
+Dialogue: 0,0:04:33.41,0:04:35.96,Default,,0,0,0,,~ I ask that much. I'll' leave the rest to you.
+Dialogue: 0,0:04:36.92,0:04:39.72,Default,,0,0,0,,> Commander. > What is it staff officer?
+Dialogue: 0,0:04:40.30,0:04:45.40,Default,,0,0,0,,> In the plan so far, it seems that we will not meet the enemy at all.
+Dialogue: 0,0:04:45.41,0:04:52.37,Default,,0,0,0,,> That's not what I mean, they may come. No, they will come. > I would like to ask about the strategy for that case.
+Dialogue: 0,0:05:01.54,0:05:03.61,Default,,0,0,0,,> It seems irresponsible to not plan.
+Dialogue: 0,0:05:03.61,0:05:08.82,Default,,0,0,0,,When you walk, do you command your feet to "put out with your right foot, put out with your left foot"?
+Dialogue: 0,0:05:09.75,0:05:13.34,Default,,0,0,0,,If you don't like my metaphor with the legs, let's change the story.
+Dialogue: 0,0:05:13.34,0:05:20.23,Default,,0,0,0,,Does the master of kendo command his hand to block when the enemy's sword arrives?
+Dialogue: 0,0:05:20.23,0:05:26.89,Default,,0,0,0,,Isn't your hand going there at once? Whether to fight well or not. It depends on daily training.
+Dialogue: 0,0:05:26.89,0:05:34.78,Default,,0,0,0,,That's why the 2nd Destroyer Squadron has trained ridiculously hard. They are more than just express company. Look and see.
+Dialogue: 0,0:05:54.65,0:05:58.23,Default,,0,0,0,,> Master of the voyage. Is the chart reliable?
+Dialogue: 0,0:05:58.23,0:06:05.20,Default,,0,0,0,,> I don't know. It was made in England 15 years ago. It may be a little different.
+Dialogue: 0,0:06:05.20,0:06:11.03,Default,,0,0,0,,> Hey, it's a little different? Are you OK? > It will be clear if I can see the sun.
+Dialogue: 0,0:06:17.47,0:06:22.68,Default,,0,0,0,,> Well, leave it to me. > Well, if we get on the boat, I'll leave it to you
+Dialogue: 0,0:06:22.68,0:06:29.09,Default,,0,0,0,,> If you leave it to me, yesterday's exchange of opinions between Commander Tanaka and the Chief of Staff of the Imperial Headquarters was interesting.
+Dialogue: 0,0:06:29.10,0:06:32.82,Default,,0,0,0,,> The imperial officer who doesn't know the local area is like that.
+Dialogue: 0,0:06:32.82,0:06:36.72,Default,,0,0,0,,> Master of the voyage. The sun. > Did you see it? Let's get it.
+Dialogue: 0,0:06:37.99,0:06:40.03,Default,,0,0,0,,> What is the time? > 1203
+Dialogue: 0,0:06:43.23,0:06:50.51,Default,,0,0,0,,> After all it was a little different. I will make a transition. Outbound 175 degrees. Full starboard.
+Dialogue: 0,0:07:05.03,0:07:07.85,Default,,0,0,0,,> I want the enemy to come early.
+Dialogue: 0,0:07:07.85,0:07:12.68,Default,,0,0,0,,> Enemy aircraft spotted. 331 degrees.
+Dialogue: 0,0:07:14.65,0:07:17.75,Default,,0,0,0,,It appears to be one B-17 bomber.
+Dialogue: 0,0:07:21.37,0:07:27.20,Default,,0,0,0,,> Prepare for anti-aircraft combat. > everyone, anti-aircraft combat, man your station.
+Dialogue: 0,0:08:02.82,0:08:05.54,Default,,0,0,0,,> It Saw us, > That's right.
+Dialogue: 0,0:08:06.41,0:08:16.23,Default,,0,0,0,,> At the time, on the American side, the Japanese rescue fleet was called the "Tokyo express", and it was to be attacked and sunk.
+Dialogue: 0,0:08:17.23,0:08:27.44,Default,,0,0,0,,A fleet was sent to attack them. Among them, a fleet of 11 ships centered on the heavy cruiser Minneapolis, led by Major General Carlton Wright,
+Dialogue: 0,0:08:27.44,0:08:38.85,Default,,0,0,0,,They were to wait for and find the enemy fleet intercepting the supply drums for Guadalcanal Island.
+Dialogue: 0,0:08:38.85,0:08:44.68,Default,,0,0,0,,> As mentioned, there are eight enemies. Let's learn from the Battle of Tsushima, which was led by Admiral Togo.
+Dialogue: 0,0:08:44.68,0:08:52.85,Default,,0,0,0,,Since the enemy is best at night battles, the water vapor of the cruiser illuminates it with tracer ammunition and destroys it.
+Dialogue: 0,0:08:52.85,0:08:55.06,Default,,0,0,0,,> It's "a rat in a trap".
+Dialogue: 0,0:08:55.06,0:08:59.99,Default,,0,0,0,,> There is a Japanese proverb, "a cornered rat will bite a cat". Be careful.
+Dialogue: 0,0:08:59.99,0:09:05.85,Default,,0,0,0,,Moreover, the enemy is the 2nd Destroyer Squadron, which has been training hard. Even though it is a Destroyer Squadron, I don't know what they do.
+Dialogue: 0,0:09:05.85,0:09:12.47,Default,,0,0,0,,But we have radar. Japan has nothing like that yet. They rely on their eyes even when the battle is at night.
+Dialogue: 0,0:09:12.47,0:09:17.65,Default,,0,0,0,,As you all know, in naval battles it is better to know the position of the enemy first.
+Dialogue: 0,0:09:17.65,0:09:29.44,Default,,0,0,0,,> Of course, the Japanese side also changed course, and approached four nautical miles west of Savo Island, and decided to enter Guadalcanal Island at a 180 degrees course.
+Dialogue: 0,0:09:59.34,0:10:02.23,Default,,0,0,0,,> What time is it now? > 22:00
+Dialogue: 0,0:10:02.23,0:10:07.20,Default,,0,0,0,,> 2 hours left. > It seems that the enemy will not find us.
+Dialogue: 0,0:10:14.44,0:10:18.40,Default,,0,0,0,,> Sir. From 8th Fleet Command. > What is it?
+Dialogue: 0,0:10:18.41,0:10:26.68,Default,,0,0,0,,> According to interceptions, the path of your fleet has been discovered. Try to destroy the enemy without sticking to your supply mission.
+Dialogue: 0,0:10:27.34,0:10:31.78,Default,,0,0,0,,> I see. If I meet the enemy, throw away the drums and fight. > Yes
+Dialogue: 0,0:10:31.79,0:10:35.92,Default,,0,0,0,,> Thanks. Please let everyone know that. > Yes
+Dialogue: 0,0:10:38.41,0:10:43.27,Default,,0,0,0,,> I hope they don't find us until we drop the supplies. The soldiers on the island are waiting.
+Dialogue: 0,0:10:43.27,0:10:48.92,Default,,0,0,0,,> Until then, well run away. > It is better to sink the enemy than to run away.
+Dialogue: 0,0:10:48.92,0:10:56.13,Default,,0,0,0,,We are an express company today. The soldiers waiting on the island are priority customers. Customer first.
+Dialogue: 0,0:11:10.58,0:11:14.82,Default,,0,0,0,,> They have made a quick escape. Can't you find the Japanese yet? > We need a while.
+Dialogue: 0,0:11:14.82,0:11:21.16,Default,,0,0,0,,They know that 24 o'clock is their time limit. If they are in a rush, they will definitely come.
+Dialogue: 0,0:11:21.16,0:11:23.92,Default,,0,0,0,,> God is smiling at us
+Dialogue: 0,0:11:24.58,0:11:36.68,Default,,0,0,0,,> In this rain cloud, the visibility in Japan is at most 4000m. We have radar. We can see out to 24000m. The difference, 20000m, can control the battle ahead.
+Dialogue: 0,0:11:42.79,0:11:49.75,Default,,0,0,0,,> This is it. > Certainly there is a flagship, but at 6300m. The enemy is eight nautical miles from here.
+Dialogue: 0,0:11:50.16,0:11:52.82,Default,,0,0,0,,> Alright, get ready for battle. Man your stations.
+Dialogue: 0,0:11:56.03,0:11:59.68,Default,,0,0,0,,Eight. All of them will be attacked and all of them will be finished.
+Dialogue: 0,0:12:07.61,0:12:14.40,Default,,0,0,0,,> Another breath. We can see the island soon. > The enemy didn't notice us yet.
+Dialogue: 0,0:12:14.41,0:12:19.23,Default,,0,0,0,,> No, we have been caught. But I don't know from where they will come.
+Dialogue: 0,0:12:19.23,0:12:24.16,Default,,0,0,0,,> Because it's a fight between blindness and eyes > Let's just prepare to drop the supplies.
+Dialogue: 0,0:12:24.16,0:12:28.34,Default,,0,0,0,,> Yes, I understand. Prepare to drop, tell each soldier.
+Dialogue: 0,0:12:31.65,0:12:42.92,Default,,0,0,0,,> The Tanaka fleet approached the island knowing that it was being seen by the American radar. It was 23:16.
+Dialogue: 0,0:13:00.03,0:13:04.37,Default,,0,0,0,,> 45 degrees to the left. Two black shapes. It seems to be an enemy destroyer.
+Dialogue: 0,0:13:04.37,0:13:08.44,Default,,0,0,0,,> Good. This has opened our dark eyes. How far is it?
+Dialogue: 0,0:13:08.44,0:13:11.65,Default,,0,0,0,,> 6000m > Alright, I understand.
+Dialogue: 0,0:13:11.65,0:13:16.51,Default,,0,0,0,,> Report to flagship. Simultaneous torpedo attack. > Master of the voyage. Mark it.
+Dialogue: 0,0:13:18.68,0:13:25.27,Default,,0,0,0,,> Seven ships that seem to be enemy destroyers. Direction 45 degrees to the left. Enemy speed is 24 knots.
+Dialogue: 0,0:13:26.92,0:13:29.27,Default,,0,0,0,,> Get ready.
+Dialogue: 0,0:13:33.20,0:13:35.68,Default,,0,0,0,,> It's all set. I'll leave it.
+Dialogue: 0,0:13:38.82,0:13:44.65,Default,,0,0,0,,> Why do you proceed without breaking formation? At this rate, its like standing naked in front of the enemy.
+Dialogue: 0,0:13:44.65,0:13:52.30,Default,,0,0,0,,> Yes. However, the mission is transportation first. It would be a waste to throw away supplies as it is. The soldiers are waiting.
+Dialogue: 0,0:13:52.30,0:13:59.20,Default,,0,0,0,,> It is our mission to sink as many enemies as possible. > We will do that too. But now it's transportation.
+Dialogue: 0,0:13:59.20,0:14:07.61,Default,,0,0,0,,> What? Moreover, the enemy is in front of us. > Let's do as much as we can. We can see the island. They are signaling.
+Dialogue: 0,0:14:15.72,0:14:19.85,Default,,0,0,0,,> Japanese Navy, approach here a little more.
+Dialogue: 0,0:14:28.10,0:14:30.34,Default,,0,0,0,,> There are 11 enemies in all.
+Dialogue: 0,0:14:37.75,0:14:40.37,Default,,0,0,0,,> Captain. Do you wanna have a drink with the usual one?
+Dialogue: 0,0:14:40.37,0:14:45.13,Default,,0,0,0,,> No, I'm standing this time. Until we deliver the supplies to our customers.
+Dialogue: 0,0:14:45.13,0:14:49.30,Default,,0,0,0,,> Can I shoot? Captain. > No. Wait. A little more.
+Dialogue: 0,0:15:03.47,0:15:09.20,Default,,0,0,0,,> The Japanese side hasn't noticed us yet. > The first ship is showing their side. Let's do it.
+Dialogue: 0,0:15:09.23,0:15:12.40,Default,,0,0,0,,> Wait. Pull them all in and then annihilate them.
+Dialogue: 0,0:15:20.79,0:15:23.09,Default,,0,0,0,,> It's okay if they come over there.
+Dialogue: 0,0:15:23.10,0:15:30.44,Default,,0,0,0,,> But look. They are surrounded by enemies. > Do they not notice?
+Dialogue: 0,0:15:30.44,0:15:34.03,Default,,0,0,0,,> Hey! > Idiot. They can never hear your yelling.
+Dialogue: 0,0:15:34.03,0:15:39.85,Default,,0,0,0,,> They are becoming prey for us.
+Dialogue: 0,0:15:41.72,0:15:44.47,Default,,0,0,0,,> That's ridiculous. Are you still a commander?
+Dialogue: 0,0:15:44.47,0:15:49.37,Default,,0,0,0,,This battle is an opportunity. Did you forget about such a rudimentary thing?
+Dialogue: 0,0:15:49.37,0:15:51.54,Default,,0,0,0,,> Staff officer, stop it.
+Dialogue: 0,0:15:53.65,0:15:56.20,Default,,0,0,0,,> They are attacking. Turn the rudder.
+Dialogue: 0,0:16:00.82,0:16:06.37,Default,,0,0,0,,> Commander. It's time to make a decision. > Staff officer. It's me who will make the decision.
+Dialogue: 0,0:16:11.96,0:16:15.72,Default,,0,0,0,,> Good. Go. > Simultaneous fire. First of all, target the first ship.
+Dialogue: 0,0:16:21.96,0:16:25.51,Default,,0,0,0,,> Isn't it done? But that's not enough.
+Dialogue: 0,0:16:40.03,0:16:44.06,Default,,0,0,0,,> Commander. Look at that. Takanami is being attacked.
+Dialogue: 0,0:17:48.51,0:17:50.89,Default,,0,0,0,,> Sir, what are you...
+Dialogue: 0,0:17:50.89,0:17:53.89,Default,,0,0,0,,> Thank you!
+Dialogue: 0,0:18:04.27,0:18:10.75,Default,,0,0,0,,> The food has been dropped. > Good. Tell all ships. Charge the enemy force.
+Dialogue: 0,0:18:10.75,0:18:14.54,Default,,0,0,0,,> Begin fire. > Captain. Not yet?
+Dialogue: 0,0:18:14.54,0:18:18.78,Default,,0,0,0,,> Do it. > Thank you. Set for 3 meters deep. Third ship.
+Dialogue: 0,0:18:24.58,0:18:30.03,Default,,0,0,0,,> The pillar of fire is too much and cannot be seen well. Alright. The one you just shot. Again.
+Dialogue: 0,0:18:53.61,0:18:57.75,Default,,0,0,0,,> We can see the face of the enemy well. > Launch concentrated attacks.
+Dialogue: 0,0:19:22.75,0:19:29.06,Default,,0,0,0,,> The torpedoes of the trained 2nd Destroyer Squadron on the Japanese side were powerful and accurate.
+Dialogue: 0,0:19:29.54,0:19:40.68,Default,,0,0,0,,Hits with one or more torpedoes on all cruisers except Honolulu sank one heavy cruiser and damaged three destroyers on the American side.
+Dialogue: 0,0:20:12.82,0:20:22.96,Default,,0,0,0,,> They used to load their luggage. They will do it properly without being ordered, Staff officer. > Captain. We have to save Takanami.
+Dialogue: 0,0:20:22.96,0:20:28.78,Default,,0,0,0,,It was hard work, but Oyashio and Kuroshio have already defeated much of the enemy. Please go.
+Dialogue: 0,0:20:29.34,0:20:30.89,Default,,0,0,0,,> Yes. I will tell them.
+Dialogue: 0,0:20:36.82,0:20:39.54,Default,,0,0,0,,It has became quiet.
+Dialogue: 0,0:20:39.54,0:20:43.51,Default,,0,0,0,,> We won. The enemy is almost annihilated.
+Dialogue: 0,0:20:44.82,0:20:48.16,Default,,0,0,0,,> Hmm. Did We win? > Of course.
+Dialogue: 0,0:20:48.16,0:20:51.61,Default,,0,0,0,,> What was our damage? > Only Takanami
+Dialogue: 0,0:20:51.61,0:20:53.20,Default,,0,0,0,,> That is good
+Dialogue: 0,0:20:53.20,0:20:58.51,Default,,0,0,0,,> Chief surgeon. Now, the Oyashio and Kuroshio are coming to the rescue with the others.
+Dialogue: 0,0:20:58.51,0:21:03.72,Default,,0,0,0,,Thank you for that. I can't handle it anymore. I usually play, so I got a punishment.
+Dialogue: 0,0:21:03.72,0:21:11.58,Default,,0,0,0,,> By the way, do you know where the captain is? > Yes. Near the voyage chief's room. He's sleeping. > Sleeping?
+Dialogue: 0,0:21:19.68,0:21:26.47,Default,,0,0,0,,> Captain, I came to have a toast with the captain.
+Dialogue: 0,0:21:30.44,0:21:35.85,Default,,0,0,0,,> You don't have to stop. I feel relaxed.
+Dialogue: 0,0:22:42.27,0:22:47.03,Default,,0,0,0,,> Thank you
+Dialogue: 0,0:22:58.65,0:22:59.44,Default,,0,0,0,,> Sir.
+Dialogue: 0,0:22:59.44,0:23:02.85,Default,,0,0,0,,> Thank you for your hard work > I'm sorry that I said something insubordinate.
+Dialogue: 0,0:23:02.85,0:23:09.37,Default,,0,0,0,,I understand what you mean, "No one will command his right and left feet to walk.”
+Dialogue: 0,0:23:11.13,0:23:14.03,Default,,0,0,0,,> I hope Takanami can be saved.
+Dialogue: 0,0:23:18.92,0:23:25.06,Default,,0,0,0,,> Thus, the night battle off Lunga was over in just 30 minutes.
+Dialogue: 0,0:23:26.13,0:23:38.16,Default,,0,0,0,,It is said that General Nimitz instructed all Navy officers to "train, train, and further train" after the activities and results of the Japanese destroyer fleet.
+Dialogue: 0,0:23:39.85,0:23:46.68,Default,,0,0,0,,A strategy that trusts the power of subordinates obtained from rigorous training and leaves everything to them with peace of mind.
+Dialogue: 0,0:23:46.68,0:23:53.72,Default,,0,0,0,,What is highly evaluated may be the commander's human decision.
+Dialogue: 0,0:23:58.16,0:24:07.92,Default,,0,0,0,,The Pacific War taught us the preciousness of peace, but it also leaves us with many lessons to live.
+Dialogue: 0,0:24:43.92,0:24:52.44,Default,,0,0,0,,If you are a man, test your strength It you are a man, burn your hope
+Dialogue: 0,0:24:52.44,0:24:57.19,Default,,0,0,0,,If you area man, don't let yourself down
+Dialogue: 0,0:24:57.20,0:25:13.50,Default,,0,0,0,,I and you are men and men bleed the same bright red blood.
+Dialogue: 0,0:25:13.51,0:25:19.13,Default,,0,0,0,,Tatsunoko Production

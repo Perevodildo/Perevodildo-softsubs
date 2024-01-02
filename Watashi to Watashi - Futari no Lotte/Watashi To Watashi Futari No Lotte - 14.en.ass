@@ -15,9 +15,9 @@ Video File: Watashi To Watashi Futari No Lotte - 14.avi
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 119
-Active Line: 131
-Video Position: 13177
+Scroll Position: 142
+Active Line: 157
+Video Position: 16096
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -183,7 +183,7 @@ Dialogue: 0,0:08:40.16,0:08:41.84,Default,,0,0,0,,Don't you want to pick it back
 Dialogue: 0,0:08:41.84,0:08:44.57,Default,,0,0,0,,This is so unnerving. \NHow should I explain it away?
 Dialogue: 0,0:08:45.53,0:08:49.32,Default,,0,0,0,,Say, Lotte, you're not fretting \Nover minor bumps along the way, are you?{/you're not worrying about trifles  - not sure what she means}
 Dialogue: 0,0:08:49.32,0:08:53.89,Default,,0,0,0,,Should you pick up the piano again, \NI'll also do my best to support that endeavor.
-Dialogue: 0,0:08:53.89,0:08:57.35,Default,,0,0,0,,If you need a piano to practice efficiently, \NI'll find a way around that, too. {/if a practice become troublesome without a piano}
+Dialogue: 0,0:08:53.89,0:08:57.35,Default,,0,0,0,,If you need a piano to practice efficiently, \NI'll find a way to do that too. {/if a practice become troublesome without a piano}
 Dialogue: 0,0:08:57.35,0:08:58.92,Default,,0,0,0,,Eh... No need, it's fine.
 Dialogue: 0,0:08:58.92,0:09:00.36,Default,,0,0,0,,I'm not worried about that.
 Dialogue: 0,0:09:00.88,0:09:01.85,Default,,0,0,0,,Lotte,

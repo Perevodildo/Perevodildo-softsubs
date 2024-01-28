@@ -14,10 +14,10 @@ Audio File: [Moozzi2] Animentary Ketsudan - 11 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Animentary Ketsudan - 11 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Scroll Position: 204
-Active Line: 207
-Video Position: 30633
+Video Zoom Percent: 0.375000
+Scroll Position: 137
+Active Line: 111
+Video Position: 14991
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -134,6 +134,10 @@ Dialogue: 0,0:09:48.88,0:09:54.42,Default,,0,0,0,,The entire army had to complet
 Dialogue: 0,0:09:54.99,0:10:00.72,Default,,0,0,0,,Then, all the US military facilities in Manila \Nwere burned down.
 Dialogue: 0,0:10:07.52,0:10:13.12,Default,,0,0,0,,"Open City." What this means is, a cloth was hanged out, \Nindicating that the city is defenseless.
 Dialogue: 0,0:10:13.12,0:10:19.74,Default,,0,0,0,,All the while the long convoys of trucks, chock-full with soldiers, weapons and ammunition hurriedly passed by. {unsure "alongside what" he means, could be bridge, could be cloth}
+Dialogue: 0,0:10:20.56,0:10:24.48,Sign,,0,0,0,,{\c&H293852&\3c&HBECAD4&\fs60\bord1\blur1\frz300.8\pos(747,640)}Bataan Peninsula
+Dialogue: 0,0:10:20.56,0:10:24.48,Sign,,0,0,0,,{\c&H293852&\3c&HBECAD4&\fs70\bord1\blur1\pos(1245,704)}Manila Bay
+Dialogue: 0,0:10:20.56,0:10:24.48,Sign,,0,0,0,,{\c&H293852&\3c&HBECAD4&\bord1\blur1\pos(1335,326)}Calumpit
+Dialogue: 0,0:10:20.56,0:10:24.48,Sign,,0,0,0,,{\c&H293852&\3c&HBECAD4&\bord1\blur1\frz48.53\pos(1037,226)}Pampanga River
 Dialogue: 0,0:10:26.91,0:10:30.78,Default,,0,0,0,,Sir, as expected, the enemy retreated \Nto the Bataan Peninsula.
 Dialogue: 0,0:10:30.78,0:10:32.29,Default,,0,0,0,,The 48th Division Commander
 Dialogue: 0,0:10:32.29,0:10:36.82,Default,,0,0,0,,strongly suggests that we hinder the enemy's retreat to Bataan Peninsula, putting Manila off for later.
@@ -162,9 +166,21 @@ Dialogue: 0,0:12:16.27,0:12:24.45,Default,,0,0,0,,most of the US Army of Philipp
 Dialogue: 0,0:12:26.07,0:12:30.04,Default,,0,0,0,,Ensuring a complete control over Manila Bay \Nwas seen a stepping stone
 Dialogue: 0,0:12:30.04,0:12:32.61,Default,,0,0,0,,in ensuring unchallenged occupation of Manila.
 Dialogue: 0,0:12:33.21,0:12:35.96,Default,,0,0,0,,So in order to secure Manila Bay,
-Dialogue: 0,0:12:35.96,0:12:40.23,Default,,0,0,0,,the Bataan Peninsula and Corregidor Island, \Nguarding the entrance to the bay
-Dialogue: 0,0:12:40.23,0:12:43.49,Default,,0,0,0,,along with the US Army of Philippines, \Nhad to be subjugated. {gaining total control (of people or counties); suppression; oppression; control; mastery; ascendancy; supremacy}
-Dialogue: 0,0:12:44.18,0:12:48.89,Default,,0,0,0,,In other words, Bataan must fall no matter the cost.
+Dialogue: 1,0:12:35.96,0:12:40.23,Default,,0,0,0,,the Bataan Peninsula and Corregidor Island, \Nguarding the entrance to the bay
+Dialogue: 0,0:12:39.53,0:12:50.96,Sign,,0,0,0,,{\fade(0,1200)\c&HFEFFFF&\bord1\blur1\pos(368,72)}Lingayen Bay
+Dialogue: 0,0:12:39.53,0:12:50.96,Sign,,0,0,0,,{\fade(0,1200)\c&HFEFFFF&\bord1\blur1\pos(485,553)}Corregidor Island
+Dialogue: 0,0:12:39.53,0:12:50.96,Sign,,0,0,0,,{\fade(0,1200)\c&HBB81CD&\bord1\blur1\pos(667,376)}Manila
+Dialogue: 0,0:12:39.53,0:12:50.96,Sign,,0,0,0,,{\fade(0,1200)\c&HFEFFFF&\bord1\blur1\pos(845,510)}Lamon Bay
+Dialogue: 1,0:12:39.53,0:12:50.96,Sign,,0,0,0,,{\fade(0,1200)\c&HFEFFFF&\bord0\blur1\frz301.8\pos(594,760)}Mindoro Island
+Dialogue: 0,0:12:39.53,0:12:50.96,Sign,,0,0,0,,{\fade(0,1200)\c&HFEFFFF&\bord0\blur1\pos(1191,418)\frz311.1}Visayas
+Dialogue: 0,0:12:39.53,0:12:50.96,Sign,,0,0,0,,{\fade(0,1200)\c&HFEFFFF&\bord1\blur1\pos(1361,844)\frz307.8}Samar Island
+Dialogue: 0,0:12:39.53,0:12:50.96,Sign,,0,0,0,,{\fade(0,1200)\c&HFEFFFF&\bord1\blur1\pos(888,1019)}Panay Island
+Dialogue: 0,0:12:39.53,0:12:50.96,Sign,,0,0,0,,{\fade(0,1200)\c&HFEFFFF&\bord1\blur1\frz296.6\pos(1333,1028)}Leyte
+Dialogue: 0,0:12:39.53,0:12:50.96,Sign,,0,0,0,,{\fade(0,1200)\c&HFEFFFF&\bord1\blur1\pos(1051,852)}Masbate Island
+Dialogue: 0,0:12:39.53,0:12:50.96,Sign,,0,0,0,,{\fade(0,1200)\c&HFEFFFF&\bord1\blur1\frz275.3\pos(715,113)}Luzon Island
+Dialogue: 0,0:12:39.53,0:12:50.96,Sign,,0,0,0,,{\fade(0,1200)\c&HFEFFFF&\bord1\blur1\frz72.55\fs30\pos(608,242)}Agno River
+Dialogue: 1,0:12:40.23,0:12:43.49,Default,,0,0,0,,along with the US Army of Philippines, \Nhad to be subjugated. {gaining total control (of people or counties); suppression; oppression; control; mastery; ascendancy; supremacy}
+Dialogue: 1,0:12:44.18,0:12:48.89,Default,,0,0,0,,In other words, Bataan must fall no matter the cost.
 Dialogue: 0,0:13:12.39,0:13:13.52,Default,,0,0,0,,Charge!
 Dialogue: 0,0:13:18.38,0:13:23.55,Default,,0,0,0,,The Bataan Peninsula is 48 km long and 24 km wide.
 Dialogue: 0,0:13:24.05,0:13:28.84,Default,,0,0,0,,Its west and south are protected by cliffs, \Ninaccessible from the sea.

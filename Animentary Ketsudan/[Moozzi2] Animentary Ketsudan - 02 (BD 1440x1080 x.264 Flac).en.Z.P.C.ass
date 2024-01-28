@@ -15,9 +15,9 @@ Video File: [Moozzi2] Animentary Ketsudan - 02 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 57
-Active Line: 88
-Video Position: 10428
+Scroll Position: 20
+Active Line: 29
+Video Position: 3775
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -55,7 +55,8 @@ Dialogue: 0,0:02:10.98,0:02:15.36,Default,,0,0,0,,at the same time, \Ncurtailing
 Dialogue: 0,0:02:15.36,0:02:20.69,Default,,0,0,0,,Moreover, the underlying plan was to decoy \Nthe main American fleet and crush it in an open battle. {/besides, the strategy has been ...}
 Dialogue: 0,0:02:19.76,0:02:26.92,Sign,,0,0,200,,{\fade(300,0)\c&HFBF2F7&\1a&H00&\b1\blur1\bord0}{ミッドウェイ海戦(前編)}Episode 2 \N{\fs100}Battle of Midway (Part 1){/initial/first half}
 Dialogue: 0,0:02:27.58,0:02:32.65,Default,,0,0,0,,However, the Naval General Staff understated \Nthe strategic unimportance of Midway Island.
-Dialogue: 0,0:02:32.65,0:02:37.98,Default,,0,0,0,,The Combined Fleet Command were in heated confrontation with them, \Nuntil the Commander-in-Chief...
+Dialogue: 0,0:02:32.65,0:02:36.12,Default,,0,0,0,,The Combined Fleet Command were in heated confrontation with them,
+Dialogue: 0,0:02:36.12,0:02:37.82,Default,,0,0,0,,until the Commander-in-Chief...
 Dialogue: 0,0:02:37.98,0:02:41.53,Default,,0,0,0,,If this operation is not approved, \NI resign as Commander-in-Chief.
 Dialogue: 0,0:02:41.53,0:02:44.55,Default,,0,0,0,,Just as before the surprise attack at Pearl Harbor,
 Dialogue: 0,0:02:44.55,0:02:49.27,Default,,0,0,0,,With one nudge, Commander-in-Chief Yamamoto \Nwas able to push the initiative through.{/voice of authority overcame the opposition}

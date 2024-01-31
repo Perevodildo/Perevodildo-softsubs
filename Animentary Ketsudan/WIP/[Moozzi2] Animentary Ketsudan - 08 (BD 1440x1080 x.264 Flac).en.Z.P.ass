@@ -116,11 +116,11 @@ Dialogue: 0,0:06:46.15,0:06:49.38,Default,,0,0,0,,In this case, we will have \Nt
 Dialogue: 0,0:06:49.97,0:06:55.31,Default,,0,0,0,,Simultaneously, the Japanese convoys, carrying \Nthe Port Moresby assault party, and their escorts,
 Dialogue: 0,0:06:56.39,0:07:00.00,Default,,0,0,0,,centered around the aircraft carrier Shoho \Nto protect them from anything, {added}
 Dialogue: 0,0:07:00.00,0:07:02.90,Default,,0,0,0,,were sailing south through the center\Nof the Solomon Sea.
-Dialogue: 0,0:07:02.90,0:07:08.40,Default,,0,0,0,,Until sometime after 9 a.m. an enemy aircraft was spotted \Nand the whole fleet  was put on full alert.
+Dialogue: 0,0:07:02.90,0:07:08.40,Default,,0,0,0,,Until sometime after 9 a.m. an enemy aircraft was spotted \Nand the whole fleet was put on full alert.
 Dialogue: 0,0:07:09.72,0:07:12.11,Default,,0,0,0,,To all crew! Man your stations! {no clue, trusting HA here}
 Dialogue: 0,0:07:14.33,0:07:17.50,Default,,0,0,0,,Direction - 90 degrees! Height - 4 degrees! \NOnly one aircraft! {actually the second one is "point of the compass; cardinal direction; bearing​" but I have no clue what's the first one and obviously height can't be 90, but also height of 4 doesn't make sense either, it's effectively on the horizon. not that it matters all that much, nobody cares so could just write in whatever makes any sense; not in HA's; }
 Dialogue: 0,0:07:25.61,0:07:26.76,Default,,0,0,0,,After it! {chase; pursuit; tracking; stalking}
-Dialogue: 0,0:07:29.40,0:07:36.36,Default,,0,0,0,,Thus, the time was gradually drawing near \Nfor History's first carrier-on-carrier {decisive}battle.
+Dialogue: 0,0:07:29.40,0:07:36.36,Default,,0,0,0,,Thus, the time was gradually drawing near \Nfor history's first carrier-on-carrier {decisive}battle.
 Dialogue: 0,0:07:36.36,0:07:40.02,Default,,0,0,0,,It was shipborne!{actually he says "there's a carrier" but idk what it means, he says it like "we have a carrier" but that doesn't make sense so I assumed he just expands in the second sentence} \NThe enemy carrier must be near here!
 Dialogue: 0,0:07:40.02,0:07:44.36,Default,,0,0,0,,Take every precaution so as to not subject us \Nto radio detection, only then search for them!{lit: our side will get caught ..., be careful enough when ...}
 Dialogue: 0,0:07:44.92,0:07:45.84,Default,,0,0,0,,Roger!
@@ -150,7 +150,7 @@ Dialogue: 0,0:12:25.17,0:12:28.20,Default,,0,0,0,,Mistaking a tanker for a carri
 Dialogue: 0,0:12:28.81,0:12:31.62,Default,,0,0,0,,Even so, it's taking everyone pretty long! {no clue what he means by "everyone's late"}
 Dialogue: 0,0:12:32.52,0:12:35.13,Default,,0,0,0,,Communications department, \Nwhat are you doing?! {/doing}
 Dialogue: 0,0:12:35.13,0:12:37.78,Default,,0,0,0,,Tell them to{no clue why'd he say it to communications staff so addded; maybe previous line is not comm. staff after all} double back \Nafter dropping the payload! {/dropping your bombs and torpedoes, repatriate at once}
-Dialogue: 0,0:12:38.92,0:12:40.90,Default,,0,0,0,,We'll fail \Nif we keep dawdling!
+Dialogue: 0,0:12:38.92,0:12:40.90,Default,,0,0,0,,We'll fail if we keep dawdling!
 Dialogue: 0,0:12:40.90,0:12:44.18,Default,,0,0,0,,Get ready to swiftly recover the fighter units!{/received/accepted}
 Dialogue: 0,0:12:44.18,0:12:45.89,Default,,0,0,0,,We need our entire mobile fleet
 Dialogue: 0,0:12:45.89,0:12:48.96,Default,,0,0,0,,to not only chase the enemy in the northwest \Nbut to crush them!
@@ -276,7 +276,7 @@ Dialogue: 0,0:23:31.21,0:23:32.32,Default,,0,0,0,,But at the same time,
 Dialogue: 0,0:23:32.32,0:23:36.16,Default,,0,0,0,,his commander frustrated him, \Nby letting another decisive victory slip away. {lit: close run; just falling short of success of endgame (esp. in shogi or used figuratively)/checkmate - I think he means "was one step away from winning decisively but didn't manage it in the end"; can't say for sure, was it yamamoto disappointed with the Inoue commander, or was it Inoue disappointed himself with how things turned up. After all, we're seeing Inoue gnawing his nails}
 Dialogue: 0,0:23:36.73,0:23:42.42,Default,,0,0,0,,Damage-wise, both the Japanese and US sides \Nsuffered approximately even losses.
 Dialogue: 0,0:23:43.02,0:23:45.96,Default,,0,0,0,,When you get overly concerned \Nwith your allies' safety, {lit: when too caught up in ... damage/losses}
-Dialogue: 0,0:23:45.96,0:23:50.34,Default,,0,0,0,,you lose track of damaging the enemy{ as well}, \Nand let the outcome end in a stalemate. {I hope he means this by "enemy's damage gets overlooked/missed/let pass, and the operations stalls/comes to stagnation"}
+Dialogue: 0,0:23:45.96,0:23:50.34,Default,,0,0,0,,you lose track of damaging the enemy{ as well}, \Nand let the battle end in a stalemate. {I hope he means this by "enemy's damage gets overlooked/missed/let pass, and the operations stalls/comes to stagnation"}
 Dialogue: 0,0:23:51.07,0:23:57.93,Default,,0,0,0,,This time, the 4th Fleet of the IJN emerged victorious \Ntactically, but was beaten strategically.
 Dialogue: 0,0:23:58.25,0:24:07.88,Sign,,0,0,0,,{\fade(100,0)}The Pacific War taught us the preciousness of peace.\NBut also instilled numerous lessons on how to live.{太平洋戦争はわれわれに平和の尊さを教えたがまた生きるための教訓を数多くのこしている}
 Dialogue: 0,0:24:09.57,0:24:15.21,Default,,0,0,0,,The reason for which the war in the Pacific was let loose \Nwas for the acquisition of the oil-rich southern regions.

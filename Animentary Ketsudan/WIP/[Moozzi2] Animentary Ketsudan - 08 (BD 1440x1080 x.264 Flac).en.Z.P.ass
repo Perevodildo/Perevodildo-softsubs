@@ -16,8 +16,8 @@ Video File: [Moozzi2] Animentary Ketsudan - 08 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 231
-Active Line: 254
+Scroll Position: 9
+Active Line: 22
 Video Position: 34936
 
 [V4+ Styles]
@@ -42,20 +42,20 @@ Dialogue: 0,0:01:43.04,0:01:47.58,Default,,0,0,0,,With the aim of securing the h
 Dialogue: 0,0:01:47.58,0:01:49.63,Default,,0,0,0,,the Port Moresby Operation was started. {https://en.wikipedia.org/wiki/Operation_Mo}
 Dialogue: 0,0:01:49.63,0:01:55.42,Default,,0,0,0,,Its first step was the capture of Tulagi island \Nby the special landing party assembled{don't like to use this word twice in two consequtive sentences but i think it looks alright} in Rabaul.
 Dialogue: 0,0:01:55.42,0:01:56.23,Default,,0,0,0,,However,
-Dialogue: 0,0:01:56.23,0:02:02.52,Default,,0,0,0,,Being warned in advance of the Japanese attack,\Nthe Australian garrison {actually "reserve corps" but I think they mean this} had already evacuated.
+Dialogue: 0,0:01:56.23,0:02:02.52,Default,,0,0,0,,being warned in advance of the Japanese attack,\Nthe Australian garrison {actually "reserve corps" but I think they mean this} had already evacuated.
 Dialogue: 0,0:02:02.52,0:02:04.64,Default,,0,0,0,,The island was entirely deserted. {completely empty (of a residence, etc.); vacant; deserted​}
 Dialogue: 0,0:02:08.37,0:02:11.38,Default,,0,0,0,,6:30 a.m. on May 4th.
 Dialogue: 0,0:02:11.38,0:02:17.17,Default,,0,0,0,,Upon learning of the Japanese occupation of Tulagi Island, \Nthe US Mobile Task Force commander, Rear Admiral Fletcher
 Dialogue: 0,0:02:17.17,0:02:20.57,Default,,0,0,0,,immediately dispatched the Lexington carrier's air wings, {lit: sent flying shipborne planes}
 Dialogue: 0,0:02:20.57,0:02:22.58,Default,,0,0,0,,ordering them to commence the attack.
 Dialogue: 0,0:02:36.87,0:02:44.22,Sign,,0,0,240,,{\c&HF7F3F6&\b1\blur1\bord0}Episode 8 \N {\fs120} {Naval }Battle of the Coral Sea {珊瑚海海戦}
-Dialogue: 0,0:03:11.25,0:03:14.19,Default,,0,0,0,,At that time, on the Japanese side, \Nin Rabaul's {island base }headquarters,
+Dialogue: 0,0:03:11.25,0:03:14.19,Default,,0,0,0,,Presently, on the Japanese side, \Nin his {island base}headquarters on Rabaul,
 Dialogue: 0,0:03:14.19,0:03:17.15,Default,,0,0,0,,the Commander-in-Chief of the 4th Fleet, \NVice Admiral Inoue, {Shigeyoshi Inoue (井上 成美, Inoue Shigeyoshi, December 9, 1889 – December 15, 1975) was an admiral in the Imperial Japanese Navy during World War II. He was commander of the Japanese 4th Fleet and later served as Vice-Minister of the Navy. A noted naval theorist, he was a strong advocate of naval aviation within the Japanese Navy. He subsequently relocated his headquarters to Rabaul for Operation Mo, intended to occupy Port Moresby. However, after the Japanese defeat at the Battle of the Coral Sea in May 1942, he was relieved of his command in October, and returned to Japan to become commander of the Imperial Japanese Naval Academy.}
 Dialogue: 0,0:03:17.15,0:03:22.14,Default,,0,0,0,,executing the overall command of this operation, \Nwas expecting reports from the front line. {supreme command; direction over all} {/waiting for}
 Dialogue: 0,0:03:26.54,0:03:27.64,Default,,0,0,0,,What are the losses? {/damage}
 Dialogue: 0,0:03:27.64,0:03:31.19,Default,,0,0,0,,Destroyer - 1, minesweepers - 2, \Nas well as one submarine chaser{ were sunk}.
 Dialogue: 0,0:03:31.19,0:03:33.71,Default,,0,0,0,,But if carrier-based planes raided us... {again, shipborne} {/the fact that ... means}
-Dialogue: 0,0:03:33.71,0:03:37.61,Default,,0,0,0,,It means that the American Mobile Fleet \Nis in position around the Coral Sea.
+Dialogue: 0,0:03:33.71,0:03:37.61,Default,,0,0,0,,It means that the American Mobile Fleet \Nis positioned in the Coral Sea.
 Dialogue: 0,0:03:38.13,0:03:38.90,Default,,0,0,0,,Yes...
 Dialogue: 0,0:03:38.90,0:03:43.61,Default,,0,0,0,,The enemy Mobile Fleet must definitely be \Nwithin 200 nautical miles of Tulagi.
 Dialogue: 0,0:03:44.82,0:03:51.75,Default,,0,0,0,,However, our own Mobile Fleet is currently refueling \Nabout 360 nautical miles north of Tulagi Island.
@@ -277,7 +277,7 @@ Dialogue: 0,0:23:32.32,0:23:36.16,Default,,0,0,0,,his commander frustrated him, 
 Dialogue: 0,0:23:36.73,0:23:42.42,Default,,0,0,0,,Damage-wise, both the Japanese and US sides \Nsuffered approximately even losses.
 Dialogue: 0,0:23:43.02,0:23:45.96,Default,,0,0,0,,When you get overly concerned \Nwith your allies' safety, {lit: when too caught up in ... damage/losses}
 Dialogue: 0,0:23:45.96,0:23:50.34,Default,,0,0,0,,you lose track of damaging the enemy{ as well}, \Nand let the outcome end in a stalemate. {I hope he means this by "enemy's damage gets overlooked/missed/let pass, and the operations stalls/comes to stagnation"}
-Dialogue: 0,0:23:51.07,0:23:57.93,Default,,0,0,0,,This time, the 4th Fleet of the IJN emerged victorious \Ntactically, but was beaten strategically. 
+Dialogue: 0,0:23:51.07,0:23:57.93,Default,,0,0,0,,This time, the 4th Fleet of the IJN emerged victorious \Ntactically, but was beaten strategically.
 Dialogue: 0,0:23:58.25,0:24:07.88,Sign,,0,0,0,,{\fade(100,0)}The Pacific War taught us the preciousness of peace.\NBut also instilled numerous lessons on how to live.{太平洋戦争はわれわれに平和の尊さを教えたがまた生きるための教訓を数多くのこしている}
 Dialogue: 0,0:24:09.57,0:24:15.21,Default,,0,0,0,,The reason for which the war in the Pacific was let loose \Nwas for the acquisition of the oil-rich southern regions.
 Dialogue: 0,0:24:15.21,0:24:16.70,Default,,0,0,0,,During Java Island's invasion, {actually "operation of capturing Java Island"}

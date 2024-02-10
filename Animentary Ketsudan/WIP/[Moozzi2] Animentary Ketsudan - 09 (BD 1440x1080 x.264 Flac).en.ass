@@ -14,10 +14,10 @@ Audio File: [Moozzi2] Animentary Ketsudan - 09 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Animentary Ketsudan - 09 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.250000
-Scroll Position: 168
-Active Line: 171
-Video Position: 34975
+Video Zoom Percent: 0.375000
+Scroll Position: 188
+Active Line: 193
+Video Position: 36346
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -38,14 +38,24 @@ Dialogue: 0,0:01:06.69,0:01:14.55,Default,,0,0,30,,Men, don't you ever let other
 Comment: 0,0:01:34.91,0:01:34.95,Default,,0,0,0,,{ch}
 Dialogue: 0,0:01:49.23,0:01:54.78,Default,,0,0,0,,Having unleashed the war on the Pacific with the successful surprise attack on Hawaii, the Japanese army
 Dialogue: 0,0:01:54.78,0:02:02.01,Default,,0,0,0,,capitalized on that momentum to advance on Hong Kong, the Malay Peninsula, the Philippines, Celebes, Borneo, and so on. {(with) great vigour (from the way splitting bamboo goes all down the stick); irresistible force​}
-Dialogue: 0,0:02:02.01,0:02:05.47,Default,,0,0,0,,The stage was set for the capture of Java operation. {lit: encirclement; encircling net; tight besiegement was completed - he means Java was encircled/besieged/they finished setting up the trapping nets around it}
-Dialogue: 0,0:02:06.33,0:02:11.71,Default,,0,0,0,,The ultimate goal of Operation Java \Nwas the acquisition of its abundant oil resources.
-Dialogue: 0,0:02:11.71,0:02:16.75,Default,,0,0,0,,As well as connecting the islands of Sumatra and Java \Ninto one big defensive ridge.
+Dialogue: 0,0:02:02.01,0:02:05.47,Default,,0,0,0,,The stage was set for the capture of Java. {lit: encirclement; encircling net; tight besiegement was completed - he means Java was encircled/besieged/they finished setting up the trapping nets around it}
+Dialogue: 1,0:02:06.33,0:02:11.71,Default,,0,0,0,,The ultimate goal of Operation Java \Nwas the acquisition of its abundant oil resources.
+Dialogue: 0,0:02:10.28,0:02:12.61,Sign,,0,0,0,,{\fade(150,100)\bord0\b1\fs60\c&HE2D2CF&\frz359.1\pos(828,102)}British Borneo 
+Dialogue: 0,0:02:10.28,0:02:12.61,Sign,,0,0,0,,{\fade(150,100)\bord0\b1\fs60\c&HE2D2CF&\frz0.2823\pos(574,688)}Dutch Borneo 
+Dialogue: 1,0:02:11.71,0:02:16.75,Default,,0,0,0,,As well as connecting the islands of Sumatra and Java \Ninto one big defensive ridge.
 Dialogue: 0,0:02:17.22,0:02:21.09,Default,,0,0,0,,At that time, the island of Java \Nwas part of the Dutch East Indies. {not sure why he says "orando indoshina" (dutch indochina), would assume a slip of the tongue}
-Dialogue: 0,0:02:21.09,0:02:23.51,Default,,0,0,0,,These days, we know it as Indonesia.
+Dialogue: 2,0:02:21.09,0:02:23.51,Default,,0,0,0,,These days, we know it as Indonesia.
+Dialogue: 0,0:02:21.41,0:02:24.92,Sign,,0,0,0,,{\fade(150,1400)\bord0\b1\fs25\c&HE3D2CE&\pos(885,454)\frz357.3\3c&H090606&}British Borneo 
+Dialogue: 0,0:02:21.41,0:02:24.92,Sign,,0,0,0,,{\fade(150,1400)\bord0\b1\fs25\c&HE3D2CE&\pos(807,657)\frz359.9\3c&H090606&}Dutch Borneo 
+Dialogue: 0,0:02:21.41,0:02:24.92,Sign,,0,0,0,,{\fade(150,1400)\bord1\b1\fs25\c&HE3D2CE&\frz16.97\pos(1113,104)\3c&H090606&}Philippines
+Dialogue: 0,0:02:21.41,0:02:24.92,Sign,,0,0,0,,{\fade(150,1400)\bord0\b1\fs25\c&HE3D2CE&\3c&H090606&\pos(1211,838)\frz359.4}Celebes
+Dialogue: 0,0:02:21.41,0:02:24.92,Sign,,0,0,0,,{\fade(150,1400)\bord0\b1\fs25\c&HE1DBE7&\3c&H090606&\pos(674,824)\frz358.7}Java
+Dialogue: 0,0:02:21.41,0:02:24.92,Sign,,0,0,0,,{\fade(150,1400)\bord0\b1\fs25\c&HE3D2CE&\3c&H090606&\pos(202,480)\frz0.3342}Sumatra
+Dialogue: 0,0:02:21.41,0:02:24.92,Sign,,0,0,0,,{\fade(150,1400)\bord0\b1\fs25\c&HE3D2CE&\3c&H090606&\frz24.22\pos(354,256)}Malaya
+Dialogue: 0,0:02:21.41,0:02:24.92,Sign,,0,0,0,,{\fade(150,1400)\bord0\b1\fs25\c&HE3D2CE&\3c&H090606&\pos(482,34)\frz1.419}French Indochina
 Dialogue: 0,0:02:25.72,0:02:30.71,Default,,0,0,0,,First, the desired oil fields and air bases \Nof Sumatra and Palembang were captured
 Dialogue: 0,0:02:30.71,0:02:34.47,Default,,0,0,0,,by forces of three Japanese \Nforward paratrooper battalions.
-Dialogue: 0,0:02:35.50,0:02:42.72,Sign,,0,0,0,,Episode 9 \N The Fall of Java {ジャワ攻略}
+Dialogue: 0,0:02:35.50,0:02:42.72,Sign,,0,0,240,,{\fade(150,500)\b1\c&HEEE0E8&\bord0\blur1}Episode 9 \N {\fs150}The Fall of Java {ジャワ攻略}
 Dialogue: 0,0:02:42.72,0:02:44.53,Default,,0,0,0,,From General Staff' point of view,
 Dialogue: 0,0:02:44.53,0:02:46.45,Default,,0,0,0,,among all Southern Strategy operations,
 Dialogue: 0,0:02:46.45,0:02:50.03,Default,,0,0,0,,the capture of Java would be likely to pose the biggest challenge.
@@ -209,6 +219,6 @@ Dialogue: 0,0:24:48.66,0:24:53.00,Default,,0,0,50,,If you are a man, keep your h
 Dialogue: 0,0:24:53.00,0:24:57.36,Default,,0,0,50,,If you are a man, don't lose your heart{男だったら　くじけるな}
 Dialogue: 0,0:24:57.36,0:25:05.93,Default,,0,0,50,,Because there's just you and me, a man and a man{俺もおまえも　男と男}
 Dialogue: 0,0:25:05.93,0:25:14.36,Default,,0,0,50,,With crimson blood flowing in our veins all the same{おなじ真赤な　血が通う}
-Dialogue: 0,0:25:08.73,0:25:13.50,Sign,,0,0,0,,{\pos(720,700)}Brought to you by the Sorcery Party \Nѫ~ѫ\N"Lux in Tenebris"
+Dialogue: 0,0:25:08.99,0:25:13.50,Sign,,0,0,0,,{\pos(720,700)}Brought to you by the Sorcery Party \Nѫ~ѫ\N"Lux in Tenebris"
 Dialogue: 0,0:25:13.50,0:25:19.46,Sign,,0,0,0,,{\fs40\bord2\fade(0,600)\an6\pos(730,520)}Editing, OCR & timings assistance \N Translation \NQuality Checking \NSupplementary materials by \N Encoding
 Dialogue: 0,0:25:13.50,0:25:19.46,Sign,,0,0,0,,{\fs40\bord2\fade(0,600)\an4\pos(760,520)}Paul Geromini \N Perevodildo\N Ziusudra\N History Asian \N Moozzi2

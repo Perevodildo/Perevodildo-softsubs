@@ -14,10 +14,10 @@ Audio File: [Moozzi2] Animentary Ketsudan - 13 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Animentary Ketsudan - 13 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.250000
-Scroll Position: 237
-Active Line: 240
-Video Position: 35331
+Video Zoom Percent: 0.375000
+Scroll Position: 207
+Active Line: 217
+Video Position: 32729
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -161,7 +161,7 @@ Dialogue: 0,0:12:28.04,0:12:30.20,Default,,0,0,0,,A surprise attack is our only 
 Dialogue: 0,0:12:36.65,0:12:38.61,Default,,0,0,0,,Enemy patrol forward-to-right!
 Dialogue: 0,0:12:43.38,0:12:46.40,Default,,0,0,0,,All right, make it seem as if we're heading northwest.
 Dialogue: 0,0:12:46.40,0:12:48.64,Default,,0,0,0,,Full to starboard! Hurry! {no clue what's mikaji here, was "full to port" in HA, but if they're going from Rabaul south, it'd make sense to turn right to pretend to head northwest, not left}
-Dialogue: 0,0:12:57.80,0:12:59.84,Default,,0,0,0,,Enemy patrol plane no longer in sight\N!
+Dialogue: 0,0:12:57.80,0:12:59.84,Default,,0,0,0,,Enemy patrol plane no longer in sight!
 Dialogue: 0,0:12:59.84,0:13:02.36,Default,,0,0,0,,Captain, restore the normal course.
 Dialogue: 0,0:13:02.36,0:13:02.80,Default,,0,0,0,,Roger!
 Dialogue: 0,0:13:03.49,0:13:05.82,Default,,0,0,0,,I need the rest of you to gather in the briefing room! {/operations}

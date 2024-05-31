@@ -15,7 +15,7 @@ Video File: [Moozzi2] Animentary Ketsudan - 09 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.375000
-Scroll Position: 57
+Scroll Position: 96
 Active Line: 121
 Video Position: 36346
 
@@ -80,7 +80,7 @@ Dialogue: 0,0:05:35.35,0:05:41.70,Default,,0,0,0,,But it was destroyed effortles
 Dialogue: 0,0:06:09.16,0:06:15.20,Default,,0,0,0,,However, among the ships then anchored at Bantam Bay \Nwatching this battle unfold with bated breath,
 Dialogue: 0,0:06:15.20,0:06:19.53,Default,,0,0,0,,four Japanese transport vessels \Nwere hit by torpedoes.
 Dialogue: 0,0:06:20.38,0:06:28.03,Default,,0,0,0,,Ironically enough, those friendly torpedoes passed right under \Nan already foundering American cruiser.  {added}
-Dialogue: 0,0:06:31.39,0:06:36.40,Default,,0,0,0,,Among the hit vessels, was Sakuramaru, carrying Lieutenant General Imamura, the 16th Army commander. {it was actually ryuujomaru that we've seen before irl, but I guess we'd better stick to the text}
+Dialogue: 0,0:06:31.39,0:06:36.40,Default,,0,0,0,,Among the hit vessels was Sakuramaru, carrying Lieutenant General Imamura, the 16th Army commander. {it was actually ryuujomaru that we've seen before irl, but I guess we'd better stick to the text}
 Dialogue: 0,0:06:36.40,0:06:42.69,Default,,0,0,0,,To his sheer surprise, Lieutenant General Imamura, \Nfound himself swimming through the warm southern waters. {lit is something like "had one scene of swimming"}
 Dialogue: 0,0:07:03.45,0:07:09.12,Default,,0,0,0,,However, Lieutenant General Imamura \Ncasually switched ships, and on March 1st, {no clue what's this taizen; has to be "with calm; composed; self-possessed; firm" tho seems a bit off}
 Dialogue: 0,0:07:09.12,0:07:13.91,Default,,0,0,0,,the Japanese army launched a full-scale landing \Non the island of Java with all available forces.
@@ -90,7 +90,7 @@ Dialogue: 0,0:07:58.62,0:08:01.04,Default,,0,0,0,,All forces have successfully m
 Dialogue: 0,0:08:01.60,0:08:03.03,Default,,0,0,0,,What is the battle situation?
 Dialogue: 0,0:08:03.63,0:08:07.55,Default,,0,0,0,,It looks exceedingly favorable for us. \NYou could even say too much so.
 Dialogue: 0,0:08:07.55,0:08:08.61,Default,,0,0,0,,I see.
-Dialogue: 0,0:08:08.61,0:08:12.98,Default,,0,0,0,,Both sides are conserving themselves \Nright until the battle's conclusion. 
+Dialogue: 0,0:08:08.61,0:08:12.98,Default,,0,0,0,,Both sides are conserving themselves \Nright until the battle's conclusion.
 Dialogue: 0,0:08:12.98,0:08:13.63,Default,,0,0,0,,Roger.
 Dialogue: 0,0:08:14.06,0:08:19.08,Default,,0,0,0,,We don't fight to kill as many as we can, but to force \Na surrender with minimal casualties on our side.
 Dialogue: 0,0:08:24.98,0:08:27.69,Default,,0,0,0,,Relax, it's still a long way off. {matter for the future; something that is a long way off; something that is not going to happen anytime soon}
@@ -147,7 +147,7 @@ Dialogue: 0,0:15:51.60,0:15:54.17,Default,,0,0,0,,Even if I order my Dutch troop
 Dialogue: 0,0:15:54.17,0:15:59.31,Default,,0,0,0,,the troops of other nations are free to disregard \Na ceasefire order from me, if they so desire. {I hope he means this by "may ignore my ceasefire order" and not "I don't want them to ignore ..."}
 Dialogue: 0,0:16:03.65,0:16:04.71,Default,,0,0,0,,Commander.
 Dialogue: 0,0:16:04.71,0:16:07.95,Default,,0,0,0,,As long as our fellow Dutchmen stand tall and fight,
-Dialogue: 0,0:16:07.95,0:16:10.67,Default,,0,0,0,,fellow British and Australians \Nwon't back down.
+Dialogue: 0,0:16:07.95,0:16:10.67,Default,,0,0,0,,fellow British and Australian soldiers \Nwon't back down.
 Dialogue: 0,0:16:13.76,0:16:18.05,Default,,0,0,0,,Although the words of Major General Sitwell, \NCommander-in-Chief of British-Australian forces
 Dialogue: 0,0:16:18.05,0:16:22.06,Default,,0,0,0,,channeled determination, \Nhe was out of touch with the brutal reality. {vain; fruitless; futile; ineffective}
 Dialogue: 0,0:17:03.52,0:17:07.85,Default,,0,0,0,,Major General Pesman, tasked with the defense \Nof the Northern-Central district of Bandung,

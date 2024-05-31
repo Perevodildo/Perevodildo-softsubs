@@ -15,8 +15,8 @@ Video File: [Moozzi2] Animentary Ketsudan - 09 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.375000
-Scroll Position: 96
-Active Line: 121
+Scroll Position: 157
+Active Line: 176
 Video Position: 36346
 
 [V4+ Styles]
@@ -200,8 +200,8 @@ Dialogue: 0,0:22:34.56,0:22:38.34,Default,,0,0,0,,unexpectedly ended in a comple
 Dialogue: 0,0:22:59.03,0:23:05.99,Default,,0,0,0,,On March 10th, commanded by Lieutenant General Imamura, \Nthe 16th Army triumphantly entered Bandung.
 Dialogue: 0,0:23:29.25,0:23:36.01,Default,,0,0,0,,In the entirety of the Pacific War, no other operation was so warmly welcomed by the natives as Operation Java.
 Dialogue: 0,0:23:36.01,0:23:41.21,Default,,0,0,0,,This and the fact it met all the objectives according to plan, \Nmade it truly a one-of-a-kind operation. {/it's said it was the only ... to be ...}
-Dialogue: 0,0:23:42.67,0:23:46.13,Default,,0,0,0,,Some say, the overarching decisions \Nof Lieutenant General Imamura,
-Dialogue: 0,0:23:46.13,0:23:48.91,Default,,0,0,0,,in considering the natives' interests all along,
+Dialogue: 0,0:23:42.67,0:23:46.13,Default,,0,0,0,,Some say the overarching decisions \Nof Lieutenant General Imamura,
+Dialogue: 0,0:23:46.13,0:23:48.91,Default,,0,0,0,,in considering the natives' interests all along
 Dialogue: 0,0:23:48.91,0:23:55.22,Default,,0,0,0,,by not resorting to the tactics of complete annihilation, {actually "rejected tactics of setting on fire; setting afire" but i couldn't wrap this around in english} \Nhighlighted his humanity. {actually "love" but I think he means "love for people" so humanity it is}
 Dialogue: 0,0:23:58.39,0:24:07.92,Sign,,0,0,0,,{\fade(100,0)}The Pacific War taught us the preciousness of peace.\NBut also instilled numerous lessons on how to live.{太平洋戦争はわれわれに平和の尊さを教えたがまた生きるための教訓を数多くのこしている}
 Dialogue: 0,0:24:09.47,0:24:12.79,Default,,0,0,0,,One of the Southern Strategy operations \Nwas the capture of the Celebes.

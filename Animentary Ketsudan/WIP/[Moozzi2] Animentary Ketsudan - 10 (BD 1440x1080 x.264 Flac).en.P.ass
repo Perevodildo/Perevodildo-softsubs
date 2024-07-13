@@ -15,9 +15,9 @@ Video File: [Moozzi2] Animentary Ketsudan - 10 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 215
-Active Line: 242
-Video Position: 23883
+Scroll Position: 240
+Active Line: 247
+Video Position: 19504
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,8 +36,7 @@ Dialogue: 0,0:00:50.95,0:00:58.86,Default,,0,0,30,,One decision is enough \NTo m
 Dialogue: 0,0:00:58.86,0:01:06.69,Default,,0,0,30,,If you win, don't hold your head high, \NIf you lose, don't cry{勝っておごるな 敗れて泣くな}
 Dialogue: 0,0:01:06.69,0:01:14.55,Default,,0,0,30,,Men, don't you ever let others see your tears{男 涙は見せぬもの}
 Comment: 0,0:01:34.91,0:01:34.95,Default,,0,0,0,,{ch}
-Dialogue: 0,0:01:40.72,0:01:46.34,Default,,0,0,0,,The reason the war in the Pacific broke out - Japan's objective and ultimate goal with {the promotion of }the southern strategy
-Dialogue: 0,0:01:46.34,0:01:49.02,Default,,0,0,0,,was the acquisition of oil deposits.
+Dialogue: 0,0:01:40.72,0:01:49.02,Default,,0,0,0,,The reason the war in the Pacific started was because of Japan's southern strategy to acquire oil deposits.
 Dialogue: 0,0:01:49.76,0:01:53.67,Default,,0,0,0,,Planning to cross the seas \Nand land right on the enemy's heads, this operation
 Dialogue: 0,0:01:53.67,0:01:58.48,Default,,0,0,0,,was truly unprecedented in its scale \Nin the worldwide history of warfare.
 Dialogue: 0,0:01:59.02,0:02:03.54,Default,,0,0,0,,For that operation, Lieutenant General Imamura \Nreceived under his command various task forces -
@@ -52,12 +51,12 @@ Dialogue: 0,0:02:35.62,0:02:42.18,Default,,0,0,0,,Overseeing the preparations wa
 Dialogue: 0,0:02:43.20,0:02:46.53,Default,,0,0,0,,Our main body of several thousand troops \Nwill head to Manado on the west coast. {honestly, unsure about this whole sentence}
 Dialogue: 0,0:02:46.53,0:02:49.00,Default,,0,0,0,,But some detachments \Nwould also land in Kema from the east.
 Dialogue: 0,0:02:49.00,0:02:50.75,Default,,0,0,0,,We'll squeeze the enemy from both sides. {attack on both sides; pincer movement; double envelopment}
-Dialogue: 0,0:02:53.19,0:02:55.92,Default,,0,0,0,,At the same time, the paratrooper's battalion \Nlands in Langoan,
+Dialogue: 0,0:02:53.19,0:02:55.92,Default,,0,0,0,,At the same time, the paratrooper battalion \Nlands in Langoan,
 Dialogue: 0,0:02:55.92,0:02:59.68,Default,,0,0,0,,so as to capture Langoan's air base \Nand the freshwater supply in Kakas.
 Dialogue: 0,0:02:59.68,0:03:03.25,Default,,0,0,0,,Are you suggesting we paradrop the troops \Nright on the enemy positions? {right in the center (centre)​}
 Dialogue: 0,0:03:03.25,0:03:07.25,Default,,0,0,0,,The enemy would be distracted, softened up for them. \NHe, who makes the first move, wins. {lit: "... that power would be weakened, victory goes to the one who makes the first move; being quick to take action leads to victory; the early bird gets the worm​"}
 Dialogue: 0,0:03:08.42,0:03:13.05,Default,,0,0,0,,For the Japanese navy paratrooper corps, \Nbeing in the lead for this operation {maybe "paramarines"}
-Dialogue: 0,0:03:13.05,0:03:17.70,Default,,0,0,0,,meant presenting a challenge to the world, \Nwhich they were yet to learn a single thing about.
+Dialogue: 0,0:03:13.05,0:03:17.70,Default,,0,0,0,,meant announcing themselves to a world \Nthey were unfamiliar with.
 Dialogue: 0,0:03:35.15,0:03:41.83,Sign,,0,0,260,,{\c&HE9E9E9&\b1\blur1\bord0\xshad7\yshad1\4c&HABA09D&\4a&H62&}Episode 10 \N {\fs100} The Navy Paratrooper Corps
 Dialogue: 0,0:03:53.73,0:03:55.63,Default,,0,0,0,,Let's win first, before making any more plans. {absolutely no clue what he means to say by "the victory in a fight is deciding first; settling (a matter) first; first priority"}
 Dialogue: 0,0:03:55.63,0:04:01.64,Default,,0,0,0,,I know it's well planned out, but still, isn't it too reckless \Nto just drop the paratroopers right on the enemy's heads? {/in the middle of enemy encampment}
@@ -75,7 +74,7 @@ Dialogue: 0,0:04:36.76,0:04:40.25,Default,,0,0,0,,The value of paradrop tactics
 Dialogue: 0,0:04:40.25,0:04:45.64,Default,,0,0,0,,thus seizing the initiative at a moment's notice. \NSuch has been proven in this war by countries like Germany.
 Dialogue: 0,0:04:46.14,0:04:51.55,Default,,0,0,0,,Inspired by their successes, the Japanese navy \Nalso gave birth to their own paratroopers corps in 1941.
 Dialogue: 0,0:04:51.55,0:04:55.53,Default,,0,0,0,,While maintaining secrecy, the men comprising it \Nwere put through life-threatening drills.
-Dialogue: 0,0:05:00.38,0:05:04.48,Default,,0,0,0,,While the navy paratroopers were starting their decent \Nat 4 a.m., January 11th of 1942,
+Dialogue: 0,0:05:00.38,0:05:04.48,Default,,0,0,0,,While the navy paratroopers were starting their descent \Nat 4 a.m., January 11th of 1942,
 Dialogue: 0,0:05:04.48,0:05:07.05,Default,,0,0,0,,a coordinated naval landing right in the face of the enemy
 Dialogue: 0,0:05:07.05,0:05:10.64,Default,,0,0,0,,was commenced both from the eastern \Nand the western coasts of Celebes.
 Dialogue: 0,0:06:02.19,0:06:03.84,Default,,0,0,0,,Hurry to the airfield!
@@ -156,7 +155,7 @@ Dialogue: 0,0:11:30.37,0:11:31.84,Default,,0,0,0,,Isn't there any way we...
 Dialogue: 0,0:11:31.84,0:11:36.47,Default,,0,0,0,,Your emotions are no mystery to me. \NBut all we do is just fall from the sky on our parachutes.
 Dialogue: 0,0:11:36.47,0:11:39.47,Default,,0,0,0,,There must be some mistake in the way we do it now.
 Dialogue: 0,0:11:39.47,0:11:43.31,Default,,0,0,0,,This whole "Divine Soldiers from the Sky" baloney \Ntroubles us just as much.
-Dialogue: 0,0:11:43.31,0:11:47.31,Default,,0,0,0,,That's just what I've been telling them. \NBut when I think of my subordinates, I can get no rest. {no clue what he means by "I won't sit still/patiently/motionlessly }
+Dialogue: 0,0:11:43.31,0:11:47.31,Default,,0,0,0,,That's just what I've been telling them. \NBut when I think of my subordinates, I cannot sleep. {no clue what he means by "I won't sit still/patiently/motionlessly }
 Dialogue: 0,0:11:47.31,0:11:51.01,Default,,0,0,0,,Listen, Murai. You're just getting \Nunreasonably anxious over trifles. {/I think you shouldn't to find fault (with trivial matters); to scold over minor things; to get angry over trifles; to raise one's eyebrows}
 Dialogue: 0,0:11:51.01,0:11:52.82,Default,,0,0,0,,Time will settle this by itself.
 Dialogue: 0,0:11:55.82,0:11:56.92,Default,,0,0,0,,You think so?
@@ -181,16 +180,16 @@ Dialogue: 0,0:13:16.79,0:13:18.62,Default,,0,0,0,,I understand. But sir...
 Dialogue: 0,0:13:18.62,0:13:22.28,Default,,0,0,0,,Battalion commander, the subject is exhausted. \NConcentrate on current operations!
 Dialogue: 0,0:13:22.28,0:13:23.42,Default,,0,0,0,,Roger.
 Dialogue: 0,0:13:24.56,0:13:29.91,Default,,0,0,0,,The operation was successful beyond any expectations, \Nallowing us to hasten the fall of Java by a whole month.
-Dialogue: 0,0:13:29.91,0:13:32.43,Default,,0,0,0,,It was because we didn't disperse our mental efforts. {no fucking clue what he means by strategy/operation first principle, DeepL: This is the result of an operations-first mentality.; HA: strategy first; I think he means "we didn't occupy our minds with extra things aside from operation" tho can be anything; it doesn't help that "sakusen" has two meanings either}
+Dialogue: 0,0:13:29.91,0:13:32.43,Default,,0,0,0,,It was because we we focused on the strategy. {no fucking clue what he means by strategy/operation first principle, DeepL: This is the result of an operations-first mentality.; HA: strategy first; I think he means "we didn't occupy our minds with extra things aside from operation" tho can be anything; it doesn't help that "sakusen" has two meanings either}
 Dialogue: 0,0:13:33.32,0:13:36.38,Default,,0,0,0,,This issue doesn't require any immediate decision from us.
 Dialogue: 0,0:13:36.38,0:13:38.95,Default,,0,0,0,,The paratroopers will move on \Nto execute other operations.
-Dialogue: 0,0:13:39.59,0:13:42.34,Default,,0,0,0,,Eh? The paratrooper's corps is being transferred?
+Dialogue: 0,0:13:39.59,0:13:42.34,Default,,0,0,0,,Eh? The paratroopers corps is being transferred?
 Dialogue: 0,0:13:50.06,0:13:52.69,Default,,0,0,0,,Apply your mind to the operation, \NBattalion Commander. {/concentrate on}
 Dialogue: 0,0:13:55.06,0:14:00.13,Default,,0,0,0,,For about a month more, \Nthe paratroopers were staying on Celebes Island,
 Dialogue: 0,0:14:00.13,0:14:06.53,Default,,0,0,0,,until finally, further south, the new battlefields \Nof Timor and Tarpan were calling out to them. {/departed for } {I'm being rarted again but I can't figure out what's this tarpan thing\Nwas "turban" in HA\NMy best bet is that the narrator misread/mispronounced Kupang, because it's クーパン and ターパン are a bit similar}
 Dialogue: 0,0:14:43.56,0:14:46.27,Default,,0,0,0,,With the departure of the paratroopers,
 Dialogue: 0,0:14:46.27,0:14:52.29,Default,,0,0,0,,the conflict between the ground forces and the paratroopers \Nseemed to have petered out by itself.
-Dialogue: 0,0:14:57.85,0:15:02.71,Default,,0,0,0,,Hey, a few words please. Don't you have \Nsome interesting story about the paratrooper's battalion?
+Dialogue: 0,0:14:57.85,0:15:02.71,Default,,0,0,0,,Hey, a few words please. Don't you have \Nsome interesting story about the paratroopers battalion?
 Dialogue: 0,0:15:05.26,0:15:05.98,Default,,0,0,0,,How about this?
 Dialogue: 0,0:15:05.98,0:15:10.96,Default,,0,0,0,,While exchanging emotional handshakes with the paratroopers at the Kakas airfield, how did you feel? Do tell.
 Dialogue: 0,0:15:10.96,0:15:11.91,Default,,0,0,0,,I got nothing! {rather, I felt nothing}
@@ -211,7 +210,7 @@ Dialogue: 0,0:15:48.22,0:15:49.43,Default,,0,0,0,,I was wrong!
 Dialogue: 0,0:16:13.95,0:16:15.50,Default,,0,0,0,,Take a look at this.
 Dialogue: 0,0:16:15.50,0:16:17.93,Default,,0,0,0,,Wreathes are abound on the paratroopers' graves.
 Dialogue: 0,0:16:18.54,0:16:20.96,Default,,0,0,0,,But not a single one on the ground troops' graves.
-Dialogue: 0,0:16:21.74,0:16:25.09,Default,,0,0,0,,Does that make it any clearer for you \Nas to why the soldier before cried?
+Dialogue: 0,0:16:21.74,0:16:25.09,Default,,0,0,0,,Does that make it any clearer for you \Nas to why that soldier before cried?
 Dialogue: 0,0:16:36.12,0:16:41.54,Default,,0,0,0,,Yes, I got a story{actually "I know" but what can he know?}. There was a soldier who landed \Nwith a parachute. He treated me with 5 of his cigarettes.
 Dialogue: 0,0:16:41.54,0:16:46.46,Default,,0,0,0,,He was also very gentle when holding my child. \NHe was kind. A hearty soldier, however you look at it.
 Dialogue: 0,0:16:46.46,0:16:48.82,Default,,0,0,0,,Please make sure to write my story.
@@ -226,7 +225,7 @@ Dialogue: 0,0:17:17.62,0:17:22.06,Default,,0,0,0,,Doesn't that make it clear to 
 Dialogue: 0,0:17:23.94,0:17:24.78,Default,,0,0,0,,Come in.
 Dialogue: 0,0:17:26.96,0:17:28.63,Default,,0,0,0,,Did you lose composure again? {to act violently; to rage; to struggle; to be riotous}
 Dialogue: 0,0:17:29.07,0:17:30.42,Default,,0,0,0,,Sir, yes sir!
-Dialogue: 0,0:17:31.07,0:17:37.68,Default,,0,0,0,,How come the soldiers who fought in such a restrained way \Nhave to pick a fight with one another nearly every night? {I hate this line and I've no clue what he means, was "Why do soldiers who have fought soberly have to hit each other almost every night?" in HA; I can understand the first part to be a comparison of ground troops with paratroopers, but why does he say "hit each other"? why do they have no choice? why is he asking ths from a journalist???}
+Dialogue: 0,0:17:31.07,0:17:37.68,Default,,0,0,0,,How come the soldiers who fought conventionally \Nhave to pick a fight with paratroopers nearly every night? {I hate this line and I've no clue what he means, was "Why do soldiers who have fought soberly have to hit each other almost every night?" in HA; I can understand the first part to be a comparison of ground troops with paratroopers, but why does he say "hit each other"? why do they have no choice? why is he asking ths from a journalist???}
 Dialogue: 0,0:18:22.08,0:18:24.74,Default,,0,0,0,,The guerrillas here received a professional drilling.
 Dialogue: 0,0:18:24.74,0:18:26.59,Default,,0,0,0,,Make sure to take every precaution.
 Dialogue: 0,0:18:26.59,0:18:27.44,Default,,0,0,0,,Roger.
@@ -274,7 +273,7 @@ Dialogue: 0,0:24:08.94,0:24:15.54,Default,,0,0,0,,January 1942. Japanese forces 
 Dialogue: 0,0:24:15.54,0:24:21.70,Default,,0,0,0,,However, Supreme Commander General MacArthur's forces, \Ncornered at the Bataan Peninsula make a counter-attack.
 Dialogue: 0,0:24:21.70,0:24:23.19,Default,,0,0,0,,The operation suffers a setback. {setback; failure (e.g. plans, business); frustration; discouragement}
 Dialogue: 0,0:24:23.92,0:24:28.41,Default,,0,0,0,,In the enormous dark jungle, \Nthe Japanese army is suffering from starvation and malaria.
-Dialogue: 0,0:24:28.41,0:24:31.44,Default,,0,0,0,,Their commander Lieutenant General Homma \Nis making an enraged decision. {lit: with (mental) agony; anguish; suffering; distress}
+Dialogue: 0,0:24:28.41,0:24:31.44,Default,,0,0,0,,Their commander Lieutenant General Homma \Nis making a rash decision. {lit: with (mental) agony; anguish; suffering; distress}
 Dialogue: 0,0:24:31.44,0:24:38.48,Sign,,0,0,0,,Episode 11 \NThe Fall of Bataan and Corregidor {バターン・コレヒドール攻略}
 Dialogue: 0,0:24:32.16,0:24:36.78,Default,,0,0,0,,Don't miss the next week's decision: \NThe Fall of Bataan and Corregidor.
 Comment: 0,0:24:43.11,0:24:43.15,Default,,0,0,0,,{ch}

@@ -14,10 +14,10 @@ Audio File: [Moozzi2] Animentary Ketsudan - 10 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Animentary Ketsudan - 10 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Scroll Position: 240
-Active Line: 247
-Video Position: 19504
+Video Zoom Percent: 0.375000
+Scroll Position: 174
+Active Line: 191
+Video Position: 33131
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -48,7 +48,7 @@ Dialogue: 0,0:02:20.28,0:02:25.37,Default,,0,0,0,,where just across the Makassar
 Dialogue: 0,0:02:27.08,0:02:30.29,Default,,0,0,0,,As part of this Celebes Island operation,
 Dialogue: 0,0:02:30.29,0:02:35.16,Default,,0,0,0,,the Southern Detachment of the Navy \Ndrew up a plan for an attack with paratroopers.
 Dialogue: 0,0:02:35.62,0:02:42.18,Default,,0,0,0,,Overseeing the preparations was Vice Admiral Tsukahara, \NCommander-in-Chief of the 11th Air Fleet.
-Dialogue: 0,0:02:43.20,0:02:46.53,Default,,0,0,0,,Our main body of several thousand troops \Nwill head to Manado on the west coast. {honestly, unsure about this whole sentence}
+Dialogue: 0,0:02:43.20,0:02:46.53,Default,,0,0,0,,The bulk of our armed forces \Nwill head to Manado on the west coast. {honestly, unsure about this whole sentence}
 Dialogue: 0,0:02:46.53,0:02:49.00,Default,,0,0,0,,But some detachments \Nwould also land in Kema from the east.
 Dialogue: 0,0:02:49.00,0:02:50.75,Default,,0,0,0,,We'll squeeze the enemy from both sides. {attack on both sides; pincer movement; double envelopment}
 Dialogue: 0,0:02:53.19,0:02:55.92,Default,,0,0,0,,At the same time, the paratrooper battalion \Nlands in Langoan,
@@ -60,14 +60,14 @@ Dialogue: 0,0:03:13.05,0:03:17.70,Default,,0,0,0,,meant announcing themselves to
 Dialogue: 0,0:03:35.15,0:03:41.83,Sign,,0,0,260,,{\c&HE9E9E9&\b1\blur1\bord0\xshad7\yshad1\4c&HABA09D&\4a&H62&}Episode 10 \N {\fs100} The Navy Paratrooper Corps
 Dialogue: 0,0:03:53.73,0:03:55.63,Default,,0,0,0,,Let's win first, before making any more plans. {absolutely no clue what he means to say by "the victory in a fight is deciding first; settling (a matter) first; first priority"}
 Dialogue: 0,0:03:55.63,0:04:01.64,Default,,0,0,0,,I know it's well planned out, but still, isn't it too reckless \Nto just drop the paratroopers right on the enemy's heads? {/in the middle of enemy encampment}
-Dialogue: 0,0:04:02.60,0:04:04.49,Default,,0,0,0,,The mission of holding out in a pocket
-Dialogue: 0,0:04:04.49,0:04:07.99,Default,,0,0,0,,would be extremely dangerous \Nfor our paratrooper battalion with so few troops. {very unsure what he means: daily, facing/meeting enemy besiegement/encirclement, with so little force of ... is ...}
+Dialogue: 0,0:04:02.60,0:04:04.49,Default,,0,0,0,,Holding out in such a powder keg
+Dialogue: 0,0:04:04.49,0:04:07.99,Default,,0,0,0,,would be precarious \Nfor our paratrooper battalion with so few troops. {very unsure what he means: daily, facing/meeting enemy besiegement/encirclement, with so little force of ... is ...}
 Dialogue: 0,0:04:08.58,0:04:10.66,Default,,0,0,0,,I am fully aware of the risks.
 Dialogue: 0,0:04:10.66,0:04:13.65,Default,,0,0,0,,Please reconsider their drop zone.
-Dialogue: 0,0:04:15.44,0:04:18.95,Default,,0,0,0,,My unit doesn't fear death. \NBut seeing to it that their lives aren't wasted... {no clue what he means "only/just best of the bestest/ideal utmost"; also would assume he is some commander (although not active participant) of the paratroopers, otherwise why'd he be speaking on their behalf?}
+Dialogue: 0,0:04:15.44,0:04:18.95,Default,,0,0,0,,My unit doesn't fear death. \NBut would ideally not be laid to waste...  {no clue what he means "only/just best of the bestest/ideal utmost"; also would assume he is some commander (although not active participant) of the paratroopers, otherwise why'd he be speaking on their behalf?}
 Dialogue: 0,0:04:19.71,0:04:24.95,Default,,0,0,0,,It's already decided that capturing Celebes with the forces of the paratrooper battalion is the best plan. {/best/ideal}
 Dialogue: 0,0:04:24.95,0:04:27.96,Default,,0,0,0,,But it is still possible to change the drop zone!
-Dialogue: 0,0:04:27.96,0:04:31.32,Default,,0,0,0,,What matters now is to decide \Non how to carry out the existing plan. {I hope he means this tho generally unsure: un which way to execute the strategy decided upon}
+Dialogue: 0,0:04:27.96,0:04:31.32,Default,,0,0,0,,It is more important to stick with the existing plan. {I hope he means this tho generally unsure: un which way to execute the strategy decided upon}
 Dialogue: 0,0:04:31.32,0:04:33.43,Default,,0,0,0,,Our current preference is this strategy. {preference; priority; precedence} {again, unsure why he adds sakusen here}
 Dialogue: 0,0:04:33.43,0:04:34.58,Default,,0,0,0,,Nothing but that! {I have no clue who are those two btw}
 Dialogue: 0,0:04:36.76,0:04:40.25,Default,,0,0,0,,The value of paradrop tactics \Nis in catching the enemy by surprise,
@@ -121,7 +121,7 @@ Dialogue: 0,0:09:39.12,0:09:40.52,Default,,0,0,0,,How can you say that?
 Dialogue: 0,0:09:41.28,0:09:43.20,Default,,0,0,0,,Are you a paratrooper?
 Dialogue: 0,0:09:43.20,0:09:45.06,Default,,0,0,0,,Oh... No, I'm not.
 Dialogue: 0,0:09:45.06,0:09:46.79,Default,,0,0,0,,This here is a paratrooper.
-Dialogue: 0,0:09:46.79,0:09:49.92,Default,,0,0,0,,Mr. Paratrooper, you absolutely must tell us about yourself. {unsure what she means, she makes it sound as though she wants it herself}
+Dialogue: 0,0:09:46.79,0:09:49.92,Default,,0,0,0,,Mr. Paratrooper, tell us more about yourself. {unsure what she means, she makes it sound as though she wants it herself}
 Dialogue: 0,0:09:49.92,0:09:50.96,Default,,0,0,0,,Hey-hey, drop it.
 Dialogue: 0,0:09:50.96,0:09:53.28,Default,,0,0,0,,I beg you! The children are getting under my skin! {/waiting}
 Dialogue: 0,0:09:53.28,0:09:54.67,Default,,0,0,0,,I'm not a good teller... {abs. guess, no clue what he means by "if you're weak", was "I am contused." in HA; assumed "I'm weak [at telling stories]" but could think of "I'm weak [after the operation and supposed to get a rest]"}
@@ -167,7 +167,7 @@ Dialogue: 0,0:12:05.57,0:12:08.35,Default,,0,0,0,,Every single day, we put our l
 Dialogue: 0,0:12:08.35,0:12:09.89,Default,,0,0,0,,We've no time for such things. {no fucking clue what he means by "such thing forever"; was "such a thing..." in HA}
 Dialogue: 0,0:12:16.47,0:12:17.36,Default,,0,0,0,,Wait! Murai!
 Dialogue: 0,0:12:21.05,0:12:22.78,Default,,0,0,0,,"Divine Soldiers from the Sky?"
-Dialogue: 0,0:12:30.83,0:12:33.57,Default,,0,0,0,,Is this really the hero \Nthat our warring nation craves? {nation at war; militant nation - no clue what he means, again. those dialogues are a fucking inconsequenta fest}
+Dialogue: 0,0:12:30.83,0:12:33.57,Default,,0,0,0,,Are they the heroes \Nour warring nation swoon for? {nation at war; militant nation - no clue what he means, again. those dialogues are a fucking inconsequenta fest}
 Dialogue: 0,0:12:34.07,0:12:37.75,Default,,0,0,0,,Hey! Think you're the cream of the crop \Njust cause you're a paratrooper?
 Dialogue: 0,0:12:37.75,0:12:41.55,Default,,0,0,0,,You prick! Quit pretending there are no other soldiers \Nbut those with parachutes!
 Dialogue: 0,0:12:45.55,0:12:48.85,Default,,0,0,0,,This hero is product of fantasy. {lit is "made hero" would assume "made up"} \NI have nothing but pity for him.
@@ -180,13 +180,13 @@ Dialogue: 0,0:13:16.79,0:13:18.62,Default,,0,0,0,,I understand. But sir...
 Dialogue: 0,0:13:18.62,0:13:22.28,Default,,0,0,0,,Battalion commander, the subject is exhausted. \NConcentrate on current operations!
 Dialogue: 0,0:13:22.28,0:13:23.42,Default,,0,0,0,,Roger.
 Dialogue: 0,0:13:24.56,0:13:29.91,Default,,0,0,0,,The operation was successful beyond any expectations, \Nallowing us to hasten the fall of Java by a whole month.
-Dialogue: 0,0:13:29.91,0:13:32.43,Default,,0,0,0,,It was because we we focused on the strategy. {no fucking clue what he means by strategy/operation first principle, DeepL: This is the result of an operations-first mentality.; HA: strategy first; I think he means "we didn't occupy our minds with extra things aside from operation" tho can be anything; it doesn't help that "sakusen" has two meanings either}
+Dialogue: 0,0:13:29.91,0:13:32.43,Default,,0,0,0,,It was because we didn't deviate from the master plan. {no fucking clue what he means by strategy/operation first principle, DeepL: This is the result of an operations-first mentality.; HA: strategy first; I think he means "we didn't occupy our minds with extra things aside from operation" tho can be anything; it doesn't help that "sakusen" has two meanings either}
 Dialogue: 0,0:13:33.32,0:13:36.38,Default,,0,0,0,,This issue doesn't require any immediate decision from us.
 Dialogue: 0,0:13:36.38,0:13:38.95,Default,,0,0,0,,The paratroopers will move on \Nto execute other operations.
 Dialogue: 0,0:13:39.59,0:13:42.34,Default,,0,0,0,,Eh? The paratroopers corps is being transferred?
 Dialogue: 0,0:13:50.06,0:13:52.69,Default,,0,0,0,,Apply your mind to the operation, \NBattalion Commander. {/concentrate on}
 Dialogue: 0,0:13:55.06,0:14:00.13,Default,,0,0,0,,For about a month more, \Nthe paratroopers were staying on Celebes Island,
-Dialogue: 0,0:14:00.13,0:14:06.53,Default,,0,0,0,,until finally, further south, the new battlefields \Nof Timor and Tarpan were calling out to them. {/departed for } {I'm being rarted again but I can't figure out what's this tarpan thing\Nwas "turban" in HA\NMy best bet is that the narrator misread/mispronounced Kupang, because it's クーパン and ターパン are a bit similar}
+Dialogue: 0,0:14:00.13,0:14:06.53,Default,,0,0,0,,until finally, further south, the new battlefields \Nof Timor and Kupang were calling out to them. {/departed for } {I'm being rarted again but I can't figure out what's this tarpan thing\Nwas "turban" in HA\NMy best bet is that the narrator misread/mispronounced Kupang, because it's クーパン and ターパン are a bit similar}
 Dialogue: 0,0:14:43.56,0:14:46.27,Default,,0,0,0,,With the departure of the paratroopers,
 Dialogue: 0,0:14:46.27,0:14:52.29,Default,,0,0,0,,the conflict between the ground forces and the paratroopers \Nseemed to have petered out by itself.
 Dialogue: 0,0:14:57.85,0:15:02.71,Default,,0,0,0,,Hey, a few words please. Don't you have \Nsome interesting story about the paratroopers battalion?
@@ -217,7 +217,7 @@ Dialogue: 0,0:16:46.46,0:16:48.82,Default,,0,0,0,,Please make sure to write my s
 Dialogue: 0,0:16:49.53,0:16:52.88,Default,,0,0,0,,They're an intrepid bunch. \NThey need a lot of strength to handle a parachute! {actually "the parachute was strong" but he probably refers to the paratrooper by "parachute"}
 Dialogue: 0,0:16:56.04,0:16:57.97,Default,,0,0,0,,If you look at the local press, {actually "people related to the press/news"}
 Dialogue: 0,0:16:57.97,0:17:01.06,Default,,0,0,0,,the paratroopers are currently the only talk of the island.
-Dialogue: 0,0:17:01.49,0:17:04.56,Default,,0,0,0,,Because they know acting this way would delight your ilk. {VERY unsure what he means, was "Because they know you guys are happy with it." in HA}
+Dialogue: 0,0:17:01.49,0:17:04.56,Default,,0,0,0,,Because they know words of praise would go to your head. {VERY unsure what he means, was "Because they know you guys are happy with it." in HA}
 Dialogue: 0,0:17:05.55,0:17:09.25,Default,,0,0,0,,I know it's in your nature to always pick \Nthe flashiest of stories for your job.
 Dialogue: 0,0:17:09.25,0:17:12.76,Default,,0,0,0,,However, we, ground troops also had our share of fighting.
 Dialogue: 0,0:17:13.55,0:17:17.62,Default,,0,0,0,,We shed the same blood, \Ncrawled under the same bullets as our comrades.
@@ -225,7 +225,7 @@ Dialogue: 0,0:17:17.62,0:17:22.06,Default,,0,0,0,,Doesn't that make it clear to 
 Dialogue: 0,0:17:23.94,0:17:24.78,Default,,0,0,0,,Come in.
 Dialogue: 0,0:17:26.96,0:17:28.63,Default,,0,0,0,,Did you lose composure again? {to act violently; to rage; to struggle; to be riotous}
 Dialogue: 0,0:17:29.07,0:17:30.42,Default,,0,0,0,,Sir, yes sir!
-Dialogue: 0,0:17:31.07,0:17:37.68,Default,,0,0,0,,How come the soldiers who fought conventionally \Nhave to pick a fight with paratroopers nearly every night? {I hate this line and I've no clue what he means, was "Why do soldiers who have fought soberly have to hit each other almost every night?" in HA; I can understand the first part to be a comparison of ground troops with paratroopers, but why does he say "hit each other"? why do they have no choice? why is he asking ths from a journalist???}
+Dialogue: 0,0:17:31.07,0:17:37.68,Default,,0,0,0,,How come soldiers fighting so honorably \Ntear each other apart nearly every night?  {I hate this line and I've no clue what he means, was "Why do soldiers who have fought soberly have to hit each other almost every night?" in HA; I can understand the first part to be a comparison of ground troops with paratroopers, but why does he say "hit each other"? why do they have no choice? why is he asking ths from a journalist???}
 Dialogue: 0,0:18:22.08,0:18:24.74,Default,,0,0,0,,The guerrillas here received a professional drilling.
 Dialogue: 0,0:18:24.74,0:18:26.59,Default,,0,0,0,,Make sure to take every precaution.
 Dialogue: 0,0:18:26.59,0:18:27.44,Default,,0,0,0,,Roger.
@@ -233,7 +233,7 @@ Dialogue: 0,0:18:27.44,0:18:28.60,Default,,0,0,0,,Wait a minute!
 Dialogue: 0,0:18:30.09,0:18:32.61,Default,,0,0,0,,I'm worried about that glee of confidence in your eyes.
 Dialogue: 0,0:18:32.61,0:18:36.09,Default,,0,0,0,,You may think you're sufficiently prepared, \Nbut you shouldn't get too carried away. {/awareness/knowledge} {chasing too far; pursuing relentlessly}
 Dialogue: 0,0:18:38.10,0:18:42.03,Default,,0,0,0,,The objective of your mission is not to purge \Nall the guerrillas with one big sweep,
-Dialogue: 0,0:18:42.03,0:18:45.35,Default,,0,0,0,,but instead - to wear them out with piecemeal patrols.
+Dialogue: 0,0:18:42.03,0:18:45.35,Default,,0,0,0,,but instead - to wear their spirit out with watchful patrols.
 Dialogue: 0,0:18:45.35,0:18:46.08,Default,,0,0,0,,Roger!
 Dialogue: 0,0:18:46.08,0:18:49.04,Default,,0,0,0,,It's of utmost importance to decide \Nwhen to stop the pursuit.
 Dialogue: 0,0:18:49.04,0:18:51.11,Default,,0,0,0,,You absolutely shouldn't chase them too deep. {/get carried away}
@@ -259,7 +259,7 @@ Dialogue: 0,0:21:50.08,0:21:54.73,Default,,0,0,0,,Oblivious even to the fear of 
 Dialogue: 0,0:21:55.18,0:21:57.48,Default,,0,0,0,,They didn't know where to stop.
 Dialogue: 0,0:22:09.51,0:22:12.52,Default,,0,0,0,,When chasing the enemy into the woods, \Nyou can't go too deep.
 Dialogue: 0,0:22:55.52,0:23:01.38,Default,,0,0,0,,In this suppression operation, the attacking side \Nsuffered 7 casualties, including the platoon commander.
-Dialogue: 0,0:23:01.82,0:23:07.01,Default,,0,0,0,,For a lopsided battle like that, \Nthat casualty rate was abnormally high.
+Dialogue: 0,0:23:01.82,0:23:07.01,Default,,0,0,0,,For a lopsided battle like that, \Nthe casualty rate was abnormally high.
 Dialogue: 0,0:23:09.24,0:23:12.27,Default,,0,0,0,,His subordinates became forgetful of a timely decision.
 Dialogue: 0,0:23:12.27,0:23:16.97,Default,,0,0,0,,Unable to contain this urge, they kept charging forward \Nruthlessly against their certain death.
 Dialogue: 0,0:23:16.97,0:23:18.46,Default,,0,0,0,,What made them behave this way?

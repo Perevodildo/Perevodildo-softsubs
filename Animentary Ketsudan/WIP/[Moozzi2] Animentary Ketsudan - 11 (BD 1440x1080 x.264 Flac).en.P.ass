@@ -14,10 +14,10 @@ Audio File: [Moozzi2] Animentary Ketsudan - 11 (BD 1440x1080 x.264 Flac).mkv
 Video File: [Moozzi2] Animentary Ketsudan - 11 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.375000
-Scroll Position: 231
-Active Line: 255
-Video Position: 24020
+Video Zoom Percent: 0.500000
+Scroll Position: 117
+Active Line: 139
+Video Position: 17653
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -80,9 +80,11 @@ Dialogue: 0,0:04:23.51,0:04:26.09,Sign,,0,0,0,,{\c&H171514&\3c&HEAEBE9&}14th Arm
 Dialogue: 0,0:04:26.09,0:04:34.06,Sign,,0,0,250,,{\fade(300,1500)\bord0\blur1\c&HEFF1F6&\b1}Episode 11 \N{\fs90}The Fall of Bataan and Corregidor
 Dialogue: 0,0:04:32.50,0:04:36.60,Default,,0,0,0,,On December 8th, upon receiving the news \Nof the successful surprise attack on Pearl Harbor,
 Dialogue: 0,0:04:36.60,0:04:39.36,Default,,0,0,0,,the massive 11th Air Fleet's land-based formation
-Dialogue: 0,0:04:39.36,0:04:47.78,Default,,0,0,0,,of Zero fighters commenced a surprise attacks on the American Air Force bases in the Philippines - Clark Field and Iba.
+Dialogue: 0,0:04:39.36,0:04:44.22,Default,,0,0,0,,of Zero fighters commenced a surprise attacks on the American Air Force bases in the Philippines:
+Dialogue: 0,0:04:44.22,0:04:47.78,Default,,0,0,0,,Clark Field and Iba.
 Dialogue: 0,0:04:48.49,0:04:52.00,Default,,0,0,0,,About a hundred grounded American aircraft, \Nwaiting for orders, were wrecked.
-Dialogue: 0,0:04:52.62,0:04:58.65,Default,,0,0,0,,Within just a day after the outbreak of the war, \Nthe American Air Force presence in the Philippines was no more.
+Dialogue: 0,0:04:52.62,0:04:55.56,Default,,0,0,0,,Within just a day after the outbreak of the war,
+Dialogue: 0,0:04:55.56,0:04:58.65,Default,,0,0,0,,the American Air Force presence in the Philippines was no more.
 Dialogue: 0,0:05:05.38,0:05:11.10,Default,,0,0,0,,Subsequently, the main force, led by the 14th \NArmy Commander, Lieutenant General Homma Masaharu,
 Dialogue: 0,0:05:11.10,0:05:13.98,Default,,0,0,0,,formed a large transport fleet of 76 ships.
 Dialogue: 0,0:05:13.98,0:05:17.73,Default,,0,0,0,,It was escorted by the 3rd Fleet \Nunder the command of Vice Admiral Takahashi {https://ja.wikipedia.org/wiki/%E9%AB%98%E6%A9%8B%E4%BC%8A%E6%9C%9B}
@@ -162,7 +164,8 @@ Dialogue: 0,0:11:34.31,0:11:40.90,Default,,0,0,0,,Meanwhile, the US Army of the 
 Dialogue: 0,0:12:05.09,0:12:10.78,Default,,0,0,0,,On January 2nd, Manila surrendered. \NThe Japanese troops marched through the city.
 Dialogue: 0,0:12:10.78,0:12:14.48,Default,,0,0,0,,This, however, was not the end of the Philippines operation.
 Dialogue: 0,0:12:15.52,0:12:16.27,Default,,0,0,0,,That's because
-Dialogue: 0,0:12:16.27,0:12:24.45,Default,,0,0,0,,most of the US Army of the Philippines managed to barricade itself on the Bataan Peninsula and in the Corregidor Fortress.
+Dialogue: 0,0:12:16.27,0:12:20.78,Default,,0,0,0,,most of the US Army of the Philippines managed to barricade itself
+Dialogue: 0,0:12:20.78,0:12:24.45,Default,,0,0,0,,on the Bataan Peninsula and in the Corregidor Fortress.
 Dialogue: 0,0:12:26.07,0:12:30.04,Default,,0,0,0,,Ensuring the complete control over Manila Bay \Nwas seen as a stepping stone
 Dialogue: 0,0:12:30.04,0:12:32.61,Default,,0,0,0,,in ensuring unchallenged occupation of Manila.
 Dialogue: 0,0:12:33.21,0:12:35.96,Default,,0,0,0,,So in order to secure Manila Bay,
@@ -191,8 +194,8 @@ Dialogue: 0,0:14:49.59,0:14:50.95,Default,,0,0,0,,Charge!
 Dialogue: 0,0:14:52.76,0:14:58.51,Default,,0,0,0,,As planned previously, the 48th Division \Nwas transferred to take part in the Java operations. {moving from one battlefield to another; fighting on successive fronts; fighting in various battles}
 Dialogue: 0,0:14:58.51,0:15:02.04,Default,,0,0,0,,On January 1st, the unit \Nthat disembarked in Lingayen Gulf {says "on the new year's day in January"}
 Dialogue: 0,0:15:02.04,0:15:06.92,Default,,0,0,0,,was the 65th Brigade. 3000 soldiers \Nunder the command of Lieutenant General Nara. {https://generals.dk/general/Nara/Akira/Japan.html}
-Dialogue: 0,0:15:06.92,0:15:11.78,Default,,0,0,0,,After only a short rest, \Nthey've been ordered \Nto pursue the fleeing enemy on the Bataan Peninsula,
-Dialogue: 0,0:15:11.78,0:15:15.56,Default,,0,0,0,,having to rely only on an inaccurate 1:200,000 scale map.
+Dialogue: 0,0:15:06.92,0:15:11.78,Default,,0,0,0,,After only a short rest, they've been ordered \Nto pursue the fleeing enemy on the Bataan Peninsula,
+Dialogue: 0,0:15:11.78,0:15:15.56,Default,,0,0,0,,having to rely only on \Nan inaccurate 1:200,000 scale map.
 Dialogue: 0,0:15:17.08,0:15:23.46,Default,,0,0,0,,The Japanese side didn't see General MacArthur's evacuation to Bataan as a strategic retreat,
 Dialogue: 0,0:15:23.46,0:15:26.18,Default,,0,0,0,,but only as a mere rout.
 Dialogue: 0,0:15:28.61,0:15:34.62,Default,,0,0,0,,The Japanese troops underestimated the US Army \Nof the Philippines, who retreated to the Bataan Peninsula.

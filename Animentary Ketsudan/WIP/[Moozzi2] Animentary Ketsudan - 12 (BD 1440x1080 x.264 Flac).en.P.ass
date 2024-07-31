@@ -157,7 +157,7 @@ Dialogue: 0,0:16:04.44,0:16:08.19,Default,,0,0,0,,Steering inoperable! {again, n
 Dialogue: 0,0:16:10.67,0:16:13.18,Default,,0,0,0,,Batteries are damaged! \NBatteries are damaged!
 Dialogue: 0,0:16:13.18,0:16:14.89,Default,,0,0,0,,Gas is leaking! {/outbreak of gas}
 Dialogue: 0,0:16:20.60,0:16:23.12,Default,,0,0,0,,20 people in the aft, move forward! {no clue what's nigyume, believing HA tho it doesn't make sense, here's what wiki has: "all unoccupied crewmen grabbed sacks of rice from forward storage and moved them astern to trim the submarine because of the flooding forward."; lit: nijume from the back, transfer to forward}
-Dialogue: 0,0:16:25.15,0:16:30.74,Default,,0,0,0,,Captain! The depth has past 100 m. \NThe ship builder's limit is 75 m.
+Dialogue: 0,0:16:25.15,0:16:30.74,Default,,0,0,0,,Captain! The depth has passed 100 m. \NThe ship builder's limit is 75 m.
 Dialogue: 0,0:16:30.74,0:16:33.15,Default,,0,0,0,,Trust in Japanese shipbuilding technology!
 Dialogue: 0,0:16:39.64,0:16:43.52,Default,,0,0,0,,20 people move from bow to stern! \NPumping station, drain one ton of water! {literally only thing I'm sure of is "mae no *** haisui" or "forward's *** drainage; draining; pumping out (water); sewerage", no clue what's his idea of making the crew run around back and forth, maybe somewhere in there, he commands them to grab rice sacks and move them to the back, since we've no idea what line actually says, might as well write that}
 Dialogue: 0,0:16:47.04,0:16:49.55,Default,,0,0,0,,Put on your gas masks, you hear?
@@ -243,8 +243,8 @@ Dialogue: 0,0:23:29.70,0:23:33.13,Default,,0,0,0,,This submarine captain retaine
 Dialogue: 0,0:23:33.13,0:23:38.20,Default,,0,0,0,,and managed to galvanize his subordinates \Nto work together towards accomplishing their goals.
 Dialogue: 0,0:23:39.08,0:23:44.44,Default,,0,0,0,,Even at times of crisis, he remained composed \Nand cool-headed. And on top of that, daring.
 Dialogue: 0,0:23:45.92,0:23:48.09,Default,,0,0,0,,These smart decisions, 
-Dialogue: 0,0:23:48.09,0:23:53.36,Default,,0,0,0,,and particularly, his sound judgment in an extreme situation earned him the trust of the crew
-Dialogue: 0,0:23:53.36,0:23:56.14,Default,,0,0,0,,that wouldn't have been possible without his composure.
+Dialogue: 0,0:23:48.09,0:23:53.36,Default,,0,0,0,,and particularly, his sound judgment in an extreme situation earned him the trust of the crew.
+Dialogue: 0,0:23:53.36,0:23:56.14,Default,,0,0,0,,That wouldn't have been possible without his composure.
 Dialogue: 0,0:23:57.70,0:24:07.46,Sign,,0,0,0,,{\fade(100,0)}The Pacific War taught us the preciousness of peace.\NBut also instilled numerous lessons on how to live.{太平洋戦争はわれわれに平和の尊さを教えたがまた生きるための教訓を数多くのこしている}
 Dialogue: 0,0:24:09.08,0:24:13.76,Default,,0,0,0,,In the aftermath of the Battle of Midway, \Nthe U.S. Navy launched a full-scale counterattack.
 Dialogue: 0,0:24:13.76,0:24:17.01,Default,,0,0,0,,They conquered the Japanese military bases \Nat Tulagi and Guadalcanal.

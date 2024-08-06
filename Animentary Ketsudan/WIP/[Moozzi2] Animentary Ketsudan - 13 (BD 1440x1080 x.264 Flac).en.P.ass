@@ -10,14 +10,14 @@ PlayResY: 1080
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-Audio File: D:/Downloads/SubProject/Raws/[Moozzi2] Animentary Ketsudan - 13 (BD 1440x1080 x.264 Flac).mkv
-Video File: D:/Downloads/SubProject/Raws/[Moozzi2] Animentary Ketsudan - 13 (BD 1440x1080 x.264 Flac).mkv
+Audio File: [Moozzi2] Animentary Ketsudan - 13 (BD 1440x1080 x.264 Flac).mkv
+Video File: [Moozzi2] Animentary Ketsudan - 13 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 76
-Active Line: 99
-Video Position: 12494
+Scroll Position: 210
+Active Line: 225
+Video Position: 33706
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding

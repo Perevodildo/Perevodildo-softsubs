@@ -1,0 +1,85 @@
+1. 0:06:00.96 Sir, no updates since the previous report. {unsure what he means: 先ほどの報告でも }
+
+2.
+0:06:30.33 Captain, the wind rises.
+0:06:35.96 The wind rises.
+
+This feels unatural. "Picked up" is more in line with what an english speaker would say
+
+3. 0:06:40.23
+Lower the periscope. \NLower the transmitter. {no clue what's this haishinki, assumed 発信機 tho it's hasshinki; nothing in HA or whisper; transmitter doesn't make much sense, but I can't think of any other device on a sub that needs to be lowered... ventilation tube?}
+
+4. 0:07:42.75
+Chief Navigator, it doesn't quite fit your drawing. {drawing a figure; drawing a diagram}
+
+Plot feels better here. 
+
+5. 0:07:52.74
+We've been shadowing the enemy for a while. {no clue what he means: ずいぶん敵の後ろに来てしまったな}
+
+6. 0:07:58.26
+The scope of your navigational genius doesn't matter \Nin a place like this, without a single point of reference. {no clue what's tairitsubutsu} {/no way you can get close to correct result}
+
+7. 0:08:22.16
+Once we pass under one more destroyer on the other side, \Nwe'll know for sure the enemy is close enough. {actually something like "will certainly take the enemy from close distance" but idk what to make of this; the plan is to position themselves a bit ahead and to starboard from yorktown btw}
+
+8. 0:08:30.15
+We'll be playing iainuki blindfolded. {lit: blind/in the dark iai; art of drawing one's sword, cutting down one's opponent and sheathing the sword afterwards​ - I really can't find an appropriate analogue in english, this plus line on 11:41; "cat-and-mouse" maybe?; for now, I'll add explanation to iainuki to my TL notes file}
+
+Perhaps
+
+We'll be attacking and retreating blindfolded 
+
+9. 0:11:41.16
+The secret to iainuki is in the distance. {https://jisho.org/word/%E9%96%93%E5%90%88%E3%81%84 - could also be "appropriate moment"}
+
+10. 0:15:40.14
+Engage emergency light! {unsure what's toutsuke, prolly https://jisho.org/word/%E7%81%AF-2 }
+
+11. 0:15:59.41
+Flooding in the magazine! {no clue what he says except for last word - chuusui - pouring water; flooding; douche - not in HA, neither in whisper, so we're royally screwed, put in whatever compartment of the sub you like there}
+
+12. 0:15:59.41
+Flooding in the magazine! {no clue what he says except for last word - chuusui - pouring water; flooding; douche - not in HA, neither in whisper, so we're royally screwed, put in whatever compartment of the sub you like there}
+
+13. 0:16:01.08
+Pump room is fool of seawater! {no clue what's the first word here either, sensui is "diving; submerging; going underwater" but what it may mean here? kyoukaku - no clue at all, ippai - full of, so overall: diving is full of kyokaku}
+
+14. 0:16:04.44
+Steering doesn't work! {again, no clue what's kaki, first word, could be firearms; guns but why'd he use that underwater?; "kaki won't listen"; next line may provide a little inside that it's supposed to be something related to vertical and horizontal movement; last resort for those three lines would probably be watching a Japanese documentary on submarines and praying that one of those words pops up >_>} \NBoth vertical and horizontal rudders are busted!
+
+15. 0:16:20.60
+20 people in the aft, move forward! {no clue what's nigyume, believing HA tho it doesn't make sense, here's what wiki has: "all unoccupied crewmen grabbed sacks of rice from forward storage and moved them astern to trim the submarine because of the flooding forward."; lit: nijume from the back, transfer to forward}
+
+16. 0:16:39.64
+20 people move from forward to the aft! \NPumping station, drain one ton of water! {literally only thing I'm sure of is "mae no *** haisui" or "forward's *** drainage; draining; pumping out (water); sewerage", no clue what's his idea of making the crew run around back and forth, maybe somewhere in there, he commands them to grab rice sacks and move them to the back, since we've no idea what line actually says, might as well write that}
+
+17. 0:17:01.66
+Head Engineer, how long will our batteries last us? {lit: how many hours remains in ...; also no clue what's the first word, not in HA iether, but ...cho has to be some military rank/position}
+
+18. 0:17:29.09
+When 170 was departing for the battle, the mice \Nwere fleeing it in droves until none was left on board. {not sure what he means by https://jisho.org/word/%E6%B5%AE%E3%81%8B%E3%81%B3%E4%B8%8A%E3%81%8C%E3%82%8B}
+
+19. 0:19:13.44
+Captain. Please order the destruction of the secret codes.  {guess, no in HA, assuming angoubun sho / cryptogram; cipher text writing/documents - thinking he means "so that they don't fall into enemy hands"}
+
+20. 0:19:43.42 
+We'll fight with everything we got. \NLet's give it to 'em! {no clue what's this sasshiai, at all; doubt it's whisper's 差し違え}
+
+21. 0:20:03.26
+Hurry to your positions! {no clue, only hear "isogi de *** tsuke"}
+
+22. 0:20:35.96
+Lady Luck favors men like him. \NDon't worry! {nc what he means by "man like that is lucky", maybe he means "you're lucky not having seen it" but unlikely, maybe the previous line is wrong, but i've no clue what else it may mean}
+
+23. 0:21:04.76
+Continue restoring the power! {no clue what's anything before tsuzuite, kinda hear den in the beginning, which often has to do with electricity}
+
+24. 0:22:53.33
+Captain, you don't want to drink? {not sure what he means: 館長お飲みになっては?}
+
+25. 0:23:06.51
+The practices are paying off. {no clue what he means by it (and judging by Chief Navigator's reaction, neither does he): https://jisho.org/word/%E4%BF%AE%E8%A1%8C is not enough/insufficient}
+
+Maybe he was practicing fasting?
+

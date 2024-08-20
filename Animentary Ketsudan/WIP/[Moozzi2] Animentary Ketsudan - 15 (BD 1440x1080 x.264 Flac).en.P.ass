@@ -78,7 +78,7 @@ Dialogue: 0,0:05:20.86,0:05:24.15,Default,,0,0,0,,I hope to meet personally \Nwi
 Dialogue: 0,0:05:24.69,0:05:26.99,Default,,0,0,0,,and tell him how desperate things are on Rabaul. {lit: give him the sense of urgency of this Rabaul base}
 Dialogue: 0,0:05:26.99,0:05:27.93,Default,,0,0,0,,It'll take too long! {/It'll be too late.}
 Dialogue: 0,0:05:27.93,0:05:32.20,Default,,0,0,0,,By the time you'll reach Truk, \Nit'll be too late to do anything!
-Dialogue: 0,0:05:32.20,0:05:34.41,Default,,0,0,0,,Enemy mobile task forces and convoy fleets
+Dialogue: 0,0:05:32.20,0:05:34.41,Default,,0,0,0,,Enemy mobile task force with transports
 Dialogue: 0,0:05:34.41,0:05:37.67,Default,,0,0,0,,are already being seen \Noff the coast of Bougainville and in the Coral Sea! {lit: appear frequently}
 Dialogue: 0,0:05:42.71,0:05:43.70,Default,,0,0,0,,Hey, look.
 Dialogue: 0,0:05:43.70,0:05:44.26,Default,,0,0,0,,Huh?
@@ -93,7 +93,7 @@ Dialogue: 0,0:06:14.94,0:06:17.75,Default,,0,0,0,,It's a task force with 2 aircr
 Dialogue: 0,0:06:17.75,0:06:18.52,Default,,0,0,0,,I see.
 Dialogue: 0,0:06:18.52,0:06:21.50,Default,,0,0,0,,Headquarters! Headquarters! \NYame's plane speaking.
 Dialogue: 0,0:06:21.50,0:06:23.75,Default,,0,0,0,,Observing a separate formation. {/target}
-Dialogue: 0,0:06:23.75,0:06:26.54,Default,,0,0,0,,I'll draw closer to confirm the composition \Nof the convoy fleet.
+Dialogue: 0,0:06:23.75,0:06:26.54,Default,,0,0,0,,I'll draw closer to confirm the composition \Nof the transport fleet.
 Dialogue: 0,0:06:26.54,0:06:28.49,Default,,0,0,0,,Yame, turn back! Don't overdo it.
 Dialogue: 0,0:06:28.78,0:06:32.14,Default,,0,0,0,,I guess, the enemy really {\i1}is{\i0} landing somewhere today.
 Dialogue: 0,0:06:32.14,0:06:34.43,Default,,0,0,0,,It's gotta be either Bougainville or New Britain.
@@ -105,7 +105,7 @@ Dialogue: 0,0:06:47.78,0:06:51.76,Default,,0,0,0,,Commander, what was the Combin
 Dialogue: 0,0:06:51.76,0:06:55.01,Default,,0,0,0,,The strategy meeting is underway. {/is in discussion}\NStick to the designated strategy. {prescribed; designated; appointed; fixed - whatever that means}
 Dialogue: 0,0:06:55.01,0:06:56.54,Default,,0,0,0,,What are they thinking?!
 Dialogue: 0,0:06:56.54,0:06:59.47,Default,,0,0,0,,If we delay for any longer, \NRabaul will repeat the fate of Guadalcanal.
-Dialogue: 0,0:06:59.47,0:07:04.75,Default,,0,0,0,,Headquarters! Headquarters! \NAbout 20 more enemy convoys in a separate formation.
+Dialogue: 0,0:06:59.47,0:07:04.75,Default,,0,0,0,,Headquarters! Headquarters! \NAbout 20 more enemy ships in a separate convoy.
 Dialogue: 0,0:07:16.39,0:07:18.88,Default,,0,0,0,,Several Grummans ambushed me from behind! {(surprise) attack; assault; raid; charge}
 Dialogue: 0,0:07:21.00,0:07:23.44,Default,,0,0,0,,Yame? Yame! Are you okay?
 Dialogue: 0,0:07:23.44,0:07:24.90,Default,,0,0,0,,Yame! Don't die!
@@ -188,7 +188,7 @@ Dialogue: 0,0:13:10.39,0:13:14.21,Default,,0,0,0,,Strategical decisions require 
 Dialogue: 0,0:13:14.21,0:13:19.92,Default,,0,0,0,,In that sense, this decision \Ndid little to slow down the Americans. {unsure, maybe "was a little delayed by americans"}
 Dialogue: 0,0:13:21.45,0:13:25.38,Default,,0,0,0,,Early in the morning of the day \Nwhen Ozawa's fleet arrived in Rabaul,
 Dialogue: 0,0:13:25.73,0:13:29.20,Default,,0,0,0,,Using of the bad weather from the previous days \Nto camouflage themselves, {/hide}
-Dialogue: 0,0:13:29.20,0:13:34.45,Default,,0,0,0,,the American transport fleet of 18 convoys and 9 escorts
+Dialogue: 0,0:13:29.20,0:13:34.45,Default,,0,0,0,,the American fleet of 18 transports and 9 escorts
 Dialogue: 0,0:13:34.45,0:13:40.21,Default,,0,0,0,,initiated a surprise landing on Cape Torokina \Non the west coast of Bougainville Island.
 Dialogue: 0,0:13:40.86,0:13:46.24,Default,,0,0,0,,It happened on November 1st, 1943.
 Dialogue: 0,0:14:07.04,0:14:10.06,Default,,0,0,0,,Reinforcements arrived, \Nas promised by the Combined Fleet Commander. {no clue what's first word, added this commander; could actually be name of this pilot we see now}

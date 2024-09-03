@@ -16,8 +16,8 @@ Video File: [Moozzi2] Animentary Ketsudan - 17 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 228
-Active Line: 249
+Scroll Position: 159
+Active Line: 200
 Video Position: 34295
 
 [V4+ Styles]
@@ -41,7 +41,7 @@ Dialogue: 0,0:00:59.24,0:01:06.69,Default,,0,0,30,,If you win, don't hold your h
 Dialogue: 0,0:01:06.69,0:01:14.55,Default,,0,0,30,,Men, don't you ever let others see your tears{男 涙は見せぬもの}
 Comment: 0,0:01:34.91,0:01:34.95,Default,,0,0,0,,{ch}
 Dialogue: 0,0:01:36.48,0:01:39.26,Default,,0,0,0,,July 1944.
-Dialogue: 0,0:01:39.26,0:01:44.63,Default,,0,0,0,,As a result of the devastating defeat at the Battle of the Mariana Islands and the annihilation of the Saipan garrison {gyokusai again, could go with "annihilation of the saipan garrison" here; actually the official english name is https://en.wikipedia.org/wiki/Battle_of_the_Philippine_Sea but we clearly hear mariana there: battle off the coast of mariana}
+Dialogue: 0,0:01:39.26,0:01:44.63,Default,,0,0,0,,As a result of the devastating defeat at the Battle of the Mariana Islands and the annihilation of the Saipan garrison, {gyokusai again, could go with "annihilation of the saipan garrison" here; actually the official english name is https://en.wikipedia.org/wiki/Battle_of_the_Philippine_Sea but we clearly hear mariana there: battle off the coast of mariana}
 Dialogue: 0,0:01:44.63,0:01:50.36,Default,,0,0,0,,the US forces were now \Nthe undisputed masters of the sea in the Western Pacific. {lit is "... passed to american hands entirely" but he doesn't say "from japanese hands" so it sounds kinda awkward - as though it was americans who were defeated in the mariana battle}
 Dialogue: 0,0:01:51.26,0:01:58.34,Default,,0,0,0,,Then, in September of that year, the 7th Fleet, \Nunder the Supreme Allied Commander Douglas MacArthur,
 Dialogue: 0,0:01:58.34,0:02:03.27,Default,,0,0,0,,rallied in Leyte Gulf, south of the Luzon Island.
@@ -80,9 +80,9 @@ Dialogue: 0,0:03:07.35,0:03:12.80,Default,,0,0,0,,and trying their utmost to sin
 Dialogue: 0,0:03:17.80,0:03:20.49,Default,,0,0,0,,I would like to hear your opinions on that.
 Dialogue: 0,0:03:23.89,0:03:26.39,Default,,0,0,0,,I cannot approve of that.
 Dialogue: 0,0:03:26.39,0:03:27.91,Default,,0,0,0,,And the rationale is?
-Dialogue: 0,0:03:27.91,0:03:34.06,Default,,0,0,0,,During the Russo-Japanese War, even the sacrificial ships that went to blockade Port Arthur were ordered to return. {gonna be honest, I have no idea what event he's referring to; not sure what word to choose for kesshitai/決死隊 - means "a unit that went on a risky/desperate/crazy mission/prepared to death" but gotta avoid the words "suicide squad" since he's advocating for the opposite and for other reason later}
+Dialogue: 0,0:03:27.91,0:03:34.06,Default,,0,0,0,,During the Russo-Japanese War, even the hands on the sacrificial ships that went to blockade Port Arthur were ordered to return. {gonna be honest, I have no idea what event he's referring to; not sure what word to choose for kesshitai/決死隊 - means "a unit that went on a risky/desperate/crazy mission/prepared to death" but gotta avoid the words "suicide squad" since he's advocating for the opposite and for other reason later}
 Dialogue: 0,0:03:34.06,0:03:39.01,Default,,0,0,0,,In the current conflict as well - the midget submarines \Nin the attack on Hawaii and Pearl Harbor.
-Dialogue: 0,0:03:39.01,0:03:42.18,Default,,0,0,0,,The pilots knew they'd return home \Nif the surprise attack succeeded. 
+Dialogue: 0,0:03:39.01,0:03:42.18,Default,,0,0,0,,The pilots knew they'd return home \Nif the surprise attack succeeded.
 Dialogue: 0,0:03:42.18,0:03:47.01,Default,,0,0,0,,That's why both Admiral Togo and Commander-in-Chief Yamamoto approved the execution of those plans. {assuming he means https://en.wikipedia.org/wiki/T%C5%8Dg%C5%8D_Heihachir%C5%8D#Russo-Japanese_War_(1904%E2%80%931905)}
 Dialogue: 0,0:03:47.01,0:03:52.44,Default,,0,0,0,,Sir, the history of warfare of the world knows examples \Nof desperate missions, but none of them were pure suicide. {lit: there are records of kesshitai in ... but no precedent of hisshitai - kesshitai I explained before, means "prepared to die squad" but hisshitai means "certain to die squad" so an actual suicide squad... man, this is so hard to put into english}
 Dialogue: 0,0:03:56.01,0:03:58.07,Default,,0,0,0,,No matter how poorly the war is going,
@@ -134,8 +134,8 @@ Dialogue: 0,0:08:47.44,0:08:49.97,Default,,0,0,0,,May I tell you how I truly fee
 Dialogue: 0,0:08:49.97,0:08:51.46,Default,,0,0,0,,Yes. Go ahead.
 Dialogue: 0,0:08:51.46,0:08:55.11,Default,,0,0,0,,I don't subscribe to those ramming attacks. {/don't approve of}
 Dialogue: 0,0:08:55.11,0:08:56.01,Default,,0,0,0,,What?
-Dialogue: 0,0:08:56.72,0:09:03.10,Default,,0,0,0,,Vice Admiral Onishi probably approved these ramming attacks believing we'd only ever use these tactics once.
-Dialogue: 0,0:09:03.10,0:09:08.71,Default,,0,0,0,,But I know - once these tactics are introduced, \Nthere will be no stopping it.
+Dialogue: 0,0:08:56.72,0:09:03.10,Default,,0,0,0,,Vice Admiral Onishi probably approved these ramming attacks believing we'd only ever use this tactic once.
+Dialogue: 0,0:09:03.10,0:09:08.71,Default,,0,0,0,,But I know - once this tactic is introduced, \Nthere will be no stopping it.
 Dialogue: 0,0:09:08.71,0:09:11.26,Default,,0,0,0,,It'll spread to all the other Navy Air Corps as well. {plural of corps is also corps it seems}
 Dialogue: 0,0:09:11.26,0:09:15.18,Default,,0,0,0,,I fear that as a result, \Neven if it started as a volunteer system,
 Dialogue: 0,0:09:15.18,0:09:19.95,Default,,0,0,0,,it will eventually become a strategy \Nthat everyone would be coerced into.
@@ -175,7 +175,7 @@ Dialogue: 0,0:11:53.29,0:11:55.84,Default,,0,0,0,,who just returned to the base 
 Dialogue: 0,0:12:11.59,0:12:13.81,Default,,0,0,0,,In view of the current war situation, {fyi, historically they're still in Mabalacat rn}
 Dialogue: 0,0:12:13.81,0:12:19.59,Default,,0,0,0,,we decided to form a special ramming corps \Nof 26 carrier-based fighters within the 201st Air Squadron.
 Dialogue: 0,0:12:20.11,0:12:23.14,Default,,0,0,0,,It will be christened \N"Special Kamikaze Attack Corps." {/divine wind}
-Dialogue: 0,0:12:23.60,0:12:29.12,Default,,0,0,0,,This attack corps will be subdivided into 4 units: \NShikishima, Yamato, Asahi, and Yamazakura.
+Dialogue: 0,0:12:23.60,0:12:29.12,Default,,0,0,0,,This attack corps will be subdivided into four units: \NShikishima, Yamato, Asahi, and Yamazakura.
 Dialogue: 0,0:12:29.12,0:12:32.36,Default,,0,0,0,,Its commanding officer is Navy Lieutenant Seki Yukio.
 Dialogue: 0,0:12:33.21,0:12:37.83,Default,,0,0,0,,The mission of this attack corps \Nwill be to devastate the enemy surface fleet.
 Dialogue: 0,0:12:37.83,0:12:42.24,Default,,0,0,0,,We hope to see some favorable results \Nbefore the planned engagement in the Leyte Gulf. {"results are surface fleet's rush into Leyte this is our hope" - they know about the landings so they mean "soften up the enemy before our fleets make it to leyte"}
@@ -230,7 +230,7 @@ Dialogue: 0,0:17:28.08,0:17:31.06,Default,,0,0,0,,Only 3 more days until Kurita'
 Dialogue: 0,0:17:31.06,0:17:35.26,Default,,0,0,0,,If we don't find and hit the enemy carrier \Nwithin the next 3 days, this strategy will be a failure. {meaning "the plan to organize kamikaze units"}
 Dialogue: 0,0:17:35.26,0:17:39.43,Default,,0,0,0,,Seki also took it to heart. \NHe's desperately looking for them every day. {first half is likely 身にもなってやれ but idk what it means}
 Dialogue: 0,0:17:39.85,0:17:43.32,Default,,0,0,0,,The Shikishima Unit that sortied from the Mabalacat Base
-Dialogue: 0,0:17:43.32,0:17:49.86,Default,,0,0,0,,was spending days in air, searching for the American force, \Nbut still never managed to locate it.
+Dialogue: 0,0:17:43.32,0:17:49.86,Default,,0,0,0,,was spending days in the air, searching for the American task force, \Nbut still never managed to locate it.
 Dialogue: 0,0:17:49.86,0:17:53.54,Default,,0,0,0,,They couldn't help but to double back empty-handed. {nc whats last word}
 Dialogue: 0,0:17:58.85,0:18:00.78,Default,,0,0,0,,We couldn't find them today either.
 Dialogue: 0,0:18:01.20,0:18:02.64,Default,,0,0,0,,We're deeply sorry.

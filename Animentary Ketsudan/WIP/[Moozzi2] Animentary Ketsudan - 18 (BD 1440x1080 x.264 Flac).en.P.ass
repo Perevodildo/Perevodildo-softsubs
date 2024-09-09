@@ -16,8 +16,8 @@ Video File: [Moozzi2] Animentary Ketsudan - 18 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 199
-Active Line: 236
+Scroll Position: 201
+Active Line: 223
 Video Position: 33240
 
 [V4+ Styles]
@@ -55,7 +55,7 @@ Dialogue: 0,0:01:40.92,0:01:43.93,Default,,0,0,0,,April 1943.
 Dialogue: 0,0:01:43.93,0:01:51.08,Default,,0,0,0,,The Japanese garrisons were mounting a fierce resistance to the US Army that had already recaptured Guadalcanal
 Dialogue: 0,0:01:51.08,0:01:54.69,Default,,0,0,0,,and was now steadily advancing along the Solomon Islands. {nc what's shimazutai}
 Dialogue: 0,0:01:55.86,0:01:59.82,Default,,0,0,0,,Commander-in-Chief of the Combined Fleet \NAdmiral Yamamoto lsoroku
-Dialogue: 0,0:01:59.82,0:02:05.81,Default,,0,0,0,,flew over from the Truk Island to the front line base \Non Rabaul for an in person inspection.
+Dialogue: 0,0:01:59.82,0:02:05.81,Default,,0,0,0,,flew over from the Truk Island to the front line base \Non Rabaul for an in-person inspection.
 Dialogue: 0,0:02:06.37,0:02:07.82,Default,,0,0,0,,Attention!
 Dialogue: 0,0:02:09.11,0:02:10.15,Default,,0,0,0,,Salute! {ha's, no clue}
 Dialogue: 0,0:02:27.21,0:02:29.96,Default,,0,0,0,,There, what did I tell you? \NA Japanese transmission! {nc what's first part, could be "there, it came!"}
@@ -90,7 +90,7 @@ Dialogue: 0,0:05:11.89,0:05:13.95,Default,,0,0,0,,I'll keep going for as long as
 Dialogue: 0,0:05:13.95,0:05:17.85,Default,,0,0,0,,For the first half a year or a maybe a year, \Nwe'll have a free rein, I believe. {lit: will rage/be wild to one's heart's content/to the full}
 Dialogue: 0,0:05:17.85,0:05:21.53,Default,,0,0,0,,However, I cannot promise anything \Nbeyond that time frame.
 Dialogue: 0,0:05:25.99,0:05:27.60,Default,,0,0,0,,Just a dream?
-Dialogue: 0,0:05:28.41,0:05:32.56,Default,,0,0,0,,The one year I was given has run out long ago.
+Dialogue: 0,0:05:28.41,0:05:32.56,Default,,0,0,0,,The one year time frame I gave to our fleet \Nhas run out long ago.
 Dialogue: 0,0:05:45.13,0:05:46.09,Default,,0,0,0,,Who's there?!
 Dialogue: 0,0:05:47.47,0:05:48.76,Default,,0,0,0,,My apologies, sir!
 Dialogue: 0,0:05:49.72,0:05:54.91,Default,,0,0,0,,I had a bad dream and so I woke up. \NYou don't mind me walking to the beach?
@@ -172,7 +172,7 @@ Dialogue: 0,0:11:51.21,0:11:52.42,Default,,0,0,0,,Come in.
 Dialogue: 0,0:11:55.00,0:11:58.63,Default,,0,0,0,,Top secret telegram from Dutch Harbor in Alaska. {legend: Although this message was first met with skepticism that the Japanese would be so careless, other MIS linguists in Alaska and Hawaii had also intercepted the same message, confirming its accuracy.[3]}
 Dialogue: 0,0:12:01.91,0:12:03.21,Default,,0,0,0,,Let's see.
 Dialogue: 0,0:12:03.21,0:12:08.51,Default,,0,0,0,,"As arranged previously, on April 18th, the Commander-in-Chief of the Combined Fleet Yamamoto
-Dialogue: 0,0:12:08.51,0:12:13.00,Default,,0,0,0,,will visit with a front line inspection of\NBallalae, Shortland, and Buin.
+Dialogue: 0,0:12:08.51,0:12:13.00,Default,,0,0,0,,will visit Ballalae, Shortland, and Buin \Nwith a front line inspection.
 Dialogue: 0,0:12:13.00,0:12:17.00,Default,,0,0,0,,6 a.m." - This must be in standard Japanese time. {nc why he says "rabaul's japanese time"}
 Dialogue: 0,0:12:17.00,0:12:22.07,Default,,0,0,0,,"Riding the Navy Type 1 attack bomber \Nand with an escort of 6 Zero fighters, take off from Rabaul. {https://en.wikipedia.org/wiki/Mitsubishi_G4M}
 Dialogue: 0,0:12:22.07,0:12:24.76,Default,,0,0,0,,8 a.m. - Arrive at Bougainville."
@@ -239,7 +239,7 @@ Dialogue: 0,0:18:56.70,0:18:59.00,Default,,0,0,0,,Admiral, 10 minutes until touc
 Dialogue: 0,0:18:59.00,0:19:00.70,Default,,0,0,0,,Okay. Good.
 Dialogue: 0,0:19:00.70,0:19:03.20,Default,,0,0,0,,If so, Admiral, we should start getting ready to get off. {/preparing for landing}
 Dialogue: 0,0:19:03.20,0:19:04.54,Default,,0,0,0,,Getting ready, right.
-Dialogue: 0,0:19:04.54,0:19:08.25,Default,,0,0,0,,When I meet these soldiers would laughing make a good first impression?\N {lit: when I meet ... for the first time, should I laugh?}
+Dialogue: 0,0:19:04.54,0:19:08.25,Default,,0,0,0,,When I meet these soldiers would laughing make a good first impression? {lit: when I meet ... for the first time, should I laugh?}
 Dialogue: 0,0:19:09.67,0:19:12.31,Default,,0,0,0,,Or perhaps I should bear myself solemnly? {dignity; majesty; solemnity; gravity}
 Dialogue: 0,0:19:33.54,0:19:35.99,Default,,0,0,0,,I wonder if we showed up a little too early. {guess}
 Dialogue: 0,0:19:46.58,0:19:49.96,Default,,0,0,0,,They're here! \NSince we found them, might as well use radio now. {HA's}
@@ -253,7 +253,7 @@ Dialogue: 0,0:20:19.95,0:20:21.56,Default,,0,0,0,,Protect the Admiral!
 Dialogue: 0,0:20:33.80,0:20:37.82,Default,,0,0,0,,Which one is carrying Yamamoto? \NWhatever, I can just shoot down both!
 Dialogue: 0,0:20:38.80,0:20:40.82,Default,,0,0,0,,Payback for Pearl Harbor! {no clue what's kateki here, was "soul" in HA which is clearly wrong}
 Dialogue: 0,0:20:50.49,0:20:51.48,Default,,0,0,0,,Are you okay?
-Dialogue: 0,0:20:56.49,0:20:57.86,Default,,0,0,0,,Pull out of the spin! {/nose (of plane)}
+Dialogue: 0,0:20:56.49,0:20:57.86,Default,,0,0,0,,Pull up! {/nose (of plane)}
 Dialogue: 0,0:21:28.98,0:21:30.18,Default,,0,0,0,,Hello, Betty. {g}
 Dialogue: 0,0:21:37.83,0:21:38.86,Default,,0,0,0,,Get this!
 Dialogue: 0,0:21:38.86,0:21:40.36,Default,,0,0,0,,Ah! Admiral!

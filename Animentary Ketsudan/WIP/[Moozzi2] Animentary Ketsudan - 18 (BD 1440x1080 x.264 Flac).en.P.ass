@@ -162,7 +162,7 @@ Dialogue: 0,0:10:57.74,0:11:02.33,Default,,0,0,0,,Admiral. As long as I oversee 
 Dialogue: 0,0:11:02.33,0:11:04.31,Default,,0,0,0,,Please cancel your visit.
 Dialogue: 0,0:11:04.66,0:11:08.25,Default,,0,0,0,,I'm not going there \Nbecause I don't trust you with the defense of it.
 Dialogue: 0,0:11:08.25,0:11:13.52,Default,,0,0,0,,I understand, sir. Still, why did you have to radio out \Na precise itinerary of your inspection tour?
-Dialogue: 0,0:11:13.52,0:11:16.71,Default,,0,0,0,,What if the US Intelligence agency intercepts this transmission?
+Dialogue: 0,0:11:13.52,0:11:16.71,Default,,0,0,0,,What if US Intelligence intercepts this transmission?
 Dialogue: 0,0:11:16.71,0:11:20.98,Default,,0,0,0,,They may have broken our cyphers. \NOr they may have not.
 Dialogue: 0,0:11:20.98,0:11:23.85,Default,,0,0,0,,Usually, it takes them a while to do it. {lit: normally, they can't break it at first}
 Dialogue: 0,0:11:23.85,0:11:28.39,Default,,0,0,0,,I can't afford worrying about every little thing, \Nlosing this great joy in the process. {毎日のことを考えて大きな喜びを失うことはできない - no clue, "I can't lose great happiness thinking about everyday things"; was "I cannot lose great joy in the unlikely event." in HA}
@@ -253,7 +253,7 @@ Dialogue: 0,0:20:19.95,0:20:21.56,Default,,0,0,0,,Protect the Admiral!
 Dialogue: 0,0:20:33.80,0:20:37.82,Default,,0,0,0,,Which one is carrying Yamamoto? \NWhatever, I can just shoot down both!
 Dialogue: 0,0:20:38.80,0:20:40.82,Default,,0,0,0,,Payback for Pearl Harbor! {no clue what's kateki here, was "soul" in HA which is clearly wrong}
 Dialogue: 0,0:20:50.49,0:20:51.48,Default,,0,0,0,,Are you okay?
-Dialogue: 0,0:20:56.49,0:20:57.86,Default,,0,0,0,,Recover from the spin! {/nose (of plane)}
+Dialogue: 0,0:20:56.49,0:20:57.86,Default,,0,0,0,,Pull out of the spin! {/nose (of plane)}
 Dialogue: 0,0:21:28.98,0:21:30.18,Default,,0,0,0,,Hello, Betty. {g}
 Dialogue: 0,0:21:37.83,0:21:38.86,Default,,0,0,0,,Get this!
 Dialogue: 0,0:21:38.86,0:21:40.36,Default,,0,0,0,,Ah! Admiral!

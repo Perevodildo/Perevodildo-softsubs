@@ -165,7 +165,7 @@ Dialogue: 0,0:11:14.73,0:11:18.74,Default,,0,0,0,,They know that if they don't c
 Dialogue: 0,0:11:18.74,0:11:21.19,Default,,0,0,0,,And if they left that area, they {\i1}must{\i0} come here. {again unsure: 出撃しているなら必ず来る - if they're on the sortie, they'll definitely come}
 Dialogue: 0,0:11:21.19,0:11:22.09,Default,,0,0,0,,Yes...
 Dialogue: 0,0:11:22.09,0:11:24.74,Default,,0,0,0,,The Lord is smiling upon us.
-Dialogue: 0,0:11:24.74,0:11:29.02,Default,,0,0,0,,Under this rain cloud, \Nthe Japs can see out to 4000 meters at best.
+Dialogue: 0,0:11:24.74,0:11:29.02,Default,,0,0,0,,Under this rain cloud, \Nthe Japs can see out to 4,000 meters at best.
 Dialogue: 0,0:11:29.02,0:11:33.40,Default,,0,0,0,,While we have radar with 24,000 meters of coverage.
 Dialogue: 0,0:11:33.40,0:11:36.63,Default,,0,0,0,,That difference of 20,000 meters \Ncan give us a crucial edge over them. {to beat someone to the punch; to get the drop on (someone); to forestall}
 Dialogue: 0,0:11:43.10,0:11:43.95,Default,,0,0,0,,Is this...
@@ -242,7 +242,7 @@ Dialogue: 0,0:18:05.82,0:18:08.29,Default,,0,0,0,,We've finished dropping the pr
 Dialogue: 0,0:18:08.29,0:18:10.68,Default,,0,0,0,,Good. Signal all ships...
 Dialogue: 0,0:18:10.68,0:18:12.44,Default,,0,0,0,,Charge the enemy with all we got!
 Dialogue: 0,0:18:12.44,0:18:14.03,Default,,0,0,0,,Open fire!
-Dialogue: 0,0:18:14.55,0:18:16.38,Default,,0,0,0,,Captain, now?
+Dialogue: 0,0:18:14.55,0:18:16.38,Default,,0,0,0,,Now captain?
 Dialogue: 0,0:18:16.38,0:18:17.23,Default,,0,0,0,,Go ahead!
 Dialogue: 0,0:18:17.23,0:18:18.40,Default,,0,0,0,,Finally!
 Dialogue: 0,0:18:18.40,0:18:20.79,Default,,0,0,0,,Set depth to 3 meters! Target the third ship. {believing HA but I very much doubt it, no clue whats the last word really}

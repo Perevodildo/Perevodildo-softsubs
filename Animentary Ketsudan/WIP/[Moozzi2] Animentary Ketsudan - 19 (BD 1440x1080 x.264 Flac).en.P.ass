@@ -60,7 +60,7 @@ Dialogue: 0,0:03:10.35,0:03:13.76,Default,,0,0,0,,including the commanding offic
 Dialogue: 0,0:03:14.36,0:03:18.72,Default,,0,0,0,,With the local planning officer \Nfrom the Imperial Headquarters also attending.
 Dialogue: 0,0:03:19.93,0:03:22.95,Default,,0,0,0,,A total of 1098 drums have been loaded. {/has ?}
 Dialogue: 0,0:03:22.95,0:03:26.79,Default,,0,0,0,,With exception of the patrol ship Takanami, the flagship Naganami, and the Makinami,
-Dialogue: 0,0:03:26.79,0:03:32.79,Default,,0,0,0,,each one of the 5 ships, Oyashio, Kuroshio, Kawakaze, Suzukaze, and Kagero are loaded with about 220 drums. {nc what's bunsai}
+Dialogue: 0,0:03:26.79,0:03:32.79,Default,,0,0,0,,each one of the 5 ships: Oyashio, Kuroshio, Kawakaze, Suzukaze, and Kagero is loaded with about 220 drums. {nc what's bunsai}
 Dialogue: 0,0:03:33.94,0:03:38.94,Default,,0,0,0,,That's good. But as I've just noticed, torpedoes and cannons can't be used with all those drums around.
 Dialogue: 0,0:03:38.94,0:03:41.32,Default,,0,0,0,,We'll leave the fighting to the patrol ships.
 Dialogue: 0,0:03:41.32,0:03:43.64,Default,,0,0,0,,They'll buy us time to drop the drums safely.
@@ -89,7 +89,7 @@ Dialogue: 0,0:04:58.65,0:05:00.66,Default,,0,0,0,,They're worth their salt. {lit
 Dialogue: 0,0:05:00.66,0:05:02.15,Default,,0,0,0,,That's just irresponsible!
 Dialogue: 0,0:05:02.15,0:05:08.16,Default,,0,0,0,,When you walk, do you command your feet \N"right foot forward, left foot forward" each time?
 Dialogue: 0,0:05:09.16,0:05:12.75,Default,,0,0,0,,If you didn't like my feet metaphor, \Nlet's change the subject.
-Dialogue: 0,0:05:13.75,0:05:19.31,Default,,0,0,0,,When the enemy swings his sword at a kendo master does he command his hand to "block it this way" each time?
+Dialogue: 0,0:05:13.75,0:05:19.31,Default,,0,0,0,,When the enemy swings his sword at a kendo master, does he command his hand to "block it this way" each time?
 Dialogue: 0,0:05:19.31,0:05:21.18,Default,,0,0,0,,Doesn't his hand go there automatically?
 Dialogue: 0,0:05:21.90,0:05:26.13,Default,,0,0,0,,Whether or not his hand will manage to receive it \Ndepends on regular training.
 Dialogue: 0,0:05:26.13,0:05:30.41,Default,,0,0,0,,That's exactly why I've been drilling \Nthis 2nd Torpedo Squadron like mad.
@@ -242,7 +242,7 @@ Dialogue: 0,0:18:05.82,0:18:08.29,Default,,0,0,0,,We've finished dropping the pr
 Dialogue: 0,0:18:08.29,0:18:10.68,Default,,0,0,0,,Good. Signal all ships...
 Dialogue: 0,0:18:10.68,0:18:12.44,Default,,0,0,0,,Charge the enemy with all we got!
 Dialogue: 0,0:18:12.44,0:18:14.03,Default,,0,0,0,,Open fire!
-Dialogue: 0,0:18:14.55,0:18:16.38,Default,,0,0,0,,Now captain?
+Dialogue: 0,0:18:14.55,0:18:16.38,Default,,0,0,0,,Now, captain?
 Dialogue: 0,0:18:16.38,0:18:17.23,Default,,0,0,0,,Go ahead!
 Dialogue: 0,0:18:17.23,0:18:18.40,Default,,0,0,0,,Finally!
 Dialogue: 0,0:18:18.40,0:18:20.79,Default,,0,0,0,,Set depth to 3 meters! Target the third ship. {believing HA but I very much doubt it, no clue whats the last word really}
@@ -256,7 +256,7 @@ Dialogue: 0,0:19:36.41,0:19:42.61,Default,,0,0,0,,On the American side, one heav
 Dialogue: 0,0:20:14.74,0:20:17.58,Default,,0,0,0,,They knew that the rearguard was still encumbered. {no clue, probably "裏まで荷物を積んでたんですよ/loaded with the luggage all the way to the back" but no idea what it means; was "They used to load the luggage" in HA which is just as nonsensical}
 Dialogue: 0,0:20:17.58,0:20:21.76,Default,,0,0,0,,These guys knew what they needed to do \Nwithout any orders from above, planning officer. {あいつらは命令されなくともちゃんとやるでしょう}
 Dialogue: 0,0:20:21.76,0:20:24.89,Default,,0,0,0,,Captain, we have to save Takanami now.
-Dialogue: 0,0:20:24.89,0:20:30.87,Default,,0,0,0,,They've done well, but Oyashio and Kuroshio have already beaten the enemy off. We can . Send them there. {to be satisfied; to find peace of mind; to feel good}
+Dialogue: 0,0:20:24.89,0:20:30.87,Default,,0,0,0,,They've done well, but Oyashio and Kuroshio have already driven the enemy off. We can relax. Send them there. {to be satisfied; to find peace of mind; to feel good}
 Dialogue: 0,0:20:30.87,0:20:32.65,Default,,0,0,0,,Roger. I will pass down the order.
 Dialogue: 0,0:20:38.72,0:20:41.21,Default,,0,0,0,,How did it go? It's become a little quiet, I see?
 Dialogue: 0,0:20:41.21,0:20:42.49,Default,,0,0,0,,We won.

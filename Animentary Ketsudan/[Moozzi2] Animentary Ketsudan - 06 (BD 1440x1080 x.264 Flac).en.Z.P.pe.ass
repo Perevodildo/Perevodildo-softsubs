@@ -15,9 +15,9 @@ Video File: [Moozzi2] Animentary Ketsudan - 06 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.375000
-Scroll Position: 267
-Active Line: 273
-Video Position: 33434
+Scroll Position: 275
+Active Line: 280
+Video Position: 34046
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -297,7 +297,7 @@ Dialogue: 0,0:22:48.01,0:22:53.62,Default,,0,0,0,,At the Peninsula Hotel on the 
 Dialogue: 0,0:22:53.62,0:22:56.00,Default,,0,0,0,,It was exactly on the day of Christmas.
 Dialogue: 0,0:22:56.62,0:23:03.10,Default,,0,0,0,,And then, to flickering candlelights, \Nas though in the celebration of the holy night,
 Dialogue: 0,0:23:03.10,0:23:05.15,Default,,0,0,0,,the British signed a capitulation.
-Dialogue: 0,0:23:05.50,0:23:10.30,Default,,0,0,0,,The Governor-General of Hong Kong \Nespecially took this defeat intensely. {lit: ...'s feeling of defeat was acute}
+Dialogue: 0,0:23:05.50,0:23:10.30,Default,,0,0,0,,The Governor-General of Hong Kong especially \Ntook this defeat intensely. {lit: ...'s feeling of defeat was acute}
 Dialogue: 0,0:23:10.30,0:23:11.24,Default,,0,0,0,,Stop it!
 Dialogue: 0,0:23:11.24,0:23:13.26,Default,,0,0,0,,Don't picture me!
 Dialogue: 0,0:23:15.21,0:23:19.71,Default,,0,0,0,,Soon after, the Fall of Hong Kong, \Nwhich was believed to take four weeks at least,

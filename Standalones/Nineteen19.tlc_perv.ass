@@ -19,9 +19,9 @@ Keyframes File: Nineteen19_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.875000
-Scroll Position: 307
-Active Line: 333
-Video Position: 107700
+Scroll Position: 413
+Active Line: 446
+Video Position: 153151
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -65,11 +65,11 @@ Dialogue: 0,0:04:04.97,0:04:12.46,Song,,0,0,0,,I'll surrender myself to thousand
 Dialogue: 0,0:04:14.25,0:04:23.61,Song,,0,0,0,,I've even forgotten how to walk, \Nand before I knew it... {歩く事さえ忘れてきた\N気がつけば}
 Dialogue: 0,0:04:40.69,0:04:43.65,Song,,0,0,0,,{I'll sub that too for shits and giggles, besides the text is just about as engrish and unintelligible as that first song}
 Dialogue: 0,0:04:59.98,0:05:01.73,Default,,0,0,0,,Huh? Where's Yagi?
-Dialogue: 0,0:05:04.23,0:05:07.99,Default,,0,0,0,,Over there, busy courting the potential pray.{lit: sheep-hunting}
+Dialogue: 0,0:05:04.23,0:05:07.99,Default,,0,0,0,,Over there, busy courting the potential prey.{lit: sheep-hunting}
 Dialogue: 0,0:05:08.63,0:05:10.86,Default,,0,0,0,,Aren't they college students?
 Dialogue: 0,0:05:10.86,0:05:13.93,Default,,0,0,0,,No, as grown-up as they appear,
 Dialogue: 0,0:05:13.93,0:05:15.68,Default,,0,0,0,,they're in high school.
-Dialogue: 0,0:05:17.49,0:05:21.20,Default,,0,0,0,,Hey, those sailors suits are looking\Nover here. Try to look friendly.
+Dialogue: 0,0:05:17.49,0:05:21.20,Default,,0,0,0,,Hey, those girls in the sailor suits are looking\Nover here. Try to look friendly.
 Dialogue: 0,0:05:21.75,0:05:25.74,Song,,0,0,0,,Sunshines down\NSo come to town {Boys by Sabrina}
 Dialogue: 0,0:05:25.74,0:05:28.34,Song,,0,0,0,,Set your body free
 Dialogue: 0,0:05:29.63,0:05:33.75,Song,,0,0,0,,Hold me tight\NMy love tonight
@@ -124,7 +124,7 @@ Dialogue: 0,0:07:52.07,0:07:55.97,Default,,0,0,0,,After all, for guys,\Na woman 
 Dialogue: 0,0:07:53.75,0:08:00.24,Song,,0,0,0,,Everybody, summertime love\NYou'll remember me
 Dialogue: 0,0:07:55.97,0:07:57.20,Default,,0,0,0,,Of course!
 Dialogue: 0,0:07:57.20,0:08:01.21,Default,,0,0,0,,At the end of the date, my boyfriend\N always tries to take me to a motel.
-Dialogue: 0,0:08:01.21,0:08:04.36,Default,,0,0,0,,I hate the guys who are \Nso insensitive to the women.
+Dialogue: 0,0:08:01.21,0:08:04.36,Default,,0,0,0,,I hate guys who are so insensitive to women.
 Dialogue: 0,0:08:01.54,0:08:09.58,Song,,0,0,0,,Everybody, summertime love\NBe my lover, be my baby
 Dialogue: 0,0:08:04.36,0:08:07.54,Default,,0,0,0,,Yeah, but not having a boyfriend is kinda lame too.
 Dialogue: 0,0:08:07.54,0:08:10.68,Default,,0,0,0,,Speaking of boyfriends, \NI hear you got in a fight with Kazuya.
@@ -143,10 +143,10 @@ Dialogue: 0,0:08:35.56,0:08:42.25,Default,,0,0,0,,Still, Fujisaki, at least I ca
 Dialogue: 0,0:08:40.78,0:08:48.26,Song,,0,0,0,,Take a chance with love romance\NHave some fun tonight
 Dialogue: 0,0:08:42.25,0:08:44.83,Default,,0,0,0,,Yeah, I think you made the right decision.
 Dialogue: 0,0:08:44.83,0:08:48.25,Default,,0,0,0,,I'll say even more—he seemed \Nawfully frivolous at times!
-Dialogue: 0,0:08:48.25,0:08:49.74,Default,,0,0,0,,He only looks cool at the first glance.
+Dialogue: 0,0:08:48.25,0:08:49.74,Default,,0,0,0,,He only looks cool at first glance.
 Dialogue: 0,0:08:48.89,0:08:55.26,Song,,0,0,0,,Everybody, summertime love\NYou'll remember me
 Dialogue: 0,0:08:49.74,0:08:51.00,Default,,0,0,0,,Right, right!
-Dialogue: 0,0:08:51.00,0:08:54.21,Default,,0,0,0,,Looking a bit above average,\Nhe's got so full of himself!
+Dialogue: 0,0:08:51.00,0:08:54.21,Default,,0,0,0,,Looking a bit above average,\Nhe's gotten so full of himself!
 Dialogue: 0,0:08:54.21,0:09:00.65,Default,,0,0,0,,Yeah, Kazuya has called every single one of my model friends for a date.
 Dialogue: 0,0:08:56.71,0:09:04.47,Song,,0,0,0,,Everybody, summertime love\NBe my lover, be my baby
 Dialogue: 0,0:09:00.65,0:09:02.52,Default,,0,0,0,,No way! That's unforgivable!
@@ -181,7 +181,7 @@ Dialogue: 0,0:10:07.67,0:10:15.29,Song,,0,0,0,,Everybody, summertime love\NBe my
 Dialogue: 0,0:10:15.29,0:10:19.41,Song,,0,0,0,,Boys, boys, boys\NI'm looking for a good time
 Dialogue: 0,0:10:19.41,0:10:23.30,Song,,0,0,0,,Boys, boys, boys\NGet ready for my love
 Dialogue: 0,0:10:23.30,0:10:26.09,Song,,0,0,0,,{\fade(0,3000)}Boys, boys, boys\NI'm looking for the good time
-Dialogue: 0,0:10:45.81,0:10:47.31,Default,,0,0,0,,I completely crewed up.
+Dialogue: 0,0:10:45.81,0:10:47.31,Default,,0,0,0,,I completely screwed up.
 Dialogue: 0,0:10:47.82,0:10:50.86,Default,,0,0,0,,But I just couldn't let them continue.
 Dialogue: 0,0:10:53.33,0:10:57.16,Default,,0,0,0,,On top of that, \NFujisaki said she didn't know me.
 Dialogue: 0,0:10:57.16,0:10:59.31,Default,,0,0,0,,Where'd that Kazushi go?
@@ -216,7 +216,7 @@ Dialogue: 0,0:15:47.93,0:15:52.31,Default,,0,0,0,,Maybe it's just me, \Ncalling 
 Dialogue: 0,0:15:55.08,0:15:56.23,Default,,0,0,0,,Fujisaki!
 Dialogue: 0,0:16:00.41,0:16:01.72,Default,,0,0,0,,Kubota?
 Dialogue: 0,0:16:14.80,0:16:17.62,Default,,0,0,0,,Doesn't meeting by chance like this...
-Dialogue: 0,0:16:18.22,0:16:19.72,Default,,0,0,0,,feels nice?
+Dialogue: 0,0:16:18.22,0:16:19.72,Default,,0,0,0,,feel nice?
 Dialogue: 0,0:16:26.98,0:16:28.28,Default,,0,0,0,,Kubota.
 Dialogue: 0,0:16:30.03,0:16:33.64,Default,,0,0,0,,You know, I'm practicing \Nfor an upcoming photo shoot...
 Dialogue: 0,0:16:33.64,0:16:35.72,Default,,0,0,0,,But I'm not sure I'm doing it right.
@@ -258,7 +258,7 @@ Dialogue: 0,0:20:05.98,0:20:09.98,Default,,0,0,0,,Oh, in that case, I'll make yo
 Dialogue: 0,0:20:06.62,0:20:18.28,Song,,0,0,0,,I've been alone in the night \NLonging to hold you in my arms
 Dialogue: 0,0:20:10.42,0:20:12.24,Default,,0,0,0,,Diet cake?
 Dialogue: 0,0:20:12.24,0:20:14.71,Default,,0,0,0,,Dietary sweetener instead of sugar.
-Dialogue: 0,0:20:14.71,0:20:18.27,Default,,0,0,0,,Use low-calorie whip \Ninstead of whipped cream.
+Dialogue: 0,0:20:14.71,0:20:18.27,Default,,0,0,0,,Using low-calorie whip \Ninstead of whipped cream.
 Dialogue: 0,0:20:18.27,0:20:22.24,Default,,0,0,0,,Wow! You know so much!\NCan you really make one?
 Dialogue: 0,0:20:21.40,0:20:30.24,Song,,0,0,0,,Loving you is all that matters\NI'll never face another breakup
 Dialogue: 0,0:20:24.67,0:20:26.24,Default,,0,0,0,,I'm glad.
@@ -297,7 +297,7 @@ Dialogue: 0,0:24:18.67,0:24:21.31,Default,,0,0,0,,How could I do that? \NWouldn'
 Dialogue: 0,0:24:21.31,0:24:24.71,Default,,0,0,0,,Don't worry! \NI really... don't mind.
 Dialogue: 0,0:24:25.21,0:24:26.12,Default,,0,0,0,,Liar.
 Dialogue: 0,0:24:26.12,0:24:29.85,Default,,0,0,0,,Oh, that... \NHappened against my will.
-Dialogue: 0,0:24:33.80,0:24:39.41,Default,,0,0,0,,I can finally say this now, \NI knew about it ever since the junior high school.
+Dialogue: 0,0:24:33.80,0:24:39.41,Default,,0,0,0,,I can finally say this now, \NI knew about it ever since junior high school.
 Dialogue: 0,0:24:40.64,0:24:42.86,Default,,0,0,0,,Your feelings.
 Dialogue: 0,0:24:42.86,0:24:46.03,Default,,0,0,0,,But then, because Kazuya was around...
 Dialogue: 0,0:24:48.12,0:24:49.28,Default,,0,0,0,,I'm sorry.
@@ -309,10 +309,10 @@ Dialogue: 0,0:25:03.35,0:25:06.48,Default,,0,0,0,,Are you just trying to say you
 Dialogue: 0,0:25:07.53,0:25:08.50,Default,,0,0,0,,This?
 Dialogue: 0,0:25:08.50,0:25:09.87,Default,,0,0,0,,
 Dialogue: 0,0:25:12.19,0:25:14.62,Default,,0,0,0,,Please don't think of me as a slut for having it.
-Dialogue: 0,0:25:14.62,0:25:17.17,Default,,0,0,0,,Even ordinary girls have it these days.
+Dialogue: 0,0:25:14.62,0:25:17.17,Default,,0,0,0,,Even ordinary girls have them these days.
 Dialogue: 0,0:25:17.17,0:25:18.48,Default,,0,0,0,,Uh-huh.
 Dialogue: 0,0:25:19.16,0:25:19.91,Default,,0,0,0,,I'll put it on you!
-Dialogue: 0,0:25:19.91,0:25:21.68,Default,,0,0,0,,Ugh! No! I'll manage.
+Dialogue: 0,0:25:19.91,0:25:21.68,Default,,0,0,0,,Agh! No! I'll manage.
 Dialogue: 0,0:25:28.72,0:25:29.94,Default,,0,0,0,,Be quick about it.
 Dialogue: 0,0:25:31.31,0:25:32.84,Default,,0,0,0,,Q-Quick...
 Dialogue: 0,0:25:39.60,0:25:44.47,Default,,0,0,0,,Relax. Don't worry \Njust because it's your first time.
@@ -342,7 +342,7 @@ Dialogue: 0,0:27:21.35,0:27:24.91,Song,,0,0,0,,I love you
 Dialogue: 0,0:27:28.11,0:27:30.55,Default,,0,0,0,,So chill and nice!
 Dialogue: 0,0:27:30.55,0:27:35.36,Default,,0,0,0,,I wonder if you remember the arcades we had near school during our junior high days.
 Dialogue: 0,0:27:35.36,0:27:39.12,Default,,0,0,0,,Did you know they now have a pizza house there? \NAnd what's more...
-Dialogue: 0,0:27:39.12,0:27:44.87,Default,,0,0,0,,In the apartment complex to the left of it, \Nroom 203 is my room.
+Dialogue: 0,0:27:39.12,0:27:44.87,Default,,0,0,0,,In the apartment complex to the left of it, \NRoom 203 is my room.
 Dialogue: 0,0:27:46.09,0:27:48.68,Default,,0,0,0,,I have a photo shoot tomorrow,
 Dialogue: 0,0:27:49.13,0:27:53.33,Default,,0,0,0,,so, could you... \NCould you come the night after tomorrow?
 Dialogue: 0,0:27:53.94,0:27:58.04,Default,,0,0,0,,We can pick up from where we stopped last night, if you want...
@@ -354,8 +354,8 @@ Dialogue: 0,0:28:17.63,0:28:18.64,Default,,0,0,0,,Please...
 Dialogue: 0,0:28:27.85,0:28:29.35,Sign,,0,0,0,,{\fade(300,200)\bord1\blur1\c&H232429&\3c&HA99FA5&\pos(405.63,221.01)\frz11.6}Kubota stayed out all night!
 Dialogue: 0,0:28:27.85,0:28:29.35,Sign,,0,0,0,,{\fade(300,200)\fs15\bord1\blur1\b0\c&H232429&\3c&HA99FA5&\pos(559.96,379.77)\frz15.13}Same clothes as yesterday {あの久保田くんが朝帰り!!!\Nつかれて眠そーな顔\Nきのうと同じ服だ!}
 Dialogue: 0,0:28:27.85,0:28:29.35,Sign,,0,0,0,,{\fade(300,200)\fs15\bord1\b0\blur1\c&H232429&\3c&HA99FA5&\pos(544.79,320.38)\frz13.87}Tired and sleepy
-Dialogue: 0,0:28:40.18,0:28:44.62,Default,,0,0,0,,Kazushi, what are you doing in the kitchen \Nbefore you even had a lunch?
-Dialogue: 0,0:28:44.62,0:28:48.05,Default,,0,0,0,,You don't have to be feeling my butt to say that, boss!
+Dialogue: 0,0:28:40.18,0:28:44.62,Default,,0,0,0,,Kazushi, what are you doing in the kitchen \Nbefore you've even had lunch?
+Dialogue: 0,0:28:44.62,0:28:48.05,Default,,0,0,0,,You don't have to be feeling \Nmy butt to say that, boss!
 Dialogue: 0,0:28:48.05,0:28:50.32,Default,,0,0,0,,What's that strange cake?
 Dialogue: 0,0:28:50.32,0:28:52.52,Default,,0,0,0,,"Strange" sounds a bit rude, you know.
 Dialogue: 0,0:28:52.52,0:28:55.16,Default,,0,0,0,,Hm? "Healthy cake?" \NI think I'll have some.
@@ -390,15 +390,15 @@ Dialogue: 1,0:33:00.82,0:33:05.76,Default,,0,0,0,,After I saw you the other day,
 Dialogue: 0,0:33:03.93,0:33:06.93,Sign,,0,0,0,,{\fs20\b0\frz16.56\bord1\blur1\pos(474.86,351.69)\c&H4D3E42&\3c&HC3C6C8&}Nishi Junior High School, Class 3-B {西中学校\N3年B組}
 Dialogue: 0,0:33:06.93,0:33:08.82,Default,,0,0,0,,This is you.
 Dialogue: 0,0:33:09.43,0:33:12.43,Default,,0,0,0,,And here are you, \Nsitting in front row, so small and cute.
-Dialogue: 0,0:33:12.43,0:33:15.61,Default,,0,0,0,,Both of us have changed so much \Nin these four years.
+Dialogue: 0,0:33:12.43,0:33:15.61,Default,,0,0,0,,Both of us have changed so much \Nthese past four years.
 Dialogue: 0,0:33:15.61,0:33:16.44,Default,,0,0,0,,That's true.
-Dialogue: 0,0:33:16.44,0:33:21.32,Default,,0,0,0,,Like, I grew up by about 20 centimeters \Nwhile I was in high school.
+Dialogue: 0,0:33:16.44,0:33:21.32,Default,,0,0,0,,Like, I grew by about 20 centimeters \Nwhile I was in high school.
 Dialogue: 0,0:33:21.32,0:33:25.77,Default,,0,0,0,,That's why I couldn't recognize you right away when I saw you in Roppongi.
 Dialogue: 0,0:33:25.77,0:33:28.97,Default,,0,0,0,,Yeah, and to be frank, \Nthat was hella painful!
 Dialogue: 0,0:33:29.42,0:33:30.70,Default,,0,0,0,,I'm sorry, okay?
 Dialogue: 0,0:33:31.45,0:33:35.24,Default,,0,0,0,,Say, do you remember \Nwhat I said two nights ago?
 Dialogue: 0,0:33:35.24,0:33:38.96,Default,,0,0,0,,That I knew about your feelings \Never since junior high school.
-Dialogue: 0,0:33:38.96,0:33:44.48,Default,,0,0,0,,So when you came to my rescue at the disco, \NI thought you might still have it...
+Dialogue: 0,0:33:38.96,0:33:44.48,Default,,0,0,0,,So when you came to my rescue at the disco, \NI thought you might still have them...
 Dialogue: 0,0:33:45.50,0:33:46.62,Default,,0,0,0,,I...
 Dialogue: 0,0:33:48.82,0:33:50.37,Default,,0,0,0,,must be a cruel woman...
 Dialogue: 0,0:34:00.43,0:34:03.23,Default,,0,0,0,,Fujisaki, can I ask you something?
@@ -438,10 +438,10 @@ Dialogue: 0,0:36:45.60,0:36:50.10,Default,,0,0,0,,Really, he's an incredibly pur
 Dialogue: 0,0:36:51.10,0:36:55.86,Default,,0,0,0,,That's why... \NThat's why I was dating him for five years.
 Dialogue: 0,0:37:02.77,0:37:03.87,Default,,0,0,0,,I suppose.
 Dialogue: 0,0:37:06.42,0:37:13.13,Song,,0,0,0,,You'll realize that everything {移りゆくものは全て　幻とわかるだろう\N歌い続けることの意味　気付く時はいつも\N君へのこの想いがある\Nそれは変わることのできないもの}{Toshiki Kadomatsu 角松敏生 - DESIRE}
-Dialogue: 0,0:37:08.37,0:37:14.37,Default,,0,0,0,,I'm sorry. I guess I can only be with someone who will only look at me.
+Dialogue: 0,0:37:08.37,0:37:14.37,Default,,0,0,0,,I'm sorry. I guess I need someone who will only look at me.
 Dialogue: 0,0:37:14.38,0:37:20.68,Song,,0,0,0,,that moves on is just an illusion
 Dialogue: 0,0:37:18.38,0:37:21.37,Default,,0,0,0,,Fujisaki, please say something...
-Dialogue: 0,0:37:21.37,0:37:23.72,Default,,0,0,0,,If you don't this will really be the end...
+Dialogue: 0,0:37:21.37,0:37:23.72,Default,,0,0,0,,If you don't, this will really be the end...
 Dialogue: 0,0:37:21.92,0:37:34.75,Song,,0,0,0,,Whenever I realize what it means \Nto keep singing
 Dialogue: 0,0:37:25.22,0:37:26.52,Default,,0,0,0,,I'm sorry.
 Dialogue: 0,0:37:34.75,0:37:42.46,Song,,0,0,0,,I have this feeling for you
@@ -479,4 +479,4 @@ Dialogue: 0,0:41:46.82,0:41:48.97,Song,,0,0,0,,First you, last you
 Dialogue: 0,0:41:51.04,0:41:53.99,Song,,0,0,0,,Always loving you
 Dialogue: 0,0:41:55.24,0:41:58.76,Song,,0,0,0,,{\fade(0,4000)}Always be with you
 Dialogue: 0,0:42:31.68,0:42:38.38,Sign,,0,0,0,,{\fs20\blur0.5\fade(600,600)\pos(325,350)\an6}Original translation\NTranslation checker \N& songs translator\NQuality checker \N& RAW provider
-Dialogue: 0,0:42:31.68,0:42:38.38,Sign,,0,0,0,,{\fs20\blur0.5\fade(600,600)\pos(400,350)\an4}(to be filled by wowmd)\NPerevodildo \N\N\Nwowmd\N\h
+Dialogue: 0,0:42:31.68,0:42:38.38,Sign,,0,0,0,,{\fs20\blur0.5\fade(600,600)\pos(400,350)\an4}Nexus Studio (Kenneth H.)\NPerevodildo \N\N\Nwowmd\N\h

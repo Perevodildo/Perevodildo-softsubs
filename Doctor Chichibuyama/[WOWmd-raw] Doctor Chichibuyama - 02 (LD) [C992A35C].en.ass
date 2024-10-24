@@ -60,7 +60,7 @@ Dialogue: 0,0:02:58.69,0:02:59.81,Default,,0,0,0,,Excuse me!
 Dialogue: 0,0:03:00.39,0:03:04.85,Default,,0,0,0,,I'm Toda Midori, I have recently been appointed to Chichibuyama Clinic.
 Dialogue: 0,0:03:04.85,0:03:06.73,Default,,0,0,0,,Sorry I'm late!
 Dialogue: 0,0:03:06.73,0:03:09.65,Default,,0,0,0,,Y-You're cute, so I don't mind! {/How can I not forgive such cuteness?}
-Dialogue: 0,0:03:13.44,0:03:16.86,Default,,0,0,0,,This new female doctor is cute and has a wonderful smile!
+Dialogue: 0,0:03:13.44,0:03:16.86,Default,,0,0,0,,This new female doctor is cute and her smile is wonderful!
 Dialogue: 0,0:03:16.86,0:03:18.74,Default,,0,0,0,,That's Dr. Midori.
 Dialogue: 0,0:03:18.74,0:03:20.33,Default,,0,0,0,,She is cute indeed...
 Dialogue: 0,0:03:20.33,0:03:22.25,Default,,0,0,0,,Okay, let's give you an injection.
@@ -283,11 +283,11 @@ Dialogue: 0,0:18:16.34,0:18:20.01,Sign,,0,0,0,,{\blur0.7\fade(400,0)\fs50\b1\c&H
 Dialogue: 0,0:18:23.60,0:18:25.87,Default,,0,0,0,,Oh? Hey, Lady...
 Dialogue: 0,0:18:25.87,0:18:29.85,Default,,0,0,0,,You have a weak constitution, \Nyou shouldn't be lifting such heavy things.
 Dialogue: 0,0:18:29.85,0:18:30.99,Default,,0,0,0,,It's fine.
-Dialogue: 0,0:18:30.99,0:18:33.37,Default,,0,0,0,,But if you overstress your body...
+Dialogue: 0,0:18:30.99,0:18:33.37,Default,,0,0,0,,But if you overexert your body...
 Dialogue: 0,0:18:34.28,0:18:35.33,Default,,0,0,0,,It'll be touched
 Dialogue: 0,0:18:35.33,0:18:36.99,Default,,0,0,0,,by fatigue. {body = karada = health, touch = sawari = harm}
 Dialogue: 0,0:18:52.56,0:18:55.61,Default,,0,0,0,,You have a weak constitution, Lady.
-Dialogue: 0,0:18:55.61,0:19:00.97,Default,,0,0,0,,If you subject your body to such extreme stress, \Nit'll be touched... Touched...
+Dialogue: 0,0:18:55.61,0:19:00.97,Default,,0,0,0,,If you subject your body to such extreme strain, \Nit'll be touched... Touched...
 Dialogue: 0,0:19:00.97,0:19:02.82,Default,,0,0,0,,I wanna touch it.
 Dialogue: 0,0:19:03.52,0:19:04.39,Default,,0,0,0,,Not happening!
 Dialogue: 0,0:19:04.96,0:19:07.49,Default,,0,0,0,,My God, this clinic's director...
@@ -305,7 +305,7 @@ Dialogue: 0,0:19:43.41,0:19:44.93,Default,,0,0,0,,Yukari!
 Dialogue: 0,0:19:47.10,0:19:51.20,Thought,,0,0,0,,Not even the most gifted doctor can bring the dead back to life.
 Dialogue: 0,0:19:51.20,0:19:54.40,Default,,0,0,0,,Black magic can save what medical science can't.
 Dialogue: 0,0:19:54.40,0:19:55.52,Default,,0,0,0,,Who's there?
-Dialogue: 0,0:20:03.28,0:20:06.65,Default,,0,0,0,,A-Are you a snake oil salesman? {fraudulent business of selling goods by claiming they will bring supernatural benefits - maybe "charlatan" or "con artist"}
+Dialogue: 0,0:20:03.28,0:20:06.65,Default,,0,0,0,,A-Are you a snake oil saleswoman? {fraudulent business of selling goods by claiming they will bring supernatural benefits - maybe "charlatan" or "con artist"}
 Dialogue: 0,0:20:06.65,0:20:07.95,Default,,0,0,0,,N-No...
 Dialogue: 0,0:20:07.95,0:20:10.42,Default,,0,0,0,,W-Where did that come from? \NI'm an honest-to-god witch!
 Dialogue: 0,0:20:10.42,0:20:12.01,Default,,0,0,0,,Witch?

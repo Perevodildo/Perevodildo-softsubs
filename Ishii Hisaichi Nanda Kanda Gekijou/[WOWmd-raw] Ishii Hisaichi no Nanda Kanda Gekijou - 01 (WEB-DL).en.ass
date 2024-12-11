@@ -16,9 +16,9 @@ Video File: 地底人Ⅰ これが噂の地底人　とにかく上が悪いん�
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.750000
-Scroll Position: 389
-Active Line: 420
-Video Position: 48030
+Scroll Position: 15
+Active Line: 26
+Video Position: 3140
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -59,7 +59,7 @@ Dialogue: 0,0:01:50.36,0:01:53.78,Narrator,,0,0,0,,A fearsome band of invaders l
 Dialogue: 0,0:01:53.78,0:01:58.56,Narrator,,0,0,0,,secretly biding their time for the perfect moment to conquer the surface.
 Dialogue: 0,0:01:59.11,0:02:02.66,Narrator,,0,0,0,,Yes, it is them—the...
 Dialogue: 0,0:02:03.49,0:02:04.69,Narrator,,0,0,0,,The...
-Dialogue: 0,0:02:06.00,0:02:09.40,Sign,,0,0,0,,{\c&H975DFF&\bord4.167\blur4.167\fs58.333\3c&H009273&}The Underground Men {地底人}
+Dialogue: 0,0:02:06.00,0:02:09.40,Sign,,0,0,0,,{\c&H975DFF&\bord4.167\blur4.167\fs58.333\3c&H009273&}The Underground Men {地底人}\NAnyway, blame the ceiling! 
 Dialogue: 0,0:02:09.25,0:02:10.17,Narrator,,0,0,0,,Huh?
 Dialogue: 0,0:02:09.40,0:02:18.58,Songs,,0,0,0,,On the blue sea, there's a slow boat to China,\NI'd love to take you to the land of dreams{this is "SLOW BOAT TO CHINA" by 憂歌団 / Yukadan; found no lyrics or CD scans, going half by ear, half by the original English lyrics, although this translation is obviously VERY liberal}
 Dialogue: 0,0:02:20.76,0:02:31.51,Songs,,0,0,0,,Get you and keep you in my arms evermore,\NLeave all your memories on the faraway shore

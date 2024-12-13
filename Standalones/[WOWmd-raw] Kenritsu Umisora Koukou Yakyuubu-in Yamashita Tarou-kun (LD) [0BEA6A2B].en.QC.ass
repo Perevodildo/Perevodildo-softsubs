@@ -16,9 +16,9 @@ Video File: [WOWmd-raw] Kenritsu Umisora Koukou Yakyuubu-in Yamashita Tarou-kun 
 Video AR Mode: 4
 Video AR Value: 1.325153
 Video Zoom Percent: 1.875000
-Scroll Position: 218
-Active Line: 233
-Video Position: 68204
+Scroll Position: 1
+Active Line: 12
+Video Position: 4334
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,7 +36,7 @@ Dialogue: 10,0:00:39.82,0:00:41.38,Default,,0,0,0,,He's so miserable!
 Dialogue: 10,0:00:41.38,0:00:43.74,Default,,0,0,0,,That's true. \NIs he really a baseball club member?
 Dialogue: 10,0:00:43.99,0:00:47.04,Default,,0,0,0,,Hey, I was wondering\Nwhat you think about {\i1}that{\i0}.
 Dialogue: 10,0:00:47.04,0:00:47.88,Default,,0,0,0,,He's a scarecrow.
-Dialogue: 10,0:00:48.93,0:00:51.36,Default,,0,0,0,,Not a scarecrow! \NA traffic cone.
+Dialogue: 10,0:00:48.93,0:00:51.36,Default,,0,0,0,,Not a scarecrow! \NA traffic cone.{daruma - idk what she means by that, probably something clumsy}
 Dialogue: 10,0:00:51.93,0:00:53.00,Default,,0,0,0,,You said it!
 Dialogue: 10,0:00:53.00,0:00:55.70,Default,,0,0,0,,They're not even training with him!
 Dialogue: 10,0:00:55.70,0:00:58.82,Default,,0,0,0,,They should've called him "a nuisance" on last year's memorial calendar!
@@ -44,7 +44,7 @@ Dialogue: 10,0:01:00.46,0:01:03.49,Default,,0,0,0,,I'm so glad I wasn't born \Na
 Dialogue: 10,0:01:03.49,0:01:05.51,Default,,0,0,0,,What's even the point of living like that?
 Dialogue: 10,0:01:05.51,0:01:06.79,Default,,0,0,0,,True, true!
 Dialogue: 10,0:01:06.79,0:01:09.72,Default,,0,0,0,,By the way, what's that scarecrow's name?
-Dialogue: 10,0:01:09.72,0:01:10.98,Default,,0,0,0,,You don't {\i1}know?{\i0}
+Dialogue: 10,0:01:09.72,0:01:10.98,Default,,0,0,0,,You don't know?
 Dialogue: 10,0:01:12.48,0:01:14.35,Default,,0,0,0,,Yamashita Taro.
 Dialogue: 10,0:01:14.35,0:01:15.99,Default,,0,0,0,,Yamashita Taro?
 Dialogue: 10,0:01:33.54,0:01:40.35,Song,,0,0,0,,The dreams I threw \Ninto the blue sky are like birds {lyrics from marty's booklet}

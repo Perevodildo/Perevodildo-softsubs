@@ -16,9 +16,9 @@ Video File: [WOWmd-raw] Kenritsu Umisora Koukou Yakyuubu-in Yamashita Tarou-kun 
 Video AR Mode: 4
 Video AR Value: 1.325153
 Video Zoom Percent: 1.875000
-Scroll Position: 1
-Active Line: 12
-Video Position: 4334
+Scroll Position: 65
+Active Line: 99
+Video Position: 26779
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -131,7 +131,7 @@ Dialogue: 10,0:07:15.35,0:07:17.80,Default,,0,0,0,,If you don't leave me alone, 
 Dialogue: 10,0:07:20.47,0:07:23.12,Default,,0,0,0,,Go pester some other sucker \Nabout teaching you!
 Dialogue: 10,0:07:23.12,0:07:25.84,Default,,0,0,0,,There's nothing I hate more than baseball!
 Dialogue: 10,0:07:25.84,0:07:26.76,Default,,0,0,0,,Got it?
-Dialogue: 10,0:07:26.76,0:07:29.56,Default,,0,0,0,,When you're facing a batter, \Nyou have to give him a walk!
+Dialogue: 10,0:07:26.76,0:07:29.56,Default,,0,0,0,,When you're facing a batter, \Nyou have to walk him!
 Dialogue: 10,0:07:29.56,0:07:31.39,Default,,0,0,0,,When hitting, you have to bunt!
 Dialogue: 10,0:07:31.39,0:07:32.76,Default,,0,0,0,,Following the orders... {命令される}
 Dialogue: 10,0:07:32.76,0:07:34.45,Default,,0,0,0,,To hell with it!
@@ -226,7 +226,7 @@ Dialogue: 10,0:15:41.04,0:15:42.27,Default,,0,0,0,,Batter out!
 Dialogue: 10,0:15:44.97,0:15:45.84,Default,,0,0,0,,Batter out!
 Dialogue: 10,0:15:45.84,0:15:49.09,Default,,0,0,0,,3rd turn: pitcher Tatsumi-kun.
 Dialogue: 10,0:15:49.86,0:15:50.89,Default,,0,0,0,,Bring it on!
-Dialogue: 10,0:15:52.43,0:15:53.50,Default,,0,0,0,,Shit! 
+Dialogue: 10,0:15:52.43,0:15:53.50,Default,,0,0,0,,Shit!
 Dialogue: 10,0:15:54.03,0:15:55.65,Default,,0,0,0,,All right, I got it!
 Dialogue: 10,0:15:56.68,0:15:57.73,Default,,0,0,0,,Out!
 Dialogue: 10,0:16:02.37,0:16:04.44,Default,,0,0,0,,Strike! Batter out!

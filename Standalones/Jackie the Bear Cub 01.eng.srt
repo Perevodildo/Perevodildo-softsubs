@@ -11,30 +11,29 @@ Good evening, everyone.
 I am Ernest Thompson Seton, the
 
 4
-00:01:31,305 --> 00:01:33,580
+00:01:31,305 --> 00:01:34,100
 author of the Animal Chronicles.
 
 5
-00:01:34,940 --> 00:01:38,660
+00:01:34,940 --> 00:01:39,120
 Starting tonight, I will tell you a
 story about Jackie the Bear.
 
 6
-00:01:40,330 --> 00:01:42,500
-Around 100 years ago, barely 100 years after
+00:01:40,330 --> 00:01:42,680
+Around 100 years ago,
 
 7
-00:01:42,524 --> 00:01:47,980
-the independence of the
-United States of America.
+00:01:42,680 --> 00:01:47,980
+barely 100 years after the United States of America gained their independence.
 
 8
-00:01:48,872 --> 00:01:52,942
+00:01:48,872 --> 00:01:53,500
 Right in the middle of the Sierra
 Nevada Mountains, which rise
 
 9
-00:01:52,966 --> 00:01:56,478
+00:01:53,500 --> 00:01:56,478
 to the east of California on
 the border with Nevada.
 
@@ -43,7 +42,7 @@ the border with Nevada.
 A boy lived near a beautiful lake called Lake Taho.
 
 11
-00:02:03,590 --> 00:02:07,715
+00:02:03,360 --> 00:02:07,715
 This story is about the wonderful friendship between the
 
 12
@@ -66,7 +65,7 @@ nicknamed Pinto.
 
 16
 00:03:06,685 --> 00:03:13,572
-During her long winter hibernation, Pinto had twin cubs.
+During her long winter hibernation, Pinto had two cubs.
 
 17
 00:03:14,458 --> 00:03:18,060
@@ -86,7 +85,8 @@ It's too bright!
 
 21
 00:03:43,940 --> 00:03:46,330
-What's wrong? It's all right.
+What are you doing? 
+It's already time.
 
 22
 00:03:46,515 --> 00:03:47,737
@@ -102,11 +102,11 @@ Yeah...
 
 25
 00:04:06,300 --> 00:04:10,948
-Come on, kids. From now on, you're free to play here all you like.
+That's it, kids. From now on, you're free to play here all you like.
 
 26
 00:04:11,410 --> 00:04:12,509
-Be careful.
+But be careful.
 
 27
 00:04:17,855 --> 00:04:19,695
@@ -122,7 +122,7 @@ What's this stuff?
 
 30
 00:04:25,162 --> 00:04:27,102
-It dosen't smell like anything.
+It doesn't smell like anything.
 
 31
 00:04:30,724 --> 00:04:33,870
@@ -154,7 +154,7 @@ Help!
 
 38
 00:05:00,861 --> 00:05:01,861
-?
+This way!
 
 39
 00:05:05,116 --> 00:05:06,129
@@ -162,7 +162,7 @@ Son!
 
 40
 00:05:17,080 --> 00:05:21,311
-Come on, you just came out.
+Come on, it's your first time outside the den.
 You have to be more careful.
 
 41
@@ -191,7 +191,7 @@ It's pretty...
 
 47
 00:05:34,626 --> 00:05:36,519
-Hey, Mother, let's go to it!
+Hey, Mother, let's go see it!
 
 48
 00:05:36,544 --> 00:05:38,095
@@ -216,7 +216,7 @@ What's a human?
 53
 00:05:47,340 --> 00:05:52,795
 Humans walk around on two legs,
-and are very scary enemies to us.
+and they are our scariest enemies.
 
 54
 00:05:52,900 --> 00:05:53,900
@@ -237,7 +237,7 @@ something to eat instead.
 
 58
 00:06:02,680 --> 00:06:05,216
-Your mom's already really hungry.
+You wouldn't believe how hungry I am.
 
 59
 00:06:06,610 --> 00:06:10,260
@@ -250,12 +250,12 @@ And it was no wonder.
 61
 00:06:12,704 --> 00:06:17,810
 Before going into her long winter sleep,
-she had to eat as much as she could.
+she could eat as much as she want.
 
 62
 00:06:17,975 --> 00:06:22,330
-Five months later,
-she hadn't eaten a thing,
+But now, five months later,
+she hadn't eaten a thing since,
 
 63
 00:06:22,331 --> 00:06:28,951
@@ -276,10 +276,10 @@ Right, I'll get it out.
 
 67
 00:07:15,496 --> 00:07:16,629
-?
+It's unfair, brother! {filler, no clue}
 
 68
-00:07:19,516 --> 00:07:20,834
+00:07:20,000 --> 00:07:20,834
 Hey!
 
 69
@@ -326,7 +326,7 @@ humans Mother told us about.
 
 79
 00:07:53,920 --> 00:07:56,767
-No way! It dosen't look that scary.
+No way! It doesn't look that scary.
 
 80
 00:08:01,530 --> 00:08:02,630
@@ -354,7 +354,7 @@ Where's it going?
 
 86
 00:08:27,828 --> 00:08:28,901
-?
+Got you!
 
 87
 00:08:32,762 --> 00:08:33,816
@@ -370,7 +370,7 @@ It's in there!
 
 90
 00:09:12,278 --> 00:09:13,711
-That was a surprise!
+That was scary!
 
 91
 00:09:17,720 --> 00:09:20,126
@@ -472,7 +472,7 @@ Huh?
 114
 00:10:48,957 --> 00:10:53,111
 Oh, they were just a bunch of
-bad people with no patience.
+slackers with no patience.
 
 115
 00:10:54,386 --> 00:10:57,574
@@ -487,8 +487,8 @@ I guess they didn't want to do such a hard job.
 So why do you keep doing it?
 
 118
-00:11:06,757 --> 00:11:10,807
-Let's see... The road ahead isn't
+00:11:05,540 --> 00:11:10,807
+Lan, you see... The road ahead isn't
 about making money.
 
 119
@@ -502,7 +502,7 @@ Whether I get out of debt or not, it doesn't matter.
 
 121
 00:11:20,290 --> 00:11:24,387
-It all depends on God's will.
+Besides, it's all in God's hands.
 
 122
 00:11:25,365 --> 00:11:29,868
@@ -530,7 +530,7 @@ You need to be careful when you play alone.
 
 128
 00:11:50,950 --> 00:11:52,494
-It's okay, Grandpa Rocky.
+I'll be fine, Grandpa Rocky.
 
 129
 00:11:53,180 --> 00:11:54,516
@@ -543,7 +543,7 @@ My dad taught me how to use it, and I'm really good at it.
 131
 00:11:57,923 --> 00:12:01,713
 Oh, I don't doubt it,
-based on what I saw earlier,
+based on what I saw,
 
 132
 00:12:01,737 --> 00:12:04,936
@@ -560,11 +560,11 @@ There's nothing to be scared of. Well, see ya!
 
 135
 00:12:12,850 --> 00:12:13,952
-Oh, come back!
+Oh... Hey, Lan!
 
 136
 00:12:14,135 --> 00:12:15,232
-Watch out, watch out!
+Watch out, young man!
 
 137
 00:12:15,350 --> 00:12:17,031
@@ -583,7 +583,7 @@ That's it!
 Here goes!
 
 141
-00:12:33,910 --> 00:12:34,910
+00:12:34,280 --> 00:12:35,660
 Ow...
 
 142
@@ -591,7 +591,7 @@ Ow...
 Wait up!
 
 143
-00:12:39,856 --> 00:12:40,270
+00:12:39,856 --> 00:12:41,180
 That's it!
 
 144
@@ -608,7 +608,7 @@ It's a bear cub!
 
 147
 00:13:45,293 --> 00:13:47,393
-You've just been born, haven't you?
+You were born this winter, weren't you?
 
 148
 00:13:51,120 --> 00:13:54,114
@@ -624,7 +624,7 @@ You're scared of this, right?
 
 151
 00:14:00,634 --> 00:14:02,441
-See? You're not scared anymore, right?
+See? I'm not scary anymore, right?
 
 152
 00:14:07,671 --> 00:14:09,824
@@ -636,7 +636,7 @@ I'm a friend.
 
 154
 00:14:22,718 --> 00:14:23,878
-Yo.
+Hello!
 
 155
 00:14:25,949 --> 00:14:28,156
@@ -653,7 +653,7 @@ Found any of God's dried rice?
 158
 00:14:32,013 --> 00:14:37,409
 It's no good. I think God
-still dosen't approve of me.
+still doesn't approve of me.
 
 159
 00:14:40,280 --> 00:14:42,675
@@ -706,7 +706,7 @@ Something smells good.
 
 171
 00:16:07,840 --> 00:16:10,544
-Oh, yeah. Do you like the way this smells?
+Oh, I see. Do you like the smell of this?
 
 172
 00:16:39,467 --> 00:16:41,047
@@ -714,7 +714,7 @@ What do you think? Tasty, isn't it?
 
 173
 00:16:41,442 --> 00:16:45,194
-That candy was given to me by Alice,
+I got this candy from Alice,
 a girl who lives on the ranch.
 
 174
@@ -732,7 +732,7 @@ them all as a sign of our friendship.
 
 177
 00:17:27,191 --> 00:17:29,385
-It's delicious, don't you think?
+So? Delicious, don't you think?
 
 178
 00:17:36,036 --> 00:17:37,657
@@ -740,7 +740,7 @@ Hey, don't tear it!
 
 179
 00:17:42,170 --> 00:17:43,983
-Look, it's empty.
+Look, it's already empty.
 
 180
 00:17:49,159 --> 00:17:50,939
@@ -788,7 +788,7 @@ That tickles!
 
 191
 00:19:38,030 --> 00:19:40,601
-Brother, where are you?
+Brother, where did you go?
 
 192
 00:19:51,223 --> 00:19:52,256
@@ -806,8 +806,8 @@ Maybe a rabbit or a fox?
 
 195
 00:20:07,967 --> 00:20:10,899
-Well, that's it then.
-Sometimes deer fall in by mistake.
+We'll know when we see it.
+Maybe you're wrong and it's actually a deer.
 
 196
 00:20:10,923 --> 00:20:13,296
@@ -819,7 +819,7 @@ Well then, I'm coming with you.
 
 198
 00:20:27,446 --> 00:20:31,985
-Don't be scared, it'll be okay.
+Don't be scared, we'll be okay.
 My dad will be here soon.
 
 199
@@ -828,31 +828,31 @@ Calm down.
 
 200
 00:20:45,630 --> 00:20:48,884
-You still haven't gotten over the habit
-of sucking on your mother.
+You're still to wean yourself 
+from sucking on your mother.
 
 201
 00:20:52,145 --> 00:20:54,005
 By the way, what's your name?
 
 202
-00:20:54,920 --> 00:20:55,997
-Ah, that's right.
+00:20:55,120 --> 00:20:57,977
+Oh, right... You don't have a name, do you?
 
 203
-00:20:56,270 --> 00:20:57,977
-You don't have a name, do you?
-
-204
 00:20:58,625 --> 00:21:00,863
 I'll give you a name, then.
 
-205
+204
 00:21:01,260 --> 00:21:02,407
 Let's see...
 
+205
+00:21:03,240 --> 00:21:05,600
+I think... Yeah!
+
 206
-00:21:05,725 --> 00:21:06,365
+00:21:05,600 --> 00:21:06,365
 Jack!
 
 207
@@ -878,7 +878,7 @@ From today onward, you're Jackie.
 
 212
 00:21:20,380 --> 00:21:21,826
-Hooray for Jackie!
+How about it, Jackie?
 
 213
 00:21:38,073 --> 00:21:39,086
@@ -889,22 +889,21 @@ Oh, Kellyan!
 Could you please go a little more slowly?
 
 215
-00:21:46,428 --> 00:21:48,332
-I'm good at water.
+00:21:43,940 --> 00:21:45,340
+I'm only...
 
 216
-00:21:49,080 --> 00:21:54,313
-But I'm too old for this mountain road...
+00:21:46,428 --> 00:21:48,332
+good at wading through water.
 
 217
-00:21:55,820 --> 00:21:58,158
-What happened to Jackie,
-a bear cub who made friends
+00:21:49,080 --> 00:21:54,313
+But this mountain road... Hey! 
+But I'm too old for this!
 
 218
-00:21:58,182 --> 00:22:01,059
-with Lan, a human,
-for the first time?
+00:21:55,820 --> 00:22:01,059
+What happened to Jackie, a bear cub who made friends with Lan, a human? {I think it's safe to omit ", for the first time" here, it's kinda obvious}
 
 219
 00:22:01,416 --> 00:22:04,153
@@ -917,7 +916,7 @@ But Lan's father and Grandpa Rocky didn't know that.
 221
 00:22:07,818 --> 00:22:13,470
 And the mother bear, Pinto,
-was rushing madly to the trap.
+was rushing madly to the scene.
 
 222
 00:22:14,461 --> 00:22:17,078
@@ -941,5 +940,6 @@ Next time, on Jackie the Bear Cub,
 
 227
 00:22:43,885 --> 00:22:46,080
-"The Dangers of the Forest" Look forward to it.
+"The Dangers of the Forest." 
+Look forward to it.
 

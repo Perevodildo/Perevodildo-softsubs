@@ -32,18 +32,18 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.03,Default,,0,0,0,,{OP start}
 Dialogue: 0,0:00:00.00,0:00:05.50,Default,,0,0,0,,{\blur1\fs75\c&H0521D2&\3c&HEAE9C3&\4c&H38B04E&\bord5\shad8\pos(760,870)\fad(900,0)\fnCalibri\b1}Here Comes the High Collar Lady
 Dialogue: 0,0:00:09.59,0:00:13.80,Default,,0,0,20,,Did you hear about it?
-Dialogue: 0,0:00:13.80,0:00:17.96,Default,,0,0,20,,Did you ever experience it?
-Dialogue: 0,0:00:17.96,0:00:22.21,Default,,0,0,20,,Two shockingly beautiful eyes
-Dialogue: 0,0:00:22.21,0:00:27.52,Default,,0,0,20,,A startling romance
+Dialogue: 0,0:00:13.80,0:00:17.96,Default,,0,0,20,,And have you seen it?
+Dialogue: 0,0:00:17.96,0:00:22.21,Default,,0,0,20,,Those two shockingly beautiful eyes
+Dialogue: 0,0:00:22.21,0:00:27.52,Default,,0,0,20,,Overflowing with startling romance
 Dialogue: 0,0:00:27.52,0:00:29.73,Default,,0,0,20,,All-consuming
 Dialogue: 0,0:00:29.73,0:00:31.90,Default,,0,0,20,,Inescapable
 Dialogue: 0,0:00:31.90,0:00:36.32,Default,,0,0,20,,With a Taishou Era charming lady
-Dialogue: 0,0:00:36.32,0:00:40.70,Default,,0,0,20,,High, High, High, High Collar Lady's coming
+Dialogue: 0,0:00:36.32,0:00:40.70,Default,,0,0,20,,Hi, Hi, Hi, High Collar Lady's coming
 Dialogue: 0,0:00:40.70,0:00:45.08,Default,,0,0,20,,With her gentle heart, winning everyone over
-Dialogue: 0,0:00:45.08,0:00:49.46,Default,,0,0,20,,High, High, High, High Collar Lady's coming
+Dialogue: 0,0:00:45.08,0:00:49.46,Default,,0,0,20,,Hi, Hi, Hi, High Collar Lady's coming
 Dialogue: 0,0:00:49.46,0:00:53.84,Default,,0,0,20,,With her gentle heart, winning everyone over
-Dialogue: 0,0:00:53.84,0:00:58.09,Default,,0,0,20,,High, High, High,
-Dialogue: 0,0:00:58.09,0:01:02.47,Default,,0,0,20,,High, High, High, High Collar Lady's coming
+Dialogue: 0,0:00:53.84,0:00:58.09,Default,,0,0,20,,Hi, Hi, Hi,
+Dialogue: 0,0:00:58.09,0:01:02.47,Default,,0,0,20,,Hi, Hi, Hi, High Collar Lady's coming
 Dialogue: 0,0:01:02.47,0:01:06.81,Default,,0,0,20,,With her gentle heart, winning everyone over
 Comment: 0,0:01:06.80,0:01:06.85,Default,,0,0,0,,{OP end}
 Dialogue: 0,0:01:16.54,0:01:19.20,Default,,0,0,0,,This is no Shakespeare play,
@@ -176,13 +176,13 @@ Dialogue: 0,0:08:34.70,0:08:37.16,Default,,0,0,0,,When the lilacs... {https://ja
 Dialogue: 0,0:08:37.16,0:08:39.26,Default,,0,0,0,,When the lilacs
 Dialogue: 0,0:08:39.26,0:08:43.25,Default,,0,0,0,,bloom again,
 Dialogue: 0,0:08:43.25,0:08:45.88,Default,,0,0,0,,Bringing back the thrill...
-Dialogue: 0,0:08:45.88,0:08:49.82,Default,,0,0,0,,Idiots! You think it's time to be singing our theme song!?
+Dialogue: 0,0:08:45.88,0:08:49.82,Default,,0,0,0,,Idiots! You think it's time to be singing our theme song?!
 Dialogue: 0,0:08:50.29,0:08:51.74,Default,,0,0,0,,Sorry.
 Dialogue: 0,0:08:51.74,0:08:52.99,Default,,0,0,0,,How funny!
 Dialogue: 0,0:08:53.49,0:08:54.91,Default,,0,0,0,,Stop laughing!{笑うじゃねぇ}
 Dialogue: 0,0:08:54.91,0:08:59.00,Default,,0,0,0,,I have nothing personal against you two, \Nbut I gotta make a living somehow.
 Dialogue: 0,0:08:59.00,0:09:01.82,Default,,0,0,0,,Like it or not, we'll have to hurt you a bit.{ちっとばかり痛い目にあっていただきやす}
-Dialogue: 0,0:09:01.82,0:09:04.29,Default,,0,0,0,,Huh!? What do you mean by that!?{なんですってどういうわけで}
+Dialogue: 0,0:09:01.82,0:09:04.29,Default,,0,0,0,,Huh?! What do you mean by that?!{なんですってどういうわけで}
 Dialogue: 0,0:09:04.29,0:09:06.69,Default,,0,0,0,,No arguing! Get off!{問答無用降りよ}
 Dialogue: 0,0:09:07.28,0:09:08.72,Default,,0,0,0,,B-Boss...
 Dialogue: 0,0:09:09.54,0:09:12.16,Default,,0,0,0,,I see. So you want to fight me? {/telling me to get off}
@@ -198,7 +198,7 @@ Dialogue: 0,0:09:42.48,0:09:44.56,Default,,0,0,0,,Fine! I'll be facing you!{よ�
 Dialogue: 0,0:09:45.40,0:09:46.12,Default,,0,0,0,,Get!
 Dialogue: 0,0:09:51.57,0:09:52.84,Default,,0,0,0,,Ushigorou!
 Dialogue: 0,0:09:52.84,0:09:55.99,Default,,0,0,0,,Remember that it was you who started all of this!{喧嘩売ったのはそっちだってこと覚えといてね}
-Dialogue: 0,0:09:55.99,0:09:58.07,Default,,0,0,0,,What? Ya gon' teach me!?
+Dialogue: 0,0:09:55.99,0:09:58.07,Default,,0,0,0,,What? Ya gon' teach me?!
 Dialogue: 0,0:09:58.07,0:09:59.02,Default,,0,0,0,,Die!
 Dialogue: 0,0:10:01.80,0:10:03.16,Default,,0,0,0,,Ouch...
 Dialogue: 0,0:10:03.16,0:10:04.33,Default,,0,0,0,,Way to go!{やった}
@@ -243,7 +243,7 @@ Dialogue: 0,0:12:12.59,0:12:14.61,Default,,0,0,0,,Boss, are you okay?
 Dialogue: 0,0:12:15.31,0:12:20.16,Default,,0,0,0,,I apologize, milady,\Nthese thugs keep troubling my acquaintances.
 Dialogue: 0,0:12:20.16,0:12:21.10,Default,,0,0,0,,Oh, it's nothing.
 Dialogue: 0,0:12:22.05,0:12:26.29,Default,,0,0,0,,I am a geisha from Yanagibashi,\NKichiji of the "House of Flowers."
-Dialogue: 0,0:12:26.29,0:12:28.58,Default,,0,0,0,,Huh!? So you are the Sister Kichiji?
+Dialogue: 0,0:12:26.29,0:12:28.58,Default,,0,0,0,,Huh?! So you are the Sister Kichiji?
 Dialogue: 0,0:12:28.58,0:12:29.68,Default,,0,0,0,,Yes.
 Dialogue: 0,0:12:29.68,0:12:32.15,Default,,0,0,0,,I take it you are Hanamura Benio?{嬢さんはhanamura benio様}
 Dialogue: 0,0:12:32.15,0:12:33.36,Default,,0,0,0,,Y-Yes...
@@ -294,7 +294,7 @@ Dialogue: 0,0:16:08.16,0:16:12.54,Default,,0,0,0,,Can't you tell? It's today's s
 Dialogue: 0,0:16:12.54,0:16:13.62,Default,,0,0,0,,Ugh...
 Dialogue: 0,0:16:13.62,0:16:15.16,Default,,0,0,0,,It's like this every day!{毎日これだもんね}
 Dialogue: 0,0:16:15.16,0:16:17.75,Default,,0,0,0,,I've never seen such a playboy before!{あんなプレイボーイ見たことないわ}
-Dialogue: 0,0:16:19.32,0:16:22.25,Default,,0,0,0,,Author, seriously!? \NEven you...
+Dialogue: 0,0:16:19.32,0:16:22.25,Default,,0,0,0,,Author, seriously?! \NEven you...
 Dialogue: 0,0:16:19.32,0:16:22.27,Sign,,0,0,0,,{\fax-0.079087\fscx100.64\fscy118.22\frz-16.4768\frx0.4942\fry-1.9812\xbord4.11\ybord4.73\org(1111.63,476.78)\pos(1117.6,388.12)\c&H2B373D&\3c&HE2DEDD&}Dear Shinobu \N\NI'm head over heels for you~{seems like mairu to me, though I'm unsure} \N\N\N\N\N\N \h   ♥Waki{it's the manga author's name - https://en.wikipedia.org/wiki/Waki_Yamato ; another reading is "Kazunori"}
 Dialogue: 0,0:16:23.44,0:16:25.67,Default,,0,0,0,,I'm not staying here for a second longer!
 Dialogue: 0,0:16:34.00,0:16:36.53,Default,,0,0,0,,Ugh... He's late, isn't he?{遅いなもう}
@@ -415,13 +415,17 @@ Dialogue: 0,0:23:14.69,0:23:16.89,Default,,0,0,0,,Next time on "Here Comes the H
 Dialogue: 0,0:23:16.89,0:23:19.98,Default,,0,0,0,,So Long, Old-Fashioned Mansion! Don't miss it!{さようなら、古きものよ！お楽しみに}
 Comment: 0,0:23:29.48,0:23:29.52,Default,,0,0,0,,{ED start}
 Dialogue: 0,0:23:29.53,0:23:34.78,Default,,0,0,20,,How are you feeling? I am Benio
-Dialogue: 0,0:23:36.04,0:23:41.57,Default,,0,0,20,,Please call me High Collar Lady, \Nbecause I'm in that period
-Dialogue: 0,0:23:42.50,0:23:48.49,Default,,0,0,20,,When it's getting so hard \Nto be honest with people I love
-Dialogue: 0,0:23:50.72,0:23:57.31,Default,,0,0,20,,I just want to know what's in his heart, \Nwhile he goes away I want him to turn around,
-Dialogue: 0,0:23:57.31,0:24:00.18,Default,,0,0,20,,to give me once again this loving glance
-Dialogue: 0,0:24:00.18,0:24:05.69,Default,,0,0,20,,Ah, how frustrating it is \Nto have this unrequited feeling
+Dialogue: 0,0:23:36.04,0:23:41.57,Default,,0,0,20,,Please call me High Collar Lady, \Nbecause I'm in that phase
+Dialogue: 0,0:23:42.50,0:23:48.49,Default,,0,0,20,,When it's getting so hard \Nto be honest with the people I love
+Dialogue: 0,0:23:50.72,0:23:57.31,Default,,0,0,20,,I just want to know what's in his heart;\N I want him to turn around before he leaves
+Dialogue: 0,0:23:57.31,0:24:00.18,Default,,0,0,20,,to give me that loving glance once again
+Dialogue: 0,0:24:00.18,0:24:05.69,Default,,0,0,20,,Ah, how frustrating it is \Nto have these unrequited feelings
 Dialogue: 0,0:24:05.69,0:24:10.64,Default,,0,0,20,,How are you feeling? I am Benio
-Dialogue: 0,0:24:12.15,0:24:16.83,Default,,0,0,20,,Just a tomboyish lady with a smidgen of pretension
-Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\blur1\bord0\an6\pos(948,713)} Translation \N Encoding & quality checking \N Timing & translation checking \N Special thanks \N QC 
-Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\blur1\bord0\an4\pos(988,713)} alucardnoyuuutsu \N Anonymous \NPerevodildo \N Golden time Anime (vk) \N Minty
+Dialogue: 0,0:24:12.15,0:24:16.83,Default,,0,0,20,,Just a tomboyish lady who's a little pretentious
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(948,613)\blur2.2\bord0\an9}Encoding & QC \N Translation \N TLC & Timing \N Special Thanks \N Editing
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(990,613)\blur2.2\bord0\an7}Anonymous \N alucardnoyuuutsu \N Perevodildo \N Golden Time Anime (VK) \N Minty
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(948,613)\blur1.7\bord0\an9}Encoding & QC \N Translation \N TLC & Timing \N Special Thanks \N Editing
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(990,613)\blur1.7\bord0\an7}Anonymous \N alucardnoyuuutsu \N Perevodildo \N Golden Time Anime (VK) \N Minty
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(948,613)\blur1\bord0\an9}Encoding & QC \N Translation \N TLC & Timing \N Special Thanks \N Editing
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(990,613)\blur1\bord0\an7}Anonymous \N alucardnoyuuutsu \N Perevodildo \N Golden Time Anime (VK) \N Minty
 Comment: 0,0:24:29.20,0:24:29.25,Sign,,0,0,0,,{ED end}

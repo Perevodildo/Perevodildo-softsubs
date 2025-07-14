@@ -32,32 +32,34 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.03,Default,,0,0,0,,{OP start}
 Dialogue: 0,0:00:00.00,0:00:05.50,Default,,0,0,0,,{\blur1\fs75\c&H0521D2&\3c&HEAE9C3&\4c&H38B04E&\bord5\shad8\pos(760,870)\fad(900,0)\fnCalibri\b1}Here Comes the High Collar Lady
 Dialogue: 0,0:00:09.59,0:00:13.80,Default,,0,0,20,,Did you hear about it?
-Dialogue: 0,0:00:13.80,0:00:17.96,Default,,0,0,20,,Did you ever experience it?
-Dialogue: 0,0:00:17.96,0:00:22.21,Default,,0,0,20,,Two shockingly beautiful eyes
-Dialogue: 0,0:00:22.21,0:00:27.52,Default,,0,0,20,,A startling romance
+Dialogue: 0,0:00:13.80,0:00:17.96,Default,,0,0,20,,And have you seen it?
+Dialogue: 0,0:00:17.96,0:00:22.21,Default,,0,0,20,,Those two shockingly beautiful eyes
+Dialogue: 0,0:00:22.21,0:00:27.52,Default,,0,0,20,,Overflowing with startling romance
 Dialogue: 0,0:00:27.52,0:00:29.73,Default,,0,0,20,,All-consuming
 Dialogue: 0,0:00:29.73,0:00:31.90,Default,,0,0,20,,Inescapable
 Dialogue: 0,0:00:31.90,0:00:36.32,Default,,0,0,20,,With a Taishou Era charming lady
-Dialogue: 0,0:00:36.32,0:00:40.70,Default,,0,0,20,,High, High, High, High Collar Lady's coming
+Dialogue: 0,0:00:36.32,0:00:40.70,Default,,0,0,20,,Hi, Hi, Hi, High Collar Lady's coming
 Dialogue: 0,0:00:40.70,0:00:45.08,Default,,0,0,20,,With her gentle heart, winning everyone over
-Dialogue: 0,0:00:45.08,0:00:49.46,Default,,0,0,20,,High, High, High, High Collar Lady's coming
+Dialogue: 0,0:00:45.08,0:00:49.46,Default,,0,0,20,,Hi, Hi, Hi, High Collar Lady's coming
 Dialogue: 0,0:00:49.46,0:00:53.84,Default,,0,0,20,,With her gentle heart, winning everyone over
-Dialogue: 0,0:00:53.84,0:00:58.09,Default,,0,0,20,,High, High, High,
-Dialogue: 0,0:00:58.09,0:01:02.47,Default,,0,0,20,,High, High, High, High Collar Lady's coming
+Dialogue: 0,0:00:53.84,0:00:58.09,Default,,0,0,20,,Hi, Hi, Hi,
+Dialogue: 0,0:00:58.09,0:01:02.47,Default,,0,0,20,,Hi, Hi, Hi, High Collar Lady's coming
 Dialogue: 0,0:01:02.47,0:01:06.81,Default,,0,0,20,,With her gentle heart, winning everyone over
 Comment: 0,0:01:06.80,0:01:06.85,Default,,0,0,0,,{OP end}
 Comment: 0,0:23:29.48,0:23:29.52,Default,,0,0,0,,{ED start}
 Dialogue: 0,0:23:29.53,0:23:34.78,Default,,0,0,20,,How are you feeling? I am Benio
-Dialogue: 0,0:23:36.04,0:23:41.57,Default,,0,0,20,,Please call me High Collar Lady, \Nbecause I'm in that period
-Dialogue: 0,0:23:42.50,0:23:48.49,Default,,0,0,20,,When it's getting so hard \Nto be honest with people I love
-Dialogue: 0,0:23:50.72,0:23:57.31,Default,,0,0,20,,I just want to know what's in his heart, \Nwhile he goes away I want him to turn around,
-Dialogue: 0,0:23:57.31,0:24:00.18,Default,,0,0,20,,to give me once again this loving glance
-Dialogue: 0,0:24:00.18,0:24:05.69,Default,,0,0,20,,Ah, how frustrating it is \Nto have this unrequited feeling
+Dialogue: 0,0:23:36.04,0:23:41.57,Default,,0,0,20,,Please call me High Collar Lady, \Nbecause I'm in that phase
+Dialogue: 0,0:23:42.50,0:23:48.49,Default,,0,0,20,,When it's getting so hard \Nto be honest with the people I love
+Dialogue: 0,0:23:50.72,0:23:57.31,Default,,0,0,20,,I just want to know what's in his heart;\N I want him to turn around before he leaves
+Dialogue: 0,0:23:57.31,0:24:00.18,Default,,0,0,20,,to give me that loving glance once again
+Dialogue: 0,0:24:00.18,0:24:05.69,Default,,0,0,20,,Ah, how frustrating it is \Nto have these unrequited feelings
 Dialogue: 0,0:24:05.69,0:24:10.64,Default,,0,0,20,,How are you feeling? I am Benio
-Dialogue: 0,0:24:12.15,0:24:16.83,Default,,0,0,20,,Just a tomboyish lady with a smidgen of pretension
+Dialogue: 0,0:24:12.15,0:24:16.83,Default,,0,0,20,,Just a tomboyish lady who's a little pretentious
 Comment: 0,0:24:14.73,0:24:18.94,Default,,0,0,0,,{\b1\blur1\fs45\bord0\c&HFCF5FD&\pos(1060,600)\fs28}Brought to you by the Sorcery Party\N{\fs}ѫ~ѫ\N"Lux in Tenebris"
-Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\blur1\bord0\an6\pos(965,715)} Translation \N Encoding & quality checking \N Timing & translation checking \N Special thanks
-Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\blur1\bord0\an4\pos(1005,715)} alucardnoyuuutsu \N Anonymous \NPerevodildo \N Golden time Anime (vk)
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(967,613)\blur1.8\bord0\an9}Encoding & QC \N Translation \N TLC & Timing \N Special Thanks \N Editing
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(1013,613)\blur1.8\bord0\an7}Anonymous \N alucardnoyuuutsu \N Perevodildo \N Golden Time Anime (VK) \N WOWmd
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(967,613)\blur1\bord0\an9}Encoding & QC \N Translation \N TLC & Timing \N Special Thanks \N Editing
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(1013,613)\blur1\bord0\an7}Anonymous \N alucardnoyuuutsu \N Perevodildo \N Golden Time Anime (VK) \N WOWmd
 Comment: 0,0:24:29.20,0:24:29.25,Sign,,0,0,0,,{ED end}
 Dialogue: 0,0:01:17.22,0:01:19.88,Default,,0,0,0,,Though they've been born and raised in different families,
 Dialogue: 0,0:01:20.18,0:01:27.87,Default,,0,0,0,,the spiritually rich Shinobu threw a lavish garden party to show off his garish tomboy fiancée. {no idea what's hanano here, maybe reference to "of hanamura family" but that doesn't sound japanese, maybe a contraction of "hana no takai" (conceited/arrogant)}{花のじゃじゃ馬婚約者を披露(戦闘?)園遊会をしたり}
@@ -257,7 +259,7 @@ Dialogue: 0,0:13:45.43,0:13:47.36,Default,,0,0,0,,Your special dish, say it!
 Dialogue: 0,0:13:48.26,0:13:50.78,Default,,0,0,0,,Dear! Enough of this farce!
 Dialogue: 0,0:13:50.78,0:13:51.68,Default,,0,0,0,,Shut up!
 Dialogue: 0,0:13:51.68,0:13:56.34,Default,,0,0,0,,If Benio's family deemed her worthy of being sent here, she has to be a very capable individual!
-Dialogue: 0,0:13:56.34,0:13:58.62,Default,,0,0,0,,Your special dish, what is it!?
+Dialogue: 0,0:13:56.34,0:13:58.62,Default,,0,0,0,,Your special dish, what is it?!
 Dialogue: 0,0:14:00.53,0:14:02.55,Default,,0,0,0,,Uhm... I know, it's the boiled potatoes!
 Dialogue: 0,0:14:02.55,0:14:05.12,Default,,0,0,0,,B-Boiled potatoes?
 Dialogue: 0,0:14:06.71,0:14:07.87,Default,,0,0,0,,I can feel it. {lit is "can"}

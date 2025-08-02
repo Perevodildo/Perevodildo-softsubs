@@ -14,10 +14,10 @@ Audio File: newtaka-02-x264-pass2.avi
 Video File: newtaka-02-x264-pass2.avi
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.625000
-Scroll Position: 390
-Active Line: 485
-Video Position: 4482
+Video Zoom Percent: 1.750000
+Scroll Position: 220
+Active Line: 245
+Video Position: 22864
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,7 +41,7 @@ Dialogue: 10,0:00:50.45,0:00:52.53,Song,,0,0,0,,(Another round, Champon)
 Dialogue: 10,0:00:52.53,0:00:57.39,Song,,0,0,0,,Now, don't be shy, come to see it at least once!
 Dialogue: 10,0:00:57.39,0:01:01.64,Song,,0,0,0,,I find a love letter in my shoe box, \Nso it's a dream after all {げた箱あけたらラブレター そりゃやっぱり夢かな\N純情、情熱、丈夫がおいらのとりえ\NHey! baby そこんとこどうか見ててよ\NHey! lady とびっきり\N末は（末は） 天下の（天下の） 忍者 将軍 そんなことがあったら大変\N俺たちゃ自由 ア・ロ・ハ ハートは野性 Hoッ Hoッ Ho\Nクラブも塾も偏差値だって どーでもいいじゃん そんなの\N水金地火木 ア・ロ・ハ 土天冥海 Haッ Haッ Ha\Nテレビやゲームやビデオがないのは とっても困るから誰かちょうだい}
 Dialogue: 10,0:01:02.36,0:01:07.30,Song,,0,0,0,,My strengths are innocence, passion, and tenacity
-Dialogue: 10,0:01:07.30,0:01:11.90,Song,,0,0,0,,Hey baby, please ignore my uncool sides {?}
+Dialogue: 10,0:01:07.30,0:01:11.90,Song,,0,0,0,,Hey baby, please ignore my uncool side {?}
 Dialogue: 10,0:01:11.90,0:01:14.19,Song,,0,0,0,,Hey lady, with all my heart...
 Dialogue: 10,0:01:14.19,0:01:16.51,Song,,0,0,0,,In the end \N(In the end)
 Dialogue: 10,0:01:16.51,0:01:18.93,Song,,0,0,0,,I will be\N(I will be)
@@ -51,18 +51,18 @@ Dialogue: 10,0:01:30.75,0:01:35.38,Song,,0,0,0,,Our hearts are wild, ho-ho-ho
 Dialogue: 10,0:01:35.38,0:01:40.54,Song,,0,0,0,,Don't care about clubs, cram schools, or scores—
 Dialogue: 10,0:01:40.54,0:01:45.02,Song,,0,0,0,,all that stuff can go up in the wind!
 Dialogue: 10,0:01:45.02,0:01:49.69,Song,,0,0,0,,Water, gold, earth, fire, wood, aloha
-Dialogue: 10,0:01:49.69,0:01:54.64,Song,,0,0,0,,Earth, heaven, underworld, ha-ha-ha {the lyrics I have have meikai as 冥海 but that doesn't make sense - 冥 is "dark" and is not somehow opposed to 海 (ocean), so I think it's actually 冥界 (meikai) = hades; realm of the dead}
+Dialogue: 10,0:01:49.69,0:01:54.64,Song,,0,0,0,,Earth, Heaven, Underworld, ha-ha-ha {the lyrics I have have meikai as 冥海 but that doesn't make sense - 冥 is "dark" and is not somehow opposed to 海 (ocean), so I think it's actually 冥界 (meikai) = hades; realm of the dead}
 Dialogue: 10,0:01:54.64,0:02:02.83,Song,,0,0,0,,It'd be really hard for me to survive \Nwithout the TV, games, and videos—
 Dialogue: 10,0:02:02.83,0:02:07.02,Song,,0,0,0,,won't someone bring them to me?
 Dialogue: 10,0:02:07.50,0:02:11.84,Song,,0,0,0,,Come, come, Champon \N(Come, come, Champon)
 Dialogue: 10,0:02:11.84,0:02:17.43,Song,,0,0,0,,Now, don't be shy, come to see it at least once!
 Comment: 10,0:27:14.11,0:27:17.11,Song,,0,0,0,,
-Dialogue: 10,0:02:45.73,0:02:51.69,Default,,0,0,0,,So, the federalism collapsed mainly due to economic problems, {idk if they really meant it or they just confused it with communism, or just didn't want to make it too obvious a reference to the real wold}
+Dialogue: 10,0:02:45.73,0:02:51.69,Default,,0,0,0,,So, federalism collapsed mainly due to economic problems, {idk if they really meant it or they just confused it with communism, or just didn't want to make it too obvious a reference to the real wold}
 Dialogue: 10,0:02:51.96,0:02:55.30,Default,,0,0,0,,because the so-called socialism \Nshould be an extension
 Dialogue: 10,0:02:55.30,0:02:59.14,Default,,0,0,0,,of sufficiently developed democracy and conscientious individualism... {??? just political technobabble as far as I'm concerned}
 Dialogue: 10,0:02:59.14,0:03:04.82,Default,,0,0,0,,You could say the collapse happened because the people's mindset—their mentality—
 Dialogue: 10,0:03:04.82,0:03:09.34,Default,,0,0,0,,just wasn’t there yet—\Nespecially among the leaders.
-Dialogue: 10,0:03:09.34,0:03:12.59,Default,,0,0,0,,So, at this point in time, \Nthe level of the people of the earth
+Dialogue: 10,0:03:09.34,0:03:12.59,Default,,0,0,0,,So, at this point in time, \Nthe level of the people of Earth
 Dialogue: 10,0:03:12.59,0:03:17.72,Default,,0,0,0,,is such that their actions are always built upon the principle of every individual's greed.
 Dialogue: 10,0:03:17.72,0:03:23.16,Default,,0,0,0,,So I’d like us to take a moment to look inward and reflect on our lives in light of these events.
 Dialogue: 10,0:03:23.16,0:03:25.18,Default,,0,0,0,,That's all for today!
@@ -81,8 +81,8 @@ Dialogue: 10,0:04:03.06,0:04:06.27,Default,,0,0,0,,Ah! Amazing! \NA Japanese-mad
 Dialogue: 10,0:04:06.27,0:04:08.33,Default,,0,0,0,,Recording machine?
 Dialogue: 10,0:04:08.33,0:04:11.61,Default,,0,0,0,,It's a radio cassette player, dammit!
 Dialogue: 10,0:04:24.04,0:04:25.69,Default,,0,0,0,,Yes, yes!
-Dialogue: 10,0:04:25.69,0:04:29.21,Default,,0,0,0,,Allow me to introduce to you \Nyour new friend!
-Dialogue: 10,0:04:29.63,0:04:33.87,Default,,0,0,0,,I trust you all know about \Nthe plane incident the other day, right?
+Dialogue: 10,0:04:25.69,0:04:29.21,Default,,0,0,0,,Allow me to introduce you to \Nyour new friend!
+Dialogue: 10,0:04:29.63,0:04:33.87,Default,,0,0,0,,I trust you all know about \Nthe plane incident from the other day, right?
 Dialogue: 10,0:04:33.87,0:04:39.38,Default,,0,0,0,,The one who suffered a regrettable accident \Non that plane was Karin-san!
 Dialogue: 10,0:04:41.82,0:04:45.08,Default,,0,0,0,,Yes, yes, Karin-san, \Nplease introduce yourself now.
 Dialogue: 10,0:04:45.08,0:04:47.25,Default,,0,0,0,,Huh? Um... I'm Karin,
@@ -102,7 +102,7 @@ Dialogue: 10,0:05:30.12,0:05:34.04,Default,,0,0,0,,What's you problem, Mirai? \N
 Dialogue: 10,0:05:34.04,0:05:36.14,Default,,0,0,0,,Karin-dono, I've come to pick you up
 Dialogue: 10,0:05:36.14,0:05:37.54,Default,,0,0,0,,Yes, Mirai-san.
 Dialogue: 10,0:05:37.54,0:05:38.26,Default,,0,0,0,,Pick up?
-Dialogue: 10,0:05:38.26,0:05:41.90,Default,,0,0,0,,Mirai-san and her family \Nhad allowed me to live at their place.
+Dialogue: 10,0:05:38.26,0:05:41.90,Default,,0,0,0,,Mirai-san and her family \Nallow me to live at their place.
 Dialogue: 10,0:05:41.90,0:05:44.54,Default,,0,0,0,,Ugh?! At that ninja mansion?
 Dialogue: 10,0:05:44.54,0:05:47.24,Default,,0,0,0,,Somebody was after Karin-dono \Nwhen we first met her.
 Dialogue: 10,0:05:47.24,0:05:50.05,Default,,0,0,0,,She'll be safer with my father, \Nthe royal spy. {spy working for the Edo shogunate; oniwaban}
@@ -116,12 +116,12 @@ Dialogue: 10,0:06:10.78,0:06:11.73,Default,,0,0,0,,Correct.
 Dialogue: 10,0:06:12.08,0:06:14.96,Default,,0,0,0,,I've also let the rocket escape...
 Dialogue: 10,0:06:15.57,0:06:16.69,Default,,0,0,0,,I apologize. {????}
 Dialogue: 10,0:06:17.78,0:06:21.19,Default,,0,0,0,,Just as we're about to establish diplomatic relations with Japan,
-Dialogue: 10,0:06:21.19,0:06:23.90,Default,,0,0,0,,any regrettable incidents \Nis the last thing we want. {bad; wrong; evil; no good; wicked; reprehensible}{??}
+Dialogue: 10,0:06:21.19,0:06:23.90,Default,,0,0,0,,any regrettable incident \Nis the last thing we want. {bad; wrong; evil; no good; wicked; reprehensible}{??}
 Dialogue: 10,0:06:23.90,0:06:25.81,Default,,0,0,0,,I wonder if it has something to do
 Dialogue: 10,0:06:25.81,0:06:28.42,Default,,0,0,0,,with the Dark Magician Donpapa we drove away the other day?
 Dialogue: 10,0:06:28.42,0:06:33.37,Default,,0,0,0,,I doubt someone named Führer Taiman \Nwill give up so soon.
 Dialogue: 10,0:06:33.37,0:06:36.60,Default,,0,0,0,,So who exactly is that Führer Taiman?
-Dialogue: 10,0:06:36.60,0:06:40.68,Default,,0,0,0,,Who knows... Hie true nature \Nis a mystery even to me.
+Dialogue: 10,0:06:36.60,0:06:40.68,Default,,0,0,0,,Who knows... His true nature \Nis a mystery, even to me.
 Dialogue: 10,0:06:41.13,0:06:43.08,Default,,0,0,0,,By the way, Taka-chan...
 Dialogue: 10,0:06:43.08,0:06:46.51,Default,,0,0,0,,I'm going to the Nebuta Festival \Nin Japan starting tomorrow. {Nebuta Festival (in Aomori, August 2-7); how tf did jiro have his 7-5-3 ceremony on november 15th in the first ova is it's august now???}
 Dialogue: 10,0:06:47.37,0:06:49.99,Default,,0,0,0,,Going to look for your wife again? {assuming he has one already she just left}
@@ -151,7 +151,8 @@ Dialogue: 10,0:08:12.77,0:08:14.32,Default,,0,0,0,,Come to think of it, Mirai-sa
 Dialogue: 10,0:08:14.32,0:08:15.23,Default,,0,0,0,,Hm?
 Dialogue: 10,0:08:15.23,0:08:18.19,Default,,0,0,0,,You're pretty close \Nwith Al-san, aren't you?
 Dialogue: 10,0:08:18.61,0:08:19.70,Default,,0,0,0,,What do you mean?
-Dialogue: 10,0:08:19.70,0:08:25.83,Default,,0,0,0,,Well, as soon as Al-san got just a little curious about me, you reproached him so harshly! {?? potto could be "slightly (blushing)​" but I think she means their convo after school}
+Dialogue: 10,0:08:19.70,0:08:23.36,Default,,0,0,0,,Well, as soon as Al-san got just the slightest bit curious about me,
+Dialogue: 10,0:08:23.36,0:08:25.83,Default,,0,0,0,,you reproached him so harshly! {?? potto could be "slightly (blushing)​" but I think she means their convo after school}
 Dialogue: 10,0:08:25.83,0:08:27.86,Default,,0,0,0,,W-W-Wh-What are you talking about?!
 Dialogue: 10,0:08:27.86,0:08:29.20,Default,,0,0,0,,I was just...
 Dialogue: 10,0:08:29.99,0:08:31.40,Default,,0,0,0,,I'm off!
@@ -211,7 +212,7 @@ Dialogue: 10,0:11:53.30,0:11:56.49,Top,,0,0,0,,With names like that, you can’t
 Dialogue: 10,0:11:56.49,0:11:58.51,Default,,0,0,0,,That's not true!
 Dialogue: 10,0:11:58.51,0:12:00.98,Default,,0,0,0,,They’re absolutely wonderful names!
 Dialogue: 10,0:12:01.83,0:12:03.31,Default,,0,0,0,,You don’t need to pretend. {/give it a rest}{?}
-Dialogue: 10,0:12:03.31,0:12:06.71,Default,,0,0,0,,Anyway, Karin, did you know \NI’ve built this car all on my own?
+Dialogue: 10,0:12:03.31,0:12:06.71,Default,,0,0,0,,Anyway, Karin, did you know \NI built this car all on my own?
 Dialogue: 10,0:12:06.71,0:12:10.29,Default,,0,0,0,,Amazing! You’re a mechanical genius!
 Dialogue: 10,0:12:10.29,0:12:11.86,Default,,0,0,0,,
 Dialogue: 10,0:12:11.86,0:12:14.01,Default,,0,0,0,,If even this surprises you, \Nyou’re in for a shock. {lit: being surprised by things like this is a “no”}
@@ -220,7 +221,7 @@ Dialogue: 10,0:12:17.49,0:12:19.67,Default,,0,0,0,,Even more super deluxe?
 Dialogue: 10,0:12:19.67,0:12:20.32,Default,,0,0,0,,Wanna see it? {/did I pique your curiosity?/Interested?}
 Dialogue: 10,0:12:20.32,0:12:21.89,Default,,0,0,0,,Yes, absolutely!
 Dialogue: 10,0:12:23.10,0:12:25.92,Default,,0,0,0,,All right, I'll arrange \Na special showing just for you!
-Dialogue: 10,0:12:25.92,0:12:28.88,Default,,0,0,0,,What, serious? \NI’m delighted!
+Dialogue: 10,0:12:25.92,0:12:28.88,Default,,0,0,0,,What? Seriously? \NI’m delighted!
 Dialogue: 10,0:12:28.88,0:12:32.72,Default,,0,0,0,,Then how about tomorrow—\NSunday, at 11am, near the Backbreaker Statue? {Kshitigarbha (bodhisattva who looks over children, travellers and the underworld); Ksitigarbha; Jizō}
 Dialogue: 10,0:12:32.72,0:12:34.92,Default,,0,0,0,,Backbreaker Statue?
 Dialogue: 10,0:12:38.40,0:12:39.89,Default,,0,0,0,,Oh crap!
@@ -252,7 +253,7 @@ Dialogue: 10,0:13:59.40,0:14:00.96,Default,,0,0,0,,
 Dialogue: 10,0:14:01.61,0:14:04.29,Top,,0,0,0,,Oh? You brought friends today?
 Dialogue: 10,0:14:04.29,0:14:06.41,Top,,0,0,0,,Hm? And who is that young lady?
 Dialogue: 10,0:14:06.41,0:14:07.78,Default,,0,0,0,,My name is Karin.
-Dialogue: 10,0:14:07.78,0:14:11.83,Default,,0,0,0,,Oh, are you the girl who crashed on a plane the other day?
+Dialogue: 10,0:14:07.78,0:14:11.83,Default,,0,0,0,,Oh, are you the girl who crashed in a plane the other day?
 Dialogue: 10,0:14:11.83,0:14:17.01,Default,,0,0,0,,Well then, since you brought everyone with you, \Nit’s to show them your latest contraption, yes?
 Dialogue: 10,0:14:17.01,0:14:17.74,Default,,0,0,0,,I guess.
 Dialogue: 10,0:14:17.74,0:14:20.67,Default,,0,0,0,,It's not completed yet, \Nbut you could try starting it.
@@ -274,13 +275,14 @@ Dialogue: 10,0:15:36.52,0:15:42.48,Default,,0,0,0,,To tell you the truth, teache
 Dialogue: 10,0:15:42.48,0:15:44.05,Default,,0,0,0,,Hey, Takamaru!
 Dialogue: 10,0:15:44.05,0:15:47.07,Default,,0,0,0,,What the hell are you making Alfred do?!
 Dialogue: 10,0:15:47.07,0:15:48.56,Default,,0,0,0,,Look, this button...
-Dialogue: 10,0:15:49.34,0:15:54.30,Default,,0,0,0,,Geothermal power plant produces clean energy, \Nbut its construction involves serious risks.
+Dialogue: 10,0:15:49.34,0:15:52.35,Default,,0,0,0,,The geothermal power plant produces clean energy,
+Dialogue: 10,0:15:52.35,0:15:54.30,Default,,0,0,0,,but its construction involves serious risks.
 Dialogue: 10,0:15:54.30,0:15:56.93,Default,,0,0,0,,Al build this robot to alleviate that issue.
 Dialogue: 10,0:15:56.93,0:15:58.67,Default,,0,0,0,,You impress me every now and then.
 Dialogue: 10,0:15:58.67,0:15:59.98,Default,,0,0,0,,You’ve seen nothing, Mirai! {??}
 Dialogue: 10,0:15:59.98,0:16:03.54,Default,,0,0,0,,I can set it up to go to the plant \Nand back all on its own! {???? I hear “properly making a round trip; going and returning; coming and going to the power plant - input like that”}
 Dialogue: 10,0:16:03.54,0:16:04.12,Default,,0,0,0,,
-Dialogue: 10,0:16:04.12,0:16:07.99,Default,,0,0,0,,Come on, pipsqueak! \NDon’t make it do more of weird poses! {??}
+Dialogue: 10,0:16:04.12,0:16:07.99,Default,,0,0,0,,Come on, pipsqueak! \NDon’t make it do more weird poses! {??}
 Dialogue: 10,0:16:09.80,0:16:11.93,Default,,0,0,0,,Ugh! I’m not giving it to you guys anymore! {??}
 Dialogue: 10,0:16:11.93,0:16:13.18,Default,,0,0,0,,May I...
 Dialogue: 10,0:16:13.18,0:16:15.55,Default,,0,0,0,,Oh? Karin, wanna try it too?
@@ -333,7 +335,7 @@ Dialogue: 10,0:18:29.43,0:18:31.36,Default,,0,0,0,,M-Mirai?
 Dialogue: 10,0:18:31.36,0:18:33.05,Default,,0,0,0,,Mirai-san!
 Dialogue: 10,0:18:33.05,0:18:37.28,Default,,0,0,0,,The Machine Man \Nis running even faster now!
 Dialogue: 10,0:18:38.03,0:18:41.14,Default,,0,0,0,,Ah, Dr. Genman? \NWhat's the matter?
-Dialogue: 10,0:18:41.14,0:18:43.92,Default,,0,0,0,,Huh? Robot Alfred gone rogue?
+Dialogue: 10,0:18:41.14,0:18:43.92,Default,,0,0,0,,Huh? Robot Alfred has gone rogue?
 Dialogue: 10,0:18:49.87,0:18:53.81,Default,,0,0,0,,Mister Machine Man, you’ll have to forgive me \Nfor dispensing with the mannerisms! {??? I hear “the usual Tachi-ai​ (立合い is the initial charge between two sumo wrestlers at the beginning of a bout.) is not done, sorry” - think he means “sorry for attacking you first” or something}
 Dialogue: 10,0:19:01.83,0:19:03.00,Default,,0,0,0,,Get away! {??}
 Dialogue: 10,0:19:08.42,0:19:09.94,Default,,0,0,0,,The power plant...
@@ -380,7 +382,7 @@ Dialogue: 10,0:22:20.07,0:22:22.03,Default,,0,0,0,,Teacher! Wait for me!
 Dialogue: 10,0:22:22.03,0:22:24.54,Default,,0,0,0,,I built this robot. \NLet me do it!
 Dialogue: 10,0:22:24.54,0:22:25.47,Default,,0,0,0,,Al!
 Dialogue: 10,0:22:26.45,0:22:27.54,Default,,0,0,0,,Takamaru!
-Dialogue: 10,0:22:27.91,0:22:29.57,Default,,0,0,0,,Help is incoming!
+Dialogue: 10,0:22:27.91,0:22:29.57,Default,,0,0,0,,Help is coming!
 Dialogue: 10,0:22:32.41,0:22:33.42,Default,,0,0,0,,There you go!
 Dialogue: 10,0:22:33.42,0:22:34.52,Default,,0,0,0,,Takamaru!
 Dialogue: 10,0:22:37.38,0:22:38.56,Default,,0,0,0,,Takamaru!
@@ -418,7 +420,7 @@ Dialogue: 10,0:27:20.79,0:27:23.84,Default,,0,0,0,,Next time: \N“Dangerous Nat
 Dialogue: 10,0:27:23.84,0:27:27.68,Default,,0,0,0,,The Pro Wrestler Has Arrived!” {危うし建国記念祭! プロレスラーがやって来たでござるの巻き}
 Comment: 0,0:27:27.68,0:27:30.68,Sign,,0,0,0,,
 Dialogue: 0,0:26:56.05,0:27:01.68,Sign,,0,0,0,,{\fsp1\blur0.8\bord0\fs25\an9\shad0\fade(180,160)\c&HFFFFFF&\fnI hate Comic Sans\1a&H28&\pos(304.9,335.64)}RAW \NTranslation \NQuality check
-Dialogue: 0,0:26:56.05,0:27:01.68,Sign,,0,0,0,,{\fsp1\blur0.8\bord0\fs25\an7\shad0\fade(180,160)\c&HFFFFFF&\fnI hate Comic Sans\1a&H28&\pos(319.06,335.64)} Piyo-Piyo Productions \N Perevodildo\NTrue Noobow Gamer
+Dialogue: 0,0:26:56.05,0:27:01.68,Sign,,0,0,0,,{\fsp1\blur0.8\bord0\fs25\an7\shad0\fade(180,160)\c&HFFFFFF&\fnI hate Comic Sans\1a&H28&\pos(319.06,335.64)} Piyo-Piyo Productions \N Perevodildo\NJmePenseBon
 Dialogue: 0,0:02:27.45,0:02:32.46,Sign,,0,0,0,,{\c&HCACACA&\blur0.6\q2\fs50\fnCCCoolBeansVF\fax-0.000003\fscx116.04\fscy160.00\frz0.0225\frx38.7644\fry0.0877\xshad1.5\yshad1\org(293.14,375.97)\pos(302.67,286.88)}NEW {\fs30\c&H010C31&\fnBiko\3c&H849BD8&\bord2\shad0}Bakumatsu Era Super Boy \N{\fs80\c&H783830&\fnFOT Rodin Pro UB\b0\3c&HC8CEDE&\bord4\xshad4\yshad4}T{\xshad3}a{\xshad2}k{\xshad1}a{\xshad}m{\xshad-1}a{\xshad-2}r{\xshad-3}u
 Dialogue: 0,0:02:32.46,0:02:37.97,Sign,,0,0,0,,{\fax-0.1\bord0.3\an7\q2\xshad\yshad0.5\blur0.7\fade(00,0)\fs29\c&HEBF4F5&\3c&H3F3F3F&\4c&H252527&\fnBreakfastCereal\pos(74.58,282.45)}Chapter 2: The Machine Man Alfred \NBlows his Whistle and Goes on a Rampage {機械人間アルフレッド殿、汽笛を吹いて大暴走でござるの巻き}
 Dialogue: 0,0:02:51.69,0:02:51.73,Sign,,0,0,0,,{=2=3}{\alpha&H00&\blur0.6\4c&H756E8C&\3c&H111118&\c&HCDD6EA&\fnArmWrestler\fax-0.550280\fscx89.98\fscy97.68\frz29.95\frx5.9031\fry-15.9309\xbord0.9\ybord0.98\xshad-0.9\yshad-0.98\org(248.98,220.77)\pos(255.17,208.56)}Social Sciences {and Human Studies }Department {総合人間社会学教室}

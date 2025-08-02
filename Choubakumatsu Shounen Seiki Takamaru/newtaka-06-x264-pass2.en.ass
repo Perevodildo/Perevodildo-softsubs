@@ -12,13 +12,12 @@ PlayResY: 480
 Last Style Storage: 480p not anamorphic
 Audio File: newtaka-06-x264-pass2.avi
 Video File: newtaka-06-x264-pass2.avi
-Keyframes File: newtaka-06-x264-pass2_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 2.125000
-Scroll Position: 271
-Active Line: 292
-Video Position: 40366
+Scroll Position: 18
+Active Line: 38
+Video Position: 5257
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -42,7 +41,7 @@ Dialogue: 10,0:01:21.44,0:01:23.48,Song,,0,0,0,,(Another round, Champon)
 Dialogue: 10,0:01:23.48,0:01:28.32,Song,,0,0,0,,Now, don't be shy, come to see it at least once!
 Dialogue: 10,0:01:28.32,0:01:32.24,Song,,0,0,0,,I find a love letter in my shoe box, \Nso it's a dream after all {げた箱あけたらラブレター そりゃやっぱり夢かな\N純情、情熱、丈夫がおいらのとりえ\NHey! baby そこんとこどうか見ててよ\NHey! lady とびっきり\N末は（末は） 天下の（天下の） 忍者 将軍 そんなことがあったら大変\N俺たちゃ自由 ア・ロ・ハ ハートは野性 Hoッ Hoッ Ho\Nクラブも塾も偏差値だって どーでもいいじゃん そんなの\N水金地火木 ア・ロ・ハ 土天冥海 Haッ Haッ Ha\Nテレビやゲームやビデオがないのは とっても困るから誰かちょうだい}
 Dialogue: 10,0:01:33.32,0:01:38.29,Song,,0,0,0,,My strengths are innocence, passion, and tenacity
-Dialogue: 10,0:01:38.29,0:01:42.87,Song,,0,0,0,,Hey baby, please ignore my uncool sides {?}
+Dialogue: 10,0:01:38.29,0:01:42.87,Song,,0,0,0,,Hey baby, please ignore my uncool side {?}
 Dialogue: 10,0:01:42.87,0:01:45.17,Song,,0,0,0,,Hey lady, with all my heart...
 Dialogue: 10,0:01:45.17,0:01:47.50,Song,,0,0,0,,In the end \N(In the end)
 Dialogue: 10,0:01:47.50,0:01:49.92,Song,,0,0,0,,I will be\N(I will be)
@@ -52,7 +51,7 @@ Dialogue: 10,0:02:01.73,0:02:06.36,Song,,0,0,0,,Our hearts are wild, ho-ho-ho
 Dialogue: 10,0:02:06.36,0:02:11.53,Song,,0,0,0,,Don't care about clubs, cram schools, or scores—
 Dialogue: 10,0:02:11.53,0:02:15.95,Song,,0,0,0,,all that stuff can go up in the wind!
 Dialogue: 10,0:02:15.95,0:02:20.66,Song,,0,0,0,,Water, gold, earth, fire, wood, aloha
-Dialogue: 10,0:02:20.66,0:02:25.62,Song,,0,0,0,,Earth, heaven, underworld, ha-ha-ha {the lyrics I have have meikai as 冥海 but that doesn't make sense - 冥 is "dark" and is not somehow opposed to 海 (ocean), so I think it's actually 冥界 (meikai) = hades; realm of the dead}
+Dialogue: 10,0:02:20.66,0:02:25.62,Song,,0,0,0,,Earth, Heaven, Underworld, ha-ha-ha {the lyrics I have have meikai as 冥海 but that doesn't make sense - 冥 is "dark" and is not somehow opposed to 海 (ocean), so I think it's actually 冥界 (meikai) = hades; realm of the dead}
 Dialogue: 10,0:02:25.62,0:02:33.80,Song,,0,0,0,,It'd be really hard for me to survive \Nwithout the TV, games, and videos—
 Dialogue: 10,0:02:33.80,0:02:37.97,Song,,0,0,0,,won't someone bring them to me?
 Dialogue: 10,0:02:38.47,0:02:42.81,Song,,0,0,0,,Come, come, Champon \N(Come, come, Champon)
@@ -88,20 +87,20 @@ Dialogue: 10,0:04:24.97,0:04:27.29,Default,,0,0,0,,You must come with me now.
 Dialogue: 10,0:04:27.29,0:04:30.11,Default,,0,0,0,,Karin-dono will start a monster tsunami?
 Dialogue: 10,0:04:30.11,0:04:34.47,Default,,0,0,0,,D-Don’t try to trick us, stupid bird! \NYou're a bad guy, aren't you?
 Dialogue: 10,0:04:34.47,0:04:36.84,Default,,0,0,0,,This is a trap, you hear? \NIt’s a trap!
-Dialogue: 10,0:04:36.84,0:04:38.55,Default,,0,0,0,,It’s as clear as a day!
+Dialogue: 10,0:04:36.84,0:04:38.55,Default,,0,0,0,,It’s clear as day!
 Dialogue: 10,0:04:40.51,0:04:43.34,Default,,0,0,0,,I'm going to that island.
 Dialogue: 10,0:04:43.34,0:04:45.60,Default,,0,0,0,,Hey, you trust him?!
-Dialogue: 10,0:04:45.60,0:04:48.91,Default,,0,0,0,,But what about the Great Goblin \Nwho was turned into stone?! {meaning “we won’t be able to find the stone without you”}
+Dialogue: 10,0:04:45.60,0:04:48.91,Default,,0,0,0,,But what about the Great Goblin, \Nwho was turned into stone?! {meaning “we won’t be able to find the stone without you”}
 Dialogue: 10,0:04:48.91,0:04:49.62,Default,,0,0,0,,
 Dialogue: 10,0:04:49.62,0:04:53.16,Default,,0,0,0,,Wait, Al. We’ll do something \Nabout the sealing stone on our own.
-Dialogue: 10,0:04:53.16,0:04:55.24,Default,,0,0,0,,Takamaru, you go to face Karin!
+Dialogue: 10,0:04:53.16,0:04:55.24,Default,,0,0,0,,Takamaru, you go face Karin!
 Dialogue: 10,0:04:55.24,0:04:55.91,Default,,0,0,0,,H-Hey... {??}
 Dialogue: 10,0:04:55.91,0:04:58.47,Default,,0,0,0,,Donpapa-dono, please show me the way!
 Dialogue: 10,0:05:02.72,0:05:04.35,Default,,0,0,0,,And off they went...
 Dialogue: 10,0:05:04.76,0:05:08.59,Default,,0,0,0,,Jiro, you go to the island and tell Mirai-san and everyone what’s happening!
 Dialogue: 10,0:05:08.59,0:05:09.35,Default,,0,0,0,,
 Dialogue: 10,0:05:09.35,0:05:10.69,Default,,0,0,0,,But my dad...
-Dialogue: 10,0:05:10.69,0:05:14.11,Default,,0,0,0,,Hey, pipsqueak! \NTakamaru said we do that, so it’s decided!
+Dialogue: 10,0:05:10.69,0:05:14.11,Default,,0,0,0,,Hey, pipsqueak! \NTakamaru said we'd do that, so it’s decided!
 Dialogue: 10,0:05:14.55,0:05:17.28,Default,,0,0,0,,See? I’ve got these instead of Takamaru.
 Dialogue: 10,0:05:17.28,0:05:22.00,Default,,0,0,0,,Look! We’ll blow the rocks away with these \Nand bring your father back better than before!
 Dialogue: 10,0:05:22.00,0:05:22.95,Default,,0,0,0,,
@@ -134,7 +133,7 @@ Dialogue: 10,0:07:11.54,0:07:13.93,Default,,0,0,0,,Your Highness, \Nwe, the mast
 Dialogue: 10,0:07:13.93,0:07:17.90,Default,,0,0,0,,will board that island as a suicide squad \Nand will neutralize the crew. {??}
 Dialogue: 10,0:07:17.90,0:07:20.87,Default,,0,0,0,,I, the royal spy, will do the same!
 Dialogue: 10,0:07:20.87,0:07:22.33,Default,,0,0,0,,Wait, both of you.
-Dialogue: 10,0:07:22.33,0:07:27.33,Default,,0,0,0,,We must prioritize the protection of lives and assets of our people over fighting. {?}
+Dialogue: 10,0:07:22.33,0:07:27.33,Default,,0,0,0,,We must prioritize the protection of the lives and assets of our people over fighting. {?}
 Dialogue: 10,0:07:27.33,0:07:30.03,Default,,0,0,0,,Isn't it something you said once?
 Dialogue: 10,0:07:30.03,0:07:31.34,Default,,0,0,0,,We must come together! {??}
 Dialogue: 10,0:07:31.34,0:07:31.93,Default,,0,0,0,,Yes, sir!
@@ -144,13 +143,13 @@ Dialogue: 10,0:07:36.89,0:07:39.09,Default,,0,0,0,,
 Dialogue: 10,0:07:39.09,0:07:41.42,Default,,0,0,0,,
 Dialogue: 10,0:07:41.42,0:07:45.28,Default,,0,0,0,,Like that!
 Dialogue: 10,0:07:49.45,0:07:50.95,Default,,0,0,0,,
-Dialogue: 10,0:08:43.13,0:08:47.72,Default,,0,0,0,,And done... All right, \Nbegin the dog paddle style tsunami!
-Dialogue: 10,0:09:02.73,0:09:06.90,Default,,0,0,0,,In only thirty more minutes, Champon will submerge to the bottom of the sea.
+Dialogue: 10,0:08:43.13,0:08:47.72,Default,,0,0,0,,And done... All right, \Nbegin the dog paddle-style tsunami!
+Dialogue: 10,0:09:02.73,0:09:06.90,Default,,0,0,0,,In only thirty more minutes, Champon will be submerged to the bottom of the sea.
 Dialogue: 10,0:09:06.90,0:09:08.25,Default,,0,0,0,,Isn’t it lovely?
 Dialogue: 10,0:09:08.25,0:09:13.10,Default,,0,0,0,,It reminds me of that time I sunk Atlantis just like that a long time ago.
 Dialogue: 10,0:09:13.10,0:09:14.31,Default,,0,0,0,,
 Dialogue: 10,0:09:14.31,0:09:16.86,Default,,0,0,0,,It’s Takamaru! \NTakamaru is in the fortress!
-Dialogue: 10,0:09:17.68,0:09:19.46,Default,,0,0,0,,He couldn’t wait too!
+Dialogue: 10,0:09:17.68,0:09:19.46,Default,,0,0,0,,He couldn’t wait either!
 Dialogue: 10,0:09:28.57,0:09:32.24,Default,,0,0,0,,Hi, Takamaru-chan! \NI’m so happy you’ve come to play with me!
 Dialogue: 10,0:09:32.24,0:09:35.73,Default,,0,0,0,,Karin-dono, you must stop \Nthe tsunami machine at once.
 Dialogue: 10,0:09:35.73,0:09:38.80,Default,,0,0,0,,If you don’t, \NI won’t show you any mercy.
@@ -195,8 +194,8 @@ Dialogue: 10,0:13:18.11,0:13:20.52,Default,,0,0,0,,It’d be boring if I let you
 Dialogue: 10,0:13:20.52,0:13:24.27,Default,,0,0,0,,You’re gonna have to stick around \Na little longer until the job is done, boy.
 Dialogue: 10,0:13:38.76,0:13:42.99,Default,,0,0,0,,Goodness me,\Nis this really what’s in Takamaru’s mind?
 Dialogue: 10,0:13:42.99,0:13:46.13,Default,,0,0,0,,Unbelievable! \NHow childish can one really be? {innocent; naive; artless; unaffected; genuine; childlike}
-Dialogue: 10,0:13:46.13,0:13:50.10,Default,,0,0,0,,Always blowing the hot air,\Nbut in the end he’s just a kid!
-Dialogue: 10,0:13:50.10,0:13:53.63,Default,,0,0,0,,Maybe I don’t really have \Nto finish him off, even? {?}
+Dialogue: 10,0:13:46.13,0:13:50.10,Default,,0,0,0,,Always blowing hot air,\Nbut in the end he’s just a kid!
+Dialogue: 10,0:13:50.10,0:13:53.63,Default,,0,0,0,,Maybe I don’t even really have \Nto finish him off? {?}
 Dialogue: 10,0:13:53.63,0:13:59.11,Default,,0,0,0,,I wish Lord Taiman, Donpapa, and the grownups of the island could take a peek at this too.
 Dialogue: 10,0:14:03.95,0:14:06.40,Default,,0,0,0,,H-Hell no! \NI still can’t let my guard down with him!
 Dialogue: 10,0:14:15.71,0:14:18.17,Default,,0,0,0,,Do you copy? \NWe’ll begin in five minutes from now!
@@ -208,12 +207,12 @@ Dialogue: 10,0:14:44.02,0:14:50.54,Default,,0,0,0,,I too have a long, long histo
 Dialogue: 10,0:14:51.58,0:14:57.00,Default,,0,0,0,,It's unfair that you alone get to die happily \Nin such a carefree and bright world. {?}
 Dialogue: 10,0:14:57.88,0:15:02.98,Default,,0,0,0,,I will now show you plenty \Nof the ugly sides of humans!
 Dialogue: 10,0:15:15.67,0:15:16.98,Default,,0,0,0,,Let's go!
-Dialogue: 10,0:15:24.49,0:15:28.47,Default,,0,0,0,,Here we go, boy! \NFirst—the betrayal!
+Dialogue: 10,0:15:24.49,0:15:28.47,Default,,0,0,0,,Here we go, boy! \NFirst—betrayal!
 Dialogue: 10,0:15:43.34,0:15:45.03,Default,,0,0,0,,Now jealousy!
 Dialogue: 10,0:15:56.52,0:15:57.52,Default,,0,0,0,,Lust! {/desire}
 Dialogue: 10,0:16:07.03,0:16:08.45,Default,,0,0,0,,Hatred!
 Dialogue: 10,0:16:25.84,0:16:26.79,Default,,0,0,0,,How about it?
-Dialogue: 10,0:16:26.79,0:16:31.16,Default,,0,0,0,,This is the true essence of human spirit, \Ndeveloped over thousands of years!
+Dialogue: 10,0:16:26.79,0:16:31.16,Default,,0,0,0,,This is the true essence of the human spirit, \Ndeveloped over thousands of years!
 Dialogue: 10,0:16:31.16,0:16:36.45,Default,,0,0,0,,Takamaru, your body and soul should be on the verge of explosion with that energy!
 Dialogue: 10,0:16:36.87,0:16:39.27,Default,,0,0,0,,Now, let me savor your suffering!
 Dialogue: 10,0:16:44.79,0:16:48.24,Default,,0,0,0,,It's here! The Smoking One farted! \NPut your back into it!
@@ -234,7 +233,7 @@ Dialogue: 10,0:18:33.60,0:18:37.10,Default,,0,0,0,,Th-The despair shattered... \
 Dialogue: 10,0:18:40.06,0:18:41.52,Default,,0,0,0,,Wh-What’s going on?!
 Dialogue: 10,0:18:44.94,0:18:46.61,Default,,0,0,0,,He’s absorbing them! {/consumption; absorption; using up/digestion}
 Dialogue: 10,0:18:46.61,0:18:49.64,Default,,0,0,0,,This guy is absorbing the four pillars!
-Dialogue: 10,0:18:50.53,0:18:55.61,Default,,0,0,0,,He’s mere human... Just an 11-year-old kid! \NThis shouldn’t be possible!
+Dialogue: 10,0:18:50.53,0:18:55.61,Default,,0,0,0,,He’s a mere human... Just an 11-year-old kid! \NThis shouldn’t be possible!
 Dialogue: 10,0:19:00.25,0:19:02.93,Default,,0,0,0,,He’s swallowed all of them up!
 Dialogue: 10,0:19:04.29,0:19:05.59,Default,,0,0,0,,It’s pulling me in!
 Dialogue: 10,0:19:07.88,0:19:10.92,Default,,0,0,0,,At this rate, he’ll swallow me as well!
@@ -255,7 +254,7 @@ Dialogue: 10,0:21:42.09,0:21:43.95,Default,,0,0,0,,Takamaru, kill me!
 Dialogue: 10,0:21:44.66,0:21:45.66,Default,,0,0,0,,Karin-dono.
 Dialogue: 10,0:21:45.66,0:21:46.47,Default,,0,0,0,,What?
 Dialogue: 10,0:21:46.47,0:21:48.93,Default,,0,0,0,,You were a truly formidable enemy.
-Dialogue: 10,0:21:48.93,0:21:51.37,Default,,0,0,0,,Thank you for an instructive sparring!
+Dialogue: 10,0:21:48.93,0:21:51.37,Default,,0,0,0,,Thank you for this instructive sparring!
 Dialogue: 10,0:21:51.88,0:21:54.95,Default,,0,0,0,,I’ve heard that already! \NJust kill me already!
 Dialogue: 10,0:21:54.95,0:21:57.53,Default,,0,0,0,,No, the sparring is over now.
 Dialogue: 10,0:21:57.53,0:22:01.44,Default,,0,0,0,,Besides, you’re one \Nof my school mates now. {so I can’t kill you}
@@ -264,7 +263,7 @@ Dialogue: 10,0:22:03.03,0:22:05.57,Default,,0,0,0,,That’s exactly what I hate 
 Dialogue: 10,0:22:05.57,0:22:11.29,Default,,0,0,0,,To think I lost to a brat like you... \NAnd now you're trying to further humiliate me!
 Dialogue: 10,0:22:11.29,0:22:12.36,Default,,0,0,0,,Karin!
 Dialogue: 10,0:22:12.36,0:22:13.62,Default,,0,0,0,,Donpapa?
-Dialogue: 10,0:22:18.20,0:22:23.72,Default,,0,0,0,,This boy Takamaru is a figure of great importance, more than you can imagine. {oomono = important person; influential figure; big shot; big name; bigwig; heavyweight}
+Dialogue: 10,0:22:18.20,0:22:23.72,Default,,0,0,0,,This boy, Takamaru, is a figure of great importance, more than you can imagine. {oomono = important person; influential figure; big shot; big name; bigwig; heavyweight}
 Dialogue: 10,0:22:23.72,0:22:28.75,Default,,0,0,0,,Karin, his human capacities \Nfar surpass your calculations. {ability; capacity; calibre; caliber - was used before but idr how I translated it}
 Dialogue: 10,0:22:29.12,0:22:30.62,Default,,0,0,0,,Human capacities?
 Dialogue: 10,0:22:30.62,0:22:34.21,Default,,0,0,0,,Karin-dono, do you think Drill-dono \Nwill get better if we repair him?
@@ -292,7 +291,7 @@ Dialogue: 10,0:24:41.38,0:24:43.15,Default,,0,0,0,,Al!
 Dialogue: 10,0:24:44.05,0:24:45.42,Default,,0,0,0,,Good morning.
 Dialogue: 10,0:24:45.97,0:24:47.80,Default,,0,0,0,,Al, what’s with your hair...
 Dialogue: 10,0:24:48.27,0:24:49.88,Default,,0,0,0,,None of your business, that’s what!
-Dialogue: 10,0:24:49.88,0:24:54.34,Default,,0,0,0,,If I went to school with a “Help Me” hairdo I had, I’d be everyone’s laughing stock. {???}
+Dialogue: 10,0:24:49.88,0:24:54.34,Default,,0,0,0,,If I went to school with that “Help Me” hairdo I had, I’d be everyone’s laughing stock. {???}
 Dialogue: 10,0:24:54.34,0:25:00.28,Default,,0,0,0,,Besides, in cities like Tokyo or New York,\N almost everyone wears this hairstyle to school.
 Dialogue: 10,0:25:00.28,0:25:03.05,Default,,0,0,0,,Oh? Is that so, Claude-dono?
 Dialogue: 10,0:25:03.05,0:25:04.60,Default,,0,0,0,,Yeah... Sort of.
@@ -324,5 +323,5 @@ Dialogue: 0,0:19:41.62,0:19:44.33,Sign,,0,0,0,,{\fs35\fade(200,00)\blur0.7\q2\bo
 Dialogue: 0,0:20:22.62,0:20:24.98,Sign,,0,0,0,,{\fs45\fade(00,440)\blur0.7\q2\bord0.5\shad0\c&HD2DCE7&\fnBongkar\1a&H1F&\3c&H2E2E2E&\b0\fscx94\fscy96\pos(362.65,429.13)}Macho Flight {/flying technique}
 Dialogue: 0,0:25:58.41,0:26:04.13,Sign,,0,0,0,,{\fs45\fade(780,1200)\blur0.7\q2\bord0\shad0\c&HE4FDFD&\fnBongkar\1a&H00&\3c&H2E2E2E&\b0\fscx83\fscy80\pos(319.79,403.71)}The End\N{\fs20}For now
 Dialogue: 0,0:28:02.41,0:28:09.53,Sign,,0,0,0,,{\fsp1\blur0.8\bord0\fs25\an9\shad0\fade(180,160)\c&HFFFFFF&\fnI hate Comic Sans\1a&H28&\pos(304.9,335.64)}RAW \NTranslation \NQuality check
-Dialogue: 0,0:28:02.41,0:28:09.53,Sign,,0,0,0,,{\fsp1\blur0.8\bord0\fs25\an7\shad0\fade(180,160)\c&HFFFFFF&\fnI hate Comic Sans\1a&H28&\pos(319.06,335.64)} Piyo-Piyo Productions \N Perevodildo\NTrue Noobow Gamer
+Dialogue: 0,0:28:02.41,0:28:09.53,Sign,,0,0,0,,{\fsp1\blur0.8\bord0\fs25\an7\shad0\fade(180,160)\c&HFFFFFF&\fnI hate Comic Sans\1a&H28&\pos(319.06,335.64)} Piyo-Piyo Productions \N Perevodildo\NJmePenseBon
 Comment: 0,0:25:33.30,0:25:36.30,Sign,,0,0,0,,

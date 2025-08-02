@@ -35,7 +35,7 @@ Dialogue: 10,0:01:00.79,0:01:03.88,Default,,0,0,0,,Look, I'll take it easy, okay
 Dialogue: 10,0:01:09.09,0:01:11.00,Default,,0,0,0,,Wh-Who's there?
 Dialogue: 10,0:01:14.10,0:01:18.59,Top,,0,0,0,,What's with those looks? \NTotally gross.
 Dialogue: 10,0:01:18.97,0:01:21.59,Default,,0,0,0,,I-It's you, Karin!
-Dialogue: 10,0:01:21.59,0:01:25.24,Default,,0,0,0,,So this is the best \Nthe Dark Magician Donpapa can offer?
+Dialogue: 10,0:01:21.59,0:01:25.24,Default,,0,0,0,,So this is the best \Nthe Dark Magician Donpapa can do?
 Dialogue: 10,0:01:25.24,0:01:29.43,Default,,0,0,0,,Can't even conquer \Nthat micro-nation for us?
 Dialogue: 10,0:01:29.43,0:01:32.18,Default,,0,0,0,,C'mon, Führer Taiman is waiting.
 Dialogue: 10,0:01:32.18,0:01:35.33,Default,,0,0,0,,There's no time to be tumbling down the ramp, hurry up! {somersault; tumble; roll​ - referring to him tumbling earlier}
@@ -45,12 +45,12 @@ Dialogue: 10,0:02:02.29,0:02:04.57,Default,,0,0,0,,First, the US is 40% conquere
 Dialogue: 10,0:02:04.57,0:02:06.11,Default,,0,0,0,,Canada at 50%,
 Dialogue: 10,0:02:06.11,0:02:08.28,Default,,0,0,0,,Japan at 56%,
 Dialogue: 10,0:02:08.28,0:02:10.15,Default,,0,0,0,,China at 58%,
-Dialogue: 10,0:02:10.15,0:02:16.54,Default,,0,0,0,,the leader in Europe is Italy at 53%, \Nthe Middle East is at 74% average.
+Dialogue: 10,0:02:10.15,0:02:16.54,Default,,0,0,0,,the leader in Europe is Italy at 53%, \Nthe Middle East is at 74% on average.
 Dialogue: 10,0:02:16.54,0:02:23.10,Default,,0,0,0,,The former Soviet block \Nboasts an impressive rate of 85%!
 Dialogue: 10,0:02:23.10,0:02:25.64,Default,,0,0,0,,It seems to proceed \Neven faster than planned.
 Dialogue: 10,0:02:26.06,0:02:29.36,Default,,0,0,0,,Yes! At the current rate, \Nin five more years,
 Dialogue: 10,0:02:29.36,0:02:33.36,Default,,0,0,0,,the world will be united \Nunder your rule, milord!
-Dialogue: 10,0:02:33.70,0:02:38.91,Default,,0,0,0,,All of these achievements \Nare the fruit of hard work of Karin Fox.
+Dialogue: 10,0:02:33.70,0:02:38.91,Default,,0,0,0,,All of these achievements \Nare the fruit of hard work from Karin Fox.
 Dialogue: 10,0:02:38.91,0:02:39.58,Default,,0,0,0,,Karin.
 Dialogue: 10,0:02:39.58,0:02:40.14,Default,,0,0,0,,Milord?
 Dialogue: 10,0:02:40.70,0:02:43.61,Default,,0,0,0,,You need to make space \Nfor another medal again?
@@ -82,7 +82,7 @@ Dialogue: 10,0:03:59.56,0:04:01.80,Default,,0,0,0,,Right, congratulations are in
 Dialogue: 10,0:04:03.69,0:04:06.96,Default,,0,0,0,,By the way, Führer, the Champon Kingdom \Nis a tiny micro-nation—
 Dialogue: 10,0:04:06.96,0:04:10.48,Default,,0,0,0,,about as important \Non the world stage as a speck of dust.
 Dialogue: 10,0:04:10.48,0:04:12.43,Default,,0,0,0,,Why are you so particular about it?
-Dialogue: 10,0:04:14.06,0:04:16.90,Default,,0,0,0,,Certainly, it's but a small country, for now...
+Dialogue: 10,0:04:14.06,0:04:16.90,Default,,0,0,0,,Certainly, it is but a small country, for now...
 Dialogue: 10,0:04:16.90,0:04:18.11,Default,,0,0,0,,For now?
 Dialogue: 10,0:04:18.49,0:04:23.71,Default,,0,0,0,,I can't help but feel \Nthat in the near future that country
 Dialogue: 10,0:04:23.71,0:04:27.58,Default,,0,0,0,,will become a major obstacle \Nto my plans for world domination.
@@ -98,7 +98,7 @@ Dialogue: 10,0:07:15.60,0:07:17.76,Default,,0,0,0,,Just before the southern moun
 Dialogue: 10,0:07:17.76,0:07:19.04,Default,,0,0,0,,H-Hey!
 Dialogue: 10,0:07:19.04,0:07:20.38,Default,,0,0,0,,Crap...
 Dialogue: 10,0:07:33.55,0:07:35.38,Default,,0,0,0,,You'd think this thing is convenient,
-Dialogue: 10,0:07:35.38,0:07:39.09,Default,,0,0,0,,but when you have to go uphill, \Nit just rolls back—it's a burden, if anything! {/heavy}
+Dialogue: 10,0:07:35.38,0:07:39.09,Default,,0,0,0,,but when you have to go uphill, \Nit just rolls down—it's a burden, if anything! {/heavy}
 Dialogue: 10,0:07:44.49,0:07:47.86,Default,,0,0,0,,What’s so curious about it? \NHaven’t you ever seen a rock this big before?
 Dialogue: 10,0:07:47.86,0:07:50.12,Default,,0,0,0,,Please look under the rock.
 Dialogue: 10,0:07:51.41,0:07:53.26,Default,,0,0,0,,What about that tree? {using english word}
@@ -111,7 +111,7 @@ Dialogue: 10,0:08:07.31,0:08:08.48,Default,,0,0,0,,That's all.
 Dialogue: 10,0:08:10.49,0:08:12.18,Default,,0,0,0,,You scatterbrain! {?? could be this hima no yatsu is “guy who has nothing to do/loiterer” implying “you just wasted my time”}
 Dialogue: 10,0:08:12.73,0:08:16.51,Default,,0,0,0,,And I was an idiot for coming \Njust because you piqued my interest!
 Dialogue: 10,0:08:17.98,0:08:21.16,Default,,0,0,0,,There's no way you can move \Na rock this big.
-Dialogue: 10,0:08:26.13,0:08:30.03,Default,,0,0,0,,And that pose too... \NLame like hell!
+Dialogue: 10,0:08:26.13,0:08:30.03,Default,,0,0,0,,And that pose too... \NLame as hell!
 Dialogue: 10,0:08:36.92,0:08:38.97,Default,,0,0,0,,And I can’t just leave a friend in need... {good-natured person; credulous person; easy mark; simple soul; soft touch}
 Dialogue: 10,0:08:38.97,0:08:40.21,Default,,0,0,0,,Okay, I'll help you!
 Dialogue: 10,0:08:42.17,0:08:44.11,Default,,0,0,0,,Ow-ow-ow...
@@ -125,7 +125,7 @@ Dialogue: 10,0:09:18.42,0:09:19.91,Default,,0,0,0,,Oh my god! {you can tell this
 Dialogue: 10,0:09:34.14,0:09:35.58,Default,,0,0,0,,End of tape. {?????}
 Dialogue: 10,0:09:37.16,0:09:38.30,Default,,0,0,0,,What is that sound?
 Dialogue: 10,0:09:42.60,0:09:45.89,Default,,0,0,0,,Great, great! \NVery strong, my guy!
-Dialogue: 10,0:09:47.28,0:09:49.04,Default,,0,0,0,,I thank you for instructive sparring!
+Dialogue: 10,0:09:47.28,0:09:49.04,Default,,0,0,0,,I thank you for this instructive sparring!
 Dialogue: 10,0:09:49.04,0:09:50.47,Default,,0,0,0,,Who are you telling it to?
 Dialogue: 10,0:09:50.47,0:09:53.76,Default,,0,0,0,,Anyway, you gotta teach me \Nthat badass move!
 Dialogue: 10,0:09:53.76,0:09:56.81,Default,,0,0,0,,I would love to, \Nbut it’s a difficult one.
@@ -146,13 +146,13 @@ Dialogue: 10,0:10:33.17,0:10:35.80,Default,,0,0,0,,Mirai is always too demanding
 Dialogue: 10,0:10:35.80,0:10:36.78,Default,,0,0,0,,O-Okay...
 Dialogue: 10,0:10:36.78,0:10:37.43,Default,,0,0,0,,
 Dialogue: 10,0:10:37.43,0:10:39.36,Default,,0,0,0,,Yes! “We!”
-Dialogue: 10,0:10:39.36,0:10:44.04,Default,,0,0,0,,I’m telling you—doing something nice \Nalways makes me feel happy!
+Dialogue: 10,0:10:39.36,0:10:44.04,Default,,0,0,0,,I’m telling you—doing something nice \Nalways makes me happy!
 Dialogue: 10,0:10:44.04,0:10:45.88,Default,,0,0,0,,See? I can be useful too. {??? i assume he means “did I grow a little in your eyes?”}
 Dialogue: 10,0:10:46.63,0:10:48.02,Default,,0,0,0,,Is that so?
 Dialogue: 10,0:10:48.02,0:10:51.58,Default,,0,0,0,,Then go clean up the rock chunks—\Nit’s blocking the road.
 Dialogue: 10,0:10:51.58,0:10:53.34,Default,,0,0,0,,Rock chunks? You mean these?
 Dialogue: 10,0:10:54.35,0:10:55.30,Default,,0,0,0,,All these?!
-Dialogue: 10,0:10:56.72,0:10:58.42,Default,,0,0,0,,Mirai, you see, thing is...
+Dialogue: 10,0:10:56.72,0:10:58.42,Default,,0,0,0,,Mirai, you see, the thing is...
 Dialogue: 10,0:10:58.42,0:11:02.35,Default,,0,0,0,,You’re good kids. And good kids don’t forget \Nto clean up after they’re done playing.
 Dialogue: 10,0:11:02.35,0:11:03.27,Default,,0,0,0,,Blast.
 Dialogue: 10,0:11:15.45,0:11:17.40,Default,,0,0,0,,Ugh, I'm tired!
@@ -161,9 +161,9 @@ Dialogue: 10,0:11:22.04,0:11:23.83,Default,,0,0,0,,She doesn’t trust us at all
 Dialogue: 10,0:11:26.04,0:11:27.79,Default,,0,0,0,,Didn’t I tell you?
 Dialogue: 10,0:11:27.79,0:11:32.40,Default,,0,0,0,,We can just replant trees \Nwithout smashing all the rocks around!
 Dialogue: 10,0:11:34.19,0:11:36.32,Default,,0,0,0,,I considered that too.
-Dialogue: 10,0:11:36.32,0:11:40.93,Default,,0,0,0,,Still, if that tree sprouted there, it probably has a mind to grow in that exact spot.
+Dialogue: 10,0:11:36.32,0:11:40.93,Default,,0,0,0,,Still, if that tree sprouted there, it probably wanted to grow in that exact spot. {I get the meaning of the OG version, but was clunky af}
 Dialogue: 10,0:11:43.02,0:11:45.29,Default,,0,0,0,,More of that sentient trees nonsense!
-Dialogue: 10,0:11:45.29,0:11:51.09,Default,,0,0,0,,Huh? Well, if that rock ended up there, \Nmaybe it had a mind to stay there forever too?
+Dialogue: 10,0:11:45.29,0:11:51.09,Default,,0,0,0,,Huh? Well, if that rock ended up there, \Nmaybe it wanted to stay there forever too?
 Dialogue: 10,0:11:52.84,0:11:57.49,Default,,0,0,0,,Maybe what I did was just arbitrarily destroy the relationship between the rock and the tree?
 Dialogue: 10,0:12:00.29,0:12:03.22,Default,,0,0,0,,Hey! It's an airplane! A fighter!
 Dialogue: 10,0:12:04.64,0:12:08.91,Default,,0,0,0,,Which country’s plane is it? \NWhy is it flying so low?
@@ -234,12 +234,12 @@ Dialogue: 10,0:16:24.94,0:16:28.03,Default,,0,0,0,,No, Jiro! You wait here.
 Dialogue: 10,0:16:29.26,0:16:31.07,Default,,0,0,0,,Father!
 Dialogue: 10,0:16:31.07,0:16:32.64,Default,,0,0,0,,Father...
 Dialogue: 10,0:16:39.04,0:16:39.93,Default,,0,0,0,,Crap!
-Dialogue: 10,0:16:39.93,0:16:40.77,Default,,0,0,0,,They’re shot down! {?????}
+Dialogue: 10,0:16:39.93,0:16:40.77,Default,,0,0,0,,They’ve been shot down! {?????}
 Dialogue: 10,0:16:40.77,0:16:42.02,Default,,0,0,0,,Goddamn!
 Dialogue: 10,0:16:45.40,0:16:47.22,Default,,0,0,0,,There’s a missile tailing us!
 Dialogue: 10,0:16:47.57,0:16:49.34,Default,,0,0,0,,Not like I’ll let it catch up! {????}
 Dialogue: 10,0:16:55.47,0:17:00.50,Default,,0,0,0,,Easy now! You’re pedaling too hard!\NYou’re gonna tear away our wing! Hey, hello! {???????}
-Dialogue: 10,0:17:02.76,0:17:04.06,Default,,0,0,0,,It’s caught up! {?????????}
+Dialogue: 10,0:17:02.76,0:17:04.06,Default,,0,0,0,,It caught up! {?????????}
 Dialogue: 10,0:17:13.09,0:17:14.89,Default,,0,0,0,,Oh, no! {?}
 Dialogue: 10,0:17:19.03,0:17:20.73,Default,,0,0,0,,Are you okay, boys?
 Dialogue: 10,0:17:20.73,0:17:22.58,Default,,0,0,0,,Great Goblin Tarobo!
@@ -251,13 +251,13 @@ Dialogue: 10,0:17:37.79,0:17:38.45,Default,,0,0,0,,Yeah!
 Dialogue: 10,0:17:49.26,0:17:51.35,Default,,0,0,0,,We’re here!
 Dialogue: 10,0:17:52.74,0:17:53.93,Default,,0,0,0,,Gimme your hand!
 Dialogue: 10,0:17:56.03,0:17:58.31,Default,,0,0,0,,Forget about that hunk of scrap! {?}
-Dialogue: 10,0:18:17.21,0:18:19.44,Default,,0,0,0,,She’s landed all the way up there!
+Dialogue: 10,0:18:17.21,0:18:19.44,Default,,0,0,0,,She landed all the way up there!
 Dialogue: 10,0:18:19.44,0:18:21.39,Default,,0,0,0,,You think she’s alive?
 Dialogue: 10,0:18:22.84,0:18:24.76,Default,,0,0,0,,Are you okay, you two?
 Dialogue: 10,0:18:24.76,0:18:25.86,Default,,0,0,0,,Mirai-dono!
 Dialogue: 10,0:18:25.86,0:18:29.27,Default,,0,0,0,,We'll manage—\Nwhy don’t you check on that girl first?
 Dialogue: 10,0:18:29.27,0:18:30.73,Default,,0,0,0,,Girl?
-Dialogue: 10,0:18:32.60,0:18:35.74,Default,,0,0,0,,She’s unconscious now, \Nmay be injured too.
+Dialogue: 10,0:18:32.60,0:18:35.74,Default,,0,0,0,,She’s unconscious now, \Nmaybe injured too.
 Dialogue: 10,0:18:35.74,0:18:39.35,Default,,0,0,0,,You two do something on your own, \NI can’t help right now! {???? assuming she implies “I need to change first”?}
 Dialogue: 10,0:18:39.35,0:18:41.42,Default,,0,0,0,,Ah! Hey! Mirai!
 Dialogue: 10,0:18:43.10,0:18:48.06,Default,,0,0,0,,Stop! Do you think you can escape \Nfrom Tarobo-sama?!
@@ -276,16 +276,16 @@ Dialogue: 10,0:20:10.39,0:20:15.38,Default,,0,0,0,,We’ve got to get up that cl
 Dialogue: 10,0:20:18.90,0:20:22.18,Default,,0,0,0,,Father, I’m going to use this Ninja Kite.
 Dialogue: 10,0:20:22.18,0:20:25.29,Default,,0,0,0,,There’s no time to climb \Nthat cliff the usual way!
 Dialogue: 10,0:20:26.63,0:20:28.09,Default,,0,0,0,,She’s a kite! A kite!
-Dialogue: 10,0:20:28.09,0:20:30.65,Default,,0,0,0,,She was the turtle last time,\Nbut it’s a kite now!
+Dialogue: 10,0:20:28.09,0:20:30.65,Default,,0,0,0,,She was a turtle last time,\Nbut it’s a kite now!
 Dialogue: 10,0:20:30.65,0:20:32.19,Default,,0,0,0,,{??????}
 Dialogue: 10,0:20:33.42,0:20:35.77,Default,,0,0,0,,Takamaru, you’ll help me, won’t you?
 Dialogue: 10,0:20:35.77,0:20:37.10,Default,,0,0,0,,Certainly!
 Dialogue: 10,0:20:37.10,0:20:38.15,Default,,0,0,0,,Wait, Mirai.
 Dialogue: 10,0:20:38.15,0:20:41.40,Default,,0,0,0,,We can’t leave such a dangerous mission to you children.
-Dialogue: 10,0:20:41.40,0:20:42.72,Default,,0,0,0,,That's our duty to... {??}
+Dialogue: 10,0:20:41.40,0:20:42.72,Default,,0,0,0,,It's our duty to... {??}
 Dialogue: 10,0:20:42.72,0:20:47.05,Default,,0,0,0,,But father, this kite \Ncan’t lift a grownup into the air!
 Dialogue: 10,0:20:47.05,0:20:49.04,Default,,0,0,0,,Yes, but still...
-Dialogue: 10,0:20:49.04,0:20:53.04,Default,,0,0,0,,Let’s leave this to children, \Nas part of their training. {?}
+Dialogue: 10,0:20:49.04,0:20:53.04,Default,,0,0,0,,Let’s leave this to the children, \Nas part of their training. {?}
 Dialogue: 10,0:20:53.04,0:20:53.65,Default,,0,0,0,,
 Dialogue: 10,0:20:57.03,0:21:00.70,Default,,0,0,0,,Takamaru, Mirai, don’t let us down!
 Dialogue: 10,0:21:03.45,0:21:06.51,Default,,0,0,0,,Takamaru, how does it look? \NToo low?
@@ -297,7 +297,7 @@ Dialogue: 10,0:21:33.00,0:21:36.71,Default,,0,0,0,,No good! This is when the win
 Dialogue: 10,0:21:36.71,0:21:38.26,Default,,0,0,0,,You’re right! We’re in trouble!
 Dialogue: 10,0:21:38.26,0:21:40.50,Default,,0,0,0,,Mirai-dono, we’re ready to take off!
 Dialogue: 10,0:21:40.50,0:21:42.16,Default,,0,0,0,,Understood!
-Dialogue: 10,0:21:44.12,0:21:46.59,Default,,0,0,0,,All right, pull back as soon as we can!
+Dialogue: 10,0:21:44.12,0:21:46.59,Default,,0,0,0,,All right, pull back as quickly as we can!
 Dialogue: 10,0:21:52.11,0:21:52.87,Default,,0,0,0,,Oh no!
 Dialogue: 10,0:22:07.51,0:22:09.93,Default,,0,0,0,,This is bad! \NTakamaru’s pinned against the rocks!
 Dialogue: 10,0:22:09.93,0:22:12.23,Default,,0,0,0,,If this keeps up, he’s gonna suffocate!
@@ -316,7 +316,7 @@ Dialogue: 10,0:22:52.96,0:22:55.12,Default,,0,0,0,,Nice follow up, pipsqueak!
 Dialogue: 10,0:22:56.03,0:22:58.26,Default,,0,0,0,,You saved us!
 Dialogue: 10,0:23:08.79,0:23:11.32,Default,,0,0,0,,Oh! She came to her senses!
 Dialogue: 10,0:23:11.32,0:23:12.28,Default,,0,0,0,,Where am I?
-Dialogue: 10,0:23:12.28,0:23:14.35,Default,,0,0,0,,At the Champon Kingdom.
+Dialogue: 10,0:23:12.28,0:23:14.35,Default,,0,0,0,,In the Champon Kingdom.
 Dialogue: 10,0:23:14.91,0:23:16.09,Default,,0,0,0,,Champon?
 Dialogue: 10,0:23:18.09,0:23:20.29,Default,,0,0,0,,How are you feeling?
 Dialogue: 10,0:23:20.29,0:23:22.90,Default,,0,0,0,,You got away with just a scratch, \Nyou’re lucky.
@@ -347,7 +347,7 @@ Dialogue: 10,0:24:32.83,0:24:34.84,Default,,0,0,0,,Thank you!
 Dialogue: 10,0:24:39.25,0:24:41.31,Default,,0,0,0,,Karin-dono, isn’t that right?
 Dialogue: 10,0:24:41.31,0:24:46.30,Default,,0,0,0,,There are other ways to transmit your feelings to others without hugging them like that. {???}
 Dialogue: 10,0:24:47.32,0:24:52.28,Default,,0,0,0,,Like the clouds and the water flowing by, \NI merely happened to be then and there. {??}
-Dialogue: 10,0:24:52.28,0:24:55.94,Default,,0,0,0,,Besides, it was also \Njust part of the training for me.
+Dialogue: 10,0:24:52.28,0:24:55.94,Default,,0,0,0,,Besides, it was also \Njust part of my training.
 Dialogue: 10,0:24:55.94,0:24:58.33,Default,,0,0,0,,There he goes again \Nwith his samurai jabber!
 Dialogue: 10,0:24:58.33,0:25:01.19,Default,,0,0,0,,Our Takamaru is a really weird boy, y’know!
 Dialogue: 10,0:25:01.19,0:25:03.08,Default,,0,0,0,,I-Is that so?
@@ -366,7 +366,7 @@ Dialogue: 10,0:04:58.89,0:05:01.00,Song,,0,0,0,,(Another round, Champon)
 Dialogue: 10,0:05:01.00,0:05:05.83,Song,,0,0,0,,Now, don't be shy, come to see it at least once!
 Dialogue: 10,0:05:05.83,0:05:10.08,Song,,0,0,0,,I find a love letter in my shoe box, \Nso it's a dream after all {げた箱あけたらラブレター そりゃやっぱり夢かな\N純情、情熱、丈夫がおいらのとりえ\NHey! baby そこんとこどうか見ててよ\NHey! lady とびっきり\N末は（末は） 天下の（天下の） 忍者 将軍 そんなことがあったら大変\N俺たちゃ自由 ア・ロ・ハ ハートは野性 Hoッ Hoッ Ho\Nクラブも塾も偏差値だって どーでもいいじゃん そんなの\N水金地火木 ア・ロ・ハ 土天冥海 Haッ Haッ Ha\Nテレビやゲームやビデオがないのは とっても困るから誰かちょうだい}
 Dialogue: 10,0:05:10.80,0:05:15.77,Song,,0,0,0,,My strengths are innocence, passion, and tenacity
-Dialogue: 10,0:05:16.17,0:05:20.34,Song,,0,0,0,,Hey baby, please ignore my uncool sides {?}
+Dialogue: 10,0:05:16.17,0:05:20.34,Song,,0,0,0,,Hey baby, please ignore my uncool side {?}
 Dialogue: 10,0:05:20.34,0:05:22.63,Song,,0,0,0,,Hey lady, with all my heart...
 Dialogue: 10,0:05:22.63,0:05:24.99,Song,,0,0,0,,In the end \N(In the end)
 Dialogue: 10,0:05:24.99,0:05:27.37,Song,,0,0,0,,I will be\N(I will be)
@@ -376,7 +376,7 @@ Dialogue: 10,0:05:39.19,0:05:43.82,Song,,0,0,0,,Our hearts are wild, ho-ho-ho
 Dialogue: 10,0:05:43.82,0:05:49.00,Song,,0,0,0,,Don't care about clubs, cram schools, or scores—
 Dialogue: 10,0:05:49.00,0:05:53.46,Song,,0,0,0,,all that stuff can go up in the wind!
 Dialogue: 10,0:05:53.46,0:05:58.13,Song,,0,0,0,,Water, gold, earth, fire, wood, aloha
-Dialogue: 10,0:05:58.13,0:06:03.10,Song,,0,0,0,,Earth, heaven, underworld, ha-ha-ha {the lyrics I have have meikai as 冥海 but that doesn't make sense - 冥 is "dark" and is not somehow opposed to 海 (ocean), so I think it's actually 冥界 (meikai) = hades; realm of the dead}
+Dialogue: 10,0:05:58.13,0:06:03.10,Song,,0,0,0,,Earth, Heaven, Underworld, ha-ha-ha {the lyrics I have have meikai as 冥海 but that doesn't make sense - 冥 is "dark" and is not somehow opposed to 海 (ocean), so I think it's actually 冥界 (meikai) = hades; realm of the dead}
 Dialogue: 10,0:06:03.10,0:06:11.27,Song,,0,0,0,,It'd be really hard for me to survive \Nwithout the TV, games, and videos—
 Dialogue: 10,0:06:11.27,0:06:15.46,Song,,0,0,0,,won't someone bring them to me?
 Dialogue: 10,0:06:15.94,0:06:20.28,Song,,0,0,0,,Come, come, Champon \N(Come, come, Champon)
@@ -390,5 +390,5 @@ Dialogue: 0,0:06:35.88,0:06:40.93,Sign,,0,0,0,,{\c&HCACACA&\blur0.6\q2\fs50\fnCC
 Dialogue: 0,0:06:40.93,0:06:46.43,Sign,,0,0,0,,{\fax-0.1\bord0.3\an7\q2\xshad\yshad0.5\blur0.7\fade(00,0)\fs31\c&HEBF4F5&\3c&H3F3F3F&\4c&H252527&\fnBreakfastCereal\pos(80.36,285.12)}Chapter 1: Mysterious Lady Came Around \Nby Means of Falling From the Sky {第一巻 謎の婦女子が空から降って来たでござるの巻}{imitating his obsolete talk}
 Dialogue: 0,0:13:33.22,0:13:35.04,Sign,,0,0,0,,{\c&HCACACA&\blur0.6\q2\fs50\fnCCCoolBeansVF\fax-0.000032\fscx113.97\fscy155.45\frz0.0197\frx39.2687\fry0.0893\xbord1.96\ybord1.94\xshad1.47\yshad0.97\org(314.6,372.4)\pos(323.98,294.65)}NEW {\fs30\c&H010C31&\fnBiko\3c&H849BD8&}Bakumatsu Era Super Boy \N{\fs80\c&H783830&\fnFOT Rodin Pro UB\b0\3c&HC8CEDE&\xshad4\yshad4}T{\xshad3}a{\xshad2}k{\xshad1}a{\xshad}m{\xshad-1}a{\xshad-2}r{\xshad-3}u
 Dialogue: 0,0:27:04.06,0:27:11.07,Sign,,0,0,0,,{\fsp1\blur0.8\bord0\fs25\an9\shad0\fade(180,160)\c&HFFFFFF&\fnI hate Comic Sans\1a&H28&\pos(304.9,335.64)}RAW \NTranslation\NQuality check
-Dialogue: 0,0:27:04.06,0:27:11.07,Sign,,0,0,0,,{\fsp1\blur0.8\bord0\fs25\an7\shad0\fade(180,160)\c&HFFFFFF&\fnI hate Comic Sans\1a&H28&\pos(319.06,335.64)} Piyo-Piyo Productions \N Perevodildo \NTrue Noobow Gamer
+Dialogue: 0,0:27:04.06,0:27:11.07,Sign,,0,0,0,,{\fsp1\blur0.8\bord0\fs25\an7\shad0\fade(180,160)\c&HFFFFFF&\fnI hate Comic Sans\1a&H28&\pos(319.06,335.64)} Piyo-Piyo Productions \N Perevodildo \NJmePenseBon
 Comment: 0,0:27:20.11,0:27:23.11,Sign,,0,0,0,,

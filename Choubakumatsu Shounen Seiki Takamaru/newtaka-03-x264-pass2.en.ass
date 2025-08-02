@@ -12,13 +12,12 @@ PlayResY: 480
 Last Style Storage: 480p not anamorphic
 Audio File: newtaka-03-x264-pass2.avi
 Video File: newtaka-03-x264-pass2.avi
-Keyframes File: newtaka-03-x264-pass2_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.750000
-Scroll Position: 359
-Active Line: 1775
-Video Position: 38874
+Scroll Position: 54
+Active Line: 70
+Video Position: 8019
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -42,7 +41,7 @@ Dialogue: 10,0:02:32.84,0:02:34.88,Song,,0,0,0,,(Another round, Champon)
 Dialogue: 10,0:02:34.88,0:02:39.72,Song,,0,0,0,,Now, don't be shy, come to see it at least once!
 Dialogue: 10,0:02:39.72,0:02:43.98,Song,,0,0,0,,I find a love letter in my shoe box, \Nso it's a dream after all {げた箱あけたらラブレター そりゃやっぱり夢かな\N純情、情熱、丈夫がおいらのとりえ\NHey! baby そこんとこどうか見ててよ\NHey! lady とびっきり\N末は（末は） 天下の（天下の） 忍者 将軍 そんなことがあったら大変\N俺たちゃ自由 ア・ロ・ハ ハートは野性 Hoッ Hoッ Ho\Nクラブも塾も偏差値だって どーでもいいじゃん そんなの\N水金地火木 ア・ロ・ハ 土天冥海 Haッ Haッ Ha\Nテレビやゲームやビデオがないのは とっても困るから誰かちょうだい}
 Dialogue: 10,0:02:44.77,0:02:49.69,Song,,0,0,0,,My strengths are innocence, passion, and tenacity
-Dialogue: 10,0:02:49.69,0:02:54.28,Song,,0,0,0,,Hey baby, please ignore my uncool sides {?}
+Dialogue: 10,0:02:49.69,0:02:54.28,Song,,0,0,0,,Hey baby, please ignore my uncool side {?}
 Dialogue: 10,0:02:54.28,0:02:56.57,Song,,0,0,0,,Hey lady, with all my heart...
 Dialogue: 10,0:02:56.57,0:02:58.91,Song,,0,0,0,,In the end \N(In the end)
 Dialogue: 10,0:02:58.91,0:03:01.33,Song,,0,0,0,,I will be\N(I will be)
@@ -52,7 +51,7 @@ Dialogue: 10,0:03:13.13,0:03:17.76,Song,,0,0,0,,Our hearts are wild, ho-ho-ho
 Dialogue: 10,0:03:17.76,0:03:22.93,Song,,0,0,0,,Don't care about clubs, cram schools, or scores—
 Dialogue: 10,0:03:22.93,0:03:27.35,Song,,0,0,0,,all that stuff can go up in the wind!
 Dialogue: 10,0:03:27.35,0:03:32.07,Song,,0,0,0,,Water, gold, earth, fire, wood, aloha
-Dialogue: 10,0:03:32.07,0:03:37.03,Song,,0,0,0,,Earth, heaven, underworld, ha-ha-ha {the lyrics I have have meikai as 冥海 but that doesn't make sense - 冥 is "dark" and is not somehow opposed to 海 (ocean), so I think it's actually 冥界 (meikai) = hades; realm of the dead}
+Dialogue: 10,0:03:32.07,0:03:37.03,Song,,0,0,0,,Earth, Heaven, Underworld, ha-ha-ha {the lyrics I have have meikai as 冥海 but that doesn't make sense - 冥 is "dark" and is not somehow opposed to 海 (ocean), so I think it's actually 冥界 (meikai) = hades; realm of the dead}
 Dialogue: 10,0:03:37.03,0:03:45.20,Song,,0,0,0,,It'd be really hard for me to survive \Nwithout the TV, games, and videos—
 Dialogue: 10,0:03:45.20,0:03:49.42,Song,,0,0,0,,won't someone bring them to me?
 Dialogue: 10,0:03:49.88,0:03:54.21,Song,,0,0,0,,Come, come, Champon \N(Come, come, Champon)
@@ -62,7 +61,7 @@ Dialogue: 10,0:00:48.55,0:00:52.39,Default,,0,0,0,,India? Belongs on the shelf A
 Dialogue: 10,0:00:52.39,0:00:54.41,Default,,0,0,0,,What's next...
 Dialogue: 10,0:00:54.41,0:00:57.91,Default,,0,0,0,,The file on the Middle East—shelf B-4.
 Dialogue: 10,0:00:57.91,0:01:00.77,Default,,0,0,0,,South America—E-13.
-Dialogue: 10,0:01:00.77,0:01:03.41,Default,,0,0,0,,East Asia—C5.
+Dialogue: 10,0:01:00.77,0:01:03.41,Default,,0,0,0,,East Asia—C-5.
 Dialogue: 10,0:01:03.41,0:01:06.78,Default,,0,0,0,,Okay, that should be it \Nfor the next eight billion years. {??}
 Dialogue: 10,0:01:11.14,0:01:15.95,Default,,0,0,0,,To think Dark Magician Donpapa himself \Nwould get stuck reorganizing the file room?
 Dialogue: 10,0:01:18.20,0:01:21.13,Default,,0,0,0,,It's all because of those island bastards!
@@ -78,7 +77,7 @@ Dialogue: 10,0:01:49.08,0:01:50.19,Default,,0,0,0,,Y-Yes, certainly!
 Dialogue: 10,0:01:50.19,0:01:56.10,Default,,0,0,0,,However, that island is full of all sorts of crazily strong brats, such as Kibo Takamaru...
 Dialogue: 10,0:01:57.14,0:02:00.04,Default,,0,0,0,,He's just a kid who follows the Bity-Scratchy School.
 Dialogue: 10,0:02:00.04,0:02:03.43,Default,,0,0,0,,Don't worry.\NI'll take care of that guy personally!
-Dialogue: 10,0:02:03.43,0:02:07.22,Default,,0,0,0,,Oh? Does that mean you’ll be coming there \Nto assist me, dear Father?
+Dialogue: 10,0:02:03.43,0:02:07.22,Default,,0,0,0,,Oh? Does that mean you’ll be going there \Nto assist me, dear Father?
 Dialogue: 10,0:02:07.79,0:02:10.57,Default,,0,0,0,,Only because you’re incapable \Nof handling it yourself.
 Dialogue: 10,0:02:10.57,0:02:13.83,Default,,0,0,0,,Father!
 Dialogue: 10,0:02:14.34,0:02:15.76,Default,,0,0,0,,Get a grip, won’t you?
@@ -91,7 +90,7 @@ Dialogue: 10,0:04:50.48,0:04:53.44,Default,,0,0,0,,Eh, don’t underestimate me!
 Dialogue: 10,0:04:53.44,0:04:56.12,Default,,0,0,0,,By the way, what are you guys doing here?
 Dialogue: 10,0:04:56.12,0:04:58.32,Default,,0,0,0,,Ah, this? We’re preparing for the festival.
 Dialogue: 10,0:04:58.32,0:04:59.69,Default,,0,0,0,,A festival?
-Dialogue: 10,0:04:59.69,0:05:03.04,Default,,0,0,0,,Yes, the Champon Kingdom founding festival starts tomorrow.
+Dialogue: 10,0:04:59.69,0:05:03.04,Default,,0,0,0,,Yes, the Champon Kingdom Founding Festival starts tomorrow.
 Dialogue: 10,0:05:03.04,0:05:05.37,Default,,0,0,0,,Wow, sounds fun!
 Dialogue: 10,0:05:05.37,0:05:08.52,Default,,0,0,0,,No, no, no! \NDon’t get your hopes up too much.
 Dialogue: 10,0:05:08.52,0:05:11.08,Default,,0,0,0,,It’s actually a lame festival \Nwith a bunch of banal shops. {???? nc what’s that shike}
@@ -103,7 +102,7 @@ Dialogue: 10,0:05:23.62,0:05:26.76,Default,,0,0,0,,it marks the day the Champon 
 Dialogue: 10,0:05:26.76,0:05:30.02,Default,,0,0,0,,It all began when our founder, \NKing Takanokami I met the... {??}
 Dialogue: 10,0:05:30.02,0:05:32.57,Default,,0,0,0,,Ugh! No more! \NShut up! Shut up!
 Dialogue: 10,0:05:32.57,0:05:35.40,Default,,0,0,0,,You think this is a history class or something?!
-Dialogue: 10,0:05:35.40,0:05:39.02,Default,,0,0,0,,Al Zaemon, I’ll have you know \Nif you were any patriotism in you... {?}
+Dialogue: 10,0:05:35.40,0:05:39.02,Default,,0,0,0,,Al Zaemon, I’ll have you know, \Nif there was any patriotism in you... {?}
 Dialogue: 10,0:05:39.02,0:05:42.45,Default,,0,0,0,,I know, Karin! There's actually going to be something interesting this year!
 Dialogue: 10,0:05:42.45,0:05:44.05,Default,,0,0,0,,Huh? But...
 Dialogue: 10,0:05:44.05,0:05:46.33,Default,,0,0,0,,This way, please! \NCome on! Let's go!
@@ -118,9 +117,9 @@ Dialogue: 10,0:05:58.68,0:06:01.07,Default,,0,0,0,,we’ll hold our first ever \
 Dialogue: 10,0:06:01.92,0:06:03.49,Default,,0,0,0,,Pro wrestling tournament?
 Dialogue: 10,0:06:03.49,0:06:07.99,Default,,0,0,0,,Yeah. And we’ll even have the invincible superstar Great Owada come here from Japan.
 Dialogue: 10,0:06:07.99,0:06:09.62,Default,,0,0,0,,That's very amazing!
-Dialogue: 10,0:06:10.55,0:06:13.04,Default,,0,0,0,,Huh? That reaction is somewhat bad \Nfor what I expected.
+Dialogue: 10,0:06:10.55,0:06:13.04,Default,,0,0,0,,Huh? That reaction is somewhat worse \Nthan what I expected.
 Dialogue: 10,0:06:13.04,0:06:16.18,Default,,0,0,0,,I don't know much about pro wrestling...
-Dialogue: 10,0:06:16.18,0:06:18.73,Default,,0,0,0,,I can tell you it’s fascinating!
+Dialogue: 10,0:06:16.18,0:06:18.73,Default,,0,0,0,,I can tell you, it’s fascinating!
 Dialogue: 10,0:06:18.73,0:06:20.14,Default,,0,0,0,,Takamaru!
 Dialogue: 10,0:06:21.03,0:06:25.59,Default,,0,0,0,,Great Owada-dono! His skills, strength, and competitive spirit earned him the nickname
 Dialogue: 10,0:06:25.59,0:06:27.39,Default,,0,0,0,,of “Unsinkable Aircraft Carrier.”
@@ -143,7 +142,7 @@ Dialogue: 10,0:07:27.99,0:07:29.76,Default,,0,0,0,,Let’s hurry there!
 Dialogue: 10,0:07:29.76,0:07:32.29,Default,,0,0,0,,Sorry! I’m coming!
 Dialogue: 10,0:07:32.29,0:07:36.31,Default,,0,0,0,,The Japanese government does not officially recognize the Champon Kingdom as a nation.
 Dialogue: 10,0:07:36.31,0:07:39.99,Default,,0,0,0,,Wouldn’t staging an exhibition match \Nin a place like that stir up some controversy? {?}
-Dialogue: 10,0:07:39.99,0:07:43.93,Default,,0,0,0,,Th-That's right! He can't hold \Nan exhibition match at Champon!
+Dialogue: 10,0:07:39.99,0:07:43.93,Default,,0,0,0,,Th-That's right! He can't hold \Nan exhibition match in Champon!
 Dialogue: 10,0:07:43.93,0:07:46.37,Default,,0,0,0,,He never came here either... {???}
 Dialogue: 10,0:07:46.37,0:07:49.01,Default,,0,0,0,,What is it, pro wrestling again, Kinisky?
 Dialogue: 10,0:07:49.01,0:07:50.70,Default,,0,0,0,,You sure are fond of those spectacles.
@@ -154,9 +153,9 @@ Dialogue: 10,0:07:56.08,0:07:59.81,Default,,0,0,0,,Well then, Owada-san, \Nwe wi
 Dialogue: 10,0:07:59.81,0:08:01.50,Default,,0,0,0,,I'll do my best.\NPlease support me.
 Dialogue: 10,0:08:01.50,0:08:03.09,Default,,0,0,0,,1, 2, 3...
 Dialogue: 10,0:08:03.09,0:08:05.57,Default,,0,0,0,,Daaa! {??}
-Dialogue: 10,0:08:06.39,0:08:08.95,Default,,0,0,0,,A pro wrestling tournament, huh? \NIt can prove handy. {/usable}
+Dialogue: 10,0:08:06.39,0:08:08.95,Default,,0,0,0,,A pro wrestling tournament, huh? \NIt could prove handy. {/usable}
 Dialogue: 10,0:08:08.95,0:08:11.09,Default,,0,0,0,,What on earth do you have in mind?
-Dialogue: 10,0:08:28.33,0:08:32.25,Thought,,0,0,0,,Today's the day our town \Nwill see some real pro-wrestling! {?}
+Dialogue: 10,0:08:28.33,0:08:32.25,Thought,,0,0,0,,Today's the day our town \Nwill see some real pro wrestling! {?}
 Dialogue: 10,0:08:37.23,0:08:41.27,Default,,0,0,0,,Please hurry! I have to arrive \Nat the kingdom by four!
 Dialogue: 10,0:08:42.17,0:08:44.67,Default,,0,0,0,,Yes! I know.
 Dialogue: 10,0:08:44.67,0:08:47.46,Default,,0,0,0,,Don't mind if we depart, then!
@@ -183,7 +182,7 @@ Dialogue: 10,0:10:03.98,0:10:06.54,Default,,0,0,0,,Just thinking about it, \NI c
 Dialogue: 10,0:10:06.54,0:10:09.43,Default,,0,0,0,,I'm so excited for some \Npro wrestling here on our island! {/can't wait for}
 Dialogue: 10,0:10:09.43,0:10:11.75,Default,,0,0,0,,Geez, you need to calm down, Takamaru.
 Dialogue: 10,0:10:11.75,0:10:15.81,Default,,0,0,0,,I can't stay calm when I'm this happy!
-Dialogue: 10,0:10:17.43,0:10:19.51,Default,,0,0,0,,Let’s hit that attraction next!
+Dialogue: 10,0:10:17.43,0:10:19.51,Default,,0,0,0,,Let’s hit up that attraction next!
 Dialogue: 10,0:10:19.51,0:10:21.47,Default,,0,0,0,,Yeah, sounds exciting!
 Dialogue: 10,0:10:21.47,0:10:22.68,Default,,0,0,0,,Hey, Karin, come on!
 Dialogue: 10,0:10:22.68,0:10:24.02,Default,,0,0,0,,Ah, w-wait...!
@@ -195,7 +194,7 @@ Dialogue: 10,0:10:42.91,0:10:45.58,Default,,0,0,0,,Wow! Good! Nice, Takamaru!
 Dialogue: 10,0:10:45.58,0:10:47.88,Default,,0,0,0,,You should try it too, Karin-dono!
 Dialogue: 10,0:10:57.01,0:10:58.97,Default,,0,0,0,,I-Is something wrong?
 Dialogue: 10,0:10:58.97,0:11:00.93,Default,,0,0,0,,Don't come close!
-Dialogue: 10,0:11:00.93,0:11:04.89,Default,,0,0,0,,Could it be... that you hate the frogs?
+Dialogue: 10,0:11:00.93,0:11:04.89,Default,,0,0,0,,Could it be... that you hate frogs?
 Dialogue: 10,0:11:07.58,0:11:09.32,Default,,0,0,0,,She's a city girl, all right.
 Dialogue: 10,0:11:09.32,0:11:11.31,Default,,0,0,0,,I-I apologize, I didn't mean to...
 Dialogue: 10,0:11:12.28,0:11:13.91,Default,,0,0,0,,
@@ -250,7 +249,7 @@ Dialogue: 10,0:14:24.47,0:14:26.92,Default,,0,0,0,,This match hasn't been \Nvery
 Dialogue: 10,0:14:26.92,0:14:28.33,Default,,0,0,0,,Totally lame!
 Dialogue: 10,0:14:28.33,0:14:30.63,Default,,0,0,0,,You're in no position \Nto complain, Al Zaemon.
 Dialogue: 10,0:14:31.18,0:14:32.46,Default,,0,0,0,,This event is important
-Dialogue: 10,0:14:32.46,0:14:36.00,Default,,0,0,0,,for the establishment of friendly relationship \Nbetween Champon and Japan.
+Dialogue: 10,0:14:32.46,0:14:36.00,Default,,0,0,0,,for the establishment of friendly relationships \Nbetween Champon and Japan.
 Dialogue: 10,0:14:40.70,0:14:43.90,Default,,0,0,0,,Even if it is, objectively, a terrible match...
 Dialogue: 10,0:14:49.30,0:14:53.32,Default,,0,0,0,,Is that really Champon Kingdom?\NI can't see any people.
 Dialogue: 10,0:14:53.32,0:14:55.40,Default,,0,0,0,,It doesn't seem right...
@@ -280,7 +279,7 @@ Dialogue: 10,0:16:15.14,0:16:19.85,Default,,0,0,0,,Al, the respectable wrestlers
 Dialogue: 10,0:16:19.85,0:16:21.88,Default,,0,0,0,,Is something wrong with your eyes?! {???? maybe "wipe your eyes [to see better]" but I'm not sure this is a thing in japanese or english}
 Dialogue: 10,0:16:21.88,0:16:24.38,Default,,0,0,0,,They're half-assing it \Nlike there's no tomorrow! {/where is hard work in that}
 Dialogue: 10,0:16:24.38,0:16:26.24,Default,,0,0,0,,Takamaru, you go fight them!
-Dialogue: 10,0:16:26.24,0:16:30.62,Default,,0,0,0,,Huh? You want {\i1}me{\i0} to climb the ring?\NI would be absolutely thrilled.
+Dialogue: 10,0:16:26.24,0:16:30.62,Default,,0,0,0,,Huh? You want {\i1}me{\i0} to climb into the ring?\NI would be absolutely thrilled.
 Dialogue: 10,0:16:30.62,0:16:33.10,Default,,0,0,0,,But I don't want to be a nuisance...
 Dialogue: 10,0:16:37.73,0:16:40.02,Default,,0,0,0,,I give up!
 Dialogue: 10,0:16:40.02,0:16:41.67,Default,,0,0,0,,Totally lame!
@@ -289,11 +288,11 @@ Dialogue: 10,0:16:44.30,0:16:46.02,Default,,0,0,0,,Takamaru, let's go home alrea
 Dialogue: 10,0:16:46.02,0:16:47.42,Default,,0,0,0,,But still...
 Dialogue: 10,0:16:49.90,0:16:52.45,Default,,0,0,0,,No point watching this crap!
 Dialogue: 10,0:16:52.95,0:16:54.81,Default,,0,0,0,,And now, friends...
-Dialogue: 10,0:16:54.81,0:17:01.08,Default,,0,0,0,,Although Great Owada couldn't attend today due to unfortunate injury...
+Dialogue: 10,0:16:54.81,0:17:01.08,Default,,0,0,0,,Although Great Owada couldn't attend today due to an unfortunate injury...
 Dialogue: 10,0:17:01.08,0:17:02.84,Thought,,0,0,0,,Is that...
 Dialogue: 10,0:17:02.84,0:17:08.25,Default,,0,0,0,,...we would still like to spice up \Nthe main event somewhat. {??}
 Dialogue: 10,0:17:09.09,0:17:13.97,Default,,0,0,0,,We heard this country’s home to the masters of the Bity-Scratchy School of martial arts.
-Dialogue: 10,0:17:14.43,0:17:19.37,Default,,0,0,0,,Apparently it's quite old \Nand quite strong martial art.
+Dialogue: 10,0:17:14.43,0:17:19.37,Default,,0,0,0,,Apparently it's quite an old \Nand strong martial art.
 Dialogue: 10,0:17:19.37,0:17:24.40,Default,,0,0,0,,So, as a gesture of friendship between Japan and Champon, how about a match
 Dialogue: 10,0:17:24.40,0:17:28.07,Default,,0,0,0,,between {two styles of martial arts—}our New Tokyo Pro Wrestling and a master of the Bity-Scratchy School?
 Dialogue: 10,0:17:33.46,0:17:36.51,Default,,0,0,0,,Now, you're not going \Nto turn it down, are you, Koen? {???}
@@ -319,7 +318,7 @@ Dialogue: 10,0:19:02.29,0:19:04.99,Default,,0,0,0,,But I wasn't going to run off
 Dialogue: 10,0:19:04.99,0:19:07.96,Default,,0,0,0,,Really now? You weren't?
 Dialogue: 10,0:19:19.99,0:19:20.72,Default,,0,0,0,,Takamaru!
 Dialogue: 10,0:19:21.20,0:19:22.90,Default,,0,0,0,,How are you, boy?
-Dialogue: 10,0:19:24.62,0:19:28.08,Default,,0,0,0,,Now that's a pro-wrestler level. \NYou caught me off-guard! {??? I hear "I was blind" }
+Dialogue: 10,0:19:24.62,0:19:28.08,Default,,0,0,0,,Now that's a pro-wrestler's level. \NYou caught me off-guard! {??? I hear "I was blind" }
 Dialogue: 10,0:19:28.65,0:19:32.46,Thought,,0,0,0,,Oh? He can take Kitsutsu King's attack just like that?
 Dialogue: 10,0:19:32.46,0:19:33.79,Thought,,0,0,0,,This might be interesting.
 Dialogue: 10,0:19:38.76,0:19:40.86,Default,,0,0,0,,Kibo Style, Bity-Scratchy School:
@@ -350,7 +349,7 @@ Dialogue: 10,0:21:46.71,0:21:48.72,Default,,0,0,0,,Ah! That's his macho techniqu
 Dialogue: 10,0:21:48.72,0:21:51.41,Default,,0,0,0,,Yeah! Super Miracle Boy!
 Dialogue: 10,0:21:56.01,0:21:59.05,Default,,0,0,0,,Looking good, Takamaru! \NWipe the floor with him! {????}
 Dialogue: 10,0:22:01.34,0:22:02.80,Default,,0,0,0,,He did it! {yatta?}
-Dialogue: 10,0:22:05.22,0:22:08.26,Default,,0,0,0,,You coward! \NYou think the muscles will help you?! {????????}
+Dialogue: 10,0:22:05.22,0:22:08.26,Default,,0,0,0,,You coward! \NYou think that muscles will help you?! {????????}
 Dialogue: 10,0:22:08.26,0:22:13.49,Default,,0,0,0,,Watch this! \NThe Final Sudden Sweep Technique! { sudden drop; sharp fall; nosedive; swoop}{????}
 Dialogue: 10,0:22:38.67,0:22:41.13,Default,,0,0,0,,What's going on? \NWho is the winner now?
 Dialogue: 10,0:22:48.91,0:22:53.22,Default,,0,0,0,,He subjected him to all the techniques at once. That's Takamaru for you.
@@ -362,8 +361,8 @@ Dialogue: 10,0:23:08.76,0:23:10.60,Default,,0,0,0,,What's going on? \NThe match 
 Dialogue: 10,0:23:10.60,0:23:14.75,Default,,0,0,0,,Match or not—we're gonna shred you to pieces all the same!
 Dialogue: 10,0:23:14.75,0:23:16.82,Default,,0,0,0,,Ah! You’re that bald bird \Nfrom a few days ago! {?? maybe just asking "when did your hair/feathers grow back?"}
 Dialogue: 10,0:23:16.82,0:23:18.58,Default,,0,0,0,,Die!
-Dialogue: 10,0:23:22.80,0:23:24.40,Default,,0,0,0,,Beat 'em up!
-Dialogue: 10,0:23:26.34,0:23:28.01,Default,,0,0,0,,You imposters! {🤨}
+Dialogue: 10,0:23:22.80,0:23:24.40,Default,,0,0,0,,Beat them up!
+Dialogue: 10,0:23:26.34,0:23:28.01,Default,,0,0,0,,You impostors! {🤨}
 Dialogue: 10,0:23:28.01,0:23:29.88,Default,,0,0,0,,Y-You're here?!
 Dialogue: 10,0:23:30.31,0:23:31.72,Default,,0,0,0,,Great Owada!
 Dialogue: 10,0:23:31.72,0:23:35.22,Default,,0,0,0,,You bastards ruined our friendly match \Nbetween Japan and Champon!
@@ -1808,7 +1807,7 @@ Dialogue: 0,0:20:38.13,0:20:38.17,Sign,,0,0,0,,{=38}{\fscx100.08\fscy100.08\frz-
 Dialogue: 0,0:20:38.17,0:20:38.21,Sign,,0,0,0,,{=38=40}{\fscx100.13\fscy100.13\frz-0.09\alpha&H00&\fs26\blur0.7\q2\bord0\shad0\c&HFBFAF4&\fnGosmickSans\pos(189.8,422.62)}Kitsutsuki Style martial arts {木突騎流格闘術}
 Dialogue: 0,0:24:14.02,0:24:16.77,Sign,,0,0,0,,{\fs40\blur0.7\q2\bord0.4\shad0\c&HFFFBF2&\fnChinacat\3c&H232324&\b0\pos(317.9,323.42)}Drill Knight
 Dialogue: 0,0:27:00.77,0:27:07.77,Sign,,0,0,0,,{\fsp1\blur0.8\bord0\fs25\an9\shad0\fade(180,160)\c&HFFFFFF&\fnI hate Comic Sans\1a&H28&\pos(304.9,335.64)}RAW \NTranslation \NQuality check
-Dialogue: 0,0:27:00.77,0:27:07.77,Sign,,0,0,0,,{\fsp1\blur0.8\bord0\fs25\an7\shad0\fade(180,160)\c&HFFFFFF&\fnI hate Comic Sans\1a&H28&\pos(319.06,335.64)} Piyo-Piyo Productions \N Perevodildo\NTrue Noobow Gamer
+Dialogue: 0,0:27:00.77,0:27:07.77,Sign,,0,0,0,,{\fsp1\blur0.8\bord0\fs25\an7\shad0\fade(180,160)\c&HFFFFFF&\fnI hate Comic Sans\1a&H28&\pos(319.06,335.64)} Piyo-Piyo Productions \N Perevodildo\NJmePenseBon
 Comment: 0,0:27:35.84,0:27:38.84,Sign,,0,0,0,,
 
 [Aegisub Extradata]

@@ -38,7 +38,7 @@ Dialogue: 0,0:00:17.96,0:00:22.21,Default,,0,0,20,,Those two shockingly beautifu
 Dialogue: 0,0:00:22.21,0:00:27.52,Default,,0,0,20,,Overflowing with startling romance
 Dialogue: 0,0:00:27.52,0:00:29.73,Default,,0,0,20,,All-consuming
 Dialogue: 0,0:00:29.73,0:00:31.90,Default,,0,0,20,,Inescapable
-Dialogue: 0,0:00:31.90,0:00:36.32,Default,,0,0,20,,With a Taishou Era charming lady
+Dialogue: 0,0:00:31.90,0:00:36.32,Default,,0,0,20,,With a Taishō Era charming lady
 Dialogue: 0,0:00:36.32,0:00:40.70,Default,,0,0,20,,Hi, Hi, Hi, High Collar Lady's coming
 Dialogue: 0,0:00:40.70,0:00:45.08,Default,,0,0,20,,With her gentle heart, winning everyone over
 Dialogue: 0,0:00:45.08,0:00:49.46,Default,,0,0,20,,Hi, Hi, Hi, High Collar Lady's coming
@@ -49,9 +49,9 @@ Dialogue: 0,0:01:02.47,0:01:06.81,Default,,0,0,20,,With her gentle heart, winnin
 Comment: 0,0:01:06.80,0:01:06.85,Default,,0,0,0,,{OP end}
 Dialogue: 0,0:01:17.40,0:01:20.03,Default,,0,0,0,,To err is human,
 Dialogue: 0,0:01:20.03,0:01:24.59,Default,,0,0,0,,but if you break a precious heirloom plate, of all things, you get the death penalty!
-Dialogue: 0,0:01:24.59,0:01:26.77,Default,,0,0,0,,Seeing how the elderly count has completely lost it,
+Dialogue: 0,0:01:24.59,0:01:26.77,Default,,0,0,0,,Seeing how the elderly Count has completely lost it,
 Dialogue: 0,0:01:26.77,0:01:31.95,Default,,0,0,0,,Benio takes responsibility by smashing the rest of the plates.
-Dialogue: 0,0:01:32.41,0:01:36.18,Default,,0,0,0,,For the stubborn count, this is like pouring fuel on the fire.
+Dialogue: 0,0:01:32.41,0:01:36.18,Default,,0,0,0,,For the stubborn Count, this is like pouring fuel on the fire.
 Dialogue: 0,0:01:36.18,0:01:38.83,Default,,0,0,0,,So he decides that Benio must die too, now or never.
 Dialogue: 0,0:01:38.83,0:01:44.96,Default,,0,0,0,,Even Shinobu, her last hope, stands idly by, \Nparalyzed by fear and too dumbfounded to act.
 Dialogue: 0,0:01:44.96,0:01:49.96,Default,,0,0,0,,Unable to back down, in her heart of hearts the High Collar Lady curses the indifferent lieutenant.
@@ -128,7 +128,7 @@ Dialogue: 0,0:06:47.97,0:06:48.62,Default,,0,0,0,,Boss?
 Dialogue: 0,0:07:00.55,0:07:02.03,Default,,0,0,0,,B-Benio?
 Dialogue: 0,0:07:03.41,0:07:08.58,Default,,0,0,0,,Grandmother... No, Countess Ijuuin,\NI'd like to inform you of my grievances. {おばあさま、いえijuuin伯爵夫人様 - calling sb else's grandmother "grandmother" sounds weird in english but I couldn't think of other ways}
 Dialogue: 0,0:07:09.99,0:07:12.77,Default,,0,0,0,,After all, it's because you, the Countess Ijuuin...
-Dialogue: 0,0:07:12.77,0:07:17.02,Default,,0,0,0,,No, you weren't yet a countess back then, but\Nlong ago you were in love with my grandfather.
+Dialogue: 0,0:07:12.77,0:07:17.02,Default,,0,0,0,,No, you weren't yet a Countess back then, but\Nlong ago you were in love with my grandfather.
 Dialogue: 0,0:07:17.02,0:07:20.32,Default,,0,0,0,,It's because of your naive hope of making good on that love one day
 Dialogue: 0,0:07:20.32,0:07:22.96,Default,,0,0,0,,that I was made to go through this ordeal.
 Dialogue: 0,0:07:25.01,0:07:29.70,Default,,0,0,0,,My father made me, who didn't know anything, bring this mourning dress
@@ -313,9 +313,9 @@ Dialogue: 0,0:20:53.54,0:20:54.42,Default,,0,0,0,,Wh-What?!
 Dialogue: 0,0:20:55.09,0:20:57.47,Default,,0,0,0,,How is that any different, you halfwit?
 Dialogue: 0,0:20:57.86,0:21:00.56,Default,,0,0,0,,B-But, you don't know the whole story!{だ、だって、お父様はご存じないのよ}
 Dialogue: 0,0:21:00.56,0:21:03.24,Default,,0,0,0,,Living there was like living in a haunted house!
-Dialogue: 0,0:21:03.24,0:21:07.97,Default,,0,0,0,,What are you saying? The count's family lives there, so it can't be haunted!
+Dialogue: 0,0:21:03.24,0:21:07.97,Default,,0,0,0,,What are you saying? The Count's family lives there, so it can't be haunted!
 Dialogue: 0,0:21:07.97,0:21:10.09,Default,,0,0,0,,Quit saying nonsense!
-Dialogue: 0,0:21:10.94,0:21:14.32,Default,,0,0,0,,Oh no, Mr. Hanamura, the count by all means is a crazy geezer.
+Dialogue: 0,0:21:10.94,0:21:14.32,Default,,0,0,0,,Oh no, Mr. Hanamura, the Count by all means is a crazy geezer.
 Dialogue: 0,0:21:15.99,0:21:18.40,Default,,0,0,0,,A-Are you that infamous lady who's crazy about men?
 Dialogue: 0,0:21:18.40,0:21:20.59,Default,,0,0,0,,Oh no, it's just me!
 Dialogue: 0,0:21:21.67,0:21:23.52,Default,,0,0,0,,Ra-Ranmaru, is that you?{蘭丸くんか君は}
@@ -339,7 +339,7 @@ Dialogue: 0,0:22:02.41,0:22:05.56,Default,,0,0,0,,Geez, Father, you still don't 
 Dialogue: 0,0:22:05.56,0:22:07.33,Default,,0,0,0,,I understand enough.{わかっておるとも}
 Dialogue: 0,0:22:15.77,0:22:16.80,Default,,0,0,0,,Benio.
 Dialogue: 0,0:22:18.92,0:22:22.55,Default,,0,0,0,,Do you know why I gave you this dagger?
-Dialogue: 0,0:22:30.52,0:22:34.56,Default,,0,0,0,,Even after finally parting ways with the stubborn count,{固じじいの老伯爵とたもとをわかってきてみれば}
+Dialogue: 0,0:22:30.52,0:22:34.56,Default,,0,0,0,,Even after finally parting ways with the stubborn Count,{固じじいの老伯爵とたもとをわかってきてみれば}
 Dialogue: 0,0:22:34.56,0:22:38.80,Default,,0,0,0,,life is still unbearable—was leaving worth it after all? {reference to https://ja.wikipedia.org/wiki/%E9%85%92%E3%81%AF%E6%B6%99%E3%81%8B%E6%BA%9C%E6%81%AF%E3%81%8B - "was getting out a cause for tears or for breathing a sigh of relief?"}
 Dialogue: 0,0:22:38.80,0:22:44.70,Default,,0,0,0,,Outside and even inside her own home, \NBenio is surrounded by obstinate geezers.
 Dialogue: 0,0:22:54.34,0:22:58.36,Default,,0,0,0,,Although Benio left Ijuuin's mansion to go back home,{ijuuin家を後にして自分の家に帰ったものの}

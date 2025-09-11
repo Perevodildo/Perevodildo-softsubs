@@ -38,7 +38,7 @@ Dialogue: 0,0:00:17.96,0:00:22.21,Default,,0,0,20,,Those two shockingly beautifu
 Dialogue: 0,0:00:22.21,0:00:27.52,Default,,0,0,20,,Overflowing with startling romance
 Dialogue: 0,0:00:27.52,0:00:29.73,Default,,0,0,20,,All-consuming
 Dialogue: 0,0:00:29.73,0:00:31.90,Default,,0,0,20,,Inescapable
-Dialogue: 0,0:00:31.90,0:00:36.32,Default,,0,0,20,,With a Taishou Era charming lady
+Dialogue: 0,0:00:31.90,0:00:36.32,Default,,0,0,20,,With a Taishō Era charming lady
 Dialogue: 0,0:00:36.32,0:00:40.70,Default,,0,0,20,,Hi, Hi, Hi, High Collar Lady's coming
 Dialogue: 0,0:00:40.70,0:00:45.08,Default,,0,0,20,,With her gentle heart, winning everyone over
 Dialogue: 0,0:00:45.08,0:00:49.46,Default,,0,0,20,,Hi, Hi, Hi, High Collar Lady's coming
@@ -54,14 +54,14 @@ Dialogue: 0,0:01:28.34,0:01:33.64,Default,,0,0,0,,to Lt Col Innen's plotting, as
 Dialogue: 0,0:01:36.50,0:01:39.00,Default,,0,0,0,,But even women can make war at home:
 Dialogue: 0,0:01:39.00,0:01:43.86,Default,,0,0,0,,Benio found out that the ball is actually full of jealous and resentful people.
 Dialogue: 0,0:01:43.86,0:01:45.14,Default,,0,0,0,,On top of this,
-Dialogue: 0,0:01:45.14,0:01:48.38,Default,,0,0,0,,she unknowingly broke her oath of abstinence by drinking apparent juice. {I'm about to break mine trying to edit this god damm - Chika}
+Dialogue: 0,0:01:45.14,0:01:48.38,Default,,0,0,0,,she unknowingly broke her oath of abstinence by drinking what seemed like juice. {I'm about to break mine trying to edit this god damm - Chika}
 Dialogue: 0,0:01:48.38,0:01:50.26,Default,,0,0,0,,Will this enrage the gods?
 Dialogue: 0,0:01:50.26,0:01:53.18,Default,,0,0,0,,Before long, Shinobu ended up \Nwandering the wasteland.
 Dialogue: 0,0:01:55.40,0:02:00.26,Default,,0,0,0,,Just when he thought he was saved by the man-to-man bond he had formed with Sergeant Onijima,
 Dialogue: 0,0:02:00.26,0:02:02.35,Default,,0,0,0,,they both ran into even more trouble,
 Dialogue: 0,0:02:02.35,0:02:05.48,Default,,0,0,0,,finding themselves surrounded \Nby Russian troops!
 Dialogue: 0,0:02:05.92,0:02:09.28,Default,,0,0,0,,You are in Siberia, the enemy's land!
-Dialogue: 0,0:02:09.70,0:02:14.72,Sign,,0,0,0,,{\fade(350,370)\bord0\blur1.001\c&HECE5E0&\pos(721.19,152)}Episode 29 \N{\fs79.999}In the Thick of the Siberian Battle {硝煙弾雨のシベリアで}
+Dialogue: 0,0:02:09.74,0:02:14.72,Sign,,0,0,0,,{\fade(205,0,195,0,440,4550,5000)\bord0\blur1.001\c&HECE5E0&\pos(721.19,152)}Episode 29 \N{\fs79.999}In the Thick of the Siberian Battle {硝煙弾雨のシベリアで}
 Dialogue: 0,0:02:21.69,0:02:24.15,Default,,0,0,0,,Shit, we've been surrounded.
 Dialogue: 0,0:02:32.22,0:02:33.41,Default,,0,0,0,,Ura!
 Dialogue: 0,0:02:36.61,0:02:38.70,Default,,0,0,0,,This is bad timing.{/So they've come here at last/They're more than before}{いよいよやってきやがったぜ- "iyoiyo" might mean "at last", but it could also mean "at the worst possible time" (my take), or also "increasingly"}
@@ -92,14 +92,14 @@ Dialogue: 0,0:04:33.11,0:04:34.57,Default,,0,0,0,,My, how scary!
 Dialogue: 0,0:04:34.57,0:04:40.12,Default,,0,0,0,,I am sure that Young Master simply proposed to her on a whim, amused by this eccentric side of her.
 Dialogue: 0,0:04:40.12,0:04:44.08,Default,,0,0,0,,Did you really think that Shinobu would seriously date someone like you?
 Dialogue: 0,0:04:44.08,0:04:47.87,Default,,0,0,0,,Well said.\NShinobu is known to have a fondness for jokes.
-Dialogue: 0,0:04:48.50,0:04:51.42,Default,,0,0,0,,He just plans to keep you around as a quirky pet.
-Dialogue: 0,0:04:52.04,0:04:56.34,Default,,0,0,0,,I'm sure, at home she is just a fancy lap partner, \Nlike a Persian cat of sorts. {only hear ペルシャ猫, rest is guess}
+Dialogue: 0,0:04:48.50,0:04:51.42,Default,,0,0,0,,He merely plans to keep you around as a quirky pet.
+Dialogue: 0,0:04:52.04,0:04:56.34,Default,,0,0,0,,I'm sure she's only a fancy lap animal at home, \Nlike a Persian cat of sorts. {only hear ペルシャ猫, rest is guess}
 Dialogue: 0,0:05:03.78,0:05:05.18,Default,,0,0,0,,Ladies,
 Dialogue: 0,0:05:06.28,0:05:10.78,Default,,0,0,0,,the common folk does things that nobles like us could never think of.
-Dialogue: 0,0:05:10.78,0:05:16.58,Default,,0,0,0,,Plebs like them yearn for things such as societal status and wealth,
+Dialogue: 0,0:05:10.78,0:05:16.58,Default,,0,0,0,,Plebs yearn for things such as societal status and wealth
 Dialogue: 0,0:05:16.58,0:05:19.51,Default,,0,0,0,,which happen to be the birthright of us nobles.
 Dialogue: 0,0:05:20.10,0:05:21.78,Default,,0,0,0,,What are those hags talking about?
-Dialogue: 0,0:05:21.78,0:05:25.29,Default,,0,0,0,,Do they really think I got engaged with Shinobu out of greed?
+Dialogue: 0,0:05:21.78,0:05:25.29,Default,,0,0,0,,Do they really think I got engaged to Shinobu out of greed?
 Dialogue: 0,0:05:25.29,0:05:26.18,Default,,0,0,0,,{ugh}
 Dialogue: 0,0:05:26.18,0:05:28.05,Default,,0,0,0,,I've had enough of this!
 Dialogue: 0,0:05:28.05,0:05:30.65,Default,,0,0,0,,I have something I need to tell you all!
@@ -123,7 +123,7 @@ Dialogue: 0,0:06:46.62,0:06:49.33,Default,,0,0,0,,We have no other choice:\NLet'
 Dialogue: 0,0:06:49.33,0:06:51.82,Default,,0,0,0,,Onijima, sweep through the enemy's center!
 Dialogue: 0,0:06:52.12,0:06:55.82,Default,,0,0,0,,Roger that! Second Lieutenant, see to it that we're not crushed in between!
 Dialogue: 0,0:07:03.56,0:07:05.30,Default,,0,0,0,,Onijima, are you okay?
-Dialogue: 0,0:07:10.47,0:07:14.00,Default,,0,0,0,,I wouldn't be worthy of my name if I croaked for this scratch.
+Dialogue: 0,0:07:10.47,0:07:14.00,Default,,0,0,0,,I wouldn't be worthy of my name if I croaked from this scratch.
 Dialogue: 0,0:07:14.00,0:07:15.38,Default,,0,0,0,,Alright, let's get out of here.
 Dialogue: 0,0:07:16.82,0:07:17.71,Default,,0,0,0,,Ready?
 Dialogue: 0,0:07:18.15,0:07:18.90,Default,,0,0,0,,Now!
@@ -137,7 +137,7 @@ Dialogue: 0,0:08:18.00,0:08:20.04,Default,,0,0,0,,I promise I'll come home safe 
 Dialogue: 0,0:08:20.04,0:08:21.34,Default,,0,0,0,,Please wait for me.
 Dialogue: 0,0:08:37.09,0:08:38.48,Default,,0,0,0,,Another one!
 Dialogue: 0,0:08:38.94,0:08:39.65,Default,,0,0,0,,Pardon?
-Dialogue: 0,0:08:40.86,0:08:44.33,Default,,0,0,0,,Oh wow, she perfectly suits \Nmy ideal type of woman!
+Dialogue: 0,0:08:40.86,0:08:44.33,Default,,0,0,0,,Oh wow, she perfectly fits\Nmy ideal woman!
 Dialogue: 0,0:08:45.45,0:08:46.86,Default,,0,0,0,,Hey, mommy.
 Dialogue: 0,0:08:46.86,0:08:47.97,Default,,0,0,0,,What is it, child?
 Dialogue: 0,0:08:47.97,0:08:49.39,Default,,0,0,0,,Well, you see, actually...
@@ -149,12 +149,12 @@ Dialogue: 0,0:09:01.55,0:09:06.06,Default,,0,0,0,,Huh? What's with this guy?\NHe
 Dialogue: 0,0:09:06.36,0:09:08.84,Default,,0,0,0,,I really, {\i1}really{\i0} wanna dance with her!
 Dialogue: 0,0:09:08.84,0:09:09.88,Default,,0,0,0,,Can I? Pretty please?
 Dialogue: 0,0:09:09.88,0:09:12.22,Default,,0,0,0,,Sheesh, what am I going to do with you?
-Dialogue: 0,0:09:12.22,0:09:14.64,Default,,0,0,0,,Just make sure \Nto keep your distance with her, okay?
+Dialogue: 0,0:09:12.22,0:09:14.64,Default,,0,0,0,,Just make sure \Nto keep your distance from her, okay?
 Dialogue: 0,0:09:14.64,0:09:17.71,Default,,0,0,0,,You never know what could happen to you! {/A careless camper might get bitten by wolves.}
 Dialogue: 0,0:09:18.81,0:09:23.51,Default,,0,0,0,,Ugh... One, two, three, four, five!
 Dialogue: 0,0:09:22.21,0:09:23.92,Overlap,,0,0,0,,Young Lady!
 Dialogue: 0,0:09:27.35,0:09:31.52,Default,,0,0,0,,Eek! W-Well, for your information, I actually have two left feet!
-Dialogue: 0,0:09:32.02,0:09:37.44,Default,,0,0,0,,Oh, dear! You can't be bad at dancing if you've come all the way to a ball for nobles such as this one.
+Dialogue: 0,0:09:32.02,0:09:37.44,Default,,0,0,0,,Oh, dear! You can't be bad at dancing if you've come all the way to a ball for nobles.
 Dialogue: 0,0:09:37.44,0:09:39.61,Default,,0,0,0,,So, how would you like to dance?
 Dialogue: 0,0:09:39.61,0:09:41.46,Default,,0,0,0,,Maybe one of those Bon festival dances? {/Tanko Bushi}
 Dialogue: 0,0:09:41.46,0:09:42.13,Default,,0,0,0,,Huh?
@@ -181,7 +181,7 @@ Dialogue: 0,0:10:32.85,0:10:34.53,Overlap,,0,0,0,,No, "spell" meaning "a while."
 Dialogue: 0,0:10:35.04,0:10:36.78,Default,,0,0,0,,How pathetic!
 Dialogue: 0,0:10:36.78,0:10:40.91,Default,,0,0,0,,So you're saying that modern Japanese boys even dance with the likes of {\i1}women?!{\i0}
 Dialogue: 0,0:10:43.05,0:10:47.26,Default,,0,0,0,,You'd never think this conservative old man is actually Shinobu's grandfather!
-Dialogue: 0,0:10:47.68,0:10:51.47,Default,,0,0,0,,Ah... If only Shinobu was also here, at this ball...
+Dialogue: 0,0:10:47.68,0:10:51.47,Default,,0,0,0,,Ah... If only Shinobu were also here, at this ball...
 Dialogue: 0,0:11:17.85,0:11:18.83,Default,,0,0,0,,Benio.
 Dialogue: 0,0:11:21.77,0:11:22.83,Default,,0,0,0,,Shinobu!
 Dialogue: 0,0:11:28.42,0:11:29.93,Default,,0,0,0,,Shinobu!
@@ -259,12 +259,12 @@ Dialogue: 0,0:16:51.97,0:16:54.39,Default,,0,0,0,,Whoa, what a beautiful prey!
 Dialogue: 0,0:16:54.39,0:16:58.90,Default,,0,0,0,,Listen, I'm sorry to break it to you, \Nbut I'm actually a guy!
 Dialogue: 0,0:17:00.37,0:17:04.22,Default,,0,0,0,,Someone so beautiful \Nbeing a man is a blasphemy! {神への冒涜} {Ring ring. Based department? Yeah you are going to need to see this.}
 Dialogue: 0,0:17:07.76,0:17:08.93,Default,,0,0,0,,It's but a trifle.
-Dialogue: 0,0:17:08.93,0:17:11.77,Default,,0,0,0,,Love knows no gender bounds! {For QC who wins in a fight this guy or Dildo}
-Dialogue: 0,0:17:16.12,0:17:18.00,Sign,,0,0,0,,{\c&H3B3435&\3c&HE9E3DE&\fs120\b0\pos(892,278)}Tee-hee
+Dialogue: 0,0:17:08.93,0:17:11.77,Default,,0,0,0,,Love knows no gender bounds! {For QC who wins in a fight this guy or Dildo}{Girlkisser Dildo would resist and win}
+Dialogue: 0,0:17:16.23,0:17:18.00,Sign,,0,0,0,,{\c&H3B3435&\3c&HE9E3DE&\fs120\b0\pos(892,278)}Tee-hee
 Dialogue: 0,0:17:28.17,0:17:29.76,Default,,0,0,0,,W-What's going on?
 Dialogue: 0,0:17:29.76,0:17:32.45,Default,,0,0,0,,Oh, baby, take a look at my jewel! {literal}
 Dialogue: 0,0:17:32.45,0:17:33.66,Default,,0,0,0,,U-Unfazed! {/I lost}
-Dialogue: 0,0:17:33.66,0:17:38.18,Default,,0,0,0,,Now, let's pick the forbidden fruit together \Nand indulge in sodomic love!
+Dialogue: 0,0:17:33.66,0:17:38.18,Default,,0,0,0,,Now, let's pick the forbidden fruit together \Nand indulge in sodomy!{Or, "the love of Sodom".}
 Dialogue: 0,0:17:38.18,0:17:41.09,Default,,0,0,0,,N-No! Ah! Help! Help, Benio!
 Dialogue: 0,0:17:44.01,0:17:46.33,Default,,0,0,0,,Now I've had enough!
 Dialogue: 0,0:17:46.33,0:17:50.31,Default,,0,0,0,,Forgive me, Shinobu, but I'm not cut out to be a traditional woman{/Yamato Nadeshiko}!
@@ -308,7 +308,7 @@ Dialogue: 0,0:20:35.07,0:20:35.97,Default,,0,0,0,,Ura!
 Dialogue: 0,0:20:39.91,0:20:41.39,Default,,0,0,0,,They're here.
 Dialogue: 0,0:20:45.37,0:20:46.73,Default,,0,0,0,,So long, Onijima.
 Dialogue: 0,0:20:47.67,0:20:49.54,Default,,0,0,0,,Benio, look at me now!
-Dialogue: 0,0:20:53.32,0:20:58.04,Default,,0,0,0,,How miserable, this means that I endured \Nthis abstinence for nothing!
+Dialogue: 0,0:20:53.32,0:20:58.04,Default,,0,0,0,,How miserable, this means that I endured \Nmy abstinence for nothing!
 Dialogue: 0,0:20:58.58,0:21:02.75,Default,,0,0,0,,Then forget it! \NI'll show you my true drunken power!
 Dialogue: 0,0:21:02.75,0:21:07.44,Default,,0,0,0,,Here I go! Eclair charge!
 Dialogue: 0,0:21:22.62,0:21:26.31,Default,,0,0,0,,Here I go! Charge!
@@ -319,9 +319,9 @@ Dialogue: 0,0:22:12.02,0:22:14.02,Default,,0,0,0,,Commander!
 Dialogue: 0,0:22:14.40,0:22:16.73,Default,,0,0,0,,Please answer me!
 Dialogue: 0,0:22:16.73,0:22:20.32,Default,,0,0,0,,Second Lieutenant Ijuuin!
 Dialogue: 0,0:22:22.05,0:22:27.71,Default,,0,0,0,,It may have been a punishment for the oath being broken, but the battlefield is still a notoriously merciless place.
-Dialogue: 0,0:22:27.71,0:22:33.53,Default,,0,0,0,,Onijima is desperately crying out to Shinobu, \Nbut only the howling wolves are answering.
-Dialogue: 0,0:22:35.51,0:22:38.69,Default,,0,0,0,,Did Shinobu die the warrior's death? {lit: fall with the flowers = died honorably}
-Dialogue: 0,0:22:38.69,0:22:42.66,Default,,0,0,0,,Where will our wandering warrior be?{probably originally a wordplay}
+Dialogue: 0,0:22:27.71,0:22:33.53,Default,,0,0,0,,Onijima desperately cries out to Shinobu, \Nbut only the howling wolves answer.
+Dialogue: 0,0:22:35.51,0:22:38.69,Default,,0,0,0,,Did Shinobu die a warrior's death? {lit: fall with the flowers = died honorably}
+Dialogue: 0,0:22:38.69,0:22:42.66,Default,,0,0,0,,Where could our wandering warrior be?{probably originally a wordplay}
 Dialogue: 0,0:22:51.37,0:22:55.29,Sign,,0,0,0,,In the next episode
 Dialogue: 0,0:22:54.35,0:22:57.38,Default,,0,0,0,,It's been a while since the Ijuuins last received a letter from Shinobu
 Dialogue: 0,0:22:57.38,0:23:00.97,Default,,0,0,0,,and they can't help but think \Nabout him all day long.
@@ -341,6 +341,10 @@ Dialogue: 0,0:23:57.31,0:24:00.18,Default,,0,0,20,,to give me that loving glance
 Dialogue: 0,0:24:00.18,0:24:05.69,Default,,0,0,20,,Ah, how frustrating it is \Nto have these unrequited feelings
 Dialogue: 0,0:24:05.69,0:24:10.64,Default,,0,0,20,,How are you feeling? I am Benio
 Dialogue: 0,0:24:12.15,0:24:16.83,Default,,0,0,20,,Just a tomboyish lady who's a little pretentious
-Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(940,670)\blur1.001\bord0\an6} Translation \N Encoding & quality checking \N Timing & translation checking\NEditing
-Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(980.001,670)\blur1.001\bord0\an4} alucardnoyuuutsu \N Anonymous \NPerevodildo\N Chika
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(950,605)\blur1.7\bord0\an9} Encoding & QC \N Translation \N TLC, Timing & Typesetting \N Special Thanks \N Editing
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(995,605)\blur1.7\bord0\an7} Anonymous \N alucardnoyuuutsu \N Perevodildo \N Golden Time Anime (VK) \N Chika
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(950,605)\blur1.4\bord0\an9} Encoding & QC \N Translation \N TLC, Timing & Typesetting \N Special Thanks \N Editing
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(995,605)\blur1.4\bord0\an7} Anonymous \N alucardnoyuuutsu \N Perevodildo \N Golden Time Anime (VK) \N Chika
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(950,605)\blur1\bord0\an9} Encoding & QC \N Translation \N TLC, Timing & Typesetting \N Special Thanks \N Editing
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(995,605)\blur1\bord0\an7} Anonymous \N alucardnoyuuutsu \N Perevodildo \N Golden Time Anime (VK) \N Chika
 Comment: 0,0:24:29.20,0:24:29.25,Sign,,0,0,0,,{ED end}

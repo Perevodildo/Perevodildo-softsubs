@@ -38,7 +38,7 @@ Dialogue: 10,0:00:17.96,0:00:22.21,Default,,0,0,20,,Those two shockingly beautif
 Dialogue: 10,0:00:22.21,0:00:27.52,Default,,0,0,20,,Overflowing with startling romance
 Dialogue: 10,0:00:27.52,0:00:29.73,Default,,0,0,20,,All-consuming
 Dialogue: 10,0:00:29.73,0:00:31.90,Default,,0,0,20,,Inescapable
-Dialogue: 10,0:00:31.90,0:00:36.32,Default,,0,0,20,,With a Taishou Era charming lady
+Dialogue: 10,0:00:31.90,0:00:36.32,Default,,0,0,20,,With a Taishō Era charming lady
 Dialogue: 10,0:00:36.32,0:00:40.70,Default,,0,0,20,,Hi, Hi, Hi, High Collar Lady's coming
 Dialogue: 10,0:00:40.70,0:00:45.08,Default,,0,0,20,,With her gentle heart, winning everyone over
 Dialogue: 10,0:00:45.08,0:00:49.46,Default,,0,0,20,,Hi, Hi, Hi, High Collar Lady's coming
@@ -57,7 +57,7 @@ Dialogue: 0,0:24:00.13,0:24:05.64,Default,,0,0,20,,Ah, how frustrating it is \Nt
 Dialogue: 0,0:24:05.64,0:24:10.60,Default,,0,0,20,,How are you feeling? I am Benio
 Dialogue: 0,0:24:12.10,0:24:16.78,Default,,0,0,20,,Just a tomboyish lady who's a little pretentious
 Comment: 10,0:24:14.69,0:24:18.90,Default,,0,0,0,,{\b1\blur1.001\fs45\bord0\c&HFCF5FD&\pos(1060.001,600)\fs28.001}Brought to you by the Sorcery Party\N{\fs}ѫ~ѫ\N"Lux in Tenebris"
-Dialogue: 10,0:01:17.27,0:01:20.57,Default,,0,0,0,,It's the falling leaves season—Autumn.
+Dialogue: 10,0:01:17.27,0:01:20.57,Default,,0,0,0,,It's the season of falling leaves—Autumn.
 Dialogue: 10,0:01:20.57,0:01:24.46,Default,,0,0,0,,The ever-so-melancholic autumn has come...
 Dialogue: 10,0:01:24.46,0:01:29.22,Default,,0,0,0,,and the Ijuuins have been thunderstruck by Shinobu's passing.
 Dialogue: 10,0:01:29.22,0:01:33.39,Default,,0,0,0,,The last glimmer of hope has died out \Nand now, wherever you look,
@@ -220,7 +220,7 @@ Dialogue: 10,0:13:19.53,0:13:23.08,Default,,0,0,0,,Yes. I'm doing it here, where
 Dialogue: 10,0:13:23.08,0:13:24.94,Default,,0,0,0,,There's no reason to keep it a secret!
 Dialogue: 10,0:13:24.94,0:13:27.27,Default,,0,0,0,,Let's go now! I'll show you the way.
 Dialogue: 10,0:13:27.71,0:13:28.64,Default,,0,0,0,,He's right.
-Dialogue: 10,0:13:28.64,0:13:35.18,Default,,0,0,0,,I'm sure that Shinobu would've wanted you\N to attend his funeral instead of all those greedy relatives.
+Dialogue: 10,0:13:28.64,0:13:35.18,Default,,0,0,0,,I'm sure Shinobu would've wanted you to\N attend his funeral instead of those greedy relatives.{Remove unnecessary words to fix the 3-liner}
 Dialogue: 10,0:13:35.18,0:13:36.35,Default,,0,0,0,,Come inside, please.
 Dialogue: 10,0:13:37.06,0:13:39.10,Default,,0,0,0,,But I'm not worthy{日陰者} of it...
 Dialogue: 10,0:13:39.10,0:13:41.14,Default,,0,0,0,,There's no need to be hesitant!
@@ -342,17 +342,21 @@ Dialogue: 10,0:22:29.68,0:22:32.36,Default,,0,0,0,,An appellation as bright as t
 Dialogue: 10,0:22:33.92,0:22:40.11,Default,,0,0,0,,Having tucked the grief away deep in her heart, \Nour High Collar Lady has forbidden herself to cry.
 Dialogue: 10,0:22:40.11,0:22:46.08,Default,,0,0,0,,By hiding her tears and cutting her hair, \Nshe's made another big step towards adulthood.
 Dialogue: 10,0:22:54.75,0:22:59.20,Default,,0,0,0,,Benio might have accepted to run the mansion in Shinobu's stead,
-Dialogue: 10,0:22:59.20,0:23:03.53,Default,,0,0,0,,but the count—the head of the family—\Ndoesn't know the first thing about managing finances.
+Dialogue: 10,0:22:59.20,0:23:03.53,Default,,0,0,0,,but the Count—the head of the family—\Ndoesn't know the first thing about managing finances.
 Dialogue: 10,0:23:03.53,0:23:07.47,Default,,0,0,0,,To make ends meet, Benio has to go to work.
 Dialogue: 10,0:23:07.47,0:23:09.68,Default,,0,0,0,,Her first occupation: rickshaw!
 Dialogue: 10,0:23:09.68,0:23:13.96,Default,,0,0,0,,But then again, she's {\i1}our{\i0} High Collar Lady, \Nso all sorts of absurdities may be awaiting her.
 Dialogue: 10,0:23:13.96,0:23:16.01,Default,,0,0,0,,Next on Here Comes the High Collar Lady:
 Dialogue: 10,0:23:16.01,0:23:18.27,Default,,0,0,0,,Heading Straight for Tomorrow.\N{明日に向かってまっしぐら}
 Dialogue: 10,0:23:18.27,0:23:19.65,Default,,0,0,0,,Don't miss it!
-Dialogue: 0,0:24:19.74,0:24:28.08,Sign,,0,0,0,,{\fs45\b1\pos(940,720)\blur1.001\bord0\an6} Translation \N Editing \N Encoding & quality checking \N Timing & translation checking \N Special thanks
-Dialogue: 0,0:24:19.74,0:24:28.08,Sign,,0,0,0,,{\fs45\b1\pos(980.001,720)\blur1.001\bord0\an4} alucardnoyuuutsu \N Chika \N Anonymous \NPerevodildo \N Golden time Anime (vk)
 Comment: 0,0:24:29.20,0:24:29.25,Sign,,0,0,0,,{ED end}
-Dialogue: 0,0:02:04.29,0:02:09.80,Sign,,0,0,0,,{\fade(0,600)\bord0\blur1.001\c&HF5F2F8&\1a&H18&\fnArial Rounded MT Bold\pos(722.39,33.11)}Episode 32 \N{\fs115.001}I'll Cut my Black Hair \Nto Consecrate it to You {黒髪きって捧げます}
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(940,615)\blur1.8\bord0\an9} Encoding & QC \N Translation \N Timing, TLC & Typesetting \N Special Thanks \N Editing
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(984,615)\blur1.8\bord0\an7} Anonymous \N alucardnoyuuutsu \N Perevodildo \N Golden Time Anime (VK) \N Chika
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(940,615)\blur1.4\bord0\an9} Encoding & QC \N Translation \N Timing, TLC & Typesetting \N Special Thanks \N Editing
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(984,615)\blur1.4\bord0\an7} Anonymous \N alucardnoyuuutsu \N Perevodildo \N Golden Time Anime (VK) \N Chika
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(940,615)\blur1\bord0\an9} Encoding & QC \N Translation \N Timing, TLC & Typesetting \N Special Thanks \N Editing
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(984,615)\blur1\bord0\an7} Anonymous \N alucardnoyuuutsu \N Perevodildo \N Golden Time Anime (VK) \N Chika
+Dialogue: 0,0:02:04.29,0:02:09.80,Sign,,0,0,0,,{\fade(0,600)\bord0\blur1.001\c&HF5F2F8&\1a&H18&\fnArial Rounded MT Bold\pos(722.39,33.11)}Episode 32 \N{\fs115.001}I'll Cut my Black Hair \Nto Consecrate It to You {黒髪きって捧げます}
 Dialogue: 0,0:04:22.25,0:04:22.29,Sign,,0,0,0,,{=1=2}{\bord8.25\c&H20313A&\3c&H5BACAE&\fnArtificeSSK\fax-0.051264\fscx120.57\fscy121.48\frz-0.23\frx-8.0524\fry-1.5719\xbord6.79\ybord4.85\org(771.5,216.57)\pos(776.22,155.88)}Police \NInspector {警部室}
 Dialogue: 0,0:04:22.29,0:04:22.33,Sign,,0,0,0,,{=1}{\bord8.11\c&H20313A&\3c&H5BACAE&\fnArtificeSSK\fax-0.051264\fscx118.51\fscy119.4\frz-0.23\frx-8.0524\fry-1.5719\xbord6.67\ybord4.77\org(796.37,213.77)\pos(801,154.12)}Police \NInspector {警部室}
 Dialogue: 0,0:04:22.33,0:04:22.37,Sign,,0,0,0,,{=1}{\bord7.94\c&H20313A&\3c&H5BACAE&\fnArtificeSSK\fax-0.051264\fscx116.02\fscy116.9\frz-0.21\frx-8.0524\fry-1.5719\xbord6.53\ybord4.67\org(805.15,215.25)\pos(809.68,156.85)}Police \NInspector {警部室}

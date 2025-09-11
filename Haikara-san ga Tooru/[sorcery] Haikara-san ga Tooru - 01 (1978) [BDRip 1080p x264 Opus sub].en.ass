@@ -36,7 +36,7 @@ Dialogue: 0,0:00:17.96,0:00:22.21,Default,,0,0,20,,Those two shockingly beautifu
 Dialogue: 0,0:00:22.21,0:00:27.52,Default,,0,0,20,,Overflowing with startling romance
 Dialogue: 0,0:00:27.52,0:00:29.73,Default,,0,0,20,,All-consuming
 Dialogue: 0,0:00:29.73,0:00:31.90,Default,,0,0,20,,Inescapable
-Dialogue: 0,0:00:31.90,0:00:36.33,Default,,0,0,20,,With a Taishou Era charming lady
+Dialogue: 0,0:00:31.90,0:00:36.33,Default,,0,0,20,,With a Taishō Era charming lady
 Dialogue: 0,0:00:36.33,0:00:40.70,Default,,0,0,20,,Hi, Hi, Hi, High Collar Lady's coming
 Dialogue: 0,0:00:40.70,0:00:45.09,Default,,0,0,20,,With her gentle heart, winning everyone over
 Dialogue: 0,0:00:45.09,0:00:49.46,Default,,0,0,20,,Hi, Hi, Hi, High Collar Lady's coming
@@ -55,9 +55,9 @@ Dialogue: 0,0:01:26.65,0:01:30.54,Default,,0,0,0,,Nowadays, trains magically tak
 Dialogue: 0,0:01:30.54,0:01:33.42,Default,,0,0,0,,All the smoke makes the tunnel...
 Dialogue: 0,0:01:34.14,0:01:35.49,Default,,0,0,0,,pitch-black!
 Dialogue: 0,0:01:37.01,0:01:41.01,Default,,0,0,0,,{\fad(0,270)\c&HEAEAEA&\pos(720,550)\bord0\blur1.001\fs60}Episode 1 {\fs100}\NBenio's Seventeenth Birthday{dc: a sweet seventeen isn't a thing, it's a sweet sixteen}
-Dialogue: 0,0:01:41.91,0:01:44.93,Default,,0,0,0,,It's the seventh year of the Taishou Era,{The Taisho era (1912-26)\N was a progressive "Jazz Age" of Japanese history.}
+Dialogue: 0,0:01:41.91,0:01:44.93,Default,,0,0,0,,It's the seventh year of the Taishō Era,{The Taishō era (1912-26)\N was a progressive "Jazz Age" of Japanese history.}
 Dialogue: 0,0:01:45.31,0:01:50.42,Default,,0,0,0,,and people are fascinated by\N Romanticism, the trend of the times.
-Dialogue: 0,0:01:50.42,0:01:55.53,Default,,0,0,0,,The heyday of Taishou Democracy.
+Dialogue: 0,0:01:50.42,0:01:55.53,Default,,0,0,0,,The heyday of Taishō Democracy.
 Dialogue: 0,0:01:57.81,0:01:59.41,Sign,,0,0,0,,{\c&H36362E&\3c&HD1D5CD&\fax-0.034061\fscx55.40\fscy111.32\frz2.8822\frx4.5527\fry-12.9671\xbord2.26\ybord4.45\org(1033.43,336.57)\pos(1033.9,308.74)}Hanamura
 Dialogue: 0,0:02:08.19,0:02:09.57,Default,,0,0,0,,That stings!
 Dialogue: 0,0:02:10.13,0:02:14.34,Default,,0,0,0,,Y-You're too rough, Benio!\N Why are you hitting me so hard?
@@ -105,7 +105,7 @@ Dialogue: 0,0:04:28.11,0:04:29.71,Default,,0,0,0,,What am I to do with her...?
 Dialogue: 0,0:04:33.25,0:04:35.59,Default,,0,0,0,,I'm heading out!
 Dialogue: 0,0:04:42.57,0:04:44.64,Default,,0,0,0,,The cherry blossoms \Nare in full bloom!
 Dialogue: 0,0:04:46.23,0:04:49.88,Default,,0,0,0,,The swaying heat haze, \Nthe water of Koishikawa...
-Dialogue: 0,0:04:51.17,0:04:54.17,Default,,0,0,0,,Half boots on my feet, \Nmaroon trousers, {she is talking about hakama which are taisho era clothing - half skirt half trousers}{original line, "Mountain grape coloured trouserst tucked into my half boots"}
+Dialogue: 0,0:04:51.17,0:04:54.17,Default,,0,0,0,,Half boots on my feet, \Nmaroon trousers, {she is talking about hakama which are taishō era clothing - half skirt half trousers}{original line, "Mountain grape coloured trouserst tucked into my half boots"}
 Dialogue: 0,0:04:55.11,0:04:58.15,Default,,0,0,0,,and a ribbon fluttering on my head...
 Dialogue: 0,0:04:58.59,0:05:00.86,Default,,0,0,0,,This is the life of a teenage student.
 Dialogue: 0,0:05:02.11,0:05:04.66,Default,,0,0,0,,It's actually my seventeenth birthday.
@@ -170,10 +170,10 @@ Dialogue: 0,0:09:45.23,0:09:50.13,Default,,0,0,0,,{Silence! That's more than eno
 Dialogue: 0,0:09:50.13,0:09:52.57,Sign,,0,0,0,,{\blur1\c&H1B1716&\3c&HD4DBC9&\fax-0.439598\fscx113.07\fscy129.35\frz-12.5512\frx2.7680\fry-1.2101\xbord4.62\ybord5.17\org(942.58,167.99)\pos(955,135.65)}Righteous path towards wifehood
 Dialogue: 0,0:09:55.09,0:09:56.60,Default,,0,0,0,,Tamaki?
 Dialogue: 0,0:09:56.60,0:09:58.77,Default,,0,0,0,,{Isn't that teacher so boring?}Can she {\i1}be{\i0}{\i0\fsp8} {\fsp0}anymore monotonous?
-Dialogue: 0,0:09:59.08,0:10:02.14,Default,,0,0,0,,All she says is that we should\N become "mothers of Japan".
+Dialogue: 0,0:09:59.08,0:10:02.14,Default,,0,0,0,,All she says is that we should\N become "mothers of Japan."
 Dialogue: 0,0:10:02.14,0:10:03.60,Default,,0,0,0,,What a joke.
 Dialogue: 0,0:10:03.60,0:10:08.27,Default,,0,0,0,,I refuse to marry a man, \Njust because my parents say so.
-Dialogue: 0,0:10:08.27,0:10:12.32,Default,,0,0,0,,I didn't think you'd speak like that, \NMiss Silk-Stockings.{silk-stocking girl? - uses a taisho era specific word for nobility}
+Dialogue: 0,0:10:08.27,0:10:12.32,Default,,0,0,0,,I didn't think you'd speak like that, \NMiss Silk-Stockings.{silk-stocking girl? - uses a taishō era specific word for nobility}
 Dialogue: 0,0:10:12.32,0:10:14.87,Default,,0,0,0,,Oh, please. Nobles are\N regular people, too, you know?
 Dialogue: 0,0:10:25.52,0:10:29.52,Default,,0,0,0,,Tamaki! You did do \Nyour homework after all!
 Dialogue: 0,0:10:29.52,0:10:30.83,Default,,0,0,0,,You did all that for me?
@@ -186,7 +186,7 @@ Dialogue: 0,0:10:54.36,0:10:57.53,Default,,0,0,0,,Is that so? Then let's promise
 Dialogue: 0,0:10:57.53,0:10:58.78,Default,,0,0,0,,It's a promise!
 Dialogue: 0,0:11:05.04,0:11:07.50,Default,,0,0,0,,Flatly refusing arranged marriages,
 Dialogue: 0,0:11:07.50,0:11:12.33,Default,,0,0,0,,looking for a blossoming romance\Nthat will shine for the rest of their lives.
-Dialogue: 0,0:11:12.33,0:11:19.05,Default,,0,0,0,,All of this is in the spirit{made up to match pacing - pere} of these new Taishou Era "High Collar Girls."
+Dialogue: 0,0:11:12.33,0:11:19.05,Default,,0,0,0,,All of this is in the spirit{made up to match pacing - pere} of these new Taishō Era "High Collar Girls."
 Dialogue: 0,0:11:19.99,0:11:22.16,Default,,0,0,0,,What are you doing?! \NBe quiet already!
 Dialogue: 0,0:11:23.28,0:11:24.30,Default,,0,0,0,,So harsh!
 Dialogue: 0,0:11:35.81,0:11:37.24,Default,,0,0,0,,Bye. See you tomorrow.
@@ -352,7 +352,7 @@ Dialogue: 0,0:22:28.20,0:22:31.89,Default,,0,0,0,,Are you kidding me? \NHim taki
 Dialogue: 0,0:22:31.89,0:22:34.54,Default,,0,0,0,,This can't be real!\NIt's like a nightmare!
 Dialogue: 0,0:22:34.96,0:22:40.94,Default,,0,0,0,,And so, our High Collar Lady discovered \Nshe was engaged to Second Lieutenant Ijuuin.
 Dialogue: 0,0:22:40.94,0:22:43.01,Default,,0,0,0,,What sort of man is this\N blond Second Lieutenant?
-Dialogue: 0,0:22:43.48,0:22:47.32,Default,,0,0,0,,Thus, a romance in \Nthe Taishou Era began...
+Dialogue: 0,0:22:43.48,0:22:47.32,Default,,0,0,0,,Thus, a romance in \Nthe Taishō Era began...
 Dialogue: 0,0:22:54.35,0:22:59.27,Default,,0,0,0,,The Second Lieutenant's engagement to Benio \Nwas agreed upon three generations ago.
 Dialogue: 0,0:22:59.27,0:23:01.67,Default,,0,0,0,,In an age bound by convention,
 Dialogue: 0,0:23:01.67,0:23:06.01,Default,,0,0,0,,will she have her own way, \Nor one laid out for her by her parents?

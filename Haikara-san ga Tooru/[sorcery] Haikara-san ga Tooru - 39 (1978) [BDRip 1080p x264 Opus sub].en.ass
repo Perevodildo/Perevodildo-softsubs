@@ -38,7 +38,7 @@ Dialogue: 10,0:00:17.96,0:00:22.21,Default,,0,0,20,,Those two shockingly beautif
 Dialogue: 10,0:00:22.21,0:00:27.52,Default,,0,0,20,,Overflowing with startling romance
 Dialogue: 10,0:00:27.52,0:00:29.73,Default,,0,0,20,,All-consuming
 Dialogue: 10,0:00:29.73,0:00:31.90,Default,,0,0,20,,Inescapable
-Dialogue: 10,0:00:31.90,0:00:36.32,Default,,0,0,20,,With a Taishou Era charming lady
+Dialogue: 10,0:00:31.90,0:00:36.32,Default,,0,0,20,,With a Taishō Era charming lady
 Dialogue: 10,0:00:36.32,0:00:40.70,Default,,0,0,20,,Hi, Hi, Hi, High Collar Lady's coming
 Dialogue: 10,0:00:40.70,0:00:45.08,Default,,0,0,20,,With her gentle heart, winning everyone over
 Dialogue: 10,0:00:45.08,0:00:49.46,Default,,0,0,20,,Hi, Hi, Hi, High Collar Lady's coming
@@ -57,40 +57,40 @@ Dialogue: 0,0:24:00.18,0:24:05.69,Default,,0,0,20,,Ah, how frustrating it is \Nt
 Dialogue: 0,0:24:05.69,0:24:10.64,Default,,0,0,20,,How are you feeling? I am Benio
 Dialogue: 0,0:24:12.15,0:24:16.83,Default,,0,0,20,,Just a tomboyish lady who's a little pretentious
 Comment: 10,0:24:14.73,0:24:18.94,Default,,0,0,0,,{\b1\blur1.001\fs45\bord0\c&HFCF5FD&\pos(1060.001,600)\fs28.001}Brought to you by the Sorcery Party\N{\fs}ѫ~ѫ\N"Lux in Tenebris"
-Dialogue: 10,0:01:19.29,0:01:21.88,Default,,0,0,0,,Colonel may very well \Nbe the devil himself,
+Dialogue: 10,0:01:19.29,0:01:21.88,Default,,0,0,0,,The Colonel may very well \Nbe the devil incarnate,
 Dialogue: 10,0:01:21.88,0:01:26.30,Default,,0,0,0,,as he deliberately let Benio \Ntake the hostage’s place,
 Dialogue: 10,0:01:26.30,0:01:29.72,Default,,0,0,0,,without ever intending to pay the ransom.
 Dialogue: 10,0:01:30.33,0:01:32.51,Default,,0,0,0,,But don't underestimate our High Collar Lady,
-Dialogue: 10,0:01:32.51,0:01:34.97,Default,,0,0,0,,who managed to break herself out.
+Dialogue: 10,0:01:32.51,0:01:34.97,Default,,0,0,0,,as she managed to break herself out.
 Dialogue: 10,0:01:34.97,0:01:36.33,Default,,0,0,0,,However...
 Dialogue: 10,0:01:36.33,0:01:40.84,Default,,0,0,0,,she still ended up getting caught \Nby the bandit leader and is now in dire straits!
 Dialogue: 10,0:01:42.34,0:01:46.15,Default,,0,0,0,,No! Don't do it! \NShinobu, help me!{ep 38, 18:30}
-Dialogue: 10,0:01:46.15,0:01:48.90,Default,,0,0,0,,Still, the moment she shouted \NSecond Lieutenant's name,
+Dialogue: 10,0:01:46.15,0:01:48.90,Default,,0,0,0,,The moment she shouted \Nthe late Lieutenant's name,
 Dialogue: 10,0:01:48.90,0:01:52.49,Default,,0,0,0,,the bandit leader unexpectedly \Nrevealed himself as Sergeant Onijima.
-Dialogue: 10,0:01:52.49,0:01:55.58,Default,,0,0,0,,Benio is desperate to get some info out of him,
-Dialogue: 10,0:01:55.58,0:01:59.81,Default,,0,0,0,,but the grief-stricken Onijima \Ncan only bring himself to shut away from her.
+Dialogue: 10,0:01:52.49,0:01:55.58,Default,,0,0,0,,Benio is desperate to get some answers out of him,
+Dialogue: 10,0:01:55.58,0:01:59.81,Default,,0,0,0,,but the grief-stricken Onijima \Ncouldn't bring himself to tell her.
 Dialogue: 10,0:02:08.19,0:02:11.37,Default,,0,0,0,,Hey... Why won't you tell me anything?
 Dialogue: 10,0:02:12.13,0:02:14.02,Default,,0,0,0,,Does this mean Shinobu really died?
-Dialogue: 10,0:02:15.49,0:02:17.11,Default,,0,0,0,,I didn't come to his rescue...
+Dialogue: 10,0:02:15.49,0:02:17.11,Default,,0,0,0,,I wasn't there for him...
 Dialogue: 10,0:02:17.56,0:02:21.09,Default,,0,0,0,,I just left him there, \Nall alone in that blizzard.
 Dialogue: 10,0:02:32.97,0:02:39.66,Default,,0,0,0,,As we were running, a shell landed right next to me.\NMy leg got hit and I couldn't keep going.
-Dialogue: 10,0:02:39.66,0:02:44.16,Default,,0,0,0,,Second Lieutenant was the only one \Nwho came back for me.
-Dialogue: 10,0:02:56.14,0:03:00.66,Default,,0,0,0,,Several hours later I was still \Ngoing about the area, looking for him.
+Dialogue: 10,0:02:39.66,0:02:44.16,Default,,0,0,0,,He was the only one \Nwho came back for me.
+Dialogue: 10,0:02:56.14,0:03:00.66,Default,,0,0,0,,Hours later I was still \Ngoing through the area, looking for him.
 Dialogue: 10,0:03:00.66,0:03:03.69,Default,,0,0,0,,Second Lieutenant Ijuuin!
 Dialogue: 10,0:03:06.40,0:03:09.84,Default,,0,0,0,,Second Lieutenant Ijuuin!
 Dialogue: 10,0:03:09.84,0:03:11.72,Default,,0,0,0,,Commander!
 Dialogue: 10,0:03:11.72,0:03:14.51,Default,,0,0,0,,Eventually, I crossed the border into China.
 Dialogue: 10,0:03:16.20,0:03:17.99,Default,,0,0,0,,I deserted.
-Dialogue: 10,0:03:18.78,0:03:22.79,Default,,0,0,0,,I just can't fight for an army \Nthat abandoned such a wholesome man to his fate.
+Dialogue: 10,0:03:18.78,0:03:22.79,Default,,0,0,0,,I just couldn't fight for an army \Nthat abandoned such a decent man to his fate.
 Dialogue: 10,0:03:25.26,0:03:29.77,Default,,0,0,0,,That was when I ran into the mounted bandits.
 Dialogue: 10,0:03:37.45,0:03:42.02,Default,,0,0,0,,It was all my fault! \NI couldn't return the favor!
 Dialogue: 10,0:03:42.73,0:03:44.65,Default,,0,0,0,,I'm sorry, Benio.
 Dialogue: 10,0:03:45.17,0:03:49.30,Default,,0,0,0,,No, this happened because \NI foolishly provoked Innen.
 Dialogue: 10,0:03:50.47,0:03:54.72,Default,,0,0,0,,It's my fault that Shinobu \Nwas sent to certain death!
-Dialogue: 10,0:03:55.20,0:03:59.14,Default,,0,0,0,,Innen? Do you mean the military attaché who's running the outpost in the village?
+Dialogue: 10,0:03:55.20,0:03:59.14,Default,,0,0,0,,Innen? You mean the officer who's running the outpost in the village?
 Dialogue: 10,0:03:59.91,0:04:01.06,Default,,0,0,0,,Yes...
-Dialogue: 10,0:04:02.99,0:04:06.29,Default,,0,0,0,,I see. Killing Second Lieutenant \Nwasn't enough for him,
-Dialogue: 10,0:04:06.29,0:04:10.71,Default,,0,0,0,,he also did the same to you—\Nhe never intended on paying that ransom!
+Dialogue: 10,0:04:02.99,0:04:06.29,Default,,0,0,0,,I see. Killing the lieutenant \Nwasn't enough for him,
+Dialogue: 10,0:04:06.29,0:04:10.71,Default,,0,0,0,,he also betrayed you—\Nhe never intended on paying that ransom!
 Dialogue: 10,0:04:11.78,0:04:15.95,Default,,0,0,0,,We'll show him how small the world really is!
 Dialogue: 10,0:04:17.65,0:04:21.39,Default,,0,0,0,,Listen up, men! \NWe're attacking the village at dawn!
 Dialogue: 10,0:04:21.39,0:04:22.50,Default,,0,0,0,,Yeah!
@@ -119,7 +119,7 @@ Dialogue: 10,0:05:46.09,0:05:50.04,Default,,0,0,0,,What's all this fuss 'bout?\N
 Dialogue: 10,0:05:50.04,0:05:52.81,Default,,0,0,0,,We're going to ambush the mounted bandits.
 Dialogue: 10,0:05:52.81,0:05:54.22,Default,,0,0,0,,We'll set a trap.
 Dialogue: 10,0:05:54.22,0:05:56.00,Default,,0,0,0,,Hey, hold it!
-Dialogue: 10,0:05:56.00,0:06:00.45,Default,,0,0,0,,I couldn't care less 'bout bandits, but what'll become of my boss, who they're holding hostage?
+Dialogue: 10,0:05:56.00,0:06:00.45,Default,,0,0,0,,I couldn't care less 'bout the bandits, but what'll become of my boss, who they're holding hostage?
 Dialogue: 10,0:06:00.45,0:06:01.41,Default,,0,0,0,,Why would I know?!
 Dialogue: 10,0:06:01.41,0:06:02.49,Default,,0,0,0,,Come on...
 Dialogue: 10,0:06:02.49,0:06:05.16,Default,,0,0,0,,Hey, what'll become of Boss?!
@@ -130,8 +130,9 @@ Dialogue: 10,0:06:15.00,0:06:19.95,Default,,0,0,0,,Ushigorou the Goldfish, who i
 Dialogue: 10,0:06:24.09,0:06:25.72,Default,,0,0,0,,The bandits won't stand a chance.
 Dialogue: 10,0:06:25.72,0:06:30.85,Default,,0,0,0,,With this, I'll gain another medal \Nand my promotion will be even nearer!
 Dialogue: 10,0:06:32.00,0:06:34.38,Default,,0,0,0,,Whoops, a true warrior \Nmust take care of himself.
-Dialogue: 10,0:06:35.11,0:06:41.07,Default,,0,0,0,,Good. With this, my beautiful curls are preserved. \NI need to be attentive to my beauty. Yessir.
-Dialogue: 10,0:06:41.70,0:06:44.97,Default,,0,0,0,,The dangers of the battlefield\Nare all for the soldiers to handle.
+Dialogue: 10,0:06:35.11,0:06:38.26,Default,,0,0,0,,Good. With this, my beautiful curls are preserved.
+Dialogue: 10,0:06:38.26,0:06:41.07,Default,,0,0,0,,I need to be attentive to my beauty. Yessir.
+Dialogue: 10,0:06:41.70,0:06:44.97,Default,,0,0,0,,The dangers of the battlefield are for the soldiers to handle.
 Dialogue: 10,0:06:46.00,0:06:48.74,Default,,0,0,0,,As they say, a wise man stays away from risks.
 Dialogue: 10,0:06:48.74,0:06:50.48,Default,,0,0,0,,Good night to me.
 Dialogue: 10,0:07:00.82,0:07:02.28,Default,,0,0,0,,Stop!
@@ -146,13 +147,13 @@ Dialogue: 10,0:07:31.25,0:07:34.01,Default,,0,0,0,,Thank you very much for your 
 Dialogue: 10,0:07:34.01,0:07:38.32,Default,,0,0,0,,I am a humble man from Kanto. \NYou probably know where it is.{関東もひろうござんす https://ja.wikipedia.org/wiki/%E9%96%A2%E6%9D%B1%E3%82%82%E5%BA%83%E3%81%86%E3%81%94%E3%81%96%E3%82%93%E3%81%99　maybe referring to this movie, but it came out in 1967  -  there is also this http://kotobakai.seesaa.net/article/8180051.html but I don't really understand what it truly means, so I did what I could lol - Alucard}
 Dialogue: 10,0:07:42.24,0:07:44.74,Default,,0,0,0,,No, no, no! Go home at once!
 Dialogue: 10,0:07:44.74,0:07:47.59,Default,,0,0,0,,Don’t you know what they say—\N“Vast is the Kanto Region?”
-Dialogue: 10,0:07:47.59,0:07:50.89,Default,,0,0,0,,I come from Musashi Province \Nwhere Sumida River flows,
+Dialogue: 10,0:07:47.59,0:07:50.89,Default,,0,0,0,,I come from Musashi Province \Nwhere the Sumida River flows,
 Dialogue: 10,0:07:50.89,0:07:54.27,Default,,0,0,0,,you must’ve heard of me—\NUshigorou the Goldfish!
 Dialogue: 10,0:07:54.27,0:07:55.46,Default,,0,0,0,,Huh?! It's Ushigorou!
 Dialogue: 10,0:07:55.46,0:07:56.85,Default,,0,0,0,,Eep!
 Dialogue: 10,0:07:56.85,0:08:01.63,Default,,0,0,0,,As it happens, I am also the henchman \Nof the highly renowned High Collar family.
 Dialogue: 10,0:08:01.63,0:08:08.22,Default,,0,0,0,,Ushigorou! Get out of the way! \NMove, you hear?! Get out!
-Dialogue: 10,0:08:08.22,0:08:10.59,Default,,0,0,0,,So I am {\i1}that{\i0} Ushigorou the Goldfish.
+Dialogue: 10,0:08:08.22,0:08:10.59,Default,,0,0,0,,Yes, I am {\i1}that{\i0} Ushigorou the Goldfish.
 Dialogue: 10,0:08:10.59,0:08:13.08,Default,,0,0,0,,A pleasure to make your acquaintance.
 Dialogue: 10,0:08:13.08,0:08:14.71,Default,,0,0,0,,Goodbye!
 Dialogue: 10,0:08:13.55,0:08:16.20,Overlap,,0,0,0,,Over here! Over here!
@@ -171,17 +172,17 @@ Dialogue: 10,0:08:46.08,0:08:51.02,Default,,0,0,0,,Alright! Try and shoot me if 
 Dialogue: 10,0:08:51.02,0:08:53.19,Default,,0,0,0,,W-Why should I know that?
 Dialogue: 10,0:08:53.19,0:08:55.87,Default,,0,0,0,,Well, how can I put this, basically, "fool" {well, this thing berabou, how do I put it}
 Dialogue: 10,0:08:55.87,0:08:59.23,Default,,0,0,0,,was originally a medical condition, \Nlike when you're hit on the head {lit: so you had a hera, and when you put that hera at the end of a stick - idrk what he means by hera}
-Dialogue: 10,0:08:59.23,0:09:01.48,Default,,0,0,0,,so that's what's gonna happen to y'all! {and that's how you get herabou (hera-stick) - the same as berabou - I still dunno what's this about, maybe he's just making it all up on the go}
-Dialogue: 10,0:09:01.48,0:09:02.81,Default,,0,0,0,,Do you get it now?
-Dialogue: 10,0:09:01.48,0:09:04.03,Overlap,,0,0,0,,I've heard enough of this mumbo jumbo,
-Dialogue: 10,0:09:04.03,0:09:05.82,Overlap,,0,0,0,,just come down already! Ouch!
+Dialogue: 10,0:08:59.23,0:09:01.40,Default,,0,0,0,,so that's what's gonna happen to y'all! {and that's how you get herabou (hera-stick) - the same as berabou - I still dunno what's this about, maybe he's just making it all up on the go}
+Dialogue: 10,0:09:01.68,0:09:04.03,Overlap,,0,0,0,,I've heard enough of this mumbo jumbo,
+Dialogue: 10,0:09:04.03,0:09:05.28,Overlap,,0,0,0,,just come down already!
+Dialogue: 10,0:09:05.28,0:09:05.82,Overlap,,0,0,0,,Ouch!
 Dialogue: 10,0:09:07.12,0:09:08.42,Default,,0,0,0,,Who the hell are you?
 Dialogue: 10,0:09:08.42,0:09:10.62,Default,,0,0,0,,Ushigorou!
 Dialogue: 10,0:09:10.62,0:09:14.46,Default,,0,0,0,,Oh, Boss! You're safe! \NI'm so happy you're well!
 Dialogue: 10,0:09:14.46,0:09:16.48,Default,,0,0,0,,I'm happy to see you too, Ushigorou!
-Dialogue: 10,0:09:16.48,0:09:21.59,Default,,0,0,0,,Man, it looks like even bandits \Nhave a diverse taste when it comes to girls!{馬族といえども、女性に対する趣味も好みもあったんですなぁ! not really sure about this one}{looks alright to me}
+Dialogue: 10,0:09:16.48,0:09:21.59,Default,,0,0,0,,Man, it looks like even bandits \Nhave diverse taste when it comes to girls!{馬族といえども、女性に対する趣味も好みもあったんですなぁ! not really sure about this one}{looks alright to me}
 Dialogue: 10,0:09:22.05,0:09:24.16,Default,,0,0,0,,So you want to die after all?!
-Dialogue: 10,0:09:25.94,0:09:27.89,Default,,0,0,0,,That was it for my daily dose... {actually "that was tasty" but I like this}
+Dialogue: 10,0:09:25.94,0:09:27.89,Default,,0,0,0,,That felt good... {actually "that was tasty" but I like this} {I don't like this so I changed it to some equivalent ironic English phrase}
 Dialogue: 10,0:09:31.03,0:09:35.18,Default,,0,0,0,,Hey, Ushigorou or whatever it was, \Nwhat were these guys doing out here anyway?
 Dialogue: 10,0:09:35.18,0:09:37.25,Default,,0,0,0,,Security is way tighter than usual.
 Dialogue: 10,0:09:37.25,0:09:38.54,Default,,0,0,0,,Yeah, well, you see...
@@ -195,7 +196,7 @@ Dialogue: 10,0:10:09.26,0:10:14.73,Default,,0,0,0,,Hello there, I am here to inf
 Dialogue: 10,0:10:14.73,0:10:19.38,Default,,0,0,0,,This is when the earthly world \Nand the afterlife converge.
 Dialogue: 10,0:10:19.38,0:10:22.42,Default,,0,0,0,,It’s a time like no other.
 Dialogue: 10,0:10:23.11,0:10:25.24,Default,,0,0,0,,I came for vengeance...
-Dialogue: 10,0:10:27.38,0:10:32.54,Default,,0,0,0,,Oh poor me, I was murdered by bandits in cold blood and now I have become the ghost of this place...
+Dialogue: 10,0:10:27.38,0:10:32.54,Default,,0,0,0,,Oh poor me, I was murdered in cold blood by bandits and now I haunt this place...
 Dialogue: 10,0:10:32.54,0:10:35.54,Default,,0,0,0,,Begone... Begone, whatever you are!
 Dialogue: 10,0:10:35.54,0:10:39.13,Default,,0,0,0,,Oh, you shouldn't be talking like that...
 Dialogue: 10,0:10:39.92,0:10:42.01,Default,,0,0,0,,Shoo! Shoo! Begone! Begone!
@@ -209,12 +210,12 @@ Dialogue: 10,0:10:59.33,0:11:02.79,Default,,0,0,0,,Sorry, not sorry!
 Dialogue: 10,0:11:02.79,0:11:04.23,Default,,0,0,0,,Who'd die for such a trifle?
 Dialogue: 10,0:11:04.23,0:11:09.70,Default,,0,0,0,,But when I return to Japan alive, \NI'll make sure to cover your exploits extensively!
 Dialogue: 10,0:11:11.01,0:11:14.49,Default,,0,0,0,,R-Right, that wasn't very nice of me. \NI beg your forgiveness.
-Dialogue: 10,0:11:14.96,0:11:17.41,Default,,0,0,0,,Humph! Too late for repenting!
+Dialogue: 10,0:11:14.96,0:11:17.41,Default,,0,0,0,,Humph! It's too late to repent!
 Dialogue: 10,0:11:17.41,0:11:18.83,Default,,0,0,0,,No, I {\i1}do{\i0} mean it.
 Dialogue: 10,0:11:18.83,0:11:22.06,Default,,0,0,0,,I'm so sorry. Would you please marry me...
-Dialogue: 10,0:11:22.06,0:11:23.72,Default,,0,0,0,,in your wildest dreams?!
+Dialogue: 10,0:11:22.06,0:11:23.72,Default,,0,0,0,,...in your wildest dreams?!
 Dialogue: 10,0:11:23.72,0:11:25.38,Default,,0,0,0,,Wow! How sly!
-Dialogue: 10,0:11:25.92,0:11:29.53,Default,,0,0,0,,Can you blame me? In this case, \NI’ll just have to kill you with my own hands.
+Dialogue: 10,0:11:25.92,0:11:29.53,Default,,0,0,0,,Can you blame me? In this case, \NI’ll just have to kill you myself.
 Dialogue: 10,0:11:31.53,0:11:32.85,Default,,0,0,0,,Say your prayers!
 Dialogue: 10,0:11:34.82,0:11:37.68,Default,,0,0,0,,Save me, Shinobu!
 Dialogue: 10,0:11:42.12,0:11:44.01,Default,,0,0,0,,Save me, Shinobu!
@@ -226,10 +227,10 @@ Dialogue: 10,0:12:14.32,0:12:16.32,Default,,0,0,0,,The mounted bandits are attac
 Dialogue: 10,0:12:23.29,0:12:25.00,Default,,0,0,0,,You keep destroying my life!
 Dialogue: 10,0:12:25.00,0:12:28.15,Default,,0,0,0,,My status, my position, my reputation.
 Dialogue: 10,0:12:28.15,0:12:30.88,Default,,0,0,0,,Everything is in ashes now...
-Dialogue: 10,0:12:31.82,0:12:37.32,Default,,0,0,0,,You think that amounts to anything?\NIt's all your fault if my Shinobu is gone!
+Dialogue: 10,0:12:31.82,0:12:37.32,Default,,0,0,0,,You think that excuses anything?\NIt's all your fault my Shinobu is gone!
 Dialogue: 10,0:12:37.97,0:12:39.20,Default,,0,0,0,,Shinobu...
 Dialogue: 10,0:12:46.75,0:12:48.04,Default,,0,0,0,,Oh crap, I've lost it!
-Dialogue: 10,0:12:49.98,0:12:51.50,Default,,0,0,0,,How the turntables!
+Dialogue: 10,0:12:49.98,0:12:51.50,Default,,0,0,0,,How the tables have turned!
 Dialogue: 10,0:12:51.50,0:12:52.36,Default,,0,0,0,,Stop!
 Dialogue: 10,0:12:52.90,0:12:54.69,Default,,0,0,0,,Stop! Stop!
 Dialogue: 10,0:12:56.07,0:12:57.48,Default,,0,0,0,,Stop running away!
@@ -239,8 +240,9 @@ Dialogue: 10,0:13:09.82,0:13:14.11,Default,,0,0,0,,Fight! Fight! Fight! Fight!
 Dialogue: 10,0:13:14.11,0:13:15.09,Default,,0,0,0,,Huh?
 Dialogue: 10,0:13:16.67,0:13:17.37,Default,,0,0,0,,Hey! Stop!
 Dialogue: 10,0:13:19.84,0:13:20.58,Default,,0,0,0,,Ushigorou!
-Dialogue: 10,0:13:20.58,0:13:26.92,Default,,0,0,0,,Ushigorou the Goldfish makes an entrance!
-Dialogue: 10,0:13:27.56,0:13:29.63,Default,,0,0,0,,Everyone, gather together!
+Dialogue: 10,0:13:20.58,0:13:22.98,Default,,0,0,0,,Ushigorou the Goldfish...
+Dialogue: 10,0:13:23.55,0:13:26.45,Default,,0,0,0,,makes an entrance!
+Dialogue: 10,0:13:27.56,0:13:29.63,Default,,0,0,0,,Everyone, gather round!
 Dialogue: 10,0:13:29.63,0:13:33.87,Default,,0,0,0,,Man, they really didn't have \Nto make such a mess out of it...
 Dialogue: 10,0:13:33.87,0:13:36.47,Default,,0,0,0,,Well, we've probably \Nwrecked this place enough.
 Dialogue: 10,0:13:39.97,0:13:42.91,Default,,0,0,0,,Benio, where is that Innen now?
@@ -251,11 +253,11 @@ Dialogue: 10,0:13:52.54,0:13:53.69,Default,,0,0,0,,What should I do with you?
 Dialogue: 10,0:13:53.69,0:13:56.25,Default,,0,0,0,,Let's use him up to make some dumplings! {/gyoza}
 Dialogue: 10,0:13:56.25,0:13:58.00,Default,,0,0,0,,What about turning him into soup?
 Dialogue: 10,0:13:58.00,0:13:59.33,Default,,0,0,0,,Let's boil him and bake him!
-Dialogue: 10,0:14:00.08,0:14:02.84,Default,,0,0,0,,How about we tear \Nall your limbs apart one at a time?
+Dialogue: 10,0:14:00.08,0:14:02.84,Default,,0,0,0,,How about we tear \Nall your limbs apart one by one?
 Dialogue: 10,0:14:04.16,0:14:08.24,Default,,0,0,0,,Onijima, while I despise Colonel Innen \Nas much as you do,
 Dialogue: 10,0:14:09.21,0:14:12.63,Default,,0,0,0,,you must realize \Nthat even if you kill him now, it won't...
 Dialogue: 10,0:14:13.77,0:14:16.48,Default,,0,0,0,,bring Shinobu back.
-Dialogue: 10,0:14:37.96,0:14:43.61,Default,,0,0,0,,Hey! My Boss showed great compassion for you.\NBetter be grateful, Innen!
+Dialogue: 10,0:14:37.96,0:14:43.61,Default,,0,0,0,,Hey! My boss showed great compassion for you.\NYou better be grateful, Innen!
 Dialogue: 10,0:14:43.61,0:14:49.42,Default,,0,0,0,,Yessir! Let’s all say “I love you!”\Nand sing a song about it!{some kind of nursery rhyme: originally 私はあなたをあいうえお だから手紙をかきくけこ - literally “a i u e o you, so let’s ka ke ku ke ko a letter” - going through all the vowels of Japanese, then through all forms of ku/ke/... so yeah a song for children}
 Dialogue: 10,0:14:49.42,0:14:54.88,Default,,0,0,0,,Man, what should we do?\NEven the Colonel has a screw loose now...
 Dialogue: 10,0:15:30.18,0:15:34.55,Default,,0,0,0,,Who am I? \NI have no memories of my past at all.
@@ -274,7 +276,7 @@ Dialogue: 10,0:16:31.26,0:16:35.50,Default,,0,0,0,,Thank you very much for follo
 Dialogue: 10,0:16:36.83,0:16:40.90,Song,,0,0,0,,Please call me High Collar Lady, \Nbecause I'm in that phase...
 Dialogue: 10,0:16:40.90,0:16:43.32,Default,,0,0,0,,Ah! Boss, how could you?!
 Dialogue: 10,0:16:45.46,0:16:49.01,Default,,0,0,0,,Let me die! \NI'll kill myself and nothing's gonna stop me!
-Dialogue: 10,0:16:51.54,0:16:53.23,Default,,0,0,0,,Where there’s a will, there’s a way! {lit: if not the washing basin...}
+Dialogue: 10,0:16:51.54,0:16:53.23,Default,,0,0,0,,If not the washing basin...! {lit: if not the washing basin...}
 Dialogue: 10,0:16:57.81,0:16:59.38,Default,,0,0,0,,Endure... Endure...
 Dialogue: 10,0:17:02.86,0:17:03.87,Default,,0,0,0,,Benio!
 Dialogue: 10,0:17:08.70,0:17:10.82,Default,,0,0,0,,Benio! Benio!
@@ -296,8 +298,8 @@ Dialogue: 10,0:18:50.32,0:18:51.56,Default,,0,0,0,,You’re finally awake?
 Dialogue: 10,0:18:53.26,0:18:55.85,Default,,0,0,0,,My head hurts so bad! I feel awful.
 Dialogue: 10,0:18:55.85,0:19:00.42,Default,,0,0,0,,Of course you do. Be grateful \Nyou didn't get acute alcohol poisoning.
 Dialogue: 10,0:19:11.22,0:19:13.93,Default,,0,0,0,,That means... I didn't die?
-Dialogue: 10,0:19:24.00,0:19:25.90,Default,,0,0,0,,Manchurian wasteland...
-Dialogue: 10,0:19:26.73,0:19:30.51,Default,,0,0,0,,It connects directly to Siberian one, \Nwhere Shinobu is resting.
+Dialogue: 10,0:19:24.00,0:19:25.90,Default,,0,0,0,,The Manchurian wasteland...
+Dialogue: 10,0:19:26.73,0:19:30.51,Default,,0,0,0,,It connects directly to Siberia, \Nwhere Shinobu rests.
 Dialogue: 10,0:19:31.59,0:19:33.22,Default,,0,0,0,,The malinka flower...
 Dialogue: 10,0:19:34.22,0:19:37.95,Default,,0,0,0,,{\i1}It's a small, yet enduring flower.
 Dialogue: 10,0:19:42.42,0:19:44.60,Default,,0,0,0,,They bloom early, don't they?
@@ -318,8 +320,9 @@ Dialogue: 10,0:21:09.76,0:21:12.44,Default,,0,0,0,,Take care. Well, goodbye now.
 Dialogue: 10,0:21:12.44,0:21:13.15,Default,,0,0,0,,Bye.
 Dialogue: 10,0:21:13.15,0:21:14.18,Default,,0,0,0,,Ah, wait a minute.
 Dialogue: 10,0:21:14.18,0:21:15.59,Default,,0,0,0,,What is it?
-Dialogue: 10,0:21:15.59,0:21:20.02,Default,,0,0,0,,If you ever get tired of Japan, \Nyou can come to Manchuria anytime. Moreover...
-Dialogue: 10,0:21:20.02,0:21:21.43,Default,,0,0,0,,Moreover?
+Dialogue: 10,0:21:15.59,0:21:19.18,Default,,0,0,0,,If you ever get tired of Japan, \Nyou can come to Manchuria anytime.
+Dialogue: 10,0:21:19.18,0:21:20.02,Default,,0,0,0,,And...
+Dialogue: 10,0:21:20.02,0:21:21.43,Default,,0,0,0,,And?
 Dialogue: 10,0:21:22.14,0:21:23.58,Default,,0,0,0,,Never mind.
 Dialogue: 10,0:21:24.12,0:21:25.20,Default,,0,0,0,,Well, adieu!
 Dialogue: 10,0:21:29.57,0:21:31.42,Default,,0,0,0,,So, shall we return to Tokyo?
@@ -327,7 +330,7 @@ Dialogue: 10,0:21:31.42,0:21:32.46,Default,,0,0,0,,Yessir!
 Dialogue: 10,0:21:42.22,0:21:45.54,Default,,0,0,0,,I was about to say: \N"If you ever manage to forget Shinobu..."
 Dialogue: 10,0:21:45.54,0:21:48.50,Default,,0,0,0,,What do you know, \Nguess I got a crush on her! Poor old me.
 Dialogue: 10,0:22:06.20,0:22:07.19,Default,,0,0,0,,Boss?
-Dialogue: 10,0:22:26.67,0:22:31.59,Default,,0,0,0,,Thusly, the scene is once again set in Tokyo.
+Dialogue: 10,0:22:26.67,0:22:31.59,Default,,0,0,0,,Thusly, the play is once again set in Tokyo.
 Dialogue: 10,0:22:31.59,0:22:36.51,Default,,0,0,0,,Benio leaves Manchuria with nothing\Nbut the confirmation of Shinobu's death.
 Dialogue: 10,0:22:37.97,0:22:44.30,Default,,0,0,0,,"I had no business coming here. Goodbye, Manchuria, and my dear Shinobu," she thinks to herself.
 Dialogue: 10,0:22:44.30,0:22:48.08,Default,,0,0,0,,as the burning red sunset stings her eyes.
@@ -336,11 +339,15 @@ Dialogue: 10,0:22:58.51,0:23:03.08,Default,,0,0,0,,How could she ever tell them 
 Dialogue: 10,0:23:03.08,0:23:05.50,Default,,0,0,0,,But even if he is now gone,
 Dialogue: 10,0:23:05.50,0:23:09.06,Default,,0,0,0,,her love is unchanged \Nand she decides to stay with them.
 Dialogue: 10,0:23:09.06,0:23:13.73,Default,,0,0,0,,Our High Collar Lady holds back her tears and carries on, stronger than ever.
-Dialogue: 10,0:23:13.73,0:23:15.70,Default,,0,0,0,,Next time on Here Comes the High Collar Lady:
-Dialogue: 10,0:23:15.70,0:23:18.09,Default,,0,0,0,,Shinobu Lives on in my Heart.
+Dialogue: 10,0:23:13.73,0:23:15.70,Default,,0,0,0,,See in the next episode of \N{\i1}Here Comes the High Collar Lady:{\i0}
+Dialogue: 10,0:23:15.70,0:23:18.09,Default,,0,0,0,,"Shinobu Lives on in My Heart."
 Dialogue: 10,0:23:18.09,0:23:19.63,Default,,0,0,0,,Don't miss it!
-Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\blur1.001\bord0\an6\pos(941,737)} Translation \N Encoding & quality checking \N Timing & translation checking \N Special thanks
-Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\blur1.001\bord0\an4\pos(981,737)} alucardnoyuuutsu \N Anonymous \NPerevodildo \N Golden time Anime (vk)
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(937,609)\blur1.7\bord0\an9} Encoding & QC \N Translation \N Timing, TLC & Typesetting \N Special Thanks \N Editing
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(984,609)\blur1.7\bord0\an7} Anonymous \N alucardnoyuuutsu \N Perevodildo \N Golden Time Anime (VK) \N CeleryMan
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(937,609)\blur1.3\bord0\an9} Encoding & QC \N Translation \N Timing, TLC & Typesetting \N Special Thanks \N Editing
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(984,609)\blur1.3\bord0\an7} Anonymous \N alucardnoyuuutsu \N Perevodildo \N Golden Time Anime (VK) \N CeleryMan
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(937,609)\blur1\bord0\an9} Encoding & QC \N Translation \N Timing, TLC & Typesetting \N Special Thanks \N Editing
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(984,609)\blur1\bord0\an7} Anonymous \N alucardnoyuuutsu \N Perevodildo \N Golden Time Anime (VK) \N CeleryMan
 Comment: 0,0:24:29.20,0:24:29.25,Sign,,0,0,0,,{ED end}
 Dialogue: 0,0:03:34.03,0:03:34.08,Sign,,0,0,0,,{=2=3}{\fscx173.15\fscy181.59\frz-0.25\fade(255,0,255,-40,-40,3380,3380)\c&HEEE4E4&\q2\bord0\blur1.82\pos(807.2,-346.29)\fnArial Rounded MT Bold}Episode 39\N{\fs100.001}The Everflowing Song \Nof Mounted Bandits {流れ流れて馬賊の詩}
 Dialogue: 0,0:03:34.08,0:03:34.12,Sign,,0,0,0,,{=2}{\fscx151.32\fscy158.69\frz-0.22\fade(255,0,255,-80,-80,3340,3340)\c&HEEE4E4&\q2\bord0\blur1.59\pos(796.97,-234.33)\fnArial Rounded MT Bold}Episode 39\N{\fs100.001}The Everflowing Song \Nof Mounted Bandits {流れ流れて馬賊の詩}
@@ -800,7 +807,7 @@ Dialogue: 0,0:17:06.80,0:17:07.72,Sign,,0,0,0,,{\fs90\frz29.54\blur1.001\fade(10
 Dialogue: 0,0:17:07.60,0:17:08.70,Sign,,0,0,0,,{\fs90\frz29.54\blur1.001\fade(100,0)\c&H2028CA&\3c&H323247&\fnFOT-PopHappiness Std EB\b0\pos(530.29,213.43)}Hiccup
 Dialogue: 0,0:17:18.19,0:17:19.53,Sign,,0,0,0,,{\fade(0,500)\bord1.001\blur1.001\frz10.45\pos(209.899,274.669)\c&H3233B7&\fnArchitects Daughter}Lights out {idk}
 Dialogue: 0,0:22:51.35,0:22:55.28,Sign,,0,0,0,,Next episode preview
-Dialogue: 0,0:23:17.47,0:23:21.39,Sign,,0,0,0,,Episode 40\NShinobu Lives on in my Heart {少尉は生きてる心の中に}
+Dialogue: 0,0:23:17.47,0:23:21.39,Sign,,0,0,0,,Episode 40\NShinobu Lives on in My Heart {少尉は生きてる心の中に}
 
 [Aegisub Extradata]
 Data: 2,a-mo,e{"originalText"#3A"{\\fade(00#2C0)\\c&HEEE4E4&\\q2\\bord0\\blur1.001\\pos(769#2C58.001)\\fnArial Rounded MT Bold}Episode 39\\N{\\fs100.001}The Everflowing Song \\Nof Mounted Bandits {#E6#B5#81#E3#82#8C#E6#B5#81#E3#82#8C#E3#81#A6#E9#A6#AC#E8#B3#8A#E3#81#AE#E8#A9#A9}"#2C"uuid"#3A"a06aea9b-33ce-4116-8edb-2addf853c838"}

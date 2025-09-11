@@ -38,7 +38,7 @@ Dialogue: 0,0:00:17.96,0:00:22.21,Default,,0,0,20,,Those two shockingly beautifu
 Dialogue: 0,0:00:22.21,0:00:27.52,Default,,0,0,20,,Overflowing with startling romance
 Dialogue: 0,0:00:27.52,0:00:29.73,Default,,0,0,20,,All-consuming
 Dialogue: 0,0:00:29.73,0:00:31.90,Default,,0,0,20,,Inescapable
-Dialogue: 0,0:00:31.90,0:00:36.32,Default,,0,0,20,,With a Taishou Era charming lady
+Dialogue: 0,0:00:31.90,0:00:36.32,Default,,0,0,20,,With a Taishō Era charming lady
 Dialogue: 0,0:00:36.32,0:00:40.70,Default,,0,0,20,,Hi, Hi, Hi, High Collar Lady's coming
 Dialogue: 0,0:00:40.70,0:00:45.08,Default,,0,0,20,,With her gentle heart, winning everyone over
 Dialogue: 0,0:00:45.08,0:00:49.46,Default,,0,0,20,,Hi, Hi, Hi, High Collar Lady's coming
@@ -57,66 +57,66 @@ Dialogue: 0,0:24:00.18,0:24:05.69,Default,,0,0,20,,Ah, how frustrating it is \Nt
 Dialogue: 0,0:24:05.69,0:24:10.64,Default,,0,0,20,,How are you feeling? I am Benio
 Dialogue: 0,0:24:12.15,0:24:16.83,Default,,0,0,20,,Just a tomboyish lady who's a little pretentious
 Comment: 0,0:24:14.73,0:24:18.94,Default,,0,0,0,,{\b1\blur1.001\fs45\bord0\c&HFCF5FD&\pos(1060.001,600)\fs28.001}Brought to you by the Sorcery Party\N{\fs}ѫ~ѫ\N"Lux in Tenebris"
-Dialogue: 10,0:01:16.87,0:01:20.05,Default,,0,0,0,,Our High Collar Lady \Nhas to shoulder her family's poor finances,
+Dialogue: 10,0:01:16.87,0:01:20.05,Default,,0,0,0,,Our High Collar Lady \Nhas to shoulder her family's dire finances,
 Dialogue: 10,0:01:20.05,0:01:22.61,Default,,0,0,0,,all the while pretending to go to school.
 Dialogue: 10,0:01:22.61,0:01:25.40,Default,,0,0,0,,After many failed jobs, \Nshe had yet another interview,
 Dialogue: 10,0:01:25.40,0:01:29.38,Default,,0,0,0,,this time at a publishing house recommended to her by Kichiji,
 Dialogue: 10,0:01:29.38,0:01:31.43,Default,,0,0,0,,only to be mistreated right off the bat.
-Dialogue: 10,0:01:31.43,0:01:35.50,Default,,0,0,0,,Her first task was to cover \Nan ongoing demonstration,
+Dialogue: 10,0:01:31.43,0:01:35.50,Default,,0,0,0,,Her first assignment was to cover \Nan ongoing demonstration,
 Dialogue: 10,0:01:35.50,0:01:38.73,Default,,0,0,0,,but, as expected, \Nit escalated into even more chaos!
 Dialogue: 10,0:01:38.73,0:01:41.58,Default,,0,0,0,,Benio found herself \Nonce again in a police station,
-Dialogue: 10,0:01:41.58,0:01:46.90,Default,,0,0,0,,but, much to her surprise, it landed her a job \Nat the aforementioned publishing house.
-Dialogue: 10,0:01:46.90,0:01:52.47,Default,,0,0,0,,However, coincidentally, the Ijuuins got to know \Nthat Benio has been skipping school.
-Dialogue: 10,0:01:52.47,0:01:57.49,Default,,0,0,0,,Nonetheless, being too considerate, both parties keep lying to each others' face, feigning ignorance.
+Dialogue: 10,0:01:41.58,0:01:46.90,Default,,0,0,0,,but, much to her surprise, it landed\Nher the job at the publishing house.
+Dialogue: 10,0:01:46.90,0:01:52.47,Default,,0,0,0,,Coincidentally, the Ijuuins came to know \Nthat Benio has been skipping school.
+Dialogue: 10,0:01:52.47,0:01:57.49,Default,,0,0,0,,Nonetheless, being too considerate, both parties keep lying to each others' faces, feigning ignorance.
 Dialogue: 10,0:01:57.49,0:02:01.34,Default,,0,0,0,,Now the question is, \Nwhen will the truth come to light?
 Dialogue: 10,0:02:04.34,0:02:10.95,Default,,0,0,0,,Got it? Here you must forget that you're actually a woman and work as a man would.
 Dialogue: 10,0:02:11.38,0:02:12.33,Default,,0,0,0,,Okay!
 Dialogue: 10,0:02:12.33,0:02:16.75,Default,,0,0,0,,Women cry. Women are pampered. \NWomen slack off.
-Dialogue: 10,0:02:18.22,0:02:20.64,Default,,0,0,0,,If I notice you do any of these,
-Dialogue: 10,0:02:22.56,0:02:24.26,Default,,0,0,0,,I'll fire you then and there.
+Dialogue: 10,0:02:18.22,0:02:20.64,Default,,0,0,0,,If I notice you do any of these things,
+Dialogue: 10,0:02:22.56,0:02:24.26,Default,,0,0,0,,I'll fire you on the spot.
 Dialogue: 10,0:02:24.26,0:02:27.84,Default,,0,0,0,,Now, that'll be tough. \NI'm so feminine, after all.
-Dialogue: 10,0:02:27.84,0:02:30.19,Default,,0,0,0,,Give me a break... {/look who's talking}
+Dialogue: 10,0:02:27.84,0:02:30.19,Default,,0,0,0,,Look who's talking...
 Dialogue: 10,0:02:30.19,0:02:32.78,Default,,0,0,0,,Well, it's your responsibility now. \NI hope you'll manage.
 Dialogue: 10,0:02:32.78,0:02:33.53,Default,,0,0,0,,Hm!
-Dialogue: 10,0:02:37.62,0:02:39.59,Default,,0,0,0,,How do you mean? {didn't really get where the catch is supposed to be - Alucard}
-Dialogue: 10,0:02:47.04,0:02:48.70,Default,,0,0,0,,A bit of introduction, everyone.
-Dialogue: 10,0:02:48.70,0:02:52.37,Default,,0,0,0,,This here is Hanamura Benio \Nand from today on she works with us.
+Dialogue: 10,0:02:37.62,0:02:39.59,Default,,0,0,0,,You {\i1}hope{\i0} so? {didn't really get where the catch is supposed to be - Alucard}
+Dialogue: 10,0:02:47.04,0:02:48.70,Default,,0,0,0,,A bit of an introduction, everyone.
+Dialogue: 10,0:02:48.70,0:02:52.37,Default,,0,0,0,,This here is Hanamura Benio \Nand starting today she's working with us.
 Dialogue: 10,0:02:52.37,0:02:53.87,Default,,0,0,0,,Nice to meet you all!
 Dialogue: 10,0:02:53.87,0:02:56.04,Default,,0,0,0,,Hey there! Nice to meet you too.
 Dialogue: 10,0:02:56.04,0:02:57.79,Default,,0,0,0,,You can use that desk over there.
 Dialogue: 10,0:02:58.56,0:02:59.31,Default,,0,0,0,,Okay.
 Dialogue: 10,0:03:04.29,0:03:07.11,Default,,0,0,0,,I've finally become a full-fledged magazine reporter.
-Dialogue: 10,0:03:07.11,0:03:08.17,Default,,0,0,0,,Feels nice!
+Dialogue: 10,0:03:07.11,0:03:08.17,Default,,0,0,0,,It feels nice!
 Dialogue: 10,0:03:13.72,0:03:17.41,Default,,0,0,0,,Still, to think our editor-in-chief hired a woman...
 Dialogue: 10,0:03:17.41,0:03:18.64,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:03:18.64,0:03:20.10,Default,,0,0,0,,What?
 Dialogue: 10,0:03:20.10,0:03:22.52,Default,,0,0,0,,Huh, don't you know?
-Dialogue: 10,0:03:22.52,0:03:26.43,Default,,0,0,0,,Our editor-in-chief is a known misogynist.
+Dialogue: 10,0:03:22.52,0:03:26.43,Default,,0,0,0,,Our editor-in-chief is an infamous misogynist.
 Dialogue: 10,0:03:26.43,0:03:27.42,Default,,0,0,0,,Huh?
-Dialogue: 10,0:03:29.71,0:03:31.24,Default,,0,0,0,,He doesn't look that way, though.
-Dialogue: 10,0:03:32.75,0:03:36.58,Default,,0,0,0,,After all, the mere touch of a woman \Ngives him hives.
-Dialogue: 10,0:03:39.49,0:03:41.97,Default,,0,0,0,,I can guarantee you \Nthat he's not malingering.
+Dialogue: 10,0:03:29.71,0:03:31.24,Default,,0,0,0,,He doesn't look like one, though.
+Dialogue: 10,0:03:32.75,0:03:36.58,Default,,0,0,0,,In fact, the mere touch of a woman \Ngives him hives.
+Dialogue: 10,0:03:39.49,0:03:41.97,Default,,0,0,0,,I can guarantee you \Nthat he's not pretending.
 Dialogue: 10,0:03:42.56,0:03:43.74,Default,,0,0,0,,Right?
 Dialogue: 10,0:03:43.74,0:03:46.17,Default,,0,0,0,,Hives?
 Dialogue: 10,0:03:47.06,0:03:48.61,Default,,0,0,0,,That's ridiculous!
 Dialogue: 10,0:03:49.31,0:03:50.61,Default,,0,0,0,,It's the truth.
-Dialogue: 10,0:03:50.61,0:03:51.81,Default,,0,0,0,,Go and try it yourself.
+Dialogue: 10,0:03:50.61,0:03:51.81,Default,,0,0,0,,Go and find out for yourself.
 Dialogue: 10,0:04:01.37,0:04:03.40,Default,,0,0,0,,Excuse me for a moment.
 Dialogue: 10,0:04:08.04,0:04:10.96,Default,,0,0,0,,Just as I thought, nothing happened!
-Dialogue: 10,0:04:10.96,0:04:12.28,Default,,0,0,0,,Umph, they just made fun of me.
+Dialogue: 10,0:04:10.96,0:04:12.28,Default,,0,0,0,,Umph, they were just making fun of me.
 Dialogue: 10,0:04:17.86,0:04:19.45,Default,,0,0,0,,{ignore?}
 Dialogue: 10,0:04:19.93,0:04:21.44,Default,,0,0,0,,What are you slacking off for?!
-Dialogue: 10,0:04:21.44,0:04:22.87,Default,,0,0,0,,Go back to your article!
+Dialogue: 10,0:04:21.44,0:04:22.87,Default,,0,0,0,,Get back to your article!
 Dialogue: 10,0:04:22.87,0:04:23.40,Default,,0,0,0,,Okay!
 Dialogue: 10,0:04:23.40,0:04:24.97,Default,,0,0,0,,Just work already!
 Dialogue: 10,0:04:24.97,0:04:25.98,Default,,0,0,0,,Okay!
-Dialogue: 10,0:04:27.21,0:04:29.25,Default,,0,0,0,,Editor-in-Chief, the exorcist is here!
+Dialogue: 10,0:04:27.21,0:04:29.25,Default,,0,0,0,,Editor, the exorcist is here!
 Dialogue: 10,0:04:29.25,0:04:32.29,Default,,0,0,0,,Listen to me: that was not a woman.
 Dialogue: 10,0:04:32.29,0:04:35.90,Default,,0,0,0,,Not a woman, not a woman, \Nnot a woman, not a woman!
 Dialogue: 10,0:04:35.90,0:04:36.43,Default,,0,0,0,,Good.
 Dialogue: 10,0:04:36.43,0:04:39.45,Default,,0,0,0,,Good. Itchy rash, go away!
-Dialogue: 10,0:04:43.79,0:04:47.57,Default,,0,0,0,,That was scary. \NHow can one hate women that much?
-Dialogue: 10,0:04:50.61,0:04:56.32,Default,,0,0,0,,That night, I figured out that there's no point in paying tuition fees if I'm skipping school every day anyhow.
+Dialogue: 10,0:04:43.79,0:04:47.57,Default,,0,0,0,,That was scary. \NHow can someone hate women that much?
+Dialogue: 10,0:04:50.61,0:04:56.32,Default,,0,0,0,,That night, I figured out that there's no point in paying tuition fees if I'm always skipping school.
 Dialogue: 10,0:04:56.32,0:04:59.09,Default,,0,0,0,,I've already made up my mind \Nto drop out altogether.
 Dialogue: 10,0:05:02.04,0:05:03.41,Default,,0,0,0,,Benio?
 Dialogue: 10,0:05:09.85,0:05:11.65,Default,,0,0,0,,All of this for our family...
@@ -130,42 +130,43 @@ Dialogue: 10,0:05:35.70,0:05:40.74,Default,,0,0,0,,my blood boils, I lose my app
 Dialogue: 10,0:05:40.74,0:05:44.61,Default,,0,0,0,,If you really want to help, \Nthen the best thing you can do is leave me be.
 Dialogue: 10,0:05:47.64,0:05:52.30,Default,,0,0,0,,Oh dear, what a kind, \Nloving person you are.
 Dialogue: 10,0:06:00.10,0:06:05.02,Default,,0,0,0,,Shinobu, please don't judge me \Nfor giving up on school. {/turn a blind eye to me leaving school}
-Dialogue: 10,0:06:10.94,0:06:15.36,Default,,0,0,0,,If Shinobu was still alive, \Nshe wouldn't have had to drop out of school.
-Dialogue: 10,0:06:15.36,0:06:21.78,Default,,0,0,0,,But as a consolation for losing Shinobu, \NBenio was bestowed upon us.
+Dialogue: 10,0:06:10.94,0:06:15.36,Default,,0,0,0,,If Shinobu were still alive, \Nshe wouldn't have to drop out.
+Dialogue: 10,0:06:15.36,0:06:21.78,Default,,0,0,0,,But as consolation for losing Shinobu, \NBenio was bestowed upon us.
 Dialogue: 10,0:06:23.39,0:06:28.21,Default,,0,0,0,,These days, I cannot think of Benio \Nas anyone other than our own granddaughter.
 Dialogue: 10,0:06:33.96,0:06:36.80,Default,,0,0,0,,If there's a fire in the west, \NI'll go report it.
 Dialogue: 10,0:06:36.80,0:06:39.44,Default,,0,0,0,,If there's a commotion in the east, \NI'll go report it.
 Dialogue: 10,0:06:39.44,0:06:42.20,Default,,0,0,0,,Reporting... Reporting every day!
 Dialogue: 10,0:06:47.62,0:06:49.80,Default,,0,0,0,,How is our new employee doing?
-Dialogue: 10,0:06:50.25,0:06:52.25,Default,,0,0,0,,It's going surprisingly well for her.
+Dialogue: 10,0:06:50.25,0:06:52.25,Default,,0,0,0,,She's doing surprisingly well.
 Dialogue: 10,0:06:52.79,0:06:56.49,Default,,0,0,0,,I want to believe you're not going easy on her \Njust because she's a woman.
 Dialogue: 10,0:06:58.06,0:07:00.11,Default,,0,0,0,,Hey everyone! Here's some tea.
 Dialogue: 10,0:07:00.11,0:07:01.57,Default,,0,0,0,,Whoa!
-Dialogue: 10,0:07:02.16,0:07:06.50,Default,,0,0,0,,C-Calling that creature a woman \Nis an insult to god!
+Dialogue: 10,0:07:02.16,0:07:06.50,Default,,0,0,0,,C-Calling that creature a woman \Nis an insult to God!
 Dialogue: 10,0:07:07.28,0:07:09.17,Default,,0,0,0,,Right...
 Dialogue: 10,0:07:14.52,0:07:15.95,Default,,0,0,0,,I'm home.
 Dialogue: 10,0:07:18.95,0:07:20.94,Default,,0,0,0,,Whew, I'm beat...
 Dialogue: 10,0:07:20.94,0:07:22.15,Default,,0,0,0,,Benio?
 Dialogue: 10,0:07:24.05,0:07:27.37,Default,,0,0,0,,I'm sorry. We've been doing nothing \Nbut giving you more trouble.
-Dialogue: 10,0:07:27.37,0:07:30.19,Default,,0,0,0,,All of this because we have \Nno wealth to our name.
+Dialogue: 10,0:07:27.37,0:07:30.19,Default,,0,0,0,,All of this because we have \Nno wealth left to our name.
 Dialogue: 10,0:07:30.19,0:07:31.23,Default,,0,0,0,,Countess!
-Dialogue: 10,0:07:31.79,0:07:35.25,Default,,0,0,0,,If times were better, \Nyou would have lived a painless noble life,
-Dialogue: 10,0:07:35.25,0:07:38.84,Default,,0,0,0,,but instead you are here, \Nworking like the common folk.
+Dialogue: 10,0:07:31.79,0:07:35.25,Default,,0,0,0,,If times were better, \Nyou would have enjoyed a painless noble life,
+Dialogue: 10,0:07:35.25,0:07:38.84,Default,,0,0,0,,but instead you are stuck \Nworking like the common folk.
 Dialogue: 10,0:07:39.36,0:07:41.35,Default,,0,0,0,,Oh no, it's not like that, Countess.
 Dialogue: 10,0:07:41.35,0:07:44.58,Default,,0,0,0,,Nowadays all sorts of women \Nwork actual jobs.
 Dialogue: 10,0:07:44.58,0:07:46.15,Default,,0,0,0,,But Benio...
 Dialogue: 10,0:07:46.15,0:07:47.89,Default,,0,0,0,,Don't worry about me.
-Dialogue: 10,0:07:47.89,0:07:51.99,Default,,0,0,0,,I'm young and healthy.\NBesides, my current job seems to be suited for me.
+Dialogue: 10,0:07:47.89,0:07:49.53,Default,,0,0,0,,I'm young and healthy.
+Dialogue: 10,0:07:49.53,0:07:51.99,Default,,0,0,0,,Besides, my current job seems to be suited for me.
 Dialogue: 10,0:07:52.52,0:07:56.14,Default,,0,0,0,,Instead, try to be more cheerful yourself, Countess.
 Dialogue: 10,0:07:56.14,0:08:00.40,Default,,0,0,0,,When Shinobu comes back, \Nhe'll definitely be worried to see you like this.
 Dialogue: 10,0:08:00.40,0:08:02.11,Default,,0,0,0,,Huh? "When?"
 Dialogue: 10,0:08:02.11,0:08:05.51,Default,,0,0,0,,Yes. He's surely coming back home \Nsooner or later.
-Dialogue: 10,0:08:06.40,0:08:10.95,Default,,0,0,0,,Well, go to rest now. I have to get up \Nearly tomorrow, so I'll do the same.
+Dialogue: 10,0:08:06.40,0:08:10.95,Default,,0,0,0,,Well, go rest now. I have to get up \Nearly tomorrow, so I'll do the same.
 Dialogue: 10,0:08:16.94,0:08:21.03,Default,,0,0,0,,She still believes that Shinobu is alive...
 Dialogue: 10,0:08:31.79,0:08:33.75,Default,,0,0,0,,The flower of malinka...
 Dialogue: 10,0:08:37.94,0:08:39.30,Default,,0,0,0,,Shinobu...
 Dialogue: 10,0:08:46.09,0:08:48.23,Default,,0,0,0,,This flower grows in the wasteland.{ep 27, 10:46}
-Dialogue: 10,0:08:48.23,0:08:52.49,Default,,0,0,0,,During Siberia's short summer, \Nthese flowers bloom and cover entire fields.
+Dialogue: 10,0:08:48.23,0:08:52.49,Default,,0,0,0,,During Siberia's short summers, \Nthese flowers bloom and cover entire fields.
 Dialogue: 10,0:08:55.33,0:08:56.65,Default,,0,0,0,,Shinobu...
 Dialogue: 10,0:09:07.30,0:09:08.66,Default,,0,0,0,,Shinobu...
 Dialogue: 10,0:09:09.87,0:09:11.14,Default,,0,0,0,,Shinobu!
@@ -204,7 +205,7 @@ Dialogue: 10,0:12:04.68,0:12:07.69,Default,,0,0,0,,God almighty, \Nwhat's going 
 Dialogue: 10,0:12:08.48,0:12:09.51,Default,,0,0,0,,Larisa,
 Dialogue: 10,0:12:10.22,0:12:12.05,Default,,0,0,0,,where should we go?
 Dialogue: 10,0:12:12.05,0:12:14.49,Default,,0,0,0,,Let's move to somewhere safer.
-Dialogue: 10,0:12:14.49,0:12:18.65,Default,,0,0,0,,If the revolution succeeds, \Nthey would strip you of your Marquis status.
+Dialogue: 10,0:12:14.49,0:12:18.65,Default,,0,0,0,,If the revolution succeeds, \Nthey will strip you of your Marquis status.
 Dialogue: 10,0:12:18.65,0:12:20.58,Default,,0,0,0,,Marquis Sasha Mikhailov...
 Dialogue: 10,0:12:20.58,0:12:22.98,Default,,0,0,0,,Marquis Sasha Mikhailov...
 Dialogue: 10,0:12:24.07,0:12:28.40,Default,,0,0,0,,Yeah. You probably still haven’t gotten your memory back after that awful illness.
@@ -219,12 +220,13 @@ Dialogue: 10,0:13:07.23,0:13:08.26,Default,,0,0,0,,Hanamura!
 Dialogue: 10,0:13:08.26,0:13:09.36,Default,,0,0,0,,Y-Yes?
 Dialogue: 10,0:13:10.58,0:13:12.38,Default,,0,0,0,,Did I just break your train of thought? {lit is something like "you were blanking-were you thinking of something?"}
 Dialogue: 10,0:13:12.38,0:13:15.55,Default,,0,0,0,,Sorry to bother, but could you go \Nto Edogawabata Sanpo-sensei's place
-Dialogue: 10,0:13:15.55,0:13:18.76,Default,,0,0,0,,to pick up the manuscript \Nfor "The Cripple{/Invalid} with Twenty Faces?" {parody of The Fiend with Twenty Faces (怪人二十面相, Kaijin ni-jū Mensō, 1936) wouldn't come out for 18 more years lol}
+Dialogue: 10,0:13:15.55,0:13:18.76,Default,,0,0,0,,to pick up the manuscript \Nfor {\i1}The Cripple{/Invalid} with Twenty Faces{\i0}? {parody of The Fiend with Twenty Faces (怪人二十面相, Kaijin ni-jū Mensō, 1936) wouldn't come out for 18 more years lol}
 Dialogue: 10,0:13:18.76,0:13:20.79,Default,,0,0,0,,Fiyaaawne...
 Dialogue: 10,0:13:21.45,0:13:23.71,Default,,0,0,0,,You know the way there, right?
-Dialogue: 10,0:13:43.98,0:13:49.90,Default,,0,0,0,,Well, I worked really hard on this one.\NBut all my efforts paid off. {I suspect something like "but in exchange for that, they sent me a fine specimen for my experiments" but can't be sure}
+Dialogue: 10,0:13:43.98,0:13:47.28,Default,,0,0,0,,Well, I worked really hard on this one.
+Dialogue: 10,0:13:47.28,0:13:49.90,Default,,0,0,0,,But it looks like all my effort paid off. {I suspect something like "but in exchange for that, they sent me a fine specimen for my experiments" but can't be sure}
 Dialogue: 10,0:14:00.20,0:14:02.83,Default,,0,0,0,,Next stop is Otowa 2-chome. {parody of Otome nichome}
-Dialogue: 10,0:14:02.83,0:14:04.54,Default,,0,0,0,,To Koudansha!{for some reason the pun is gone, it should be Joudansha [Comfunny]}
+Dialogue: 10,0:14:02.83,0:14:04.54,Default,,0,0,0,,To Koudansha!{for some reason the pun is gone, it should be Joudansha [Compunny]}
 Dialogue: 10,0:14:04.54,0:14:07.10,Default,,0,0,0,,To Koudansha!
 Dialogue: 10,0:14:16.30,0:14:18.18,Default,,0,0,0,,S-Shinobu!
 Dialogue: 10,0:14:20.64,0:14:22.13,Default,,0,0,0,,Hold it! I'm getting off!
@@ -240,7 +242,7 @@ Dialogue: 10,0:14:58.62,0:15:00.95,Default,,0,0,0,,Oh no! I forgot the manuscrip
 Dialogue: 10,0:15:01.97,0:15:04.40,Default,,0,0,0,,Stop that streetcar! Wait!
 Dialogue: 10,0:15:04.40,0:15:06.80,Default,,0,0,0,,Wait!
 Dialogue: 10,0:15:10.77,0:15:12.90,Default,,0,0,0,,Ah! Good timing, Zorros! {for some reason they are 4 and it doesn't seem like a pun}
-Dialogue: 10,0:15:13.46,0:15:15.63,Default,,0,0,0,,Got into some trouble, Young Lady?
+Dialogue: 10,0:15:13.46,0:15:15.63,Default,,0,0,0,,Got into some trouble, young lady?
 Dialogue: 10,0:15:17.06,0:15:18.75,Default,,0,0,0,,I'll need this for a while!
 Dialogue: 10,0:15:19.30,0:15:20.52,Default,,0,0,0,,W-What are you doing?!
 Dialogue: 10,0:15:20.52,0:15:21.74,Default,,0,0,0,,Out of my way!
@@ -249,7 +251,7 @@ Dialogue: 10,0:15:23.49,0:15:25.49,Default,,0,0,0,,Y-Y-You thief!
 Dialogue: 10,0:15:26.40,0:15:27.76,Default,,0,0,0,,Stop!
 Dialogue: 10,0:15:27.76,0:15:30.82,Default,,0,0,0,,Stop that streetcar!
 Dialogue: 10,0:15:34.32,0:15:36.68,Default,,0,0,0,,Stop it! Stop it! Stop it!
-Dialogue: 10,0:15:37.65,0:15:38.80,Default,,0,0,0,,It's a streetcarjack!
+Dialogue: 10,0:15:37.65,0:15:38.80,Default,,0,0,0,,It's a trainjacking!
 Dialogue: 10,0:15:40.97,0:15:44.30,Default,,0,0,0,,Who in their right mind \Nwould do that in this day and age?
 Dialogue: 10,0:15:44.30,0:15:46.13,Default,,0,0,0,,Now then...
 Dialogue: 10,0:15:46.57,0:15:49.02,Default,,0,0,0,,My manuscript... my manuscript... where is it...?
@@ -261,9 +263,9 @@ Dialogue: 10,0:15:57.83,0:15:58.72,Default,,0,0,0,,What should I do?
 Dialogue: 10,0:16:01.50,0:16:03.91,Default,,0,0,0,,What?! You lost the manuscript?!
 Dialogue: 10,0:16:03.91,0:16:06.30,Default,,0,0,0,,Y-You blithering idiot!
 Dialogue: 10,0:16:07.51,0:16:09.35,Default,,0,0,0,,Do you even know what it means for us?!
-Dialogue: 10,0:16:09.89,0:16:13.75,Default,,0,0,0,,We won't be able to publish the book \Nif we don't send the manuscript to the press today!
+Dialogue: 10,0:16:09.89,0:16:13.75,Default,,0,0,0,,We won't be able to publish the book \Nif we don't send the manuscript to press today!
 Dialogue: 10,0:16:13.75,0:16:16.17,Default,,0,0,0,,S-Sorry!
-Dialogue: 10,0:16:16.85,0:16:21.45,Default,,0,0,0,,Whoever dares to lose a manuscript more important than his own life is no longer a journalist! {maybe a reference to ningen shikkaku / no longer human by osamu dazai; literally: disqualified to be a reporter}
+Dialogue: 10,0:16:16.85,0:16:21.45,Default,,0,0,0,,Whoever dares to lose a manuscript more important than his own life is not fit to be a journalist! {maybe a reference to ningen shikkaku / no longer human by osamu dazai; literally: disqualified to be a reporter}
 Dialogue: 10,0:16:22.18,0:16:24.39,Default,,0,0,0,,Tsk! This is why I don't trust women!
 Dialogue: 10,0:16:25.07,0:16:29.32,Default,,0,0,0,,I'll ask Edogawabata-sensei \Nto produce another manuscript—
 Dialogue: 10,0:16:29.32,0:16:31.76,Default,,0,0,0,,Ugh... You idiot!
@@ -272,7 +274,7 @@ Dialogue: 10,0:16:35.62,0:16:38.73,Default,,0,0,0,,We had a guy lose one before.
 Dialogue: 10,0:16:38.73,0:16:40.89,Default,,0,0,0,,Wanna know how it ended for him?
 Dialogue: 10,0:16:40.89,0:16:42.91,Default,,0,0,0,,When he arrived, Edogawabata...
 Dialogue: 10,0:16:47.87,0:16:51.10,Default,,0,0,0,,Ah! Help! Help! Help me!
-Dialogue: 10,0:16:51.10,0:16:53.97,Default,,0,0,0,,You'll be nothing but rust on my saw! {saying "I'll cut you in half" as "you'll become rust on my sword" seems to be some colloquial way of intimidating your opponent, or it's just the running joke of this show}
+Dialogue: 10,0:16:51.10,0:16:53.97,Default,,0,0,0,,Soon you'll be nothing but rust on my saw! {saying "I'll cut you in half" as "you'll become rust on my sword" seems to be some colloquial way of intimidating your opponent, or it's just the running joke of this show}
 Dialogue: 10,0:16:56.03,0:16:58.06,Default,,0,0,0,,I-Is that true?
 Dialogue: 10,0:16:58.48,0:17:00.88,Default,,0,0,0,,You go and see it with your own eyes.
 Dialogue: 10,0:17:01.51,0:17:04.43,Default,,0,0,0,,I understand. \NBut I'm going to ask him all the same.
@@ -283,21 +285,21 @@ Dialogue: 10,0:17:46.43,0:17:48.03,Default,,0,0,0,,Eh?
 Dialogue: 10,0:17:48.03,0:17:50.03,Default,,0,0,0,,Pardon the intrusion, Sensei.
 Dialogue: 10,0:17:50.03,0:17:52.78,Default,,0,0,0,,Our employee here \Ncarelessly lost the manuscript...
 Dialogue: 10,0:17:52.78,0:17:53.93,Default,,0,0,0,,Wh-What?!
-Dialogue: 10,0:17:53.93,0:17:59.11,Default,,0,0,0,,Ah... Poor me, will I be cut in half by an electric saw \Nbefore I even receive my first salary?
+Dialogue: 10,0:17:53.93,0:17:59.11,Default,,0,0,0,,Ah... Poor me, will I be cut in half by an electric saw \Nbefore I even receive my first paycheck?
 Dialogue: 10,0:18:12.32,0:18:13.48,Default,,0,0,0,,Stop!
 Dialogue: 10,0:18:19.25,0:18:22.16,Default,,0,0,0,,Lost the manuscript, din'tcha?
 Dialogue: 10,0:18:22.16,0:18:24.59,Default,,0,0,0,,Was it this one?
 Dialogue: 10,0:18:27.34,0:18:30.45,Default,,0,0,0,,What do you know, \Nwhen you dropped it in the streetcar,
-Dialogue: 10,0:18:30.45,0:18:33.52,Default,,0,0,0,,a devoted reader saw that it's mine \Nand sent it back to me.
+Dialogue: 10,0:18:30.45,0:18:33.52,Default,,0,0,0,,a devoted reader saw that it was mine \Nand sent it back to me.
 Dialogue: 10,0:18:33.52,0:18:35.03,Default,,0,0,0,,Sensei!
 Dialogue: 10,0:18:35.43,0:18:38.04,Default,,0,0,0,,Pay more attention next time, alright?
 Dialogue: 10,0:18:39.62,0:18:41.40,Default,,0,0,0,,Thank you so much, Sensei!
-Dialogue: 10,0:18:42.18,0:18:47.51,Default,,0,0,0,,From now on, I'll appreciate your work way more and think of you as The Cripple with Twenty Faces!
+Dialogue: 10,0:18:42.18,0:18:47.51,Default,,0,0,0,,From now on, I'll appreciate your work way more and think of you as the Cripple with Twenty Faces!
 Dialogue: 10,0:18:47.51,0:18:49.87,Default,,0,0,0,,No, I'll even start a fan club in your honor!
 Dialogue: 10,0:18:50.55,0:18:54.62,Default,,0,0,0,,D-Do I look that much like a cripple{/invalid} to you?
 Dialogue: 10,0:19:07.11,0:19:09.22,Default,,0,0,0,,Are you still working this late?
 Dialogue: 10,0:19:09.22,0:19:12.01,Default,,0,0,0,,You can go home now. \NI'll take care of the rest.
-Dialogue: 10,0:19:12.01,0:19:15.78,Default,,0,0,0,,No, we are late all because of my mistake.
+Dialogue: 10,0:19:12.01,0:19:15.78,Default,,0,0,0,,No, we are late all because of me.
 Dialogue: 10,0:19:15.78,0:19:17.49,Default,,0,0,0,,I'll stay here until we are done.
 Dialogue: 10,0:19:28.99,0:19:31.41,Default,,0,0,0,,Benio sure is late.
 Dialogue: 10,0:19:31.41,0:19:35.69,Default,,0,0,0,,I hope nothing bad happened to her.
@@ -306,10 +308,10 @@ Dialogue: 10,0:19:38.10,0:19:39.60,Default,,0,0,0,,I'll send it to get it printe
 Dialogue: 10,0:19:40.51,0:19:41.75,Default,,0,0,0,,Hanamura!
 Dialogue: 10,0:20:28.41,0:20:31.52,Default,,0,0,0,,Oh... Huh? I fell asleep at my desk.
 Dialogue: 10,0:20:35.15,0:20:36.18,Default,,0,0,0,,A jacket...
-Dialogue: 10,0:20:36.74,0:20:38.31,Default,,0,0,0,,Is this editor-in-chief's?
+Dialogue: 10,0:20:36.74,0:20:38.31,Default,,0,0,0,,Is this the editor's?
 Dialogue: 10,0:20:43.22,0:20:46.25,Default,,0,0,0,,Whoa! What a stunning sleeping face! {/visage}
 Dialogue: 10,0:20:50.82,0:20:52.09,Default,,0,0,0,,It's you?
-Dialogue: 10,0:20:53.09,0:20:56.94,Default,,0,0,0,,H-Holy moly, editor-in-chief!\NWho would've guessed you're that handsome!
+Dialogue: 10,0:20:53.09,0:20:56.94,Default,,0,0,0,,H-Holy moly, editor! Who would've\Nguessed you're so handsome!
 Dialogue: 10,0:20:56.94,0:20:59.14,Default,,0,0,0,,I hadn't noticed it up until now...
 Dialogue: 10,0:21:00.12,0:21:02.10,Default,,0,0,0,,Don't ever talk about my face!
 Dialogue: 10,0:21:07.52,0:21:09.92,Default,,0,0,0,,Oh my, it's morning already...
@@ -324,25 +326,27 @@ Dialogue: 10,0:21:33.95,0:21:35.36,Default,,0,0,0,,Benio!
 Dialogue: 10,0:21:35.36,0:21:37.93,Default,,0,0,0,,Sorry, I ended up staying at work overnight.
 Dialogue: 10,0:21:37.93,0:21:38.74,Default,,0,0,0,,Lady Benio!
 Dialogue: 10,0:21:38.74,0:21:40.30,Default,,0,0,0,,Benio!
-Dialogue: 10,0:21:40.30,0:21:41.84,Default,,0,0,0,,Here. This is my salary.
+Dialogue: 10,0:21:40.30,0:21:41.84,Default,,0,0,0,,Here. This is my paycheck.
 Dialogue: 10,0:21:41.84,0:21:42.22,Default,,0,0,0,,Oh?
 Dialogue: 10,0:21:43.89,0:21:47.13,Default,,0,0,0,,I've decided to give it to you two.
 Dialogue: 10,0:21:47.64,0:21:52.44,Default,,0,0,0,,Never mind it. We're just happy \Nto just see that you're safe and sound.
 Dialogue: 10,0:21:52.44,0:21:54.84,Default,,0,0,0,,Right... Right!
-Dialogue: 10,0:21:54.84,0:21:59.28,Default,,0,0,0,,Well, with that said, \NI'll accept it with utmost gratitude.
+Dialogue: 10,0:21:54.84,0:21:59.28,Default,,0,0,0,,Well, with that said, \NI'll accept it with my utmost gratitude.
 Dialogue: 10,0:21:59.28,0:22:00.41,Default,,0,0,0,,Wow...
-Dialogue: 10,0:22:15.95,0:22:21.18,Default,,0,0,0,,Life is a roller coaster, as demonstrated \Nby this first salary with blood, sweat and tears.
-Dialogue: 10,0:22:21.18,0:22:25.50,Default,,0,0,0,,Our High Collar Lady \Nmanaged to get hired by Comfunny,
-Dialogue: 10,0:22:25.50,0:22:30.96,Default,,0,0,0,,but it doesn't look like she'll be able to get by \Nwith usual tricks this time!
+Dialogue: 10,0:22:15.95,0:22:21.18,Default,,0,0,0,,Life is a roller coaster, as demonstrated \Nby this first paycheck with blood, sweat and tears.
+Dialogue: 10,0:22:21.18,0:22:25.50,Default,,0,0,0,,Our High Collar Lady \Nmanaged to get hired by Compunny,
+Dialogue: 10,0:22:25.50,0:22:30.96,Default,,0,0,0,,but it doesn't look like she'll be able to get by \Nwith her usual tricks this time!
 Dialogue: 10,0:22:54.63,0:22:59.06,Default,,0,0,0,,Our novice reporter High Collar Lady \Ncan't help but get into trouble,{guess - Alucard}
-Dialogue: 10,0:22:59.06,0:23:02.44,Default,,0,0,0,,only to cause a major hassle \Nin a mixture of tears and laughs.
-Dialogue: 10,0:23:02.44,0:23:06.11,Default,,0,0,0,,Just then, she hears about\Na Japanese leader in Manchuria.{guess, not really clear - Alucard}
+Dialogue: 10,0:22:59.06,0:23:02.44,Default,,0,0,0,,as she causes a major commotion\Nwith a mix of tears and laughter.
+Dialogue: 10,0:23:02.44,0:23:06.11,Default,,0,0,0,,And then, she hears rumor of\Na Japanese bandit chief in Manchuria.{guess, not really clear - Alucard}
 Dialogue: 10,0:23:06.11,0:23:12.06,Default,,0,0,0,,Immediately thinking that it could be none other \Nthan Shinobu, she feels her heart sink.
 Dialogue: 10,0:23:12.06,0:23:14.48,Default,,0,0,0,,So she heads to Manchuria to look for him.
-Dialogue: 10,0:23:14.48,0:23:18.98,Default,,0,0,0,,Next on Here Comes the High Collar Lady:\NWhere are You Now, oh my Dear Shinobu?
+Dialogue: 10,0:23:14.48,0:23:18.98,Default,,0,0,0,,Next on {\i1}Here Comes the High Collar Lady:{\i0}\N"Where Are You Now, Oh My Dear Shinobu?"
 Dialogue: 10,0:23:18.98,0:23:20.57,Default,,0,0,0,,Don't miss it!
-Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\blur1.001\bord0\an6\pos(965,755)} Translation \N Encoding & quality checking \N Timing & translation checking \N Special thanks
-Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\blur1.001\bord0\an4\pos(1005,755)} alucardnoyuuutsu \N Anonymous \NPerevodildo \N Golden time Anime (vk)
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(957,625)\blur1.4\bord0\an9} Encoding & QC \N Translation \N Timing, TLC & Typesetting \N Special Thanks \N Editing
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(1003,625)\blur1.4\bord0\an7} Anonymous \N alucardnoyuuutsu \N Perevodildo \N Golden Time Anime (VK) \N CeleryMan
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(957,625)\blur1\bord0\an9} Encoding & QC \N Translation \N Timing, TLC & Typesetting \N Special Thanks \N Editing
+Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(1003,625)\blur1\bord0\an7} Anonymous \N alucardnoyuuutsu \N Perevodildo \N Golden Time Anime (VK) \N CeleryMan
 Comment: 0,0:24:29.20,0:24:29.25,Sign,,0,0,0,,{ED end}
 Dialogue: 0,0:02:01.35,0:02:01.39,Sign,,0,0,0,,{=25=26}{\bord4\blur2\fax0.000001\fscx74.74\fscy92.4\frx3.5081\fry-11.6246\xbord0\ybord0\org(1083.73,817.45)\fnAller Display\c&H79867A&\frz359.9\pos(958.78,327.97)}Editor-in-Chief’s Office
 Dialogue: 0,0:02:01.39,0:02:01.44,Sign,,0,0,0,,{=25}{\bord4\blur2\fax0.000001\fscx74.74\fscy92.4\frx3.5081\fry-11.6246\xbord0\ybord0\org(1083.74,817.44)\fnAller Display\c&H79867A&\frz359.91\pos(958.73,327.99)}Editor-in-Chief’s Office
@@ -559,100 +563,100 @@ Dialogue: 0,0:02:34.47,0:02:34.51,Sign,,0,0,0,,{=0}{\fscy99.92\fscx95.27\blur3\f
 Dialogue: 0,0:02:34.51,0:02:34.55,Sign,,0,0,0,,{=0}{\fscy99.85\fscx95.21\blur3\fs150\bord0\c&H2F3128&\3c&H4E5752&\3a&HAE&\fnCAC Moose\pos(1015.11,472.59)\frz350.96\1a&H13&}Hm! {guess}
 Dialogue: 0,0:02:34.55,0:02:34.59,Sign,,0,0,0,,{=0}{\fscy99.83\fscx95.19\blur3\fs150\bord0\c&H2F3128&\3c&H4E5752&\3a&HAE&\fnCAC Moose\pos(1014.5,472.52)\frz350.94\1a&H13&}Hm! {guess}
 Dialogue: 0,0:02:34.59,0:02:34.64,Sign,,0,0,0,,{=0=2}{\fscy99.82\fscx95.18\blur3\fs150\bord0\c&H2F3128&\3c&H4E5752&\3a&HAE&\fnCAC Moose\pos(1014.53,472.52)\frz350.95\1a&H13&}Hm! {guess}
-Dialogue: 0,0:02:39.60,0:02:39.64,Sign,,0,0,0,,{=3=28}{\fscy100\fscx95.35\frz0\c&HE3E8E7&\bord0\blur1.001\pos(750.02,150)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:39.64,0:02:39.68,Sign,,0,0,0,,{=3}{\fscy100\fscx95.36\frz0\c&HE3E8E7&\bord0\blur1.001\pos(750.03,149.98)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:39.68,0:02:39.72,Sign,,0,0,0,,{=3}{\fscy100.02\fscx95.37\frz-0.05\c&HE3E8E7&\bord0\blur1.001\pos(749.74,149.65)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:39.72,0:02:39.77,Sign,,0,0,0,,{=3}{\fscy100.11\fscx95.45\frz-0.06\c&HE3E8E7&\bord0\blur1.001\pos(749.27,150)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:39.77,0:02:39.81,Sign,,0,0,0,,{=3}{\fscy100.13\fscx95.47\frz-0.08\c&HE3E8E7&\bord0\blur1.001\pos(749.05,150.44)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:39.81,0:02:39.85,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.49\frz-0.08\c&HE3E8E7&\bord0\blur1.001\pos(748.76,150.68)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:39.85,0:02:39.89,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.24,150.83)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:39.89,0:02:39.93,Sign,,0,0,0,,{=3}{\fscy100.17\fscx95.52\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(747.84,151.37)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:39.93,0:02:39.97,Sign,,0,0,0,,{=3}{\fscy100.17\fscx95.51\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.25,151.32)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:39.97,0:02:40.02,Sign,,0,0,0,,{=3}{\fscy100.17\fscx95.51\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.33,151.35)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:40.02,0:02:40.06,Sign,,0,0,0,,{=3}{\fscy100.19\fscx95.53\frz-0.03\c&HE3E8E7&\bord0\blur1.001\pos(748.41,151.61)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:40.06,0:02:40.10,Sign,,0,0,0,,{=3}{\fscy100.19\fscx95.53\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.12,151.39)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:40.10,0:02:40.14,Sign,,0,0,0,,{=3}{\fscy100.2\fscx95.54\frz-0.05\c&HE3E8E7&\bord0\blur1.001\pos(748.28,151.28)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:40.14,0:02:40.18,Sign,,0,0,0,,{=3}{\fscy100.19\fscx95.53\frz-0.05\c&HE3E8E7&\bord0\blur1.001\pos(748.37,151.25)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:40.18,0:02:40.23,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.49\frz-0.04\c&HE3E8E7&\bord0\blur1.001\pos(748.45,151.55)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:40.23,0:02:40.27,Sign,,0,0,0,,{=3}{\fscy100.19\fscx95.53\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.45,151.66)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:40.27,0:02:40.31,Sign,,0,0,0,,{=3}{\fscy100.19\fscx95.54\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.38,151.53)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:40.31,0:02:40.35,Sign,,0,0,0,,{=3}{\fscy100.18\fscx95.52\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.47,151.7)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:40.35,0:02:40.39,Sign,,0,0,0,,{=3}{\fscy100.17\fscx95.51\frz-0.03\c&HE3E8E7&\bord0\blur1.001\pos(748.77,151.12)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:40.39,0:02:40.43,Sign,,0,0,0,,{=3}{\fscy100.2\fscx95.54\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.83,150.96)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:40.43,0:02:40.48,Sign,,0,0,0,,{=3}{\fscy100.19\fscx95.53\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.72,150.91)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:40.48,0:02:40.52,Sign,,0,0,0,,{=3}{\fscy100.18\fscx95.53\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.86,150.82)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:40.52,0:02:40.56,Sign,,0,0,0,,{=3}{\fscy100.18\fscx95.52\frz-0.03\c&HE3E8E7&\bord0\blur1.001\pos(748.74,150.6)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:40.56,0:02:40.60,Sign,,0,0,0,,{=3}{\fscy100.18\fscx95.52\frz-0.03\c&HE3E8E7&\bord0\blur1.001\pos(748.29,150.34)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:40.60,0:02:40.64,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.03\c&HE3E8E7&\bord0\blur1.001\pos(748.28,150.17)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:40.64,0:02:40.68,Sign,,0,0,0,,{=3}{\fscy100.17\fscx95.51\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.47,150.08)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:40.68,0:02:40.73,Sign,,0,0,0,,{=3}{\fscy100.18\fscx95.52\frz-0.03\c&HE3E8E7&\bord0\blur1.001\pos(748.46,150.19)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:40.73,0:02:40.77,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.25,150.49)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:40.77,0:02:40.81,Sign,,0,0,0,,{=3}{\fscy100.17\fscx95.51\frz-0.03\c&HE3E8E7&\bord0\blur1.001\pos(748.55,150.34)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:40.81,0:02:40.85,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.46,150.67)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:40.85,0:02:40.89,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.03\c&HE3E8E7&\bord0\blur1.001\pos(748.4,151.08)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:40.89,0:02:40.93,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.51\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(747.89,151.19)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:40.93,0:02:40.98,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748,151.32)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:40.98,0:02:41.02,Sign,,0,0,0,,{=3}{\fscy100.17\fscx95.51\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(747.7,151.24)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:41.02,0:02:41.06,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(747.54,151.32)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:41.06,0:02:41.10,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.49\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(747.5,151.24)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:41.10,0:02:41.14,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(747.8,151.2)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:41.14,0:02:41.18,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(747.74,151.76)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:41.18,0:02:41.23,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.49\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(747.74,151.88)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:41.23,0:02:41.27,Sign,,0,0,0,,{=3}{\fscy100.17\fscx95.51\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(747.74,151.8)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:41.27,0:02:41.31,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.49\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(747.5,151.87)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:41.31,0:02:41.35,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.51\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(747.67,151.77)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:41.35,0:02:41.39,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(748.29,151.49)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:41.39,0:02:41.43,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(748.21,151.4)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:41.43,0:02:41.48,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.53,151.49)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:41.48,0:02:41.52,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(748.17,151.29)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:41.52,0:02:41.56,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.21,151.3)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:41.56,0:02:41.60,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(747.89,151.08)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:41.60,0:02:41.64,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(747.88,151.04)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:41.64,0:02:41.69,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.12,150.8)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:41.69,0:02:41.73,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.16,150.79)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:41.73,0:02:41.77,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.49\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(747.96,150.6)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:41.77,0:02:41.81,Sign,,0,0,0,,{=3}{\fscy100.14\fscx95.49\frz-0.03\c&HE3E8E7&\bord0\blur1.001\pos(747.91,150.41)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:41.81,0:02:41.85,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.03\c&HE3E8E7&\bord0\blur1.001\pos(747.98,150.26)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:41.85,0:02:41.89,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.49\frz-0.03\c&HE3E8E7&\bord0\blur1.001\pos(747.96,150.1)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:41.89,0:02:41.94,Sign,,0,0,0,,{=3}{\fscy100.14\fscx95.49\frz-0.03\c&HE3E8E7&\bord0\blur1.001\pos(747.97,150.13)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:41.94,0:02:41.98,Sign,,0,0,0,,{=3}{\fscy100.14\fscx95.48\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.13,150.12)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:41.98,0:02:42.02,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.49\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(747.99,150.2)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:42.02,0:02:42.06,Sign,,0,0,0,,{=3}{\fscy100.14\fscx95.48\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(747.99,150.32)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:42.06,0:02:42.10,Sign,,0,0,0,,{=3}{\fscy100.14\fscx95.48\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(747.91,150.4)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:42.10,0:02:42.14,Sign,,0,0,0,,{=3}{\fscy100.14\fscx95.48\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(747.81,150.48)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:42.14,0:02:42.19,Sign,,0,0,0,,{=3}{\fscy100.14\fscx95.49\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(747.75,150.6)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:42.19,0:02:42.23,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(747.72,150.65)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:42.23,0:02:42.27,Sign,,0,0,0,,{=3}{\fscy100.14\fscx95.48\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(747.28,150.8)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:42.27,0:02:42.31,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(747.73,151.12)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:42.31,0:02:42.35,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz0\c&HE3E8E7&\bord0\blur1.001\pos(747.67,151.09)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:42.35,0:02:42.39,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(747.84,151.13)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:42.39,0:02:42.44,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(747.93,151.28)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:42.44,0:02:42.48,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.06,151.46)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:42.48,0:02:42.52,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(747.65,151.69)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:42.52,0:02:42.56,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(748.09,151.58)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:42.56,0:02:42.60,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(748.2,151.54)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:42.60,0:02:42.64,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.28,151.47)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:42.64,0:02:42.69,Sign,,0,0,0,,{=3}{\fscy100.17\fscx95.51\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(748.02,151.53)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:42.69,0:02:42.73,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.51\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(748.55,151.3)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:42.73,0:02:42.77,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(748.21,151.29)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:42.77,0:02:42.81,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.23,151.15)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:42.81,0:02:42.85,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.26,151.2)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:42.85,0:02:42.89,Sign,,0,0,0,,{=3}{\fscy100.17\fscx95.51\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.27,151.2)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:42.89,0:02:42.94,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.07,151.32)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:42.94,0:02:42.98,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(747.94,151.32)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:42.98,0:02:43.02,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(748.04,151.33)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:43.02,0:02:43.06,Sign,,0,0,0,,{=3}{\fscy100.18\fscx95.52\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(748.22,151.25)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:43.06,0:02:43.10,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(748.39,151.43)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:43.10,0:02:43.14,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(748.46,150.84)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:43.14,0:02:43.19,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.51\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(748.55,151.13)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:43.19,0:02:43.23,Sign,,0,0,0,,{=3}{\fscy100.17\fscx95.51\frz0\c&HE3E8E7&\bord0\blur1.001\pos(748.45,151.06)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:43.23,0:02:43.27,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz0\c&HE3E8E7&\bord0\blur1.001\pos(748.43,151.14)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:43.27,0:02:43.31,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz0\c&HE3E8E7&\bord0\blur1.001\pos(748.35,151.64)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:43.31,0:02:43.35,Sign,,0,0,0,,{=3}{\fscy100.17\fscx95.51\frz0.06\c&HE3E8E7&\bord0\blur1.001\pos(747.77,151.71)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:43.35,0:02:43.40,Sign,,0,0,0,,{=3}{\fscy100.14\fscx95.48\frz0.07\c&HE3E8E7&\bord0\blur1.001\pos(747.77,151.99)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:43.40,0:02:43.44,Sign,,0,0,0,,{=3}{\fscy100.1\fscx95.45\frz0.06\c&HE3E8E7&\bord0\blur1.001\pos(747.75,152.09)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:43.44,0:02:43.48,Sign,,0,0,0,,{=3}{\fscy100.07\fscx95.42\frz0.05\c&HE3E8E7&\bord0\blur1.001\pos(747.81,152.18)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
-Dialogue: 0,0:02:43.48,0:02:43.52,Sign,,0,0,0,,{=3=29}{\fscy100.07\fscx95.42\frz0.06\c&HE3E8E7&\bord0\blur1.001\pos(747.8,152.18)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Salary with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:39.60,0:02:39.64,Sign,,0,0,0,,{=3=28}{\fscy100\fscx95.35\frz0\c&HE3E8E7&\bord0\blur1.001\pos(750.02,150)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:39.64,0:02:39.68,Sign,,0,0,0,,{=3}{\fscy100\fscx95.36\frz0\c&HE3E8E7&\bord0\blur1.001\pos(750.03,149.98)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:39.68,0:02:39.72,Sign,,0,0,0,,{=3}{\fscy100.02\fscx95.37\frz-0.05\c&HE3E8E7&\bord0\blur1.001\pos(749.74,149.65)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:39.72,0:02:39.77,Sign,,0,0,0,,{=3}{\fscy100.11\fscx95.45\frz-0.06\c&HE3E8E7&\bord0\blur1.001\pos(749.27,150)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:39.77,0:02:39.81,Sign,,0,0,0,,{=3}{\fscy100.13\fscx95.47\frz-0.08\c&HE3E8E7&\bord0\blur1.001\pos(749.05,150.44)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:39.81,0:02:39.85,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.49\frz-0.08\c&HE3E8E7&\bord0\blur1.001\pos(748.76,150.68)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:39.85,0:02:39.89,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.24,150.83)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:39.89,0:02:39.93,Sign,,0,0,0,,{=3}{\fscy100.17\fscx95.52\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(747.84,151.37)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:39.93,0:02:39.97,Sign,,0,0,0,,{=3}{\fscy100.17\fscx95.51\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.25,151.32)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:39.97,0:02:40.02,Sign,,0,0,0,,{=3}{\fscy100.17\fscx95.51\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.33,151.35)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:40.02,0:02:40.06,Sign,,0,0,0,,{=3}{\fscy100.19\fscx95.53\frz-0.03\c&HE3E8E7&\bord0\blur1.001\pos(748.41,151.61)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:40.06,0:02:40.10,Sign,,0,0,0,,{=3}{\fscy100.19\fscx95.53\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.12,151.39)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:40.10,0:02:40.14,Sign,,0,0,0,,{=3}{\fscy100.2\fscx95.54\frz-0.05\c&HE3E8E7&\bord0\blur1.001\pos(748.28,151.28)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:40.14,0:02:40.18,Sign,,0,0,0,,{=3}{\fscy100.19\fscx95.53\frz-0.05\c&HE3E8E7&\bord0\blur1.001\pos(748.37,151.25)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:40.18,0:02:40.23,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.49\frz-0.04\c&HE3E8E7&\bord0\blur1.001\pos(748.45,151.55)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:40.23,0:02:40.27,Sign,,0,0,0,,{=3}{\fscy100.19\fscx95.53\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.45,151.66)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:40.27,0:02:40.31,Sign,,0,0,0,,{=3}{\fscy100.19\fscx95.54\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.38,151.53)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:40.31,0:02:40.35,Sign,,0,0,0,,{=3}{\fscy100.18\fscx95.52\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.47,151.7)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:40.35,0:02:40.39,Sign,,0,0,0,,{=3}{\fscy100.17\fscx95.51\frz-0.03\c&HE3E8E7&\bord0\blur1.001\pos(748.77,151.12)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:40.39,0:02:40.43,Sign,,0,0,0,,{=3}{\fscy100.2\fscx95.54\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.83,150.96)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:40.43,0:02:40.48,Sign,,0,0,0,,{=3}{\fscy100.19\fscx95.53\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.72,150.91)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:40.48,0:02:40.52,Sign,,0,0,0,,{=3}{\fscy100.18\fscx95.53\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.86,150.82)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:40.52,0:02:40.56,Sign,,0,0,0,,{=3}{\fscy100.18\fscx95.52\frz-0.03\c&HE3E8E7&\bord0\blur1.001\pos(748.74,150.6)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:40.56,0:02:40.60,Sign,,0,0,0,,{=3}{\fscy100.18\fscx95.52\frz-0.03\c&HE3E8E7&\bord0\blur1.001\pos(748.29,150.34)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:40.60,0:02:40.64,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.03\c&HE3E8E7&\bord0\blur1.001\pos(748.28,150.17)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:40.64,0:02:40.68,Sign,,0,0,0,,{=3}{\fscy100.17\fscx95.51\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.47,150.08)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:40.68,0:02:40.73,Sign,,0,0,0,,{=3}{\fscy100.18\fscx95.52\frz-0.03\c&HE3E8E7&\bord0\blur1.001\pos(748.46,150.19)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:40.73,0:02:40.77,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.25,150.49)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:40.77,0:02:40.81,Sign,,0,0,0,,{=3}{\fscy100.17\fscx95.51\frz-0.03\c&HE3E8E7&\bord0\blur1.001\pos(748.55,150.34)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:40.81,0:02:40.85,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.46,150.67)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:40.85,0:02:40.89,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.03\c&HE3E8E7&\bord0\blur1.001\pos(748.4,151.08)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:40.89,0:02:40.93,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.51\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(747.89,151.19)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:40.93,0:02:40.98,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748,151.32)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:40.98,0:02:41.02,Sign,,0,0,0,,{=3}{\fscy100.17\fscx95.51\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(747.7,151.24)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:41.02,0:02:41.06,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(747.54,151.32)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:41.06,0:02:41.10,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.49\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(747.5,151.24)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:41.10,0:02:41.14,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(747.8,151.2)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:41.14,0:02:41.18,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(747.74,151.76)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:41.18,0:02:41.23,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.49\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(747.74,151.88)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:41.23,0:02:41.27,Sign,,0,0,0,,{=3}{\fscy100.17\fscx95.51\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(747.74,151.8)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:41.27,0:02:41.31,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.49\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(747.5,151.87)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:41.31,0:02:41.35,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.51\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(747.67,151.77)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:41.35,0:02:41.39,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(748.29,151.49)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:41.39,0:02:41.43,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(748.21,151.4)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:41.43,0:02:41.48,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.53,151.49)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:41.48,0:02:41.52,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(748.17,151.29)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:41.52,0:02:41.56,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.21,151.3)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:41.56,0:02:41.60,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(747.89,151.08)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:41.60,0:02:41.64,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(747.88,151.04)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:41.64,0:02:41.69,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.12,150.8)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:41.69,0:02:41.73,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.16,150.79)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:41.73,0:02:41.77,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.49\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(747.96,150.6)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:41.77,0:02:41.81,Sign,,0,0,0,,{=3}{\fscy100.14\fscx95.49\frz-0.03\c&HE3E8E7&\bord0\blur1.001\pos(747.91,150.41)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:41.81,0:02:41.85,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.03\c&HE3E8E7&\bord0\blur1.001\pos(747.98,150.26)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:41.85,0:02:41.89,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.49\frz-0.03\c&HE3E8E7&\bord0\blur1.001\pos(747.96,150.1)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:41.89,0:02:41.94,Sign,,0,0,0,,{=3}{\fscy100.14\fscx95.49\frz-0.03\c&HE3E8E7&\bord0\blur1.001\pos(747.97,150.13)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:41.94,0:02:41.98,Sign,,0,0,0,,{=3}{\fscy100.14\fscx95.48\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.13,150.12)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:41.98,0:02:42.02,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.49\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(747.99,150.2)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:42.02,0:02:42.06,Sign,,0,0,0,,{=3}{\fscy100.14\fscx95.48\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(747.99,150.32)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:42.06,0:02:42.10,Sign,,0,0,0,,{=3}{\fscy100.14\fscx95.48\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(747.91,150.4)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:42.10,0:02:42.14,Sign,,0,0,0,,{=3}{\fscy100.14\fscx95.48\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(747.81,150.48)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:42.14,0:02:42.19,Sign,,0,0,0,,{=3}{\fscy100.14\fscx95.49\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(747.75,150.6)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:42.19,0:02:42.23,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(747.72,150.65)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:42.23,0:02:42.27,Sign,,0,0,0,,{=3}{\fscy100.14\fscx95.48\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(747.28,150.8)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:42.27,0:02:42.31,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(747.73,151.12)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:42.31,0:02:42.35,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz0\c&HE3E8E7&\bord0\blur1.001\pos(747.67,151.09)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:42.35,0:02:42.39,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(747.84,151.13)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:42.39,0:02:42.44,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(747.93,151.28)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:42.44,0:02:42.48,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.06,151.46)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:42.48,0:02:42.52,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(747.65,151.69)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:42.52,0:02:42.56,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(748.09,151.58)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:42.56,0:02:42.60,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(748.2,151.54)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:42.60,0:02:42.64,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.28,151.47)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:42.64,0:02:42.69,Sign,,0,0,0,,{=3}{\fscy100.17\fscx95.51\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(748.02,151.53)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:42.69,0:02:42.73,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.51\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(748.55,151.3)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:42.73,0:02:42.77,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(748.21,151.29)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:42.77,0:02:42.81,Sign,,0,0,0,,{=3}{\fscy100.15\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.23,151.15)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:42.81,0:02:42.85,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.26,151.2)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:42.85,0:02:42.89,Sign,,0,0,0,,{=3}{\fscy100.17\fscx95.51\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.27,151.2)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:42.89,0:02:42.94,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.02\c&HE3E8E7&\bord0\blur1.001\pos(748.07,151.32)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:42.94,0:02:42.98,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(747.94,151.32)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:42.98,0:02:43.02,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(748.04,151.33)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:43.02,0:02:43.06,Sign,,0,0,0,,{=3}{\fscy100.18\fscx95.52\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(748.22,151.25)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:43.06,0:02:43.10,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(748.39,151.43)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:43.10,0:02:43.14,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(748.46,150.84)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:43.14,0:02:43.19,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.51\frz-0.01\c&HE3E8E7&\bord0\blur1.001\pos(748.55,151.13)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:43.19,0:02:43.23,Sign,,0,0,0,,{=3}{\fscy100.17\fscx95.51\frz0\c&HE3E8E7&\bord0\blur1.001\pos(748.45,151.06)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:43.23,0:02:43.27,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz0\c&HE3E8E7&\bord0\blur1.001\pos(748.43,151.14)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:43.27,0:02:43.31,Sign,,0,0,0,,{=3}{\fscy100.16\fscx95.5\frz0\c&HE3E8E7&\bord0\blur1.001\pos(748.35,151.64)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:43.31,0:02:43.35,Sign,,0,0,0,,{=3}{\fscy100.17\fscx95.51\frz0.06\c&HE3E8E7&\bord0\blur1.001\pos(747.77,151.71)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:43.35,0:02:43.40,Sign,,0,0,0,,{=3}{\fscy100.14\fscx95.48\frz0.07\c&HE3E8E7&\bord0\blur1.001\pos(747.77,151.99)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:43.40,0:02:43.44,Sign,,0,0,0,,{=3}{\fscy100.1\fscx95.45\frz0.06\c&HE3E8E7&\bord0\blur1.001\pos(747.75,152.09)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:43.44,0:02:43.48,Sign,,0,0,0,,{=3}{\fscy100.07\fscx95.42\frz0.05\c&HE3E8E7&\bord0\blur1.001\pos(747.81,152.18)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
+Dialogue: 0,0:02:43.48,0:02:43.52,Sign,,0,0,0,,{=3=29}{\fscy100.07\fscx95.42\frz0.06\c&HE3E8E7&\bord0\blur1.001\pos(747.8,152.18)\fnArial Rounded MT Bold}Episode 36\N{\fs79.999}First Paycheck with Blood, Sweat and Tears {泣いて笑って初月給}
 Dialogue: 0,0:05:04.95,0:05:05.04,Sign,,0,0,0,,{=6=7}{\bord4\c&H172934&\b0\blur1.001\fax0.345396\fscx82.05\fscy143.96\frz17.15\frx-2.5793\fry-3.7867\xbord0\ybord0\org(410,176)\pos(405.11,129.12)\1a&H3D&\fnArchitects Daughter}School leaving notice {退學届}
 Dialogue: 0,0:05:05.04,0:05:05.08,Sign,,0,0,0,,{=6}{\bord4\c&H172934&\b0\blur1.001\fax0.345396\fscx82.04\fscy143.95\frz17.11\frx-2.5793\fry-3.7867\xbord0\ybord0\org(410.23,174.42)\pos(405.37,127.54)\1a&H3D&\fnArchitects Daughter}School leaving notice {退學届}
 Dialogue: 0,0:05:05.08,0:05:05.12,Sign,,0,0,0,,{=6}{\bord4\c&H172934&\b0\blur1.001\fax0.345396\fscx82.1\fscy144.06\frz17.1\frx-2.5793\fry-3.7867\xbord0\ybord0\org(410.43,175.06)\pos(405.58,128.15)\1a&H3D&\fnArchitects Daughter}School leaving notice {退學届}
@@ -984,50 +988,50 @@ Dialogue: 0,0:20:15.40,0:20:15.45,Sign,,0,0,0,,{=18}{\fscy99.99\fscx95.34\frz0.1
 Dialogue: 0,0:20:15.45,0:20:15.49,Sign,,0,0,0,,{=18}{\fscy99.99\fscx95.34\frz0.14\alpha&H00&\c&H24201F&\an7\3c&H58564B&\bord0\blur1\pos(228.12,165.22)\fnArchitects Daughter}Company motto:\NBow to the strong\NScorn the weak\N-Editor-in-Chief {社訓\N強いものにはへつらおう\N弱いものはいたぶろう\N編集長}{not a mistake, a bit different text from previous episode}
 Dialogue: 0,0:20:15.49,0:20:15.53,Sign,,0,0,0,,{=18}{\fscy99.95\fscx95.3\frz0.14\alpha&H00&\c&H24201F&\an7\3c&H58564B&\bord0\blur1\pos(227.82,165.84)\fnArchitects Daughter}Company motto:\NBow to the strong\NScorn the weak\N-Editor-in-Chief {社訓\N強いものにはへつらおう\N弱いものはいたぶろう\N編集長}{not a mistake, a bit different text from previous episode}
 Dialogue: 0,0:20:15.53,0:20:15.57,Sign,,0,0,0,,{=18=20}{\fscy99.95\fscx95.3\frz0.14\alpha&H00&\c&H24201F&\an7\3c&H58564B&\bord0\blur1\pos(227.83,165.85)\fnArchitects Daughter}Company motto:\NBow to the strong\NScorn the weak\N-Editor-in-Chief {社訓\N強いものにはへつらおう\N弱いものはいたぶろう\N編集長}{not a mistake, a bit different text from previous episode}
-Dialogue: 0,0:21:40.54,0:21:40.66,Sign,,0,0,0,,{=22}{\fade(00,0)\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.744\fscy110.31\bord0\fnCAC Moose\org(988.78,125.32)\frz152.7\frx42.8\fry14.69\pos(1013.69,64)}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:40.66,0:21:40.79,Sign,,0,0,0,,{\fade(00,0)\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.744\fscy110.31\bord0\fnCAC Moose\pos(758.51,364)\org(743.61,418.32)\frx28.8\fry10.69\frz149.8}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:40.78,0:21:40.82,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx81.21\fscy106.97\frz-212.13\bord0\org(617.55,539.57)\pos(629.15,486.19)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:40.82,0:21:40.86,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx81.18\fscy106.94\frz-212.11\bord0\org(617.68,539.52)\pos(629.26,486.16)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:40.86,0:21:40.91,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx81.18\fscy106.93\frz-212.11\bord0\org(617.77,540.06)\pos(629.35,486.71)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:40.91,0:21:40.95,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.12\fscy109.49\frz-213.84\bord0\org(609.59,552.51)\pos(623.08,498.25)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:40.95,0:21:40.99,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.09\fscy109.44\frz-213.85\bord0\org(609.54,552.81)\pos(623.05,498.58)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:40.99,0:21:41.03,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.07\fscy109.42\frz-213.84\bord0\org(609.73,552.63)\pos(623.22,498.41)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:41.03,0:21:41.07,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.73\fscy110.29\frz-215.25\bord0\org(605.28,559.56)\pos(620.22,505.26)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:41.07,0:21:41.11,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.72\fscy110.28\frz-215.25\bord0\org(605.28,558.47)\pos(620.22,504.17)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:41.11,0:21:41.16,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.74\fscy110.3\frz-215.25\bord0\org(605.54,558.63)\pos(620.48,504.33)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:41.16,0:21:41.20,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.79\fscy110.37\frz-215.27\bord0\org(605.56,558.47)\pos(620.52,504.14)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:41.20,0:21:41.24,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.77\fscy110.35\frz-215.27\bord0\org(605.86,558.39)\pos(620.83,504.07)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:41.24,0:21:41.28,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.78\fscy110.36\frz-215.26\bord0\org(605.7,558.67)\pos(620.67,504.34)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:41.28,0:21:41.32,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.78\fscy110.36\frz-215.24\bord0\org(606.26,558.98)\pos(621.19,504.64)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:41.32,0:21:41.37,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.77\fscy110.35\frz-215.23\bord0\org(606.01,558.81)\pos(620.94,504.48)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:41.37,0:21:41.41,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.78\fscy110.36\frz-215.22\bord0\org(606.13,559.21)\pos(621.05,504.87)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:41.41,0:21:41.45,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.77\fscy110.35\frz-215.22\bord0\org(605.83,558.99)\pos(620.75,504.65)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:41.45,0:21:41.49,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.77\fscy110.35\frz-215.22\bord0\org(606.37,559.04)\pos(621.28,504.7)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:41.49,0:21:41.53,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.77\fscy110.34\frz-215.21\bord0\org(606.08,559.27)\pos(620.99,504.93)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:41.53,0:21:41.57,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.79\fscy110.37\frz-215.22\bord0\org(606.19,559.45)\pos(621.12,505.1)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:41.57,0:21:41.62,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.78\fscy110.36\frz-215.23\bord0\org(605.66,559.67)\pos(620.59,505.34)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:41.62,0:21:41.66,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.76\fscy110.33\frz-215.22\bord0\org(605.69,559.69)\pos(620.61,505.36)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:41.66,0:21:41.70,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.77\fscy110.34\frz-215.22\bord0\org(605.98,558.96)\pos(620.9,504.63)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:41.70,0:21:41.74,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.79\fscy110.36\frz-215.24\bord0\org(606.28,559.19)\pos(621.22,504.85)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:41.74,0:21:41.78,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.78\fscy110.35\frz-215.24\bord0\org(606.24,559.18)\pos(621.17,504.85)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:41.78,0:21:41.82,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.76\fscy110.34\frz-215.24\bord0\org(606.17,559.38)\pos(621.11,505.06)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:41.82,0:21:41.87,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.76\fscy110.33\frz-215.24\bord0\org(605.97,559.64)\pos(620.91,505.32)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:41.87,0:21:41.91,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.77\fscy110.35\frz-215.24\bord0\org(606.2,559.84)\pos(621.13,505.51)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:41.91,0:21:41.95,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.78\fscy110.35\frz-215.24\bord0\org(605.8,559.58)\pos(620.74,505.24)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:41.95,0:21:41.99,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.77\fscy110.34\frz-215.23\bord0\org(606.14,559.92)\pos(621.07,505.6)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:41.99,0:21:42.03,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.78\fscy110.36\frz-215.2\bord0\org(606.14,560)\pos(621.03,505.66)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:42.03,0:21:42.07,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.77\fscy110.35\frz-215.18\bord0\org(606.89,560.05)\pos(621.77,505.7)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:42.07,0:21:42.12,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.79\fscy110.37\frz-215.17\bord0\org(606.7,560.17)\pos(621.57,505.81)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:42.12,0:21:42.16,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.75\fscy110.31\frz-215.21\bord0\org(607,560)\pos(621.9,505.68)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
-Dialogue: 0,0:21:42.16,0:21:42.20,Sign,,0,0,0,,{=21=23}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.74\fscy110.31\frz-215.21\bord0\org(607,560)\pos(621.9,505.68)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NComfunny             \h
+Dialogue: 0,0:21:40.54,0:21:40.66,Sign,,0,0,0,,{=22}{\fade(00,0)\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.744\fscy110.31\bord0\fnCAC Moose\org(988.78,125.32)\frz152.7\frx42.8\fry14.69\pos(1013.69,64)}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:40.66,0:21:40.79,Sign,,0,0,0,,{\fade(00,0)\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.744\fscy110.31\bord0\fnCAC Moose\pos(758.51,364)\org(743.61,418.32)\frx28.8\fry10.69\frz149.8}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:40.78,0:21:40.82,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx81.21\fscy106.97\frz-212.13\bord0\org(617.55,539.57)\pos(629.15,486.19)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:40.82,0:21:40.86,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx81.18\fscy106.94\frz-212.11\bord0\org(617.68,539.52)\pos(629.26,486.16)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:40.86,0:21:40.91,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx81.18\fscy106.93\frz-212.11\bord0\org(617.77,540.06)\pos(629.35,486.71)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:40.91,0:21:40.95,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.12\fscy109.49\frz-213.84\bord0\org(609.59,552.51)\pos(623.08,498.25)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:40.95,0:21:40.99,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.09\fscy109.44\frz-213.85\bord0\org(609.54,552.81)\pos(623.05,498.58)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:40.99,0:21:41.03,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.07\fscy109.42\frz-213.84\bord0\org(609.73,552.63)\pos(623.22,498.41)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:41.03,0:21:41.07,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.73\fscy110.29\frz-215.25\bord0\org(605.28,559.56)\pos(620.22,505.26)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:41.07,0:21:41.11,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.72\fscy110.28\frz-215.25\bord0\org(605.28,558.47)\pos(620.22,504.17)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:41.11,0:21:41.16,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.74\fscy110.3\frz-215.25\bord0\org(605.54,558.63)\pos(620.48,504.33)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:41.16,0:21:41.20,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.79\fscy110.37\frz-215.27\bord0\org(605.56,558.47)\pos(620.52,504.14)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:41.20,0:21:41.24,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.77\fscy110.35\frz-215.27\bord0\org(605.86,558.39)\pos(620.83,504.07)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:41.24,0:21:41.28,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.78\fscy110.36\frz-215.26\bord0\org(605.7,558.67)\pos(620.67,504.34)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:41.28,0:21:41.32,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.78\fscy110.36\frz-215.24\bord0\org(606.26,558.98)\pos(621.19,504.64)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:41.32,0:21:41.37,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.77\fscy110.35\frz-215.23\bord0\org(606.01,558.81)\pos(620.94,504.48)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:41.37,0:21:41.41,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.78\fscy110.36\frz-215.22\bord0\org(606.13,559.21)\pos(621.05,504.87)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:41.41,0:21:41.45,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.77\fscy110.35\frz-215.22\bord0\org(605.83,558.99)\pos(620.75,504.65)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:41.45,0:21:41.49,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.77\fscy110.35\frz-215.22\bord0\org(606.37,559.04)\pos(621.28,504.7)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:41.49,0:21:41.53,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.77\fscy110.34\frz-215.21\bord0\org(606.08,559.27)\pos(620.99,504.93)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:41.53,0:21:41.57,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.79\fscy110.37\frz-215.22\bord0\org(606.19,559.45)\pos(621.12,505.1)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:41.57,0:21:41.62,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.78\fscy110.36\frz-215.23\bord0\org(605.66,559.67)\pos(620.59,505.34)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:41.62,0:21:41.66,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.76\fscy110.33\frz-215.22\bord0\org(605.69,559.69)\pos(620.61,505.36)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:41.66,0:21:41.70,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.77\fscy110.34\frz-215.22\bord0\org(605.98,558.96)\pos(620.9,504.63)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:41.70,0:21:41.74,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.79\fscy110.36\frz-215.24\bord0\org(606.28,559.19)\pos(621.22,504.85)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:41.74,0:21:41.78,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.78\fscy110.35\frz-215.24\bord0\org(606.24,559.18)\pos(621.17,504.85)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:41.78,0:21:41.82,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.76\fscy110.34\frz-215.24\bord0\org(606.17,559.38)\pos(621.11,505.06)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:41.82,0:21:41.87,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.76\fscy110.33\frz-215.24\bord0\org(605.97,559.64)\pos(620.91,505.32)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:41.87,0:21:41.91,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.77\fscy110.35\frz-215.24\bord0\org(606.2,559.84)\pos(621.13,505.51)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:41.91,0:21:41.95,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.78\fscy110.35\frz-215.24\bord0\org(605.8,559.58)\pos(620.74,505.24)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:41.95,0:21:41.99,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.77\fscy110.34\frz-215.23\bord0\org(606.14,559.92)\pos(621.07,505.6)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:41.99,0:21:42.03,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.78\fscy110.36\frz-215.2\bord0\org(606.14,560)\pos(621.03,505.66)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:42.03,0:21:42.07,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.77\fscy110.35\frz-215.18\bord0\org(606.89,560.05)\pos(621.77,505.7)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:42.07,0:21:42.12,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.79\fscy110.37\frz-215.17\bord0\org(606.7,560.17)\pos(621.57,505.81)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:42.12,0:21:42.16,Sign,,0,0,0,,{=21}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.75\fscy110.31\frz-215.21\bord0\org(607,560)\pos(621.9,505.68)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
+Dialogue: 0,0:21:42.16,0:21:42.20,Sign,,0,0,0,,{=21=23}{\alpha&H00&\c&H091A3B&\blur1\3c&H94C5D4&\fax-0.341682\fscx83.74\fscy110.31\frz-215.21\bord0\org(607,560)\pos(621.9,505.68)\frx18.8\fry4.69\fnCAC Moose}Salary \N\N\N\N\NCompunny             \h
 Dialogue: 0,0:22:51.37,0:22:55.26,Sign,,0,0,0,,Next episode preview
-Dialogue: 0,0:23:16.31,0:23:21.40,Sign,,0,0,0,,Episode 37\NWhere are You Now, oh my Dear Shinobu? {いとしの少尉いまいずこ}
+Dialogue: 0,0:23:16.31,0:23:21.40,Sign,,0,0,0,,Episode 37\NWhere Are You Now, Oh My Dear Shinobu?? {いとしの少尉いまいずこ}
 
 [Aegisub Extradata]
 Data: 0,a-mo,e{"uuid"#3A"ba8e7fe3-4427-4d90-8926-5e91c0640613"#2C"originalText"#3A"{\\blur3\\fs150\\bord0\\c&H2F3128&\\3c&H4E5752&\\3a&HAE&\\fnCAC Moose\\pos(1013.69#2C472)\\frz350.8\\1a&H13&}Hm! {guess}"}
 Data: 1,_aegi_folddata,e0;1;1
 Data: 2,_aegi_folddata,e1;1;1
-Data: 3,a-mo,e{"uuid"#3A"2b332c6b-2e69-4f00-9169-e37ec0c603d8"#2C"originalText"#3A"{\\c&HE3E8E7&\\bord0\\blur1.001\\pos(750.02#2C150)}Episode 36\\N{\\fs79.999}First Salary with Blood#2C Sweat and Tears {#E6#B3#A3#E3#81#84#E3#81#A6#E7#AC#91#E3#81#A3#E3#81#A6#E5#88#9D#E6#9C#88#E7#B5#A6}"}
+Data: 3,a-mo,e{"uuid"#3A"2b332c6b-2e69-4f00-9169-e37ec0c603d8"#2C"originalText"#3A"{\\c&HE3E8E7&\\bord0\\blur1.001\\pos(750.02#2C150)}Episode 36\\N{\\fs79.999}First Paycheck with Blood#2C Sweat and Tears {#E6#B3#A3#E3#81#84#E3#81#A6#E7#AC#91#E3#81#A3#E3#81#A6#E5#88#9D#E6#9C#88#E7#B5#A6}"}
 Data: 4,_aegi_folddata,e0;1;2
 Data: 5,_aegi_folddata,e1;1;2
 Data: 6,a-mo,e{"uuid"#3A"81eb39fd-8805-40d8-9a40-c8310127bbcc"#2C"originalText"#3A"{\\c&H172934&\\b0\\blur1.001\\fax0.345396\\fscx82.046\\fscy143.96\\frz17.1458\\frx-2.5793\\fry-3.7867\\xbord0\\ybord0\\org(410#2C176)\\pos(405.11#2C129.12)\\1a&H3D&\\fnArchitects Daughter}School leaving notice {#E9#80#80#E5#AD#B8#E5#B1#8A}"}
@@ -1045,7 +1049,7 @@ Data: 17,_aegi_folddata,e1;1;6
 Data: 18,a-mo,u?S*V>7FE)DIC94)S/4!Y:D5N/'-W-#UU9T1S,4FB:$%N-T6B-':F94AY9G-U)CQC<X*J:WFO97R5:8BU)DIC?VR=9S:)-D1S-$&'*FR=97YX8&QT9S:).4AV.D2#*FR=9G^S:$"=8'*M>8)R8&RQ<X-I-D)X,D%V,$%W-SF=8':O18*D;'FU:7.U=S"%986H;(2F=HV$<WVQ97ZZ)'VP>(2P/FR=4E*P>S"U<S"U;'5A=X2S<WZH8&R/5W.P=GYA>'BF)(>F97N=8%YN272J>'^S,7FO,5.I;76G)(PHJ,\IK*.=8%\FP,@DA94DAI,DA;\DA;PDA;`DA<DDA;4DAIHDA9LDA9:=8%\FP,(DA94DAI,DA;\DA;`DA94DA:`DA<<DAIXDA9:=8%\HN[DJGY<JF<>^?WZP>#"B)'VJ=X2B;W5M)'%A9GFU)'2J:G:F=G6O>#"U:8BU)':S<WUA=(*F>GFP>8-A:8"J=W^E:8UC@1
 Data: 19,_aegi_folddata,e0;1;7
 Data: 20,_aegi_folddata,e1;1;7
-Data: 21,a-mo,e{"uuid"#3A"e3c0b5b2-8f65-4821-aef2-e6a639c47d06"#2C"originalText"#3A"{\\fade(00#2C0)\\c&H091A3B&\\blur1\\3c&H94C5D4&\\fax-0.341682\\fscx83.744\\fscy110.31\\frz-215.2065\\bord0\\org(607#2C560)\\pos(621.901#2C505.68)\\frx18.8\\fry4.69\\fnCAC Moose}Salary \\N\\N\\N\\N\\NComfunny             \\h"}
+Data: 21,a-mo,e{"uuid"#3A"e3c0b5b2-8f65-4821-aef2-e6a639c47d06"#2C"originalText"#3A"{\\fade(00#2C0)\\c&H091A3B&\\blur1\\3c&H94C5D4&\\fax-0.341682\\fscx83.744\\fscy110.31\\frz-215.2065\\bord0\\org(607#2C560)\\pos(621.901#2C505.68)\\frx18.8\\fry4.69\\fnCAC Moose}Salary \\N\\N\\N\\N\\NCompunny             \\h"}
 Data: 22,_aegi_folddata,e0;1;8
 Data: 23,_aegi_folddata,e1;1;8
 Data: 24,a-mo,e{"uuid"#3A"9b43c27a-e7a4-4ea7-bc57-d7e9c5a6c452"#2C"originalText"#3A"{\\blur2\\fnCAC Moose\\c&H79867A&\\fax0.000001\\fscx42.08\\fscy48.74\\frx-18.2727\\fry-4.8008\\xbord0.00\\ybord0.00\\org(620.14#2C1021.76)\\frz13.12\\pos(895.88#2C870.47)}Knock \\Nbefore \\Nentering! "}

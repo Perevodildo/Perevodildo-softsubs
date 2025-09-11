@@ -38,7 +38,7 @@ Dialogue: 0,0:00:17.96,0:00:22.21,Default,,0,0,20,,Those two shockingly beautifu
 Dialogue: 0,0:00:22.21,0:00:27.52,Default,,0,0,20,,Overflowing with startling romance
 Dialogue: 0,0:00:27.52,0:00:29.73,Default,,0,0,20,,All-consuming
 Dialogue: 0,0:00:29.73,0:00:31.90,Default,,0,0,20,,Inescapable
-Dialogue: 0,0:00:31.90,0:00:36.32,Default,,0,0,20,,With a Taishou Era charming lady
+Dialogue: 0,0:00:31.90,0:00:36.32,Default,,0,0,20,,With a Taishō Era charming lady
 Dialogue: 0,0:00:36.32,0:00:40.70,Default,,0,0,20,,Hi, Hi, Hi, High Collar Lady's coming
 Dialogue: 0,0:00:40.70,0:00:45.08,Default,,0,0,20,,With her gentle heart, winning everyone over
 Dialogue: 0,0:00:45.08,0:00:49.46,Default,,0,0,20,,Hi, Hi, Hi, High Collar Lady's coming
@@ -58,27 +58,27 @@ Dialogue: 0,0:24:00.59,0:24:06.10,Default,,0,0,20,,Ah, how frustrating it is \Nt
 Dialogue: 0,0:24:06.10,0:24:11.02,Default,,0,0,20,,How are you feeling? I am Benio
 Dialogue: 0,0:24:12.52,0:24:17.23,Default,,0,0,20,,Just a tomboyish lady who's a little pretentious
 Comment: 0,0:24:15.11,0:24:19.32,Default,,0,0,0,,{\b1\blur1.001\fs45\bord0\c&HFCF5FD&\pos(1060.001,600)\fs28.001}Brought to you by the Sorcery Party\N{\fs}ѫ~ѫ\N"Lux in Tenebris"
-Dialogue: 0,0:01:19.00,0:01:23.22,Default,,0,0,0,,After quarreling with the despicable soldiers \Nand getting thrown into a cell,
-Dialogue: 0,0:01:23.22,0:01:27.30,Default,,0,0,0,,Benio finally got out—but not without causing Ranmaru a great deal of worry. {perevo: I hear 憎い軍人投げ飛ばし、放り込まれたブタ箱も、蘭丸の苦労の買いやって出られたものの and I have no idea what he means}
+Dialogue: 0,0:01:19.00,0:01:23.22,Default,,0,0,0,,After quarreling with some despicable soldiers \Nand getting thrown into a cell,
+Dialogue: 0,0:01:23.22,0:01:27.30,Default,,0,0,0,,Benio was finally released—but not without causing Ranmaru a great deal of worry. {perevo: I hear 憎い軍人投げ飛ばし、放り込まれたブタ箱も、蘭丸の苦労の買いやって出られたものの and I have no idea what he means}
 Dialogue: 0,0:01:28.34,0:01:32.01,Default,,0,0,0,,Meanwhile, back home, \NShinobu's cold-hearted relatives
-Dialogue: 0,0:01:32.01,0:01:36.03,Default,,0,0,0,,gathered for nothing \Nbut a wicked dispute for his fortune.
-Dialogue: 0,0:01:36.03,0:01:39.75,Default,,0,0,0,,However, as Shinobu's spiritual wife,
-Dialogue: 0,0:01:39.75,0:01:43.17,Default,,0,0,0,,Benio decided to cut her long hair \Nto consecrate them to him.
+Dialogue: 0,0:01:32.01,0:01:36.03,Default,,0,0,0,,did nothing but argue over his assets. {Did Shinobu actually have a "fortune"? The events of this episode would suggest not. -CM}
+Dialogue: 0,0:01:36.03,0:01:39.75,Default,,0,0,0,,So, as Shinobu's spiritual wife,
+Dialogue: 0,0:01:39.75,0:01:43.17,Default,,0,0,0,,Benio decided to cut her long hair \Nto consecrate it to him.
 Dialogue: 0,0:01:43.17,0:01:48.09,Default,,0,0,0,,And, after donning her white mourning garment, \Nshe professed her everlasting love for him.
 Dialogue: 0,0:01:49.14,0:01:52.20,Default,,0,0,0,,Concerned for Ranmaru's future,
-Dialogue: 0,0:01:52.20,0:01:55.67,Default,,0,0,0,,she then advised him to return home \Nand pursue his acting career.
+Dialogue: 0,0:01:52.20,0:01:55.67,Default,,0,0,0,,she told him to return home \Nand pursue his acting career.
 Dialogue: 0,0:01:56.06,0:02:00.21,Default,,0,0,0,,Despite realizing that it's not the time \Nto be crying helplessly,
 Dialogue: 0,0:02:00.21,0:02:06.84,Default,,0,0,0,,she still doesn't know whether her small contribution \Ncan sustain the Count's family.
-Dialogue: 0,0:02:16.01,0:02:18.21,Default,,0,0,0,,I must thank all of you for all the care.
-Dialogue: 0,0:02:18.21,0:02:21.95,Default,,0,0,0,,You've worked hard in the short time you've been with us.
-Dialogue: 0,0:02:21.95,0:02:24.21,Default,,0,0,0,,This is our{severance package as a} token of gratitude.
+Dialogue: 0,0:02:16.01,0:02:18.21,Default,,0,0,0,,I must thank you for all your care.
+Dialogue: 0,0:02:18.21,0:02:21.95,Default,,0,0,0,,You've been a hard worker in the short time you've been with us.
+Dialogue: 0,0:02:21.95,0:02:24.21,Default,,0,0,0,,This is a{severance package as a} token of our gratitude.
 Dialogue: 0,0:02:24.81,0:02:26.26,Default,,0,0,0,,Here you go.
 Dialogue: 0,0:02:27.50,0:02:28.68,Default,,0,0,0,,Thank you.
 Dialogue: 0,0:02:31.64,0:02:33.18,Default,,0,0,0,,And this is from me.
 Dialogue: 0,0:02:34.87,0:02:36.10,Default,,0,0,0,,Thank you.
 Dialogue: 0,0:02:36.87,0:02:39.61,Default,,0,0,0,,Uhm... aren't you going to give her something too, Lady Benio?
 Dialogue: 0,0:02:39.61,0:02:40.55,Default,,0,0,0,,Me?
-Dialogue: 0,0:02:41.02,0:02:44.52,Default,,0,0,0,,Oh no! Me and Lady Benio are close, \Nso it would be inappropriate. {lit: from benio, that would be distant; not frank; reserved}
+Dialogue: 0,0:02:41.02,0:02:44.52,Default,,0,0,0,,Oh no! Me and Lady Benio are close, \Nso it wouldn't be appropriate. {lit: from benio, that would be distant; not frank; reserved}
 Dialogue: 0,0:02:45.15,0:02:49.26,Default,,0,0,0,,But it seems only fitting to me, given the occasion.
 Dialogue: 0,0:02:49.26,0:02:50.86,Default,,0,0,0,,I suppose.
 Dialogue: 0,0:02:51.53,0:02:53.34,Default,,0,0,0,,Then I'll give you this.
@@ -94,7 +94,7 @@ Dialogue: 0,0:03:44.38,0:03:47.96,Default,,0,0,0,,Oh? Even Tenmaru and Chimaru a
 Dialogue: 0,0:03:47.96,0:03:49.06,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:03:49.94,0:03:52.32,Default,,0,0,0,,It's as if they understand what's going on.
 Dialogue: 0,0:03:52.32,0:03:54.05,Default,,0,0,0,,What a smart bunch!
-Dialogue: 0,0:03:54.60,0:03:58.10,Default,,0,0,0,,Tenmaru, Chimaru, \Nlook after Benio in my stead, will you?
+Dialogue: 0,0:03:54.60,0:03:58.10,Default,,0,0,0,,Tenmaru, Chimaru, \Nlook after Benio for me, will you?
 Dialogue: 0,0:04:03.86,0:04:06.40,Default,,0,0,0,,Take care of yourself, Ranko!
 Dialogue: 0,0:04:06.40,0:04:09.41,Default,,0,0,0,,Goodbye! Make the best of it!
 Dialogue: 0,0:04:14.85,0:04:18.12,Default,,0,0,0,,From today on, I'll be all alone here.
@@ -110,14 +110,17 @@ Dialogue: 0,0:04:53.28,0:04:57.97,Default,,0,0,0,,Dear, why don't you call Ushig
 Dialogue: 0,0:04:57.97,0:04:59.93,Default,,0,0,0,,Right. I guess I will.
 Dialogue: 0,0:04:59.93,0:05:01.20,Default,,0,0,0,,Hey, Ushigorou!
 Dialogue: 0,0:05:01.20,0:05:03.71,Default,,0,0,0,,I've been waiting for this moment!
-Dialogue: 0,0:05:03.71,0:05:05.85,Default,,0,0,0,,Whee-s-s-stop!
+Dialogue: 0,0:05:03.71,0:05:04.98,Default,,0,0,0,,Whee{\alphaFF}-s-s-stop!
+Dialogue: 0,0:05:04.98,0:05:05.20,Default,,0,0,0,,Whee-s{\alphaFF}-s-stop!
+Dialogue: 0,0:05:05.19,0:05:05.42,Default,,0,0,0,,Whee-s-s{\alphaFF}-stop!
+Dialogue: 0,0:05:05.42,0:05:05.85,Default,,0,0,0,,Whee-s-s-stop!
 Dialogue: 0,0:05:05.85,0:05:07.48,Default,,0,0,0,,Here! Your transport!
 Dialogue: 0,0:05:15.51,0:05:17.73,Default,,0,0,0,,Sorry for taking your place!
 Dialogue: 0,0:05:18.39,0:05:21.64,Default,,0,0,0,,Here I go! Make way!
 Dialogue: 0,0:05:24.64,0:05:26.56,Default,,0,0,0,,Uhm... Lady Benio, \Nmay I have a word with you?
 Dialogue: 0,0:05:27.23,0:05:28.70,Default,,0,0,0,,Yes? What's the matter?
-Dialogue: 0,0:05:28.70,0:05:32.79,Default,,0,0,0,,The car won't start, but it's not because it's actually broken.
-Dialogue: 0,0:05:32.79,0:05:35.11,Default,,0,0,0,,Then why won't it start?
+Dialogue: 0,0:05:28.70,0:05:32.79,Default,,0,0,0,,The car won't start, but\Nnot because it's broken.
+Dialogue: 0,0:05:32.79,0:05:35.11,Default,,0,0,0,,So what's the probem?
 Dialogue: 0,0:05:35.11,0:05:38.53,Default,,0,0,0,,You see, the fuel station \Nwon't give me any gasoline.
 Dialogue: 0,0:05:39.01,0:05:40.99,Default,,0,0,0,,Oh? But why?
 Dialogue: 0,0:05:41.39,0:05:44.60,Default,,0,0,0,,We're more than a year in arrears.
@@ -134,23 +137,23 @@ Dialogue: 0,0:06:11.08,0:06:13.74,Default,,0,0,0,,That also usually comes late.
 Dialogue: 0,0:06:14.65,0:06:16.46,Default,,0,0,0,,Wow...
 Dialogue: 0,0:06:17.18,0:06:20.82,Default,,0,0,0,,Is our household really this deep in trouble?
 Dialogue: 0,0:06:29.77,0:06:32.96,Default,,0,0,0,,I'm an antique dealer, ma'am. Here.
-Dialogue: 0,0:06:34.91,0:06:36.81,Default,,0,0,0,,What are these scribbles about?
+Dialogue: 0,0:06:34.91,0:06:36.81,Default,,0,0,0,,What are these scribbles?
 Dialogue: 0,0:06:40.78,0:06:43.22,Default,,0,0,0,,What?! A bill?!
 Dialogue: 0,0:06:43.22,0:06:44.14,Default,,0,0,0,,10,000 yen?
 Dialogue: 0,0:06:44.46,0:06:47.94,Default,,0,0,0,,Wh-What kind of exorbitant price is this?!
-Dialogue: 0,0:06:47.94,0:06:50.50,Default,,0,0,0,,1.5 kg {一升}of rice comes at one yen nowadays!
+Dialogue: 0,0:06:47.94,0:06:50.50,Default,,0,0,0,,A satchel {一升}of rice is one yen nowadays!
 Dialogue: 0,0:06:50.50,0:06:53.09,Default,,0,0,0,,What do you even buy with 10,000 yen?!
 Dialogue: 0,0:06:53.09,0:06:54.73,Default,,0,0,0,,So? Won't you tell me?!
-Dialogue: 0,0:06:54.73,0:06:58.59,Default,,0,0,0,,You must know that 10,000 yen \Nequal to one yen multiplied by 10,000—
+Dialogue: 0,0:06:54.73,0:06:58.59,Default,,0,0,0,,You must know that 10,000 yen is\Nequal to one yen multiplied by 10,000—
 Dialogue: 0,0:06:58.59,0:07:00.53,Default,,0,0,0,,I know that much!
-Dialogue: 0,0:07:00.53,0:07:02.68,Default,,0,0,0,,I've learned first grade maths too, you know!
-Dialogue: 0,0:07:02.68,0:07:04.16,Default,,0,0,0,,Quit fooling with me!
-Dialogue: 0,0:07:04.16,0:07:05.89,Default,,0,0,0,,Oh, the antique dealer?
+Dialogue: 0,0:07:00.53,0:07:02.68,Default,,0,0,0,,I know first-grade math too, you know!
+Dialogue: 0,0:07:02.68,0:07:04.16,Default,,0,0,0,,Quit screwing with me!
+Dialogue: 0,0:07:04.16,0:07:05.89,Default,,0,0,0,,Oh, is it the antique dealer?
 Dialogue: 0,0:07:07.12,0:07:09.21,Default,,0,0,0,,Thanks for coming.
 Dialogue: 0,0:07:09.21,0:07:11.67,Default,,0,0,0,,Ah, Count!
 Dialogue: 0,0:07:13.86,0:07:14.65,Default,,0,0,0,,Good to see you.
 Dialogue: 0,0:07:14.65,0:07:17.42,Default,,0,0,0,,Well! It's always a pleasure \Nto do business with you.{guess - alucard; I got nothing either}
-Dialogue: 0,0:07:17.42,0:07:19.05,Default,,0,0,0,,So you did buy something off him?
+Dialogue: 0,0:07:17.42,0:07:19.05,Default,,0,0,0,,So you did buy something from him?
 Dialogue: 0,0:07:19.05,0:07:22.61,Default,,0,0,0,,Well, you see, he sold me this \Nrare antique sword the other day. {masamune = rare sword forged by masamune}
 Dialogue: 0,0:07:23.20,0:07:24.36,Default,,0,0,0,,Let me show you.
 Dialogue: 0,0:07:30.91,0:07:34.75,Default,,0,0,0,,Take a look at this noble color.\NDon't you think it's magnificent?
@@ -166,32 +169,32 @@ Dialogue: 0,0:07:55.55,0:07:56.55,Default,,0,0,0,,Careful!
 Dialogue: 0,0:07:58.40,0:08:01.15,Default,,0,0,0,,My pinky! My pinky! Call a doctor!
 Dialogue: 0,0:08:01.15,0:08:02.97,Default,,0,0,0,,Oh, no!{or nothing}
 Dialogue: 0,0:08:05.99,0:08:08.62,Default,,0,0,0,,10,000 yen... My 10,000 yen...!
-Dialogue: 0,0:08:08.62,0:08:10.35,Default,,0,0,0,,What the?! So it was a sham?!
+Dialogue: 0,0:08:08.62,0:08:10.35,Default,,0,0,0,,What the?! So it was a fake?!
 Dialogue: 0,0:08:11.08,0:08:13.62,Default,,0,0,0,,Did you... try to swindle me?!
-Dialogue: 0,0:08:14.66,0:08:18.15,Default,,0,0,0,,Both Count and Countess are so naive... {lit: don't know the ways of the world}
+Dialogue: 0,0:08:14.66,0:08:18.15,Default,,0,0,0,,Both the Count and Countess are so naive... {lit: don't know the ways of the world}
 Dialogue: 0,0:08:18.15,0:08:21.75,Default,,0,0,0,,We'll have duck with cold sea bass \Non the side for dinner.
-Dialogue: 0,0:08:21.75,0:08:23.61,Default,,0,0,0,,Then follow it up with spiny lobsters.
+Dialogue: 0,0:08:21.75,0:08:23.61,Default,,0,0,0,,And then follow it up with spiny lobsters.
 Dialogue: 0,0:08:23.61,0:08:25.62,Default,,0,0,0,,Certainly, ma'am.
-Dialogue: 0,0:08:25.62,0:08:28.52,Default,,0,0,0,,I'm the only one in here\Nwith some financial responsibility.
+Dialogue: 0,0:08:25.62,0:08:28.52,Default,,0,0,0,,I'm the only one here\Nwith any financial sense.
 Dialogue: 0,0:08:35.33,0:08:37.10,Default,,0,0,0,,One moment, Chef.
 Dialogue: 0,0:08:37.10,0:08:39.05,Default,,0,0,0,,I want to talk about the dinner menu.
 Dialogue: 0,0:08:39.05,0:08:39.73,Default,,0,0,0,,Yes?
-Dialogue: 0,0:08:39.73,0:08:44.51,Default,,0,0,0,,Get some fish and some daikon leaves, \Nbecause for dinner we'll have miso soup instead!
+Dialogue: 0,0:08:39.73,0:08:44.51,Default,,0,0,0,,Get some fish and some daikon leaves, \Nbecause for dinner we're having miso soup instead!
 Dialogue: 0,0:08:45.42,0:08:47.64,Default,,0,0,0,,B-But it's such simple food...
 Dialogue: 0,0:08:49.26,0:08:50.62,Default,,0,0,0,,Unbelievable!
 Dialogue: 0,0:08:52.29,0:08:54.04,Default,,0,0,0,,You don't know how to make it?
 Dialogue: 0,0:08:54.04,0:08:54.95,Default,,0,0,0,,No.
-Dialogue: 0,0:09:07.12,0:09:11.72,Default,,0,0,0,,No matter how much we cut expenses, \Nwe're still deep in red, red, and even more red.
+Dialogue: 0,0:09:07.12,0:09:11.72,Default,,0,0,0,,No matter how much we cut costs, \Nwe're still deep in red, red, and even more red.
 Dialogue: 0,0:09:32.24,0:09:34.79,Default,,0,0,0,,Excuse me? Ranmaru, are you here?
 Dialogue: 0,0:09:34.79,0:09:36.48,Default,,0,0,0,,Oh! Benio!
 Dialogue: 0,0:09:37.35,0:09:39.65,Default,,0,0,0,,That's it for today's lesson, everyone!
 Dialogue: 0,0:09:40.24,0:09:41.40,Default,,0,0,0,,Ah, M-Master!
-Dialogue: 0,0:09:43.63,0:09:46.69,Default,,0,0,0,,So the mansion is struggling to this extent?
+Dialogue: 0,0:09:43.63,0:09:46.69,Default,,0,0,0,,So the mansion is struggling that much?
 Dialogue: 0,0:09:46.69,0:09:49.61,Default,,0,0,0,,That's why I wanted to ask you \Nto give it back, Ranmaru.
 Dialogue: 0,0:09:50.28,0:09:52.47,Default,,0,0,0,,Huh? Give what back?
-Dialogue: 0,0:09:52.47,0:09:55.88,Default,,0,0,0,,The coin purse that I gifted you \Ninstead of severance pay.
+Dialogue: 0,0:09:52.47,0:09:55.88,Default,,0,0,0,,The coin purse that I gifted you \Nin lieu of severance pay.
 Dialogue: 0,0:09:57.43,0:09:58.88,Default,,0,0,0,,Sure, sure.
-Dialogue: 0,0:10:00.27,0:10:02.26,Default,,0,0,0,,Here's your wallet, Benio.
+Dialogue: 0,0:10:00.27,0:10:02.26,Default,,0,0,0,,Here's your purse, Benio.
 Dialogue: 0,0:10:03.49,0:10:04.67,Default,,0,0,0,,Thank goodness.
 Dialogue: 0,0:10:07.59,0:10:09.26,Default,,0,0,0,,You can have these as well.
 Dialogue: 0,0:10:09.26,0:10:11.45,Default,,0,0,0,,Oh? The other severance packages?
@@ -214,7 +217,7 @@ Dialogue: 0,0:11:16.39,0:11:20.25,Default,,0,0,0,,Hold it! You'd better not forg
 Dialogue: 0,0:11:20.25,0:11:21.75,Default,,0,0,0,,Ushigorou!
 Dialogue: 0,0:11:21.75,0:11:24.00,Default,,0,0,0,,And here, here, here, here I am!
 Dialogue: 0,0:11:24.00,0:11:27.44,Default,,0,0,0,,Wherever you go, \NI, Ushigorou, will follow you!
-Dialogue: 0,0:11:27.44,0:11:29.48,Default,,0,0,0,,No salary needed.
+Dialogue: 0,0:11:27.44,0:11:29.48,Default,,0,0,0,,No salary required.
 Dialogue: 0,0:11:29.48,0:11:32.30,Default,,0,0,0,,Not like you've ever paid me before, anyhow.
 Dialogue: 0,0:11:34.43,0:11:38.85,Default,,0,0,0,,All I ask for is being able to keep doing the job \NI've always done: the rickshawman!
 Dialogue: 0,0:11:39.46,0:11:40.39,Default,,0,0,0,,Boss!
@@ -223,47 +226,48 @@ Dialogue: 0,0:11:42.77,0:11:44.48,Default,,0,0,0,,Thank you...
 Dialogue: 0,0:11:45.21,0:11:47.96,Default,,0,0,0,,Thank you, both of you.
 Dialogue: 0,0:11:55.72,0:11:59.78,Default,,0,0,0,,We must stay strong and live on.\NWe'll walk forward together!
 Dialogue: 0,0:12:00.75,0:12:04.58,Default,,0,0,0,,Shinobu, please look after us, \Nwherever you are. {/I'm sure you're looking over us too}
-Dialogue: 0,0:12:08.55,0:12:12.76,Default,,0,0,0,,Here in Siberia, \NSpring is still at its first stages.
+Dialogue: 0,0:12:08.55,0:12:12.76,Default,,0,0,0,,Here in Siberia, it is still early Spring.
 Dialogue: 0,0:12:12.76,0:12:16.69,Default,,0,0,0,,Where is Shinobu now?
 Dialogue: 0,0:12:35.79,0:12:36.99,Default,,0,0,0,,Alright, I know what to do!
 Dialogue: 0,0:12:36.99,0:12:39.09,Default,,0,0,0,,Whoa-whoa-whoa!
 Dialogue: 0,0:12:39.97,0:12:41.40,Default,,0,0,0,,What are you planning to do?
-Dialogue: 0,0:12:41.40,0:12:43.63,Default,,0,0,0,,I also will start working today!
-Dialogue: 0,0:12:43.63,0:12:46.60,Default,,0,0,0,,Huh? What kind of work are you going to do?
+Dialogue: 0,0:12:41.40,0:12:43.63,Default,,0,0,0,,I will also start working today!
+Dialogue: 0,0:12:43.63,0:12:46.60,Default,,0,0,0,,Huh? What kind of work?
 Dialogue: 0,0:12:46.60,0:12:48.00,Default,,0,0,0,,Let's see...
 Dialogue: 0,0:12:48.60,0:12:49.65,Default,,0,0,0,,I know!
-Dialogue: 0,0:12:51.18,0:12:53.44,Default,,0,0,0,,I could try working as a rickshawman for now!
-Dialogue: 0,0:12:53.44,0:12:54.65,Default,,0,0,0,,R-Rickshawman?
+Dialogue: 0,0:12:51.18,0:12:53.44,Default,,0,0,0,,I could try working as a rickshaw man for now!
+Dialogue: 0,0:12:53.44,0:12:54.65,Default,,0,0,0,,R-Rickshaw man?
 Dialogue: 0,0:12:56.19,0:12:58.21,Default,,0,0,0,,She assumes that it's a simple job,
 Dialogue: 0,0:12:58.21,0:13:01.70,Default,,0,0,0,,but actually, pulling a rickshaw \Nisn't as easy as it may seem.
 Dialogue: 0,0:13:01.70,0:13:05.54,Default,,0,0,0,,{\iclip(0,700,100,1000)\t(3500,3900,\iclip(0,700,1500,1000))}Well, I doubt she'd ever \Nchange her mind, so I'll let her be.
-Dialogue: 0,0:13:10.07,0:13:14.81,Default,,0,0,0,,Wow, it fits you quit well, Boss! \NI'm sure you'll do great on this job!
+Dialogue: 0,0:13:10.07,0:13:14.81,Default,,0,0,0,,Wow, it fits you quite well, Boss! \NI'm sure you'll do great on this job!
 Dialogue: 0,0:13:14.81,0:13:16.99,Default,,0,0,0,,I just look good in everything I wear.
-Dialogue: 0,0:13:17.66,0:13:21.08,Default,,0,0,0,,Well said! You simply \Nlook like a rickshaw by nature!
+Dialogue: 0,0:13:17.66,0:13:21.08,Default,,0,0,0,,Well said! You're the spitting\Nimage of a rickshaw man!
 Dialogue: 0,0:13:21.08,0:13:22.85,Default,,0,0,0,,Are you currying favor with me?
 Dialogue: 0,0:13:22.85,0:13:24.33,Default,,0,0,0,,No, no, I never meant to...
 Dialogue: 0,0:13:26.39,0:13:27.83,Default,,0,0,0,,Get back here!
-Dialogue: 0,0:13:30.17,0:13:36.55,Default,,0,0,0,,Let's start with a rehearsal.\NMake way, go-go-go-go-go!
-Dialogue: 0,0:13:39.64,0:13:42.46,Default,,0,0,0,,Oh? I've got used to it \Nand now it feels lighter!
-Dialogue: 0,0:13:42.46,0:13:44.93,Default,,0,0,0,,It looks like I'm a fast learner after all!
+Dialogue: 0,0:13:30.16,0:13:31.53,Default,,0,0,0,,Let's start with a rehearsal.
+Dialogue: 0,0:13:31.53,0:13:35.94,Default,,0,0,0,,Make way, go-go-go-go-go!
+Dialogue: 0,0:13:39.64,0:13:42.46,Default,,0,0,0,,Oh? Now that I've got used to this, it feels lighter!
+Dialogue: 0,0:13:42.46,0:13:44.93,Default,,0,0,0,,Looks like I'm a fast learner after all!
 Dialogue: 0,0:13:46.19,0:13:47.91,Default,,0,0,0,,Ouch!
 Dialogue: 0,0:13:47.91,0:13:50.46,Default,,0,0,0,,Oh man, I have a bad feeling about this...
 Dialogue: 0,0:13:56.76,0:14:01.41,Default,,0,0,0,,Now I just pick the passengers up and haul them around! \NBeing a rickshawman is a walk in the park!
 Dialogue: 0,0:14:03.96,0:14:06.00,Default,,0,0,0,,Oh? Here's my first passenger already.
-Dialogue: 0,0:14:06.64,0:14:07.92,Default,,0,0,0,,Rickshawman!
+Dialogue: 0,0:14:06.64,0:14:07.92,Default,,0,0,0,,Rickshaw man!
 Dialogue: 0,0:14:09.02,0:14:12.84,Default,,0,0,0,,My very first passenger \Nis my own school teacher!
-Dialogue: 0,0:14:16.47,0:14:18.76,Default,,0,0,0,,To Atonashi Girls' School{or whatever name we've gone with}, please.
+Dialogue: 0,0:14:16.47,0:14:18.76,Default,,0,0,0,,To Atonashi Girls' School, please.
 Dialogue: 0,0:14:20.78,0:14:22.53,Default,,0,0,0,,You know where it is, right?
 Dialogue: 0,0:14:22.53,0:14:25.02,Default,,0,0,0,,Y-Yes. Here I go...
 Dialogue: 0,0:14:25.87,0:14:27.38,Default,,0,0,0,,This is bad!
 Dialogue: 0,0:14:27.38,0:14:29.96,Default,,0,0,0,,My school is a proudly conservative one,
 Dialogue: 0,0:14:29.96,0:14:33.73,Default,,0,0,0,,if they find out I'm doing this job, \NI'll definitely be expelled.
-Dialogue: 0,0:14:33.73,0:14:36.70,Default,,0,0,0,,Rickshawman, where do you come from?
-Dialogue: 0,0:14:36.70,0:14:39.66,Default,,0,0,0,,Ma'am, I was born in the northeastern prefecture of Fukushima. {/in the prefecture of Fukushima, in Touhoku}{she's mimicking the accent}
+Dialogue: 0,0:14:33.73,0:14:36.70,Default,,0,0,0,,Rickshaw man, where do you come from?
+Dialogue: 0,0:14:36.70,0:14:39.66,Default,,0,0,0,,Ma'am, I was born in Fukushima prefecture, to the northeast. {/in the prefecture of Fukushima, in Touhoku}{she's mimicking the accent}
 Dialogue: 0,0:14:39.66,0:14:41.41,Default,,0,0,0,,Oh? So you're here to make a living?
 Dialogue: 0,0:14:41.41,0:14:45.22,Default,,0,0,0,,Aye, ma'am... \N'Cause of the ongoing recession 'n' all...
 Dialogue: 0,0:14:45.22,0:14:46.76,Default,,0,0,0,,I see...
-Dialogue: 0,0:14:47.46,0:14:50.25,Default,,0,0,0,,Yikes, I'm walking on such thin ice!
+Dialogue: 0,0:14:47.46,0:14:50.25,Default,,0,0,0,,Yikes, I'm walking on thin ice!
 Dialogue: 0,0:14:55.86,0:14:57.61,Default,,0,0,0,,We've arrived, ma'am!
 Dialogue: 0,0:14:57.61,0:14:58.83,Default,,0,0,0,,Thank you.
 Dialogue: 0,0:14:58.83,0:15:00.01,Default,,0,0,0,,You're welcome.
@@ -279,7 +283,7 @@ Dialogue: 0,0:15:19.66,0:15:20.83,Default,,0,0,0,,Homework?
 Dialogue: 0,0:15:20.83,0:15:23.68,Default,,0,0,0,,So she realized it was me?
 Dialogue: 0,0:15:24.96,0:15:27.66,Default,,0,0,0,,Thank you, teacher.
 Dialogue: 0,0:15:31.92,0:15:35.46,Default,,0,0,0,,It's so easy to make money like this!
-Dialogue: 0,0:15:35.46,0:15:39.05,Default,,0,0,0,,Rickshawman, take me to Mount Kurama.
+Dialogue: 0,0:15:35.46,0:15:39.05,Default,,0,0,0,,Rickshaw man, take me to Mount Kurama.
 Dialogue: 0,0:15:39.05,0:15:40.51,Default,,0,0,0,,Scratch that! {/I take everything back!}
 Dialogue: 0,0:15:41.16,0:15:43.95,Default,,0,0,0,,You look a little scrawny. \NSure you can manage?
 Dialogue: 0,0:15:43.95,0:15:44.90,Default,,0,0,0,,No, I...
@@ -290,31 +294,31 @@ Dialogue: 0,0:16:09.89,0:16:12.35,Default,,0,0,0,,Heave-ho, heave-ho!
 Dialogue: 0,0:16:13.00,0:16:15.29,Default,,0,0,0,,I can do this...{guess}
 Dialogue: 0,0:16:16.01,0:16:17.34,Default,,0,0,0,,What?!
 Dialogue: 0,0:16:19.78,0:16:22.80,Default,,0,0,0,,Let's fight, let's fight, let's fight!{dosukoi, the sumo greeting before entering the ring}
-Dialogue: 0,0:16:22.80,0:16:25.99,Default,,0,0,0,,Being a rickshawman really is a piece of cake!
+Dialogue: 0,0:16:22.80,0:16:25.99,Default,,0,0,0,,Being a rickshaw man really is a piece of cake!
 Dialogue: 0,0:16:37.71,0:16:39.40,Default,,0,0,0,,Arrived at last.
 Dialogue: 0,0:16:39.40,0:16:40.53,Default,,0,0,0,,We're here!
 Dialogue: 0,0:16:46.26,0:16:47.87,Default,,0,0,0,,Much obliged... {ごっつぁんです}
 Dialogue: 0,0:16:48.49,0:16:50.18,Default,,0,0,0,,Poor me...
-Dialogue: 0,0:16:56.46,0:16:58.77,Default,,0,0,0,,I guess I can't be a rickshawman after all.
+Dialogue: 0,0:16:56.46,0:16:58.77,Default,,0,0,0,,I guess I can't be a rickshaw man after all.
 Dialogue: 0,0:16:58.77,0:17:01.88,Default,,0,0,0,,Yeah, the footwork required is no joke.
 Dialogue: 0,0:17:01.88,0:17:03.81,Default,,0,0,0,,I'll have to find a proper job.
 Dialogue: 0,0:17:03.81,0:17:06.65,Default,,0,0,0,,That said, I'm not sure there is one to be found.
 Dialogue: 0,0:17:06.65,0:17:08.60,Default,,0,0,0,,With the economy in a slump and all...
 Dialogue: 0,0:17:10.77,0:17:11.57,Default,,0,0,0,,Oh?
-Dialogue: 0,0:17:16.87,0:17:20.45,Default,,0,0,0,,What is this line for? \NIs this for some kind of lottery? {+or betting shop}
-Dialogue: 0,0:17:21.04,0:17:23.66,Default,,0,0,0,,Not really.\NIt's for a recruitment test for bus girls.
+Dialogue: 0,0:17:16.87,0:17:20.45,Default,,0,0,0,,What's this line for? \NIs this for some kind of lottery? {+or betting shop}
+Dialogue: 0,0:17:21.04,0:17:23.66,Default,,0,0,0,,Not really.\NIt's for a recruitment test for busgirls.
 Dialogue: 0,0:17:23.66,0:17:25.86,Default,,0,0,0,,Really? Maybe I should give it a go too.
 Dialogue: 0,0:17:25.86,0:17:27.05,Default,,0,0,0,,You?
 Dialogue: 0,0:17:27.05,0:17:28.52,Default,,0,0,0,,Don't make us laugh.
 Dialogue: 0,0:17:28.52,0:17:31.26,Default,,0,0,0,,We studied hard day and night for this.
 Dialogue: 0,0:17:31.26,0:17:35.04,Default,,0,0,0,,Right, and you also \Nhave to be beautiful, like us.
-Dialogue: 0,0:17:39.25,0:17:42.94,Default,,0,0,0,,At this point in history, the jobs for women were scarce
-Dialogue: 0,0:17:42.94,0:17:46.51,Default,,0,0,0,,and being bus girls was the highest role they could hope to get.
+Dialogue: 0,0:17:39.25,0:17:42.94,Default,,0,0,0,,At this point in history, jobs for women were scarce
+Dialogue: 0,0:17:42.94,0:17:46.51,Default,,0,0,0,,and being busgirls was the highest role they could hope to get.
 Dialogue: 0,0:17:46.51,0:17:50.91,Default,,0,0,0,,Thus, it was the dream job for many young, dreamy maidens.
 Dialogue: 0,0:17:52.18,0:17:55.70,Default,,0,0,0,,Ah, I wonder if there's a good job for me somewhere...
-Dialogue: 0,0:17:56.39,0:17:58.08,Default,,0,0,0,,Got any job?!
-Dialogue: 0,0:17:58.08,0:18:01.55,Default,,0,0,0,,Only the cockroaches will hear you in a place like that.
-Dialogue: 0,0:18:01.55,0:18:03.45,Default,,0,0,0,,Could we offer you a job, Young Lady?
+Dialogue: 0,0:17:56.39,0:17:58.08,Default,,0,0,0,,Got a job?! {Gissa job! -CM}
+Dialogue: 0,0:17:58.08,0:18:01.55,Default,,0,0,0,,Only the roaches can hear you in there.
+Dialogue: 0,0:18:01.55,0:18:03.45,Default,,0,0,0,,Could we offer you a job, young lady?
 Dialogue: 0,0:18:03.45,0:18:03.99,Default,,0,0,0,,Huh?!
 Dialogue: 0,0:18:03.99,0:18:07.15,Default,,0,0,0,,Oh, you good-for-nothing scoundrel!
 Dialogue: 0,0:18:07.15,0:18:10.87,Default,,0,0,0,,We lead the association for delinquents, hooligans, and punks!
@@ -324,27 +328,27 @@ Dialogue: 0,0:18:18.10,0:18:19.73,Default,,0,0,0,,Don't get on my nerves!
 Dialogue: 0,0:18:25.23,0:18:27.93,Default,,0,0,0,,Quit fooling around! \NI'm being serious!
 Dialogue: 0,0:18:29.22,0:18:30.87,Default,,0,0,0,,Man, recruiting people ain't easy.
 Dialogue: 0,0:18:30.87,0:18:32.85,Default,,0,0,0,,You just bothered the wrong person.
-Dialogue: 0,0:18:34.45,0:18:39.20,Song,,0,0,0,,I so wanted to see you, to meet you, {I cant fucking believe i found this song by brute method of going through the list of all song's first lines lmfao: https://www.klnet.pref.kanagawa.jp/uploads/2021/05/777674a9b38a1ae63e66743e35a8b902.pdf}{逢いたさ見たさに怖さを忘れ}
+Dialogue: 0,0:18:34.45,0:18:39.20,Song,,0,0,0,,{\i1}I so wanted to see you, to meet you,{\i0} {I cant fucking believe i found this song by brute method of going through the list of all song's first lines lmfao: https://www.klnet.pref.kanagawa.jp/uploads/2021/05/777674a9b38a1ae63e66743e35a8b902.pdf}{逢いたさ見たさに怖さを忘れ}
 Dialogue: 0,0:18:37.54,0:18:39.20,Default,,0,0,0,,I'm happy I got Kichiji's postcard.
 Dialogue: 0,0:18:39.20,0:18:41.21,Default,,0,0,0,,I got my hands on her record too!
-Dialogue: 0,0:18:39.20,0:18:43.98,Song,,0,0,0,,I forgot my fears
-Dialogue: 0,0:18:43.98,0:18:53.43,Song,,0,0,0,,On this dark night road, I am all alone {暗い夜道をただ一人}
+Dialogue: 0,0:18:39.20,0:18:43.98,Song,,0,0,0,,{\i1}I forgot my fears{\i0}
+Dialogue: 0,0:18:43.98,0:18:53.43,Song,,0,0,0,,{\i1}On this dark night road, I am all alone{\i0} {暗い夜道をただ一人}
 Dialogue: 0,0:18:46.25,0:18:51.19,Default,,0,0,0,,In the music industry of the time,\N many geishas pursued singing careers.
 Dialogue: 0,0:18:51.19,0:18:56.10,Default,,0,0,0,,There still were few actresses,\Nso often geishas also posed as poster models.
-Dialogue: 0,0:18:53.43,0:19:02.81,Song,,0,0,0,,I will never forget your voice calling me, {あなたの呼ぶ声忘れはせぬが}
-Dialogue: 0,0:18:56.10,0:19:00.14,Default,,0,0,0,,They pretty much monopolized males' attention.
+Dialogue: 0,0:18:53.43,0:19:02.81,Song,,0,0,0,,{\i1}I will never forget your voice calling me,{\i0} {あなたの呼ぶ声忘れはせぬが}
+Dialogue: 0,0:18:56.10,0:19:00.14,Default,,0,0,0,,They pretty much monopolized the attention of men.
 Dialogue: 0,0:19:00.14,0:19:04.13,Default,,0,0,0,,Wow, Kichiji sure is very popular, isn't she?
-Dialogue: 0,0:19:02.81,0:19:10.13,Song,,0,0,0,,but I am like a bird that cannot get out of its cage{出るに出られぬ籠の鳥}
+Dialogue: 0,0:19:02.81,0:19:10.13,Song,,0,0,0,,{\i1}but I am like a bird that cannot get out of its cage{\i0}{出るに出られぬ籠の鳥}
 Dialogue: 0,0:19:06.46,0:19:09.11,Default,,0,0,0,,They're even selling posters with her.
 Dialogue: 0,0:19:25.56,0:19:27.88,Default,,0,0,0,,What was your plan, coming to a place like this?
 Dialogue: 0,0:19:27.88,0:19:29.53,Default,,0,0,0,,Seriously, boss.
-Dialogue: 0,0:19:29.53,0:19:34.08,Default,,0,0,0,,We're not quite in the position to be \Nkicking up a racket and spending lavishly, are we?
+Dialogue: 0,0:19:29.53,0:19:34.08,Default,,0,0,0,,We're not really in the position to be \Nkicking up a racket and splashing money, are we?
 Dialogue: 0,0:19:34.08,0:19:35.99,Default,,0,0,0,,That's exactly why we're here.
 Dialogue: 0,0:19:36.68,0:19:39.83,Default,,0,0,0,,You mean to say that we'll throw\Na drinking party to set the right mood?
-Dialogue: 0,0:19:39.83,0:19:41.92,Default,,0,0,0,,Man! That doesn't sound half-bad!
+Dialogue: 0,0:19:39.83,0:19:41.92,Default,,0,0,0,,Man! That doesn't sound half bad!
 Dialogue: 0,0:19:41.92,0:19:46.59,Default,,0,0,0,,Alright, then! Why don't we do it with a bang tonight, \Nto celebrate us getting back on track?
-Dialogue: 0,0:19:46.59,0:19:48.48,Default,,0,0,0,,I beg your pardon.
-Dialogue: 0,0:19:48.48,0:19:49.41,Default,,0,0,0,,Oh?
+Dialogue: 0,0:19:47.13,0:19:48.48,Default,,0,0,0,,I beg your pardon.
+Dialogue: 0,0:19:48.48,0:19:49.10,Default,,0,0,0,,Oh?
 Dialogue: 0,0:19:51.07,0:19:54.03,Default,,0,0,0,,My, what a surprise! If it isn't Lady Benio.
 Dialogue: 0,0:19:54.03,0:19:55.20,Default,,0,0,0,,Yeah...
 Dialogue: 0,0:19:55.95,0:19:57.48,Default,,0,0,0,,To what do I owe this honor?
@@ -352,14 +356,14 @@ Dialogue: 0,0:19:57.48,0:20:00.58,Default,,0,0,0,,You see, we're planning \Nto h
 Dialogue: 0,0:20:00.58,0:20:01.60,Default,,0,0,0,,Shut up!
 Dialogue: 0,0:20:03.20,0:20:05.52,Default,,0,0,0,,Kichiji, I...
 Dialogue: 0,0:20:07.92,0:20:09.74,Default,,0,0,0,,I'm considering becoming a geisha.
-Dialogue: 0,0:20:09.74,0:20:11.28,Default,,0,0,0,,Wha-?!
+Dialogue: 0,0:20:09.74,0:20:11.28,Default,,0,0,0,,Whaa?!
 Dialogue: 0,0:20:11.28,0:20:12.66,Default,,0,0,0,,What are you saying, Boss?!
 Dialogue: 0,0:20:18.59,0:20:21.08,Default,,0,0,0,,Young Master Shinobu,
 Dialogue: 0,0:20:21.08,0:20:25.27,Default,,0,0,0,,this is what Benio's been brought to do \Never since you've left us... {/life turned into}
 Dialogue: 0,0:20:54.67,0:20:57.32,Default,,0,0,0,,The snow will thaw shortly, darling.
 Dialogue: 0,0:20:58.74,0:21:01.34,Default,,0,0,0,,The ice will melt \Nonce the west wind starts blowing.
 Dialogue: 0,0:21:01.34,0:21:03.97,Default,,0,0,0,,That's when we'll be able \Nto escape from this place.
-Dialogue: 0,0:21:08.10,0:21:13.42,Default,,0,0,0,,But we'll have to hurry, the Red Army \Nis already sweeping through the area.
+Dialogue: 0,0:21:08.10,0:21:13.42,Default,,0,0,0,,But we'll have to hurry; the Red Army \Nis already sweeping through the area.
 Dialogue: 0,0:21:18.14,0:21:19.68,Default,,0,0,0,,U-Uhm...
 Dialogue: 0,0:21:20.81,0:21:21.93,Default,,0,0,0,,It's Larisa.
 Dialogue: 0,0:21:22.62,0:21:25.90,Default,,0,0,0,,You can call me Larisa. \NI am your wife.
@@ -371,20 +375,26 @@ Dialogue: 0,0:21:44.71,0:21:47.54,Default,,0,0,0,,Darling, you need to rest.
 Dialogue: 0,0:21:47.54,0:21:49.71,Default,,0,0,0,,You still haven't fully recovered.
 Dialogue: 0,0:21:49.71,0:21:55.53,Default,,0,0,0,,Once you get better and the snow melts, \Nwe'll leave this place.
 Dialogue: 0,0:22:03.28,0:22:06.37,Default,,0,0,0,,We'll cross the sea.
-Dialogue: 0,0:22:06.37,0:22:09.86,Default,,0,0,0,,We'll cross the mountains \Nto reach the land of freedom!
+Dialogue: 0,0:22:06.37,0:22:09.86,Default,,0,0,0,,We'll cross the mountains \Nand reach the land of freedom!
 Dialogue: 0,0:22:19.09,0:22:27.25,Default,,0,0,0,,Who exactly is Ijuuin Shinobu's lookalike, \NMarquis Sasha Mikhailov?
-Dialogue: 0,0:22:33.73,0:22:40.16,Default,,0,0,0,,It's still a long way off until Spring comes \Nto the frosty Siberia region.
+Dialogue: 0,0:22:33.73,0:22:40.16,Default,,0,0,0,,It's still a long way off until\NSpring is felt in frosty Siberia.
 Dialogue: 0,0:22:40.16,0:22:46.10,Default,,0,0,0,,But will Spring also come \Nto our High Collar Lady's life any time soon?
 Dialogue: 0,0:22:54.75,0:22:58.40,Default,,0,0,0,,After persuading Kichiji, Benio becomes a geisha.
-Dialogue: 0,0:22:58.40,0:23:02.48,Default,,0,0,0,,Though she looks good in any clothes,\Nshe can't sing nor dance to save her life.
+Dialogue: 0,0:22:58.40,0:23:02.48,Default,,0,0,0,,And though she looks good in anything,\Nshe can't sing nor dance to save her life.
 Dialogue: 0,0:23:02.48,0:23:06.70,Default,,0,0,0,,To make matters worse, \None of her first guests is yet another hateful officer.
-Dialogue: 0,0:23:06.70,0:23:11.30,Default,,0,0,0,,She can't help but get crass and things only get worse because of Benio's drunken frenzy,
-Dialogue: 0,0:23:11.30,0:23:14.23,Default,,0,0,0,,this officer will definitely see stars!
-Dialogue: 0,0:23:14.23,0:23:16.45,Default,,0,0,0,,Next time at Here Comes the High Collar Lady:
-Dialogue: 0,0:23:16.45,0:23:18.77,Default,,0,0,0,,Good Evening from Geisha Benichiyo.
+Dialogue: 0,0:23:06.70,0:23:11.30,Default,,0,0,0,,Benio can't help but get crass, and things only go downhill once she enters a drunken frenzy.
+Dialogue: 0,0:23:11.30,0:23:14.23,Default,,0,0,0,,This officer will definitely see stars tonight!
+Dialogue: 0,0:23:14.23,0:23:16.45,Default,,0,0,0,,See in the next episode of \N{\i1}Here Comes the High Collar Lady:{\i0}
+Dialogue: 0,0:23:16.45,0:23:18.77,Default,,0,0,0,,"Good Evening from Geisha Benichiyo."
 Dialogue: 0,0:23:18.77,0:23:20.30,Default,,0,0,0,,Don't miss it!
-Dialogue: 0,0:24:20.15,0:24:29.58,Sign,,0,0,0,,{\fs45\b1\pos(940,735)\blur1.001\bord0\an6} Translation \NEditing\N Encoding & quality checking \N Timing & translation checking \N Special thanks
-Dialogue: 0,0:24:20.15,0:24:29.58,Sign,,0,0,0,,{\fs45\b1\pos(980.001,735)\blur1.001\bord0\an4} alucardnoyuuutsu \N \N Anonymous \NPerevodildo \N Golden time Anime (vk)
+Dialogue: 0,0:24:20.15,0:24:26.82,Sign,,0,0,0,,{\fs45\b1\pos(947,615)\blur2.4\bord0\an9} Encoding & QC \N Translation \N Timing, TLC & Typesetting \N Special Thanks \N Editing
+Dialogue: 0,0:24:20.15,0:24:26.82,Sign,,0,0,0,,{\fs45\b1\pos(991,615)\blur2.4\bord0\an7} Anonymous \N alucardnoyuuutsu \N Perevodildo \N Golden Time Anime (VK) \N CeleryMan
+Dialogue: 0,0:24:20.15,0:24:26.82,Sign,,0,0,0,,{\fs45\b1\pos(947,615)\blur1.8\bord0\an9} Encoding & QC \N Translation \N Timing, TLC & Typesetting \N Special Thanks \N Editing
+Dialogue: 0,0:24:20.15,0:24:26.82,Sign,,0,0,0,,{\fs45\b1\pos(991,615)\blur1.8\bord0\an7} Anonymous \N alucardnoyuuutsu \N Perevodildo \N Golden Time Anime (VK) \N CeleryMan
+Dialogue: 0,0:24:20.15,0:24:26.82,Sign,,0,0,0,,{\fs45\b1\pos(947,615)\blur1.3\bord0\an9} Encoding & QC \N Translation \N Timing, TLC & Typesetting \N Special Thanks \N Editing
+Dialogue: 0,0:24:20.15,0:24:26.82,Sign,,0,0,0,,{\fs45\b1\pos(991,615)\blur1.3\bord0\an7} Anonymous \N alucardnoyuuutsu \N Perevodildo \N Golden Time Anime (VK) \N CeleryMan
+Dialogue: 0,0:24:20.15,0:24:26.82,Sign,,0,0,0,,{\fs45\b1\pos(947,615)\blur1\bord0\an9} Encoding & QC \N Translation \N Timing, TLC & Typesetting \N Special Thanks \N Editing
+Dialogue: 0,0:24:20.15,0:24:26.82,Sign,,0,0,0,,{\fs45\b1\pos(991,615)\blur1\bord0\an7} Anonymous \N alucardnoyuuutsu \N Perevodildo \N Golden Time Anime (VK) \N CeleryMan
 Comment: 0,0:24:29.20,0:24:29.25,Sign,,0,0,0,,{ED end}
 Dialogue: 0,0:02:06.84,0:02:11.84,Sign,,0,0,0,,{\fade(150,0)\3c&HF4F4FF&\c&HFCF2F1&\bord0.45\blur1.5\pos(728,145)}Episode 33 \N{\fs90}Heading Straight for Tomorrow {明日に向ってまっしぐら}
 Dialogue: 0,0:04:19.20,0:04:19.24,Sign,,0,0,0,,{=0=1}{\fscx95.35\fscy100\frz0\fs200\bord1\blur1\fade(255,0,255,0,0,6060,6260)\3c&HEBECFF&\t(1100,3000,\c&HF0F0DF&)\pos(721.85,171.69)}1919 {大正八年}{wow, a non-reversed sign}

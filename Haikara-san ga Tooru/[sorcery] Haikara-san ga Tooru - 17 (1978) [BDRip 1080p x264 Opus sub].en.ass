@@ -36,7 +36,7 @@ Dialogue: 0,0:00:17.96,0:00:22.21,Default,,0,0,20,,Those two shockingly beautifu
 Dialogue: 0,0:00:22.21,0:00:27.52,Default,,0,0,20,,Overflowing with startling romance
 Dialogue: 0,0:00:27.52,0:00:29.73,Default,,0,0,20,,All-consuming
 Dialogue: 0,0:00:29.73,0:00:31.90,Default,,0,0,20,,Inescapable
-Dialogue: 0,0:00:31.90,0:00:36.33,Default,,0,0,20,,With a Taishou Era charming lady
+Dialogue: 0,0:00:31.90,0:00:36.33,Default,,0,0,20,,With a Taishō Era charming lady
 Dialogue: 0,0:00:36.33,0:00:40.70,Default,,0,0,20,,Hi, Hi, Hi, High Collar Lady's coming
 Dialogue: 0,0:00:40.70,0:00:45.09,Default,,0,0,20,,With her gentle heart, winning everyone over
 Dialogue: 0,0:00:45.09,0:00:49.46,Default,,0,0,20,,Hi, Hi, Hi, High Collar Lady's coming
@@ -64,10 +64,10 @@ Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(957,622)\blur1\bord
 Dialogue: 0,0:24:19.78,0:24:29.20,Sign,,0,0,0,,{\fs45\b1\pos(1002,622)\blur1\bord0\an7}Anonymous \N alucardnoyuuutsu \N Perevodildo \N Golden Time Anime (VK) \N CeleryMan \N JmePenseBon
 Comment: 0,0:24:29.25,0:24:29.29,Default,,0,0,0,,{ed end}
 Dialogue: 0,0:01:18.82,0:01:25.61,Default,,0,0,0,,People or heirlooms—that is the question, \Nor so it would sound if this was Shakespeare.
-Dialogue: 0,0:01:25.61,0:01:31.79,Default,,0,0,0,,The furious count gets {\i1}this{\i0} close \Nto making good on his vow to slice Benio open.
+Dialogue: 0,0:01:25.61,0:01:31.79,Default,,0,0,0,,The furious Count gets {\i1}this{\i0} close \Nto making good on his vow to slice Benio open.
 Dialogue: 0,0:01:32.44,0:01:37.49,Default,,0,0,0,,With his wits and good timing, \NShinobu deescalates the incident.
 Dialogue: 0,0:01:37.49,0:01:42.42,Default,,0,0,0,,But Benio's already fed up. She bids farewell to everyone and leaves of her own accord.
-Dialogue: 0,0:01:43.17,0:01:49.72,Default,,0,0,0,,For once, the count's stubbornness is met with condemnation from his family.
+Dialogue: 0,0:01:43.17,0:01:49.72,Default,,0,0,0,,For once, the Count's stubbornness is met with condemnation from his family.
 Dialogue: 0,0:01:49.72,0:01:53.04,Default,,0,0,0,,Shinobu is chosen to be the messenger, \Nsent after Benio to bring her back.
 Dialogue: 0,0:01:55.57,0:01:56.88,Default,,0,0,0,,I'll take my leave then.
 Dialogue: 0,0:02:01.18,0:02:07.23,Default,,0,0,0,,Even so, Benio is not out of the woods yet, as her strict father is not happy with her latest escapade.
@@ -365,7 +365,7 @@ Dialogue: 0,0:16:14.84,0:16:16.62,Default,,0,0,0,,Excuse me, I'll need to use yo
 Dialogue: 0,0:16:23.15,0:16:25.92,Default,,0,0,0,,Ah, hello, please put me through \Nto the Ijuuin residence in Otowadai.{otowadai is in kyoto so it couldn't possibly be there but idk and idc}
 Dialogue: 0,0:16:25.92,0:16:27.71,Default,,0,0,0,,Yes, Ijuuin.
 Dialogue: 0,0:16:46.36,0:16:49.08,Default,,0,0,0,,Hey, Boss, this is the wrong way.
-Dialogue: 0,0:16:49.08,0:16:51.46,Default,,0,0,0,,It doesn't go to the count's mansion.{こっち行ったんじゃ伯爵家は遠回りで}
+Dialogue: 0,0:16:49.08,0:16:51.46,Default,,0,0,0,,It doesn't go to the Count's mansion.{こっち行ったんじゃ伯爵家は遠回りで}
 Dialogue: 0,0:16:51.46,0:16:54.22,Default,,0,0,0,,Who said we're going there?
 Dialogue: 0,0:17:04.49,0:17:05.95,Default,,0,0,0,,Ah, I see.{あそうじゃあ}
 Dialogue: 0,0:17:05.95,0:17:10.38,Default,,0,0,0,,Then, in the event that Benio returns, \Ntake her to her room and let her rest.
@@ -460,7 +460,7 @@ Dialogue: 0,0:22:54.17,0:22:58.44,Default,,0,0,0,,The Imperial Army is no match 
 Dialogue: 0,0:22:58.44,0:23:00.98,Default,,0,0,0,,so she mops the floor with five grown men.
 Dialogue: 0,0:23:00.98,0:23:04.93,Default,,0,0,0,,"Boss is in danger!" - \NUshigorou dashes out to call for reinforcements,
 Dialogue: 0,0:23:04.93,0:23:07.07,Default,,0,0,0,,but Shinobu gets bogged down in another brawl
-Dialogue: 0,0:23:07.07,0:23:10.52,Default,,0,0,0,,while the changed count \Nfights the public nuisance with all his might. {no clue}
+Dialogue: 0,0:23:07.07,0:23:10.52,Default,,0,0,0,,while the changed Count \Nfights the public nuisance with all his might. {no clue}
 Dialogue: 0,0:23:10.52,0:23:13.49,Default,,0,0,0,,Benio's surely incurred a lot of grievances tonight!
 Dialogue: 0,0:23:13.49,0:23:17.56,Default,,0,0,0,,See in the next episode of {\i1}Here Comes the High Collar Lady:{\i0} "Scoring Grudges is Dangerous!"{恨み買いますご用心}
 Dialogue: 0,0:23:17.56,0:23:18.54,Default,,0,0,0,,Don't miss it!

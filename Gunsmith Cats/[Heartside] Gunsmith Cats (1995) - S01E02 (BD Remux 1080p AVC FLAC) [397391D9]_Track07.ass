@@ -1,0 +1,329 @@
+﻿[Script Info]
+Title: Default file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 6
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: GJM_Main_1080p,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,225,225,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:21.94,0:00:25.25,GJM_Main_1080p,,0,0,0,,Yeah, we're about to load\Nthem onto the truck now.
+Dialogue: 0,0:00:25.25,0:00:27.63,GJM_Main_1080p,,0,0,0,,Yes, tomorrow, I guarantee it.
+Dialogue: 0,0:00:50.47,0:00:52.19,GJM_Main_1080p,,0,0,0,,What's going on there at this hour?
+Dialogue: 0,0:00:57.03,0:00:57.83,GJM_Main_1080p,,0,0,0,,Damn it...
+Dialogue: 0,0:00:58.48,0:00:58.91,GJM_Main_1080p,,0,0,0,,Huh?
+Dialogue: 0,0:01:03.45,0:01:04.67,GJM_Main_1080p,,0,0,0,,Hello.
+Dialogue: 0,0:01:04.67,0:01:05.71,GJM_Main_1080p,,0,0,0,,Wha...
+Dialogue: 0,0:01:06.16,0:01:07.40,GJM_Main_1080p,,0,0,0,,Goodbye.
+Dialogue: 0,0:01:20.81,0:01:23.73,GJM_Main_1080p,,0,0,0,,Who'd use a weapon that you have to recover after every use? {Had to cut the second part of this sentence for CPS}
+Dialogue: 0,0:01:24.73,0:01:26.14,GJM_Main_1080p,,0,0,0,,Shut up, you idiot.
+Dialogue: 0,0:01:26.80,0:01:28.85,GJM_Main_1080p,,0,0,0,,She doesn't understand a word of it anyway.
+Dialogue: 0,0:01:29.96,0:01:31.33,GJM_Main_1080p,,0,0,0,,Hey, Major!
+Dialogue: 0,0:01:31.33,0:01:35.61,GJM_Main_1080p,,0,0,0,,Is it true that Russian women will sleep with {\i1}any{\i0} American guy?
+Dialogue: 0,0:01:35.61,0:01:36.03,GJM_Main_1080p,,0,0,0,,Dumbass!
+Dialogue: 0,0:01:50.35,0:01:53.50,GJM_Main_1080p,,0,0,0,,Even ex-special forces operatives \Nwill do anything for money.
+Dialogue: 0,0:01:53.50,0:01:56.04,GJM_Main_1080p,,0,0,0,,So how much for a night in your bed, eh?
+Dialogue: 0,0:01:56.04,0:01:57.68,GJM_Main_1080p,,0,0,0,,Cut it out already!
+Dialogue: 0,0:02:00.64,0:02:01.68,GJM_Main_1080p,,0,0,0,,Yes?
+Dialogue: 0,0:02:01.68,0:02:03.22,GJM_Main_1080p,,0,0,0,,What? Got it...
+Dialogue: 0,0:02:03.22,0:02:04.43,GJM_Main_1080p,,0,0,0,,Ms. Radinov!
+Dialogue: 0,0:02:07.30,0:02:09.94,GJM_Main_1080p,,0,0,0,,It looks like the boss\Nhas another job for you.
+Dialogue: 0,0:02:12.00,0:02:14.03,GJM_Main_1080p,,0,0,0,,For an additional fee, of course.
+Dialogue: 0,0:02:16.98,0:02:18.25,GJM_Main_1080p,,0,0,0,,Another hit?
+Dialogue: 0,0:03:57.43,0:04:00.30,GJM_Main_1080p,,0,0,0,,"Yes. Thank you for calling Gunsmith Cats.
+Dialogue: 0,0:04:00.30,0:04:02.27,GJM_Main_1080p,,0,0,0,,We're unable to take\Nyour call at this time.
+Dialogue: 0,0:04:02.27,0:04:05.20,GJM_Main_1080p,,0,0,0,,Please leave a message\Nafter the sound of the beep."
+Dialogue: 0,0:04:10.51,0:04:12.23,GJM_Main_1080p,,0,0,0,,Say, what the hell were you thinking?
+Dialogue: 0,0:04:13.18,0:04:16.60,GJM_Main_1080p,,0,0,0,,We’re the ones who busted you, \Nand now you're asking us to meet you out here? {Alt: and now you want to meet us out here?}
+Dialogue: 0,0:04:17.15,0:04:20.11,GJM_Main_1080p,,0,0,0,,It's not a very fitting place to take revenge, you know...
+Dialogue: 0,0:04:20.51,0:04:22.58,GJM_Main_1080p,,0,0,0,,As far as we're concerned, your case is closed.
+Dialogue: 0,0:04:22.58,0:04:26.04,GJM_Main_1080p,,0,0,0,,What do you hope to accomplish \Nby locking out the ATF guys? {not sure how they allowed him to do it since they're on ATF safe house}
+Dialogue: 0,0:04:26.34,0:04:28.50,GJM_Main_1080p,,0,0,0,,Trust me... Gimme a sec...
+Dialogue: 0,0:04:28.50,0:04:30.51,GJM_Main_1080p,,0,0,0,,Hey, are you listening to me?
+Dialogue: 0,0:04:35.36,0:04:36.80,GJM_Main_1080p,,0,0,0,,Damn it, he cut the microphone!
+Dialogue: 0,0:04:36.80,0:04:37.66,GJM_Main_1080p,,0,0,0,,Let's go! {lit: I'll go see}
+Dialogue: 0,0:04:38.66,0:04:40.80,GJM_Main_1080p,,0,0,0,,Please! You gotta break me out of here!
+Dialogue: 0,0:04:41.55,0:04:44.13,GJM_Main_1080p,,0,0,0,,Don't you understand what kind of place this is?
+Dialogue: 0,0:04:44.13,0:04:46.08,GJM_Main_1080p,,0,0,0,,You're in an ATF safe house!
+Dialogue: 0,0:04:46.08,0:04:49.27,GJM_Main_1080p,,0,0,0,,Washington, you won't \Nfind a safer place anywhere.
+Dialogue: 0,0:04:49.55,0:04:52.16,GJM_Main_1080p,,0,0,0,,I know too much about the organization.
+Dialogue: 0,0:04:52.16,0:04:53.61,GJM_Main_1080p,,0,0,0,,I'm a sitting duck in here.
+Dialogue: 0,0:04:53.61,0:04:56.41,GJM_Main_1080p,,0,0,0,,That's why the ATF stationed five guards to—
+Dialogue: 0,0:04:56.41,0:04:59.78,GJM_Main_1080p,,0,0,0,,But those ATF agents aren't{can't?} to be trusted!
+Dialogue: 0,0:05:00.68,0:05:02.07,GJM_Main_1080p,,0,0,0,,Washington, time's up!
+Dialogue: 0,0:05:02.54,0:05:03.53,GJM_Main_1080p,,0,0,0,,Open the door!
+Dialogue: 0,0:05:04.04,0:05:05.23,GJM_Main_1080p,,0,0,0,,Get the spare key!
+Dialogue: 0,0:05:05.23,0:05:05.99,GJM_Main_1080p,,0,0,0,,Right...
+Dialogue: 0,0:05:06.44,0:05:08.45,GJM_Main_1080p,,0,0,0,,Washington! Open up!
+Dialogue: 0,0:05:08.45,0:05:09.37,GJM_Main_1080p,,0,0,0,,Washington!
+Dialogue: 0,0:05:09.37,0:05:12.67,GJM_Main_1080p,,0,0,0,,I know... Could you at least take this watch?
+Dialogue: 0,0:05:12.67,0:05:13.98,GJM_Main_1080p,,0,0,0,,It's a Rolex.
+Dialogue: 0,0:05:13.98,0:05:16.93,GJM_Main_1080p,,0,0,0,,All I'm asking of you is to give this to my daughter.
+Dialogue: 0,0:05:16.93,0:05:18.42,GJM_Main_1080p,,0,0,0,,I have her address here.
+Dialogue: 0,0:05:18.42,0:05:20.88,GJM_Main_1080p,,0,0,0,,Now hold on a second! Why should we...
+Dialogue: 0,0:05:21.34,0:05:24.94,GJM_Main_1080p,,0,0,0,,This is the only thing I can do for her as a father.
+Dialogue: 0,0:05:24.94,0:05:26.34,GJM_Main_1080p,,0,0,0,,Please, Larry!
+Dialogue: 0,0:05:27.16,0:05:29.32,GJM_Main_1080p,,0,0,0,,Wait a second!\NWe're not done talking yet.
+Dialogue: 0,0:05:29.32,0:05:30.71,GJM_Main_1080p,,0,0,0,,No, I've heard enough.
+Dialogue: 0,0:05:30.71,0:05:32.31,GJM_Main_1080p,,0,0,0,,But...
+Dialogue: 0,0:05:32.31,0:05:33.31,GJM_Main_1080p,,0,0,0,,Excuse me.
+Dialogue: 0,0:05:33.82,0:05:34.82,GJM_Main_1080p,,0,0,0,,Ms. Larry...
+Dialogue: 0,0:05:38.71,0:05:40.90,GJM_Main_1080p,,0,0,0,,I'm telling the truth.
+Dialogue: 0,0:05:42.34,0:05:43.79,GJM_Main_1080p,,0,0,0,,You'll understand soon.
+Dialogue: 0,0:05:43.79,0:05:47.33,GJM_Main_1080p,,0,0,0,,And when you do, I won't be around anymore.
+Dialogue: 0,0:05:56.42,0:06:00.34,GJM_Main_1080p,,0,0,0,,He walked a slippery slope, and this is all he had left...
+Dialogue: 0,0:06:00.34,0:06:02.25,GJM_Main_1080p,,0,0,0,,That's kinda sad, really.
+Dialogue: 0,0:06:02.25,0:06:05.00,GJM_Main_1080p,,0,0,0,,Sheesh. You're too soft, May.
+Dialogue: 0,0:06:05.00,0:06:05.89,GJM_Main_1080p,,0,0,0,,Why's that?
+Dialogue: 0,0:06:06.18,0:06:09.06,GJM_Main_1080p,,0,0,0,,Because you took a job \Nthat's not gonna pay a dime. {/cent}
+Dialogue: 0,0:06:09.54,0:06:12.52,GJM_Main_1080p,,0,0,0,,I didn't hear you raising any objections.
+Dialogue: 0,0:06:12.52,0:06:14.75,GJM_Main_1080p,,0,0,0,,That's not the point.
+Dialogue: 0,0:06:14.75,0:06:17.94,GJM_Main_1080p,,0,0,0,,By the way, May, have you\Nbeen practicing our new timings? {originally "timings" - maybe it works too, practically they use this thing at 20:05}
+Dialogue: 0,0:06:17.94,0:06:20.79,GJM_Main_1080p,,0,0,0,,Huh? Yeah, I have.
+Dialogue: 0,0:06:20.79,0:06:23.29,GJM_Main_1080p,,0,0,0,,I made it all the way to where we bust a move. {lit: until the flashy dance it's OK - see 20:05 to know what this is about}
+Dialogue: 0,0:06:23.29,0:06:24.55,GJM_Main_1080p,,0,0,0,,Wanna go over it?
+Dialogue: 0,0:06:24.55,0:06:25.05,GJM_Main_1080p,,0,0,0,,Sure.
+Dialogue: 0,0:06:25.05,0:06:26.07,GJM_Main_1080p,,0,0,0,,Ready?
+Dialogue: 0,0:06:26.07,0:06:26.57,GJM_Main_1080p,,0,0,0,,Ah!
+Dialogue: 0,0:06:38.15,0:06:41.13,GJM_Main_1080p,,0,0,0,,That punk bitch!\NI won't forget that face!
+Dialogue: 0,0:06:41.61,0:06:42.92,GJM_Main_1080p,,0,0,0,,Larry...
+Dialogue: 0,0:06:45.07,0:06:48.11,GJM_Main_1080p,,0,0,0,,Damn it!\NThey dumped all this extra work on me.
+Dialogue: 0,0:06:48.11,0:06:50.10,GJM_Main_1080p,,0,0,0,,At least it's good to kill time.
+Dialogue: 0,0:06:50.55,0:06:52.04,GJM_Main_1080p,,0,0,0,,And now, the news.
+Dialogue: 0,0:06:52.04,0:06:52.56,GJM_Main_1080p,,0,0,0,,Huh?
+Dialogue: 0,0:06:52.93,0:06:57.92,GJM_Main_1080p,,0,0,0,,With the mayoral election coming up, \Nstate senator Edward Heinz
+Dialogue: 0,0:06:57.92,0:07:03.49,GJM_Main_1080p,,0,0,0,,pledged today to work with the ATF to completely eradicate illegal gun and drug trafficking.
+Dialogue: 0,0:07:04.08,0:07:09.05,GJM_Main_1080p,,0,0,0,,{\an8}We all know law-abiding citizens don't need these things. {/everyone knows it is not necessary for peaceful civil life} {\an8'd in order to fix the subs overlapping with the signs. Lmk if I need to revert -Chika}
+Dialogue: 0,0:07:09.44,0:07:13.00,GJM_Main_1080p,,0,0,0,,{\an8}I'm just trying to promote some common-sense solutions.
+Dialogue: 0,0:07:13.00,0:07:14.02,GJM_Main_1080p,,0,0,0,,{\an8}Where's the camera?
+Dialogue: 0,0:07:14.02,0:07:14.99,GJM_Main_1080p,,0,0,0,,{\an8}Ah.
+Dialogue: 0,0:07:14.99,0:07:19.03,GJM_Main_1080p,,0,0,0,,{\an8}Fellow citizens! I, Edward Heinz, promise you that,
+Dialogue: 0,0:07:19.03,0:07:21.92,GJM_Main_1080p,,0,0,0,,{\an8}together with George Black of the ATF...
+Dialogue: 0,0:07:22.39,0:07:24.57,GJM_Main_1080p,,0,0,0,,Furthermore, to improve his reputation—
+Dialogue: 0,0:07:25.24,0:07:28.11,GJM_Main_1080p,,0,0,0,,Boss never misses a PR opportunity. {if you want more literal can go "You can count on the boss to push all the right buttons."}
+Dialogue: 0,0:07:31.51,0:07:34.42,GJM_Main_1080p,,0,0,0,,Hey, are there any other visitors \Nscheduled for today?
+Dialogue: 0,0:07:34.94,0:07:36.91,GJM_Main_1080p,,0,0,0,,No, not that I know of.
+Dialogue: 0,0:07:53.79,0:07:55.20,GJM_Main_1080p,,0,0,0,,Hey Bill, what's going on... Huh?
+Dialogue: 0,0:07:56.54,0:07:57.83,GJM_Main_1080p,,0,0,0,,Stop! I'm warning you!
+Dialogue: 0,0:08:24.15,0:08:25.40,GJM_Main_1080p,,0,0,0,,Drop the gun!
+Dialogue: 0,0:09:14.08,0:09:17.16,GJM_Main_1080p,,0,0,0,,W-Wait!\NI know what can take down the organization. {????? no clue what's that word in the middle: I'm privy to organization's ***}
+Dialogue: 0,0:09:17.16,0:09:18.12,GJM_Main_1080p,,0,0,0,,Don't kill me!
+Dialogue: 0,0:09:18.48,0:09:20.04,GJM_Main_1080p,,0,0,0,,My people will come— {??}
+Dialogue: 0,0:09:25.17,0:09:27.51,GJM_Main_1080p,,0,0,0,,Five agents down in one go!
+Dialogue: 0,0:09:28.71,0:09:31.75,GJM_Main_1080p,,0,0,0,,It seems the rumors\N of a rat in the ATF were true...
+Dialogue: 0,0:09:31.75,0:09:33.71,GJM_Main_1080p,,0,0,0,,Hey, did you hear what happened to Bill?
+Dialogue: 0,0:09:33.71,0:09:34.97,GJM_Main_1080p,,0,0,0,,What's that?
+Dialogue: 0,0:09:37.14,0:09:39.69,GJM_Main_1080p,,0,0,0,,What's the meaning of this, Bill? {TODO: This needs to be TS'ed to Larry}
+Dialogue: 0,0:09:41.21,0:09:42.77,GJM_Main_1080p,,0,0,0,,Don't tell me you're behind that.
+Dialogue: 0,0:09:42.77,0:09:45.41,GJM_Main_1080p,,0,0,0,,B-Boss, what're you saying?
+Dialogue: 0,0:09:45.41,0:09:46.73,GJM_Main_1080p,,0,0,0,,How could you even suggest that?
+Dialogue: 0,0:09:46.73,0:09:49.19,GJM_Main_1080p,,0,0,0,,You're off the case now, Bill!
+Dialogue: 0,0:09:49.46,0:09:52.15,GJM_Main_1080p,,0,0,0,,Sir! You don't really think \NI'm part of this, do you?
+Dialogue: 0,0:09:52.41,0:09:56.12,GJM_Main_1080p,,0,0,0,,Someone is trying to frame you, \Nand that's a fact.
+Dialogue: 0,0:09:56.12,0:09:57.50,GJM_Main_1080p,,0,0,0,,Then you {\i1}must{\i0} let me stay!
+Dialogue: 0,0:09:57.50,0:09:58.08,GJM_Main_1080p,,0,0,0,,Bill...
+Dialogue: 0,0:09:58.64,0:10:01.03,GJM_Main_1080p,,0,0,0,,this isn't a battlefield.
+Dialogue: 0,0:10:01.03,0:10:03.79,GJM_Main_1080p,,0,0,0,,Going alone won't win you any medals.
+Dialogue: 0,0:10:04.65,0:10:05.76,GJM_Main_1080p,,0,0,0,,Understand?
+Dialogue: 0,0:10:08.20,0:10:09.07,GJM_Main_1080p,,0,0,0,,Yes, sir...
+Dialogue: 0,0:10:38.67,0:10:39.80,GJM_Main_1080p,,0,0,0,,Yes.
+Dialogue: 0,0:10:40.31,0:10:42.13,GJM_Main_1080p,,0,0,0,,This is a good time.
+Dialogue: 0,0:10:42.13,0:10:45.45,GJM_Main_1080p,,0,0,0,,Yes, you've seen what happened to the first target.
+Dialogue: 0,0:10:45.45,0:10:48.43,GJM_Main_1080p,,0,0,0,,I've already checked the intel on the next two.
+Dialogue: 0,0:10:48.99,0:10:52.38,GJM_Main_1080p,,0,0,0,,Gotta say, I'm impressed \Nthe Americans have a woman that good.
+Dialogue: 0,0:10:53.32,0:10:55.35,GJM_Main_1080p,,0,0,0,,Yes, I got it.
+Dialogue: 0,0:10:55.35,0:10:58.52,GJM_Main_1080p,,0,0,0,,Heroin sells\Nfor a very high price in Russia.
+Dialogue: 0,0:10:59.88,0:11:03.10,GJM_Main_1080p,,0,0,0,,By the way, I've received\Nno intel on the fourth target.
+Dialogue: 0,0:11:03.98,0:11:09.00,GJM_Main_1080p,,0,0,0,,I see... He definitely wouldn't expect his own partner to do him in.
+Dialogue: 0,0:11:27.17,0:11:28.71,GJM_Main_1080p,,0,0,0,,Are you sure this is the place?
+Dialogue: 0,0:11:28.71,0:11:31.13,GJM_Main_1080p,,0,0,0,,Yeah, that's what the note says.
+Dialogue: 0,0:11:31.68,0:11:33.54,GJM_Main_1080p,,0,0,0,,Well, I guess we'd better go see.
+Dialogue: 0,0:11:34.64,0:11:36.82,GJM_Main_1080p,,0,0,0,,I wonder how old his daughter is.
+Dialogue: 0,0:11:36.82,0:11:38.55,GJM_Main_1080p,,0,0,0,,Around 10 or so, I guess.
+Dialogue: 0,0:11:39.04,0:11:41.28,GJM_Main_1080p,,0,0,0,,Number 6. This is it.
+Dialogue: 0,0:11:45.39,0:11:46.73,GJM_Main_1080p,,0,0,0,,Good eve—
+Dialogue: 0,0:11:46.73,0:11:47.56,GJM_Main_1080p,,0,0,0,,Huh?
+Dialogue: 0,0:11:49.27,0:11:51.02,GJM_Main_1080p,,0,0,0,,What do you want?
+Dialogue: 0,0:11:52.47,0:11:53.98,GJM_Main_1080p,,0,0,0,,Nothing...
+Dialogue: 0,0:11:56.63,0:12:00.53,GJM_Main_1080p,,0,0,0,,A fake address and a fake Rolex?
+Dialogue: 0,0:12:00.53,0:12:02.34,GJM_Main_1080p,,0,0,0,,I wonder what he was really up to?
+Dialogue: 0,0:12:02.34,0:12:04.44,GJM_Main_1080p,,0,0,0,,It's got to mean something.
+Dialogue: 0,0:12:04.44,0:12:06.89,GJM_Main_1080p,,0,0,0,,That's not good enough, May.
+Dialogue: 0,0:12:06.89,0:12:08.71,GJM_Main_1080p,,0,0,0,,You got us into this, so figure it out.
+Dialogue: 0,0:12:08.71,0:12:11.29,GJM_Main_1080p,,0,0,0,,Now hold on, Larry! \NYou agreed to do it in the first place—{??? idk what she's trying to blame Larry for}
+Dialogue: 0,0:12:11.29,0:12:11.79,GJM_Main_1080p,,0,0,0,,Yoink. {kachink | yoink would be goated -aigis} {I got you goat (inb4 QC reverts) -Chika}
+Dialogue: 0,0:12:12.32,0:12:15.13,GJM_Main_1080p,,0,0,0,,I was joking! \NYou're way too hot headed. {Merged with the next line for CPS. Revert if you can think of something better}
+Dialogue: 0,0:12:15.13,0:12:17.88,GJM_Main_1080p,,0,0,0,,Hey, Larry, that's my pop.\NGive it back!
+Dialogue: 0,0:12:18.50,0:12:19.76,GJM_Main_1080p,,0,0,0,,Hey, Larry!
+Dialogue: 0,0:12:26.35,0:12:28.27,GJM_Main_1080p,,0,0,0,,May... are you alright?
+Dialogue: 0,0:12:28.58,0:12:30.98,GJM_Main_1080p,,0,0,0,,I'm done listening to you.
+Dialogue: 0,0:12:34.17,0:12:39.41,GJM_Main_1080p,,0,0,0,,W-Well, in any case, it's pointless to keep thinking about this.
+Dialogue: 0,0:12:39.41,0:12:41.97,GJM_Main_1080p,,0,0,0,,I guess we'd better drop it for now... right?
+Dialogue: 0,0:12:47.20,0:12:48.70,GJM_Main_1080p,,0,0,0,,Working hard, gentlemen?
+Dialogue: 0,0:12:48.70,0:12:49.67,GJM_Main_1080p,,0,0,0,,This is for you.
+Dialogue: 0,0:12:49.67,0:12:51.98,GJM_Main_1080p,,0,0,0,,Uh... Well... I don't think I...
+Dialogue: 0,0:12:51.98,0:12:54.38,GJM_Main_1080p,,0,0,0,,Spare us your flimsy excuses, Bill.
+Dialogue: 0,0:12:55.01,0:12:56.84,GJM_Main_1080p,,0,0,0,,Our business with you is over.
+Dialogue: 0,0:12:57.51,0:13:01.55,GJM_Main_1080p,,0,0,0,,If you've got time to bug our house, then you've got time to get us that license you promised!
+Dialogue: 0,0:13:01.55,0:13:04.56,GJM_Main_1080p,,0,0,0,,This investigation isn't over yet, Larry.
+Dialogue: 0,0:13:04.56,0:13:07.02,GJM_Main_1080p,,0,0,0,,Please, I can't do it without your help!
+Dialogue: 0,0:13:07.02,0:13:08.98,GJM_Main_1080p,,0,0,0,,It's no use puffing out your chest now. {/trying to sound serious}
+Dialogue: 0,0:13:08.98,0:13:12.63,GJM_Main_1080p,,0,0,0,,You're a fool if you think\N we would ever trust you again!
+Dialogue: 0,0:13:14.04,0:13:14.94,GJM_Main_1080p,,0,0,0,,Oh, that's cold.
+Dialogue: 0,0:13:15.74,0:13:18.26,GJM_Main_1080p,,0,0,0,,Fine, you win. We're leaving.
+Dialogue: 0,0:13:18.26,0:13:19.15,GJM_Main_1080p,,0,0,0,,Yes, sir.
+Dialogue: 0,0:13:25.95,0:13:28.83,GJM_Main_1080p,,0,0,0,,Did you have enough time \Nto get it all set up, May? {meaning to mine their car}
+Dialogue: 0,0:13:29.14,0:13:30.31,GJM_Main_1080p,,0,0,0,,Of course!
+Dialogue: 0,0:13:30.31,0:13:31.42,GJM_Main_1080p,,0,0,0,,Piece of cake!
+Dialogue: 0,0:13:31.42,0:13:33.10,GJM_Main_1080p,,0,0,0,,Naturally...
+Dialogue: 0,0:13:33.10,0:13:34.04,GJM_Main_1080p,,0,0,0,,I'm ready here.
+Dialogue: 0,0:13:34.46,0:13:35.43,GJM_Main_1080p,,0,0,0,,Roger.
+Dialogue: 0,0:13:40.43,0:13:42.18,GJM_Main_1080p,,0,0,0,,I should have known...
+Dialogue: 0,0:13:54.90,0:13:55.59,GJM_Main_1080p,,0,0,0,,Tsk.
+Dialogue: 0,0:14:05.11,0:14:09.66,GJM_Main_1080p,,0,0,0,,The real question is what do these two things really mean.
+Dialogue: 0,0:14:09.66,0:14:11.30,GJM_Main_1080p,,0,0,0,,A phone number?
+Dialogue: 0,0:14:11.30,0:14:12.50,GJM_Main_1080p,,0,0,0,,No, not that...
+Dialogue: 0,0:14:12.50,0:14:14.65,GJM_Main_1080p,,0,0,0,,It's not a bank account number,
+Dialogue: 0,0:14:14.65,0:14:16.37,GJM_Main_1080p,,0,0,0,,maybe some sort of code?
+Dialogue: 0,0:14:19.29,0:14:23.62,GJM_Main_1080p,,0,0,0,,Hey, did you notice anything strange\Nthe day you caught Washington?
+Dialogue: 0,0:14:23.62,0:14:24.31,GJM_Main_1080p,,0,0,0,,Huh?
+Dialogue: 0,0:14:26.63,0:14:27.37,GJM_Main_1080p,,0,0,0,,We did it!
+Dialogue: 0,0:14:27.37,0:14:29.91,GJM_Main_1080p,,0,0,0,,Yeah, our rhythm was perfect!
+Dialogue: 0,0:14:29.91,0:14:32.10,GJM_Main_1080p,,0,0,0,,Are you two even listening to me?
+Dialogue: 0,0:14:32.10,0:14:34.55,GJM_Main_1080p,,0,0,0,,Ah! Sorry.
+Dialogue: 0,0:14:34.55,0:14:38.16,GJM_Main_1080p,,0,0,0,,But you might be right.\NMaybe there was a clue...
+Dialogue: 0,0:14:42.89,0:14:44.78,GJM_Main_1080p,,0,0,0,,He was browsing the internet!
+Dialogue: 0,0:14:45.03,0:14:46.74,GJM_Main_1080p,,0,0,0,,He was? That's it!
+Dialogue: 0,0:14:47.42,0:14:51.24,GJM_Main_1080p,,0,0,0,,I'll bet this is an internet \Naddress and access code!
+Dialogue: 0,0:14:51.24,0:14:53.52,GJM_Main_1080p,,0,0,0,,Hey... there's something carved in here!
+Dialogue: 0,0:14:53.52,0:14:54.21,GJM_Main_1080p,,0,0,0,,Huh?
+Dialogue: 0,0:14:54.45,0:14:55.67,GJM_Main_1080p,,0,0,0,,Look...
+Dialogue: 0,0:14:55.67,0:14:57.41,GJM_Main_1080p,,0,0,0,,What's this number?
+Dialogue: 0,0:14:58.19,0:14:59.05,GJM_Main_1080p,,0,0,0,,Of course!
+Dialogue: 0,0:14:59.05,0:14:59.68,GJM_Main_1080p,,0,0,0,,Huh?
+Dialogue: 0,0:14:59.68,0:15:02.63,GJM_Main_1080p,,0,0,0,,This is a secret code \Nfor a site on the web!
+Dialogue: 0,0:15:03.20,0:15:04.15,GJM_Main_1080p,,0,0,0,,Watch this.
+Dialogue: 0,0:15:05.03,0:15:09.05,GJM_Main_1080p,,0,0,0,,First, we enter the first letter of each word in the address, plus the phone number. {How did she figure this out lol -Chika}
+Dialogue: 0,0:15:11.28,0:15:13.90,GJM_Main_1080p,,0,0,0,,That's it! That's the picture\NWashington was looking at!
+Dialogue: 0,0:15:13.90,0:15:15.31,GJM_Main_1080p,,0,0,0,,Bingo!
+Dialogue: 0,0:15:15.31,0:15:17.72,GJM_Main_1080p,,0,0,0,,Now, we enter the number\Non the back of the watch.
+Dialogue: 0,0:15:20.66,0:15:22.11,GJM_Main_1080p,,0,0,0,,Nailed it!
+Dialogue: 0,0:15:22.11,0:15:24.49,GJM_Main_1080p,,0,0,0,,That's incredible, Becky!
+Dialogue: 0,0:15:25.55,0:15:29.24,GJM_Main_1080p,,0,0,0,,Hiding data in a porn site is a clever idea.
+Dialogue: 0,0:15:29.24,0:15:31.55,GJM_Main_1080p,,0,0,0,,But what kind of data is this?
+Dialogue: 0,0:15:31.55,0:15:35.22,GJM_Main_1080p,,0,0,0,,Wait a second.\NLet me look at these exchange dates...
+Dialogue: 0,0:15:35.22,0:15:36.83,GJM_Main_1080p,,0,0,0,,And now...
+Dialogue: 0,0:15:36.83,0:15:37.70,GJM_Main_1080p,,0,0,0,,Ah...
+Dialogue: 0,0:15:37.70,0:15:40.71,GJM_Main_1080p,,0,0,0,,All the weapons they're selling\Nwere previously seized by the ATF!
+Dialogue: 0,0:15:41.04,0:15:43.55,GJM_Main_1080p,,0,0,0,,This data could fetch you a fortune, Larry.
+Dialogue: 0,0:15:43.55,0:15:46.43,GJM_Main_1080p,,0,0,0,,However... \NWe'll need evidence to support it, right?
+Dialogue: 0,0:15:46.43,0:15:47.43,GJM_Main_1080p,,0,0,0,,Exactly.
+Dialogue: 0,0:15:47.68,0:15:50.22,GJM_Main_1080p,,0,0,0,,May... ready to roll?
+Dialogue: 0,0:15:50.50,0:15:52.06,GJM_Main_1080p,,0,0,0,,You bet!
+Dialogue: 0,0:15:52.65,0:15:53.76,GJM_Main_1080p,,0,0,0,,Thanks as always! {Gigawoke but it works}
+Dialogue: 0,0:15:53.76,0:15:57.52,GJM_Main_1080p,,0,0,0,,H-Hey, wait! \NLet me make some printouts first!
+Dialogue: 0,0:15:59.82,0:16:03.78,GJM_Main_1080p,,0,0,0,,You print out there, \Nand I print out here, Miss Becky.
+Dialogue: 0,0:16:04.65,0:16:05.90,GJM_Main_1080p,,0,0,0,,Bill!
+Dialogue: 0,0:16:06.49,0:16:08.83,GJM_Main_1080p,,0,0,0,,How come you're still here at this hour?
+Dialogue: 0,0:16:08.83,0:16:10.49,GJM_Main_1080p,,0,0,0,,Don't tell me you're still...
+Dialogue: 0,0:16:11.04,0:16:12.66,GJM_Main_1080p,,0,0,0,,No way!
+Dialogue: 0,0:16:12.66,0:16:14.71,GJM_Main_1080p,,0,0,0,,I'm sorting out my reports.
+Dialogue: 0,0:16:14.71,0:16:16.93,GJM_Main_1080p,,0,0,0,,I've been putting them off for too long.
+Dialogue: 0,0:16:17.99,0:16:19.55,GJM_Main_1080p,,0,0,0,,Alright, then...
+Dialogue: 0,0:16:19.55,0:16:22.34,GJM_Main_1080p,,0,0,0,,But remember to \Nassist Frank in any way you can!
+Dialogue: 0,0:16:22.34,0:16:23.22,GJM_Main_1080p,,0,0,0,,Understood?
+Dialogue: 0,0:16:25.09,0:16:26.55,GJM_Main_1080p,,0,0,0,,Aye aye, sir!
+Dialogue: 0,0:16:43.70,0:16:45.15,GJM_Main_1080p,,0,0,0,,Is this the right place?
+Dialogue: 0,0:16:45.15,0:16:47.73,GJM_Main_1080p,,0,0,0,,The shipment should have arrived here last night.
+Dialogue: 0,0:16:48.86,0:16:50.66,GJM_Main_1080p,,0,0,0,,Hey, let's do this tomorrow.
+Dialogue: 0,0:16:50.66,0:16:52.97,GJM_Main_1080p,,0,0,0,,No way! We're already here! {/of course not!}
+Dialogue: 0,0:16:52.97,0:16:54.79,GJM_Main_1080p,,0,0,0,,Sorry, Becky, you'll have to stay here.
+Dialogue: 0,0:16:55.02,0:16:58.09,GJM_Main_1080p,,0,0,0,,Of course. \NI wouldn't come even if you asked me to.
+Dialogue: 0,0:16:58.09,0:16:59.21,GJM_Main_1080p,,0,0,0,,Figures.
+Dialogue: 0,0:17:05.87,0:17:09.77,GJM_Main_1080p,,0,0,0,,Pretty serious security for \Na yacht club during the off-season.
+Dialogue: 0,0:17:09.77,0:17:12.48,GJM_Main_1080p,,0,0,0,,It's a good thing we left Becky back in the car.
+Dialogue: 0,0:17:13.21,0:17:13.99,GJM_Main_1080p,,0,0,0,,May...
+Dialogue: 0,0:17:15.71,0:17:16.44,GJM_Main_1080p,,0,0,0,,Let's go.
+Dialogue: 0,0:17:34.59,0:17:36.77,GJM_Main_1080p,,0,0,0,,Wow! We struck gold, Larry!
+Dialogue: 0,0:17:38.83,0:17:40.91,GJM_Main_1080p,,0,0,0,,Hold it right there, you two...
+Dialogue: 0,0:17:42.07,0:17:44.15,GJM_Main_1080p,,0,0,0,,The boss told us you'd be dropping by.
+Dialogue: 0,0:17:44.15,0:17:47.04,GJM_Main_1080p,,0,0,0,,You two look pretty hot.
+Dialogue: 0,0:17:47.04,0:17:49.50,GJM_Main_1080p,,0,0,0,,Turn around so we can get \Na good look at you.
+Dialogue: 0,0:17:50.21,0:17:53.09,GJM_Main_1080p,,0,0,0,,We'll make sure to play around with you before we kill you.
+Dialogue: 0,0:17:53.77,0:17:56.05,GJM_Main_1080p,,0,0,0,,Hey, hurry it up!
+Dialogue: 0,0:18:27.81,0:18:28.80,GJM_Main_1080p,,0,0,0,,It's her!
+Dialogue: 0,0:18:34.05,0:18:36.51,GJM_Main_1080p,,0,0,0,,Hey, that was cutting it a bit close...
+Dialogue: 0,0:18:37.00,0:18:40.09,GJM_Main_1080p,,0,0,0,,Bill! Not you again!
+Dialogue: 0,0:18:40.09,0:18:41.06,GJM_Main_1080p,,0,0,0,,This sucks!
+Dialogue: 0,0:18:57.95,0:19:00.41,GJM_Main_1080p,,0,0,0,,What the hell are you doing here?
+Dialogue: 0,0:19:00.91,0:19:02.43,GJM_Main_1080p,,0,0,0,,But wasn't I helpful?
+Dialogue: 0,0:19:02.43,0:19:04.51,GJM_Main_1080p,,0,0,0,,How should I know it's not another set-up{ that you organized}?
+Dialogue: 0,0:19:04.51,0:19:05.87,GJM_Main_1080p,,0,0,0,,Huh? Hey, now.
+Dialogue: 0,0:19:06.78,0:19:10.71,GJM_Main_1080p,,0,0,0,,I happen to share your opinion\Nabout the trustworthiness of the ATF.
+Dialogue: 0,0:19:11.75,0:19:15.19,GJM_Main_1080p,,0,0,0,,You tapped into our computer,\Ndidn't you?
+Dialogue: 0,0:19:15.19,0:19:16.37,GJM_Main_1080p,,0,0,0,,You snake!
+Dialogue: 0,0:19:16.97,0:19:17.59,GJM_Main_1080p,,0,0,0,,May?!
+Dialogue: 0,0:19:21.68,0:19:22.66,GJM_Main_1080p,,0,0,0,,May!
+Dialogue: 0,0:19:25.48,0:19:26.85,GJM_Main_1080p,,0,0,0,,Larry, get in!
+Dialogue: 0,0:19:26.85,0:19:27.84,GJM_Main_1080p,,0,0,0,,I'll drive!
+Dialogue: 0,0:19:26.85,0:19:29.82,GJM_Main_1080p,,0,0,0,,{\an8}Hey, Larry! Take me with you! Larry!
+Dialogue: 0,0:19:30.39,0:19:31.27,GJM_Main_1080p,,0,0,0,,Let's move! {??? no clue}
+Dialogue: 0,0:19:53.87,0:19:55.34,GJM_Main_1080p,,0,0,0,,May, get the message! {/please notice us [senpai]}
+Dialogue: 0,0:20:05.85,0:20:06.77,GJM_Main_1080p,,0,0,0,,Larry!
+Dialogue: 0,0:20:06.77,0:20:09.27,GJM_Main_1080p,,0,0,0,,Okay, time to bust a move! {/dance flashily}
+Dialogue: 0,0:20:13.19,0:20:16.40,GJM_Main_1080p,,0,0,0,,That's her! Music... start!
+Dialogue: 0,0:20:16.78,0:20:18.95,GJM_Main_1080p,,0,0,0,,One... Two... Three...
+Dialogue: 0,0:20:31.13,0:20:32.29,GJM_Main_1080p,,0,0,0,,Get off of me!
+Dialogue: 0,0:20:33.19,0:20:34.56,GJM_Main_1080p,,0,0,0,,You little bitch!
+Dialogue: 0,0:21:17.95,0:21:20.82,GJM_Main_1080p,,0,0,0,,L-Larry, don't go crazy!
+Dialogue: 0,0:21:20.82,0:21:22.26,GJM_Main_1080p,,0,0,0,,Tell that to her!
+Dialogue: 0,0:21:32.20,0:21:33.56,GJM_Main_1080p,,0,0,0,,Oh no you don't! {/you won't get away}
+Dialogue: 0,0:21:42.49,0:21:44.50,GJM_Main_1080p,,0,0,0,,Becky, can you see May?
+Dialogue: 0,0:21:44.50,0:21:45.91,GJM_Main_1080p,,0,0,0,,Hold on... Huh...?!
+Dialogue: 0,0:21:47.91,0:21:48.62,GJM_Main_1080p,,0,0,0,,Yikes!
+Dialogue: 0,0:00:00.00,0:00:00.00,GJM_Main_1080p,,0,0,0,,{???}
+Dialogue: 0,0:22:09.39,0:22:10.98,GJM_Main_1080p,,0,0,0,,That punk bitch!
+Dialogue: 0,0:22:10.98,0:22:12.28,GJM_Main_1080p,,0,0,0,,She'll pay for this!
+Dialogue: 0,0:22:18.53,0:22:20.08,GJM_Main_1080p,,0,0,0,,Becky, open the window!
+Dialogue: 0,0:22:26.37,0:22:27.46,GJM_Main_1080p,,0,0,0,,Larry!
+Dialogue: 0,0:22:29.20,0:22:30.66,GJM_Main_1080p,,0,0,0,,This ain't over yet!
+Dialogue: 0,0:22:40.46,0:22:41.59,GJM_Main_1080p,,0,0,0,,Damn you!
+Dialogue: 0,0:22:46.22,0:22:48.02,GJM_Main_1080p,,0,0,0,,One more verse.
+Dialogue: 0,0:22:48.02,0:22:49.39,GJM_Main_1080p,,0,0,0,,Then you're mine! {can't hear shit in first sentence, trusting original; second part is "think I'll let you escape?"}
+Dialogue: 0,0:22:55.47,0:22:57.69,GJM_Main_1080p,,0,0,0,,Well, at least this makes it easier to shoot!
+Dialogue: 0,0:23:15.00,0:23:16.75,GJM_Main_1080p,,0,0,0,,You're dead!
+Dialogue: 0,0:23:18.34,0:23:19.46,GJM_Main_1080p,,0,0,0,,Bitch!
+Dialogue: 0,0:23:20.76,0:23:21.42,GJM_Main_1080p,,0,0,0,,Five...
+Dialogue: 0,0:23:21.42,0:23:22.30,GJM_Main_1080p,,0,0,0,,Four...
+Dialogue: 0,0:23:22.30,0:23:23.34,GJM_Main_1080p,,0,0,0,,Three...
+Dialogue: 0,0:23:23.34,0:23:24.22,GJM_Main_1080p,,0,0,0,,Two...
+Dialogue: 0,0:23:24.22,0:23:25.43,GJM_Main_1080p,,0,0,0,,One...
+Dialogue: 0,0:23:25.43,0:23:26.43,GJM_Main_1080p,,0,0,0,,Zero!
+Dialogue: 0,0:23:33.31,0:23:35.16,GJM_Main_1080p,,0,0,0,,Oh... Shit!
+Dialogue: 0,0:23:39.09,0:23:40.77,GJM_Main_1080p,,0,0,0,,Nice catch...
+Dialogue: 0,0:23:40.77,0:23:43.53,GJM_Main_1080p,,0,0,0,,Really, guys! You're totally insane!
+Dialogue: 0,0:23:43.53,0:23:44.74,GJM_Main_1080p,,0,0,0,,Larry! Look ahead!
+Dialogue: 0,0:24:02.30,0:24:04.51,GJM_Main_1080p,,0,0,0,,May, just what did you do?
+Dialogue: 0,0:24:06.48,0:24:08.16,GJM_Main_1080p,,0,0,0,,Boy, that was quick.
+Dialogue: 0,0:24:08.16,0:24:09.23,GJM_Main_1080p,,0,0,0,,Larry...
+Dialogue: 0,0:24:10.78,0:24:12.42,GJM_Main_1080p,,0,0,0,,We did it again, May!
+Dialogue: 0,0:24:13.85,0:24:15.31,GJM_Main_1080p,,0,0,0,,That said...
+Dialogue: 0,0:24:16.48,0:24:17.14,GJM_Main_1080p,,0,0,0,,Huh?
+Dialogue: 0,0:24:17.90,0:24:21.41,GJM_Main_1080p,,0,0,0,,There's still more work to do before this case is closed.
+Dialogue: 0,0:27:06.60,0:27:09.32,GJM_Main_1080p,,0,0,0,,Finally, it's time to get\Nback to business as usual.
+Dialogue: 0,0:27:09.71,0:27:11.28,GJM_Main_1080p,,0,0,0,,I'll be going on a date with Ken... {This is the worst possible way to fix this but it was the only way I could get it in a CPS that was even remotely readable to me -Chika}
+Dialogue: 0,0:27:11.28,0:27:13.70,GJM_Main_1080p,,0,0,0,,Hey, you two! \NYou'd better not relax yet.
+Dialogue: 0,0:27:13.70,0:27:15.16,GJM_Main_1080p,,0,0,0,,Radinov's still alive!
+Dialogue: 0,0:27:15.16,0:27:15.66,GJM_Main_1080p,,0,0,0,,Eh?!
+Dialogue: 0,0:27:15.66,0:27:19.08,GJM_Main_1080p,,0,0,0,,Ugh! I guess that sense of foreboding was for real.
+Dialogue: 0,0:27:19.08,0:27:22.04,GJM_Main_1080p,,0,0,0,,We're in trouble, Larry! \NThis case goes deep.
+Dialogue: 0,0:27:22.92,0:27:27.79,GJM_Main_1080p,,0,0,0,,The next episode of Gunsmith Cats!\NChapter 3: "High Speed Edge."
+Dialogue: 0,0:27:27.79,0:27:31.05,GJM_Main_1080p,,0,0,0,,If Radinov wants a one-on-one duel, \Nthat's what she's going to get!

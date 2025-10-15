@@ -17,9 +17,9 @@ Keyframes File: zugan keyframes/zugan08_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 2.375000
-Scroll Position: 336
-Active Line: 1570
-Video Position: 30324
+Scroll Position: 6
+Active Line: 30
+Video Position: 223
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,6 +33,42 @@ Style: Narrator,Rosario,35,&H00FFFFFF,&H000000FF,&H00144253,&H8C000000,0,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,{OPED}
+Dialogue: 0,0:00:00.00,0:00:08.40,Sign,,0,0,0,,{\c&HDFCFE3&\blur0.6\b1\bord0\pos(314.66,21.11)}Article 186 of the Penal Code:
+Dialogue: 0,0:00:00.00,0:00:08.40,Sign,,0,0,0,,{\c&HDFCFE3&\pos(402.51,382.66)\b0\bord0}A person who engages in frequent gambling can be subject to criminal penalties, including imprisonment for up to tree years.
+Dialogue: 0,0:00:35.06,0:00:45.07,Sign,,0,0,0,,{Super Zugan}
+Dialogue: 0,0:23:14.21,0:23:21.96,Sign,,0,0,0,,{\an9\c&HFEFFFF&\bord0\blur0.5\b1\pos(291.78,320.42)}Encoding\NTranslation \NTranslation check & TS \NMahjong translation check
+Dialogue: 0,0:23:14.21,0:23:21.96,Sign,,0,0,0,,{\an7\c&HFEFFFF&\bord0\blur0.5\b1\pos(311.78,320.42)}WOWmd\N/mjg/ \NPerevodildo \NMuzussawa
+Dialogue: 10,0:21:33.15,0:21:36.36,Song,,0,0,0,,Yo! Check out this new style, Super Zugan!
+Dialogue: 10,0:21:36.36,0:21:40.57,Song,,0,0,0,,If you think mahjong ain't happening, \Nget down with the midnight fever Zugan Zugan!
+Dialogue: 10,0:21:40.57,0:21:44.45,Song,,0,0,0,,Zugan! It's time for that point of the eternal!
+Dialogue: 10,0:21:44.45,0:21:48.42,Song,,0,0,0,,The international star of pop, \NMinami Haruo!
+Dialogue: 10,0:21:55.34,0:22:00.01,Song,,0,0,0,,Don't rush, don't fuss, don't panic \NGrab a tile and dream a Sengoku romance {急ぐな騒ぐなあわてるなパイをつかめば\N戦国ロマンの夢が湧く}
+Dialogue: 10,0:22:00.01,0:22:04.56,Song,,0,0,0,,Whatever fortune may bring, call riichi \NDon't stop me, toimen-san {運賦 天賦 とリーチを賭ける\N止めてくれるな正面さん}
+Dialogue: 10,0:22:04.56,0:22:08.10,Song,,0,0,0,,You just got to go Zugan! {ズガーンと行かねばならぬのだ}
+Dialogue: 10,0:22:08.10,0:22:10.06,Song,,0,0,0,,Riichi ippatsu pinfu ittsuu!
+Dialogue: 10,0:22:10.06,0:22:14.82,Song,,0,0,0,,Shimocha and kamicha are both my mahjong buddies \NBut when we're gambling I'll snipe them without mercy {下チャ上チャも 雀仲間 勝負懸けたら\N情け無用の狙いうち}
+Dialogue: 10,0:22:14.82,0:22:17.61,Song,,0,0,0,,Aren't you a great lucky charm to your man? {君はあげ満素敵じゃないか}
+Dialogue: 10,0:22:17.61,0:22:19.45,Song,,0,0,0,,Why don't you tsumo a mangan with me? {僕と満願ツモろうよ}
+Dialogue: 10,0:22:19.45,0:22:23.16,Song,,0,0,0,,With zugan, the happiness is within reach {ズガーンと幸せ掴もうぞ}
+Dialogue: 10,0:22:23.16,0:22:25.04,Song,,0,0,0,,Super Zugan!
+Dialogue: 10,0:22:25.04,0:22:37.84,Song,,0,0,0,,A heart waiting for a yakuman in the dark... \NWill it soar and bloom into cherry blossoms? {闇で役満 待つ心翔んで花見が咲くものか}
+Dialogue: 10,0:22:37.84,0:22:39.80,Song,,0,0,0,,Super Zugan!
+Dialogue: 10,0:22:39.80,0:22:44.47,Song,,0,0,0,,This is the time for a three-sided wait \NLet's go with kanchan, the final battle for a Kokushi Musou! {ここが三面待ちどころ行くぜカンチャン\N国士無双[こくしむそう]の関ヶ原 - kokushimusou is actually a mahjong thing too so needs checking from muzu} {yep, that's about as close I can get}
+Dialogue: 10,0:22:44.47,0:22:47.22,Song,,0,0,0,,Crashing through without even a tsumo payment lost {ツモニモ負けずにやり抜いて}
+Dialogue: 10,0:22:47.22,0:22:49.06,Song,,0,0,0,,The beer tastes the best after winning! {勝って飲み干すビールがうまい}
+Dialogue: 10,0:22:49.06,0:22:52.69,Song,,0,0,0,,Zugan can decide a man's fate! {ズガーンと男は命がけ}
+Dialogue: 10,0:22:52.69,0:22:54.69,Song,,0,0,0,,Super Zugan!
+Dialogue: 10,0:22:56.40,0:22:58.32,Song,,0,0,0,,Super Zugan!
+Dialogue: 10,0:23:00.15,0:23:01.99,Song,,0,0,0,,Super Zugan!
+Dialogue: 10,0:23:01.99,0:23:10.21,Song,,0,0,0,,You just have... You've got to go Zugan! {ズガーンと ズガーンと行かねばならぬのだ}
+Comment: 0,0:00:05.19,0:00:07.19,Default,,0,0,0,,{OPED}
+Dialogue: 10,0:00:08.40,0:00:12.87,Default,,0,0,0,,Toyotomi Hideyuki, the world's foremost busting out machine. From Chiba Prefecture.
+Dialogue: 10,0:00:12.87,0:00:17.37,Default,,0,0,0,,Oda Shintaro. A one-hit wonder who is ignorant of theory. From Chiba Prefecture.
+Dialogue: 10,0:00:17.37,0:00:22.88,Default,,0,0,0,,Tokugawa Yasube. An absolute ignoramus who doesn't know when to stop calling. From Chiba.
+Dialogue: 10,0:00:22.88,0:00:28.38,Default,,0,0,0,,Akechi Koichi. The expert in by-the-book calculative and rational playstyle. From Chiba.
+Dialogue: 10,0:00:28.38,0:00:31.43,Default,,0,0,0,,Hayami Akina. \NTechnically Toyotomi's love interest.
+Dialogue: 10,0:00:31.43,0:00:34.89,Default,,0,0,0,,Born with incredible luck. \NFrom Chiba Prefecture.
 Dialogue: 10,0:00:48.90,0:00:51.91,Default,,0,0,0,,Ron! Tsuuiisou! That's a yakuman!
 Dialogue: 10,0:00:51.91,0:00:54.87,Default,,0,0,0,,Zugan!
 Dialogue: 10,0:00:55.91,0:00:59.87,Default,,0,0,0,,You dumbass! \NWhy did you discard a tile like that now?!

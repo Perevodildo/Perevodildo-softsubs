@@ -10,15 +10,14 @@ PlayResY: 480
 
 [Aegisub Project Garbage]
 Last Style Storage: twins 480p 3_4
-Audio File: The Mischievous Twins - 25.mkv
-Video File: The Mischievous Twins - 25.mkv
-Keyframes File: keyframes/Twins25_keyframes.log
+Audio File: (アニメ) おちゃめなふたご ―クレア学院物語― 第25話｢ビンクスを返して!｣(640x480 h264 AAC).mp4
+Video File: (アニメ) おちゃめなふたご ―クレア学院物語― 第25話｢ビンクスを返して!｣(640x480 h264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.250000
-Scroll Position: 345
-Active Line: 353
-Video Position: 35234
+Video Zoom Percent: 1.750000
+Scroll Position: 191
+Active Line: 195
+Video Position: 17744
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -67,8 +66,8 @@ Dialogue: 0,0:22:58.63,0:23:04.84,Song,,0,0,0,,Carry them away gently from this 
 Dialogue: 0,0:23:05.51,0:23:11.78,Song,,0,0,0,,together with the wind.
 Dialogue: 0,0:23:11.78,0:23:22.19,Song,,0,0,0,,This vast, blue sky—may it never change,
 Dialogue: 0,0:23:22.19,0:23:31.80,Song,,0,0,0,,And may my dearest friends stay just the way they are.
-Dialogue: 0,0:23:25.53,0:23:33.81,Sign,,0,0,0,,{\q2\an9\fs20\bord0.3\blur1\fnA-OTF Shin Go Pro B\pos(431.23,256)\c&HFDFDFD&}Translation \NEditing \N 
-Dialogue: 0,0:23:25.53,0:23:33.81,Sign,,0,0,0,,{\q2\an7\fs20\bord0.3\blur1\fnA-OTF Shin Go Pro B\pos(441.23,256)\c&HFDFDFD&}Perevodildo\NPaul Geromini \N 
+Dialogue: 0,0:23:25.53,0:23:33.81,Sign,,0,0,0,,{\q2\an9\fs20\bord0.3\blur1\fnA-OTF Shin Go Pro B\pos(431.23,256)\c&HFDFDFD&}Translation \NEditing \N
+Dialogue: 0,0:23:25.53,0:23:33.81,Sign,,0,0,0,,{\q2\an7\fs20\bord0.3\blur1\fnA-OTF Shin Go Pro B\pos(441.23,256)\c&HFDFDFD&}Perevodildo\NPaul Geromini \N
 Comment: 0,0:23:33.77,0:23:33.77,Sign,,0,0,0,,{preview}
 Dialogue: 0,0:23:33.80,0:23:35.30,Sign,,0,0,0,,{\blur0.8\q2\fs100\fnFOT-Seurat Pro UB\b0\pos(315.61,272.76)\c&HD0D2D2&\frz359.3}Next time
 Comment: 0,0:23:35.23,0:23:38.23,Sign,,0,0,0,,{NEP}
@@ -229,7 +228,7 @@ Dialogue: 10,0:09:36.01,0:09:37.35,Default,,0,0,0,,What are you doing here?
 Dialogue: 10,0:09:41.65,0:09:45.32,Default,,0,0,0,,We never told you our names. \NI’m Isabel.
 Dialogue: 10,0:09:45.32,0:09:47.54,Default,,0,0,0,,And I’m Pat. We’re twins.
 Dialogue: 10,0:09:47.54,0:09:51.49,Default,,0,0,0,,No wonder you're so alike, \Nthick as two short planks, the pair of you. {lit: figures why you're alike, especially in being bad in your head - was "slow on the uptake" previously}
-Dialogue: 10,0:09:51.49,0:09:52.59,Default,,0,0,0,,You little shit! {shhh :smirk:}
+Dialogue: 10,0:09:51.49,0:09:52.59,Default,,0,0,0,,Oi!
 Dialogue: 10,0:09:53.06,0:09:54.53,Default,,0,0,0,,Sheesh...
 Dialogue: 10,0:09:54.53,0:09:57.00,Default,,0,0,0,,Where are your father and mother?
 Dialogue: 10,0:09:57.00,0:09:57.81,Default,,0,0,0,,Not here.
